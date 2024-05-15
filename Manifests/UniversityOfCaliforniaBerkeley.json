@@ -1,0 +1,25 @@
+{
+    "name": "University of California-Berkeley",
+    "undergrad": [
+        {
+            "code": "COMPSCI 188",
+            "name": "Introduction to Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://tbp.studentorg.berkeley.edu/syllabi/373/download/" 
+        },
+        {
+            "code": "COMPSCI 189",
+            "name": "Introduction to Machine Learning",
+            "type": "ML",
+            "syllabus": "https://people.eecs.berkeley.edu/~jrs/189s24/" 
+        }
+    ],
+    "grad": [
+        {
+            "code": "COMPSCI 289",
+            "name": "Introduction to Machine Learning",
+            "type": "ML",
+            "syllabus": "https://people.eecs.berkeley.edu/~jrs/189s24/" 
+        }
+    ]
+}

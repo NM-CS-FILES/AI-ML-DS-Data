@@ -1,0 +1,49 @@
+{
+    "name": "Columbia University",
+    "undergrad": [
+        {
+            "code": "COMS W4701",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://www.cs.columbia.edu/~kathy/cs4701/syllabus.html"
+        },
+        {
+            "code": "COMS W4721",
+            "name": "Machine Learning For Data Science",
+            "type": "ML",
+            "syllabus": "https://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/W4721Spring2017.html"
+        },
+        {
+            "code": "COMS W4771",
+            "name": "Introduction to Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.columbia.edu/~djhsu/coms4771-f23/syllabus.html"
+        },
+        {
+            "code": "COMS W4772",
+            "name": "Advanced Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.columbia.edu/~jebara/4772/index.html"
+        },
+        {
+            "code": "COMS W4773",
+            "name": "Machine Learning Theory",
+            "type": "ML",
+            "syllabus": "https://www.cs.columbia.edu/~djhsu/coms4773-s24/syllabus.html"
+        },
+        {
+            "code": "COMS W4776",
+            "name": "Machine Learning for Data Science",
+            "type": "ML",
+            "syllabus": null
+        }
+    ],
+    "grad": [
+        {
+            "code": "COMS E6998",
+            "name": "Advanced Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.columbia.edu/~jebara/6998-01/index.html"
+        }
+    ]
+}

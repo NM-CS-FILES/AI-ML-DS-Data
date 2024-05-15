@@ -1,0 +1,37 @@
+{
+    "name": "University of North Carolina at Charlotte",
+    "undergrad": [
+        {
+            "code": "ITCS 3153",
+            "name": "Intro to Artificial Intelligence",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "ITCS 4156",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://webpages.charlotte.edu/aatzache/ITCS4156.html"
+        }
+    ],
+    "grad": [
+        {
+            "code": "ITCS 5156",
+            "name": "Applied Machine Learning",
+            "type": "ML",
+            "syllabus": null
+        },
+        {
+            "code": "ITCS 6156",
+            "name": "Applied Machine Learning",
+            "type": "ML",
+            "syllabus": "https://dsba.charlotte.edu/wp-content/uploads/sites/719/2023/09/DSBA-6156-Applied-Machine-Learning.pdf"
+        },
+        {
+            "code": "ITCS 8156",
+            "name": "Applied Machine Learning",
+            "type": "ML",
+            "syllabus": "https://dsba.charlotte.edu/wp-content/uploads/sites/719/2023/09/DSBA-6156-Applied-Machine-Learning-Siddharth-Krishnan.pdf"
+        }
+    ]
+}

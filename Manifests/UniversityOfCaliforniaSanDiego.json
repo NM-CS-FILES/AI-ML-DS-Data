@@ -1,0 +1,55 @@
+{
+    "name": "University of California-San Diego",
+    "undergrad": [
+        {
+            "code": "CSE 150A",
+            "name": "Introduction to Artificial Intelligence: Probabilistic Reasoning and Decision-Making",
+            "type": "AI",
+            "syllabus": "https://cseweb.ucsd.edu/classes/sp18/cse150-a/#syllabus" 
+        },
+        {
+            "code": "CSE 150B",
+            "name": "Introduction to Artificial Intelligence: Search and Reasoning",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "CSE 151A",
+            "name": "Machine Learning: Learning Algorithms",
+            "type": "ML",
+            "syllabus": "https://cseweb.ucsd.edu/classes/wi20/cse151A-a/syllabus.html" 
+        },
+        {
+            "code": "CSE 151B",
+            "name": "Deep Learning",
+            "type": "DL",
+            "syllabus": "https://cseweb.ucsd.edu/classes/wi19/cse151-b/syllabus.html" 
+        }
+    ],
+    "grad": [
+        {
+            "code": "CSE 251A",
+            "name": "Principles of Machine Learning: Learning Algorithms",
+            "type": "ML",
+            "syllabus": "https://cseweb.ucsd.edu/classes/wi21/cse251A-a/syllabus.html" 
+        },
+        {
+            "code": "CSE 251B",
+            "name": "Principles of Machine Learning: Neural Networks for Pattern Recognition ",
+            "type": "ML",
+            "syllabus": "https://sites.google.com/view/cse251b" 
+        },
+        {
+            "code": "CSE 251C",
+            "name": "Principles of Machine Learning: Machine Learning Theory",
+            "type": "ML",
+            "syllabus": null
+        },
+        {
+            "code": "CSE 255",
+            "name": "Data Mining and Predictive Analytics",
+            "type": "DM",
+            "syllabus": "https://cseweb.ucsd.edu/classes/wi15/cse255-a/"
+        }
+    ]
+}

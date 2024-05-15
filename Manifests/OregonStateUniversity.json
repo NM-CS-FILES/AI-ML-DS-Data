@@ -1,0 +1,25 @@
+{
+    "name": "Oregon State University",
+    "undergrad": [
+        {
+            "code": "CS 331",
+            "name": "Introduction to Artificial Intelligence",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "CS 434",
+            "name": "Machine Learning and Data Mining",
+            "type": "ML",
+            "syllabus": "https://web.engr.oregonstate.edu/~xfern/classes/cs434/syllabus.html"
+        }
+    ],
+    "grad": [
+        {
+            "code": "CS 513",
+            "name": "Applied Machine Learning",
+            "type": "ML",
+            "syllabus": "https://classes.engr.oregonstate.edu/eecs/spring2022/cs513-400/cs513-syllabus-2022.pdf"
+        }
+    ]
+}

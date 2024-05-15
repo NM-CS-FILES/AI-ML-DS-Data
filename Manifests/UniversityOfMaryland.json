@@ -1,0 +1,49 @@
+{
+    "name": "University of Maryland",
+    "undergrad": [
+        {
+            "code": "CMSC 422",
+            "name": "Introduction to Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.umd.edu/class/fall2022/cmsc422-0101/syllabus/syllabus.pdf"
+        },
+        {
+            "code": "CMSC 472",
+            "name": "Introduction to Deep Learning",
+            "type": "DL",
+            "syllabus": "https://www.cs.umd.edu/class/spring2021/cmsc472/"
+        },
+        {
+            "code": "CMSC 421",
+            "name": "Introduction to Aritifical Intelligence",
+            "type": "AI",
+            "syllabus": "https://www.cs.umd.edu/~nau/cmsc421/syllabus.pdf"
+        }
+    ],
+    "grad": [
+        {
+            "code": "CMSC 673",
+            "name": "Capstone in Machine Learning",
+            "type": "ML",
+            "syllabus": null
+        },
+        {
+            "code": "CMSC 722",
+            "name": "AI Planning",
+            "type": "AI",
+            "syllabus": "https://www.cs.umd.edu/~nau/classes/CMSC-722-syllabus.pdf"
+        },
+        {
+            "code": "CMSC 726",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://docs.google.com/document/d/1JyKb5JolsvttYb5jem1CgNskDUT79_yYVd5zKTTTg9s/edit"
+        },
+        {
+            "code": "CMSC 727",
+            "name": "Neural Computation",
+            "type": "ML",
+            "syllabus": "https://www.cs.umd.edu/~reggia/cmsc727/syl.pdf"
+        }
+    ]
+}

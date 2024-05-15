@@ -1,0 +1,61 @@
+{
+    "name": "University of Illinois Urbana-Champaign",
+    "undergrad": [
+        {
+            "code": "CS 307",
+            "name": "Modeling and Learning in Data Science",
+            "type": "DS",
+            "syllabus": "https://cs307.org/policy/syllabus.html"
+        },
+        {
+            "code": "CS 440",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://courses.engr.illinois.edu/cs440/fa2023/syllabus.html"
+        },
+        {
+            "code": "CS 441",
+            "name": "Applied Machine Learning",
+            "type": "ML",
+            "syllabus": "https://courses.engr.illinois.edu/cs441/sp2023/cs441_aml_syllabus.pdf"
+        },
+        {
+            "code": "CS 442",
+            "name": "Trustworthy Machine Learning",
+            "type": "ML",
+            "syllabus": "https://aisecure.github.io/TEACHING/CS442/CS442.html"
+        },
+        {
+            "code": "CS 446",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://courses.grainger.illinois.edu/ece449/sp2022/_site/"
+        }
+    ],
+    "grad": [
+        {
+            "code": "CS 545",
+            "name": "Machine Learning for Signal Processing",
+            "type": "ML",
+            "syllabus": "https://sites.google.com/illinois.edu/cs545/home"
+        },
+        {
+            "code": "CS 547",
+            "name": "Deep Learning",
+            "type": "DL",
+            "syllabus": "https://publish.illinois.edu/r-sowers/ie534-cs-547-fall-2022/"
+        },
+        {
+            "code": "CS 562",
+            "name": "Advanced Topics in Security, Privacy, and Machine Learning",
+            "type": "ML",
+            "syllabus": "https://chandrasekaran-group.github.io/courses/cs562/home/"
+        },
+        {
+            "code": "CS 568",
+            "name": "User-Centered Machine Learning",
+            "type": "ML",
+            "syllabus": "https://courses.grainger.illinois.edu/CS568/sp2023/"
+        }
+    ]
+}

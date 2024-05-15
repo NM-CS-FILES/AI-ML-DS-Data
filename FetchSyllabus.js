@@ -2,7 +2,7 @@ const fs = require("fs");
 const http = require('https');
 const url2pdf = require("url2pdf");
 
-const ManifestPath = "Manifest/";
+const ManifestPath = "Manifests/";
 const SyllabiPath = "Syllabi/"
 
 //

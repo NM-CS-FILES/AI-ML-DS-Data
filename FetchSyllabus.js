@@ -1,5 +1,6 @@
 const fs = require("fs");
-const http = require('https');
+const https = require('https');
+const http = require('http');
 const url2pdf = require("url2pdf");
 
 const ManifestPath = "Manifests/";
@@ -40,9 +41,16 @@ function manifestFetchCourseSyllabus(manifest, course) {
 
     if (course.syllabus.endsWith(".pdf")) {
         let file = fs.createWriteStream(syllabusPath);
-        let request = http.get(course.syllabus, resp => {
-          resp.pipe(file);
-        });
+
+        if (course.syllabus.startsWith("https")) {
+            let request = https.get(course.syllabus, resp => {
+                resp.pipe(file);
+              });
+        } else {
+            let request = http.get(course.syllabus, resp => {
+                resp.pipe(file);
+            });
+        }
     } else {
         url2pdf.renderPdf(course.syllabus).then(pdfPath => {
             fs.renameSync(pdfPath, syllabusPath);
@@ -89,6 +97,8 @@ function manifestFromFile(manifestPath) {
 const manifests = fs.readdirSync(ManifestPath)
 
 for (let i = 0; i != manifests.length; i++) {
+    console.log(manifests[i]);
+
     let manifestPath = ManifestPath + manifests[i];
     let manifest = manifestFromFile(manifestPath);
 

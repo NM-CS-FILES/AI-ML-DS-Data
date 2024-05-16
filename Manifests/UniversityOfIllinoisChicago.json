@@ -1,0 +1,85 @@
+{
+    "name": "University of Illinois Chicago",
+    "undergrad": [
+        {
+            "code": "CS 411",
+            "name": "Artificial Intelligence I",
+            "type": "AI",
+            "syllabus": "https://www.cs.uic.edu/~zhangx/teaching/CS411_Spring2017_Syllabus.pdf"
+        },
+        {
+            "code": "CS 412",
+            "name": "Introduction to Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.uic.edu/~zhangx/teaching/CS412_Fall_2023_Syllabus.pdf"
+        },
+        {
+            "code": "CS 418",
+            "name": "Introduction to Data Science",
+            "type": "DS",
+            "syllabus": "https://www.cs.uic.edu/~elena/courses/spring19/cs418ds.html"
+        },
+        {
+            "code": "CS 483",
+            "name": "Big Data Mining",
+            "type": "DM",
+            "syllabus": null
+        }
+    ],
+    "grad": [
+        {
+            "code": "CS 511",
+            "name": "Artificial Intelligence II",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "CS 512",
+            "name": "Advanced Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.uic.edu/~zhangx/teaching/CS512_Spring2020_Syllabus.pdf"
+        },
+        {
+            "code": "CS 514",
+            "name": "Applied Artificial Intelligence",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "CS 518",
+            "name": "Deep Learning for Computer Vision",
+            "type": "DL",
+            "syllabus": "https://tangw.people.uic.edu/courses/CS518_2023Spring.html"
+        },
+        {
+            "code": "CS 519",
+            "name": "Machine Learning on Graphs",
+            "type": "ML",
+            "syllabus": null
+        },
+        {
+            "code": "CS 529",
+            "name": "Visual Data Science",
+            "type": "DS",
+            "syllabus": null
+        },
+        {
+            "code": "CS 533",
+            "name": "Deep Learning for Natural Language Processing",
+            "type": "DL",
+            "syllabus": null
+        },
+        {
+            "code": "CS 583",
+            "name": "Data Mining and Text Mining",
+            "type": "DM",
+            "syllabus": "https://www.cs.uic.edu/~liub/teach/cs583-fall-20/cs583.html"
+        },
+        {
+            "code": "CS 584",
+            "name": "Advanced Data Mining",
+            "type": "DM",
+            "syllabus": null
+        }
+    ]
+}

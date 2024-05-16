@@ -1,0 +1,85 @@
+{
+    "name": "University of North Carolina at Chapel Hill",
+    "undergrad": [
+        {
+            "code": "COMP 488",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "COMP 560",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "COMP 562",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "COMP 664",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        }
+    ],
+    "grad": [
+        {
+            "code": "",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        },
+        {
+            "code": "",
+            "name": "",
+            "type": "",
+            "syllabus": ""
+        }
+    ]
+}

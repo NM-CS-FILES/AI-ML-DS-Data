@@ -1,0 +1,85 @@
+{
+    "name": "Cornell University",
+    "undergrad": [
+        {
+            "code": "CS 1700",
+            "name": "Elements of Artificial Intelligence",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "CS 4700",
+            "name": "Foundations of Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://www.cs.cornell.edu/courses/cs4700/2024sp/"
+        },
+        {
+            "code": "CS 4780",
+            "name": "Intro to Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.cornell.edu/courses/cs4780/2024sp/"
+        },
+        {
+            "code": "CS 4783",
+            "name": "Mathematical Foundations of Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.cornell.edu/courses/cs4783/2022sp/"
+        },
+        {
+            "code": "CS 4786",
+            "name": "Machine Learning for Data Science",
+            "type": "ML",
+            "syllabus": "https://www.cs.cornell.edu/courses/cs4786/2020sp/"
+        }
+    ],
+    "grad": [
+        {
+            "code": "CS 5700",
+            "name": "Foundations of Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://www.cs.cornell.edu/courses/cs4700/2024sp/"
+        },
+        {
+            "code": "CS 5780",
+            "name": "Intro to Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.cornell.edu/courses/cs4780/2024sp/"
+        },
+        {
+            "code": "CS 5781",
+            "name": "Machine Learning Engineering",
+            "type": "ML",
+            "syllabus": null
+        },
+        {
+            "code": "CS 5783",
+            "name": "Mathematical Foundations of Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.cornell.edu/courses/cs4783/2022sp/"
+        },
+        {
+            "code": "CS 5785",
+            "name": "Applied Machine Learning",
+            "type": "ML",
+            "syllabus": "https://cornelltech.github.io/cs5785-fall-2019/index.html"
+        },
+        {
+            "code": "CS 6780",
+            "name": "Advanced Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.cs.cornell.edu/courses/cs6780/2023fa/"
+        },
+        {
+            "code": "CS 6784",
+            "name": "Advanced Topics in Machine Learning: Deep Generative Models",
+            "type": "ML",
+            "syllabus": "https://kuleshov.github.io/cornell-deep-generative-models-course/syllabus.html"
+        },
+        {
+            "code": "CS 6787",
+            "name": "Advanced Machine Learning Systems",
+            "type": "ML",
+            "syllabus": "https://www.cs.cornell.edu/courses/cs6787/2024sp/"
+        }
+    ]
+}

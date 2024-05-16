@@ -5,6 +5,8 @@ const url2pdf = require("url2pdf");
 const ManifestPath = "Manifests/";
 const SyllabiPath = "Syllabi/"
 
+// "http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_231/stat_231_syllabus.pdf"
+
 //
 //
 
@@ -55,7 +57,7 @@ function manifestFetchSyllabi(manifest) {
     console.log(`Fetching Syllabi From ${manifest.name}`);
 
     if (manifest.undergrad == undefined || manifest.grad == undefined) {
-        console.error(`Error Invalid Manifest Missing Fields ${manifest.name}`);
+        console.error(`Error Invalid Manifest Missing Fields ${JSON.stringify(manifest)}`);
     }
 
     for (let i = 0; i != manifest.undergrad.length; i++) {

@@ -12,7 +12,7 @@
  - [X] Cornell University
  - [X] University of California-Santa Cruz
  - [X] Massachusetts Institute of Technology
- - [ ] University of Minnesota-Twin Cities
+ - [X] University of Minnesota-Twin Cities
  - [X] Stony Brook University
  - [X] Stanford University
  - [X] University of Colorado Boulder

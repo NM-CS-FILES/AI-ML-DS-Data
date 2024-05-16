@@ -1,0 +1,55 @@
+{
+    "name": "University of Colorado Boulder",
+    "undergrad": [
+        {
+            "code": "CSCI 3202",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/3202/syllabus.html"
+        },
+        {
+            "code": "CSCI 4502",
+            "name": "Data Mining",
+            "type": "DM",
+            "syllabus": "https://www.colorado.edu/cs/cspb-4502-data-mining"
+        },
+        {
+            "code": "CSCI 4622",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://github.com/BoulderDS/CSCI-4622-Machine-Learning-fa20/blob/master/info/schedule.md"
+        }
+    ],
+    "grad": [
+        {
+            "code": "CSCI 5502",
+            "name": "Data Mining",
+            "type": "DM",
+            "syllabus": "https://www.colorado.edu/cs/sites/default/files/attached-files/csci_5502-data_mining_-lv_fall_2018_0.pdf"
+        },
+        {
+            "code": "CSCI 5622",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www.colorado.edu/cs/csci-5622-machine-learning"
+        },
+        {
+            "code": "CSCI 5922",
+            "name": "Neural Networks and Deep Learning",
+            "type": "DL",
+            "syllabus": "https://home.cs.colorado.edu/~DrG/Courses/NeuralNetworksAndDeepLearning/Syllabus.pdf"
+        },
+        {
+            "code": "CSCI 6622",
+            "name": "Advanced Machine Learning",
+            "type": "ML",
+            "syllabus": "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/"
+        },
+        {
+            "code": "CSCI 7222",
+            "name": "Neural Networks and Deep Learning",
+            "type": "DL",
+            "syllabus": "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/DeepLearning2015/"
+        }
+    ]
+}

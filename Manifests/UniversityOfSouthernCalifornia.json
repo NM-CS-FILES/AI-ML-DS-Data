@@ -1,0 +1,11 @@
+{
+    "name": "University of Southern California",
+    "undergrad": [
+        {
+            "code": "CSCI 360 ",
+            "name": "Introduction to Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://web-app.usc.edu/soc/syllabus/20241/30304.pdf"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "University of Minnesota-Twin Cities",
+    "undergrad": [
+        {
+            "code": "CS 4232",
+            "name": "Introduction to Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://www.cs.purdue.edu/homes/yexiang/courses/22spring-cs471/CS47100.html"
+        }
+    ],
+    "grad": [
+        {
+            "code": "CSCI 5511",
+            "name": "Artificial Intelligence I",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "CSCI 5512",
+            "name": "Artificial Intelligence II",
+            "type": "AI",
+            "syllabus": "https://www-users.cse.umn.edu/~steinmet/5512/syllabus.html"
+        },
+        {
+            "code": "CSCI 5521",
+            "name": "Machine Learning Fundamentals",
+            "type": "ML",
+            "syllabus": "https://www-users.cselabs.umn.edu/classes/Fall-2020/csci5521-001/index.php?page=syllabus"
+        },
+        {
+            "code": "CSCI 5523",
+            "name": "Introduction to Data Mining",
+            "type": "DM",
+            "syllabus": null
+        },
+        {
+            "code": "CSCI 5525",
+            "name": "Machine Learning: Analysis and Methods",
+            "type": "ML",
+            "syllabus": "https://sunju.org/teach/ML-Spring-2021/AML.pdf"
+        }
+    ]
+}

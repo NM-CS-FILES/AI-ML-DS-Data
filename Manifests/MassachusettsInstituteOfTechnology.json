@@ -1,0 +1,50 @@
+{
+    "name": "Massachusetts Institute of Technology",
+    "undergrad": [
+        {
+            "code": "6.4100",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "6.4102",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "6.C51",
+            "name": "Modeling with Machine Learning: from Algorithms to Applications",
+            "type": "ML",
+            "syllabus": null
+        },
+        {
+            "code": "6.C01",
+            "name": "Modeling with Machine Learning: from Algorithms to Applications",
+            "type": "ML",
+            "syllabus": null
+        },
+        {
+            "code": "6.7900",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": null
+        },
+        {
+            "code": "6.3900",
+            "name": "Introduction to Machine Learning",
+            "type": "ML",
+            "syllabus": null
+        },
+        {
+            "code": "6.100B",
+            "name": "Introduction to Computational Thinking and Data Science",
+            "type": "DS",
+            "syllabus": null
+        }
+    ],
+    "grad": [
+
+    ]
+}

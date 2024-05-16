@@ -1,0 +1,41 @@
+{
+    "name": "University of Massachusshetts-Amherst",
+    "undergrad": [
+        {
+            "code": "INFO 248",
+            "name": "Introduction to Data Science",
+            "type": "DS",
+            "syllabus": null 
+        },
+        {
+            "code": "COMPSCI 383",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://people.cs.umass.edu/~sniekum/classes/383-S23/desc.php" 
+        },
+        {
+            "code": "COMPSCI 514",
+            "name": "Algorithms for Data Science",
+            "type": "DS",
+            "syllabus": "https://people.cs.umass.edu/~cmusco/CS514F23/schedule.html" 
+        }, 
+        {
+            "code": "COMPSCI 532",
+            "name": "Systems for Data Science",
+            "type": "DS",
+            "syllabus": "https://docs.google.com/document/d/12BscKt8L0zToQFBieqnlWX7M-GaD7Mrh47AXvkAfyVQ/edit" 
+        },
+        {
+            "code": "COMPSCI 589",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://people.cs.umass.edu/~mfiterau/teaching/COMPSCI589.html" 
+        },
+        {
+            "code": "COMPSCI 689",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://groups.cs.umass.edu/marlin/2023/04/10/compsci-689-machine-learning-fall-2023/" 
+        }
+    ]
+}

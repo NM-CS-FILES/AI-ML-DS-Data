@@ -1,0 +1,25 @@
+{
+    "name": "Purdue University",
+    "undergrad": [
+        {
+            "code": "CS 37300",
+            "name": "Data Mining and Machine Learning",
+            "type": "DM",
+            "syllabus": "https://tianyi-zhang.github.io/files/CS37300_Data_Mining_and_Machine_Learning_Syllabus.pdf"
+        },
+        {
+            "code": "CS 47100",
+            "name": "Introduction to Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://www.cs.purdue.edu/homes/yexiang/courses/22spring-cs471/CS47100.html"
+        }
+    ],
+    "grad": [
+        {
+            "code": "CS 57800",
+            "name": "Statistical Machine Learning",
+            "type": "ML",
+            "syllabus": "https://causalai.net/cs578_syllabus.pdf"
+        }
+    ]
+}

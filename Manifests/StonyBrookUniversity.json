@@ -1,0 +1,61 @@
+{
+    "name": "Stony Brook University",
+    "undergrad": [
+        {
+            "code": "CSE 352",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://www3.cs.stonybrook.edu/~cse352/22AIsyllabus.pdf "
+        },
+        {
+            "code": "CSE 353",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www3.cs.stonybrook.edu/~minhhoai/courses/cse353/index.html#syllabus"
+        },
+        {
+            "code": "CSE 351",
+            "name": "Introduction to Data Science",
+            "type": "DS",
+            "syllabus": "https://drive.google.com/file/d/1l2sPAatGIBiumQfEjeXQ4YCcW3jD8zji/view"
+        },
+        {
+            "code": "CSE 357",
+            "name": "Statistical Methods For Data Science",
+            "type": "DS",
+            "syllabus": "https://www3.cs.stonybrook.edu/~anshul/courses/cse357_f20/index.html"
+        }
+    ],
+    "grad": [
+        {
+            "code": "CSE 512",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://www3.cs.stonybrook.edu/~minhhoai/courses/cse512/index.html"
+        },
+        {
+            "code": "CSE 521",
+            "name": "Data Mining",
+            "type": "DM",
+            "syllabus": "https://www3.cs.stonybrook.edu/~cse521/23syllabusDM.pdf"
+        },
+        {
+            "code": "CSE 537",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://www3.cs.stonybrook.edu/~ram/cse537/SYLLABUS.pdf"
+        },
+        {
+            "code": "CSE 646",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": null
+        },
+        {
+            "code": "CSE 671",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": null
+        }
+    ]
+}

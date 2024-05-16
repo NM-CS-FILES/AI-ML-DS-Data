@@ -1,0 +1,31 @@
+{
+    "name": "North Carolina State University at Raleigh",
+    "undergrad": [
+        {
+            "code": "CSC 411",
+            "name": "Introduction to Artificial Intelligence",
+            "type": "AI",
+            "syllabus": null
+        }
+    ],
+    "grad": [
+        {
+            "code": "CSC 520",
+            "name": "Artificial Intelligence",
+            "type": "AI",
+            "syllabus": "https://www.studocu.com/en-us/document/north-carolina-state-university/artificial-intelligence/csc520-2021-fall-artificial-intelligence/75829721"
+        },
+        {
+            "code": "CSC 720",
+            "name": "Artificial Intelligence II",
+            "type": "AI",
+            "syllabus": "https://www.csc2.ncsu.edu/faculty/jdoyle2/2015-720-tentative-syllabus.pdf"
+        },
+        {
+            "code": "CSC 722",
+            "name": "Advanced Topics in Machine Learning",
+            "type": "ML",
+            "syllabus": null
+        }
+    ]
+}

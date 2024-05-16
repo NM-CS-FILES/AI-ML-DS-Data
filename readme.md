@@ -1,7 +1,7 @@
 # Completed Manifests
- - [ ] University of Southern California
- - [ ] University of California-Irvine
- - [ ] Arizona State University Campus Immersion
+ - [X] University of Southern California
+ - [X] University of California-Irvine
+ - [X] Arizona State University Campus Immersion
  - [X] University of Maryland-College Park
  - [X] University of Illinois Urbana-Champaign
  - [X] Columbia University in the City of New York
@@ -10,17 +10,16 @@
  - [X] University of California-San Diego
  - [X] University of California-Berkeley
  - [X] Cornell University
- - [ ] University of California-Santa Cruz
- - [ ] Massachusetts Institute of Technology
+ - [X] University of California-Santa Cruz
+ - [X] Massachusetts Institute of Technology
  - [ ] University of Minnesota-Twin Cities
- - [ ] Stony Brook University
- - [ ] Stanford University
- - [ ] University of Colorado Boulder
- - [ ] Purdue University-Main Campus
- - [ ] University of Massachusetts-Amherst
- - [ ] North Carolina State University at Raleigh
- - [ ] University of California-Los Angeles
+ - [X] Stony Brook University
+ - [X] Stanford University
+ - [X] University of Colorado Boulder
+ - [X] Purdue University-Main Campus
+ - [X] University of Massachusetts-Amherst
+ - [X] North Carolina State University at Raleigh
+ - [X] University of California-Los Angeles
  - [X] University of Illinois Chicago
  - [X] University of Washington-Seattle Campus
- - [ ] University of North Carolina at Chapel Hill
- - [ ] Western Governors University
+ - [X] University of North Carolina at Chapel Hill

@@ -1,0 +1,62 @@
+{
+    "name": "Stanford University",
+    "undergrad": [
+        {
+            "code": "CS 129",
+            "name": "Applied Machine Learning",
+            "type": "ML",
+            "syllabus": "https://web.stanford.edu/class/cs129/syllabus"
+        },
+        {
+            "code": "CS 139",
+            "name": "Human Centered AI",
+            "type": "AI",
+            "syllabus": null
+        }
+    ],
+    "grad": [
+        {
+            "code": "CS 221",
+            "name": "Artificial Intelligence: Principles and Techniques",
+            "type": "AI",
+            "syllabus": "https://stanford-cs221.github.io/spring2023/"
+        },
+        {
+            "code": "CS 470",
+            "name": "Music and AI",
+            "type": "AI",
+            "syllabus": "https://ccrma.stanford.edu/courses/356-winter-2024/music-and-ai-syllabus.pdf"
+        },
+        {
+            "code": "CS 224W",
+            "name": "Machine Learning with Graphs",
+            "type": "ML",
+            "syllabus": "https://web.stanford.edu/class/cs224w/"
+        },
+        {
+            "code": "CS 229",
+            "name": "Machine Learning",
+            "type": "ML",
+            "syllabus": "https://cs229.stanford.edu/syllabus-summer2019.html"
+        },
+        {
+            "code": "CS 328",
+            "name": "Foundations of Casual Machine Learning",
+            "type": "ML",
+            "syllabus": "https://stanford-msande328.github.io/spring23/"
+        },
+        {
+            "code": "CS 329H",
+            "name": "Machine Learning from Human Preferences",
+            "type": "ML",
+            "syllabus": "https://web.stanford.edu/class/cs329h/"
+        },
+        {
+            "code": "CS 329T",
+            "name": "Trustworthy Machine Learning",
+            "type": "ML",
+            "syllabus": "https://stanford-cs329t.github.io/syllabus.html"
+        }
+    ]
+
+}

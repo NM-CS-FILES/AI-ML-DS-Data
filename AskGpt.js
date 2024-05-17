@@ -9,7 +9,7 @@ const gptAnswerPath    = "Answers/"
 const gptPromptPath    = "GptPrompt.txt";
 const gptAssistantName = "Syllabus See'r";
 
-const gptApiToken = "";
+const gptApiToken = "***REMOVED***";
 const gptPrompt = fs.readFileSync(gptPromptPath).toString();
 
 const gpt = new openai.OpenAI({ apiKey: gptApiToken });

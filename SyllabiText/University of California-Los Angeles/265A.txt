@@ -1,0 +1,170 @@
+==================[Syllabus Start]==================
+MATH156: MACHINE LEARNING
+Spring 2021
+GENERAL INFORMATION
+Instructor Hanbaek Lyu (Email: hlyu@math.ucla.edu , Ofﬁce: MS 6156)
+Lectures MWF 3:00PM - 3:50PM using zoom (Link posted on CCLE) Course webpage
+Ofﬁce hours (tentative)T 2:00PM - 4:00PM
+Textbook Bishop, Christopher M, Pattern Recognition and Machine Learning , Springer, 2006
+Lecture notes will be provided on CCLE
+Supplementary Python codes and Juypiter notebooks will be provided in the course repository
+Prerequisites 115A, 164, 170A or 170E or Statistics 100A, and CS 31 or Program in Computing 10A.
+Strongly recommended requisite: Program in Computing 16A or Statistics 21.
+TA Yushan Han (Email: yushanh1@ucla.edu )
+COURSE DESCRIPTION
+Introductory course on mathematical models for pattern recognition and machine learning. Topics include parametric
+and nonparametric probability distributions, curse of dimensionality, correlation analysis and dimensionality reduc-
+tion, and concepts of decision theory. Advanced machine learning and pattern recognition problems, including data
+classiﬁcation and clustering, regression, kernel methods, artiﬁcial neural networks, hidden Markov models, and Markov
+random ﬁelds. Projects in Python to be part of ﬁnal project presented in class. P/NP or letter grading.
+GRADING
+•Final course score will be computed by following scheme:
+Scheme : Homeworks (30%) + Final (40%) + Final project (30%)
+•All grades will be posted on Gradescope. The ﬁnal course grade will be posed on MyUCLA.
+HOMEWORK
+•Homeworks will be assigned weekly on every Wednesdays on Gradescope, and are due at the beginning of the class
+on the following Wednesday. Submit as a PDF ﬁle on Gradescope.
+•No late homework will be accepted.
+•Two lowest homework scores will be dropped.
+•A random sample of problems will be graded by the TA.
+•Solutions on some selected problems will be posted on the course website.
+•Discussing homework problems with the instructor, TA, or classmates are encouraged. But you need to write your
+own solution with your own understanding.
+•Some homeworks may contain Python implementations in Jupyter notebook. To get started with Python and Jupyter
+notebook, see:
+1. Jeff Heaton, "2020, Installing TensorFlow 2.0, Keras, & Python 3.7 in Mac OSX" ( link)
+2. Jeff Heaton, "2019, Installing TensorFlow, Keras, & Python 3.7 in Windows" ( link)
+3. Additional resources: [1][2]
+EXAMS
+•There is no midterm and one ﬁnal exam (open book, take-home tests)
+Final : Friday, 6/11 9 AM - Saturday, 6/12 9 AM
+(Exam will be released on Gradescope at 9AM. The exam will expire after 24 hours once you open it. Submit a
+PDF scan of your solution on Gradescope. Deadeline for submission is Saturday, 6/12 AM.)
+•There is no make-up exam. You should attend the ﬁnal exam to pass the course.
+FINAL PROJECT
+•By the end of the second week of the class, students will form groups with no more than 4 students. Email the
+instructor to notify if you form a group. By the end of the second week, remaining students will be randomly
+assigned to groups of 3-4 students.
+•Groups will choose dataset of interest, and objective of data analysis using machine learning (e.g., classiﬁcation of
+MNIST data of hand-written digits via naive Bayes classiﬁer or RBM; Image classiﬁcation via PCA or NMF; Natural
+language processing via RNN).
+•Example sourses of data: (1) UCI Machine Learning Repository ; (2)kaggle
+•Structure of the ﬁnal paper:
+Introduction: Summary of the problem, methods, related results with references.
+Problem statement: Precise description of the problem you are trying to address. Also discuss why addressing
+this problem is important.
+Methods: Detailed description of methods used or developed.
+Theory: A clear and convincing discussion of the theoretical properties of the proposed method. It should also
+discuss under what assumptions the methods should work and under what conditions they may fail.
+Dataset description: Detailed description of the dataset being analyzed.
+Resuls: The results of applying the methods to the data set. Also discuss why the results makes sense, possible
+implications, and how it compares to the literature.
+Simulation studies*(optional): Simulation studies. Results of applying the method to simulated data sets.
+Conclusion: What is the answer to the question? What did you learn about the methods? What is the contribution
+of the paper and what are the open problems?
+•Submit a PDF scan of the ﬁnal paper as well as the corresponding Pychon notebook on Gradescope by Saturday, 6/12
+5 PM. The notebook should reproduce the results in the ﬁnal paper. No late submission will be accepted.
+TENTATIVE COURSE SCHEDULE
+Below is a tentative course schedule based on the departmental guideline . There could be a slight change depending on
+our progress.
+Week Date Section Topics
+1M 3/29 1.2.1-1.2.4 Review of probability
+W 3/31 1.1, 1.2.5, 1.2.6 Polynomial curve ﬁtting
+F 4/2 1.1, 1.2.5, 1.2.6 Polynomial curve ﬁtting
+2M 4/5 1.5 Decision theory
+W 4/7 1.6 Information theory
+F 4/9 2.3 The Gaussian distribution
+3M 4/12 2.4, 2.5 The exponential family, Nonparametric methods
+W 4/14 3.1 Linear Basis Function Models
+F 4/16 3.2 The Bias-Variance Decomposition
+4M 4/19 3.3 Bayesian Linear Regression
+W 4/21 3.5 The Evidence Approximation
+F 4/23 4.1 Discriminant Functions
+5M 4/26 4.2 Probabilistic Generative Models
+W 4/28 4.3 Probabilistic Discriminative Models
+F 4/30 4.5 Bayesian Logistic Regression
+6M 5/3 5.1 Feed-forward Network Functions
+W 5/5 5.2 Network Training
+F 5/7 5.3 Error Backpropagation
+7M 5/10 9.1 K-means Clustering
+W 5/12 9.2 Mixtures of Gaussians
+F 5/14 9.3 The EM algorithm
+8M 5/17 12.1 Principal Component Analysis
+W 5/19 12.2 Probabilistic PCA
+F 5/21 12.4 Nonlinear Latent Variable Models
+9M 5/24 Nonnegative Matrix Factorization
+W 5/26 8.1 Bayesian Networks
+F 5/28 8.3 Markov Random Fields
+10M 5/31 No class (Memorial Day)
+W 6/2 8.4 Inference in Graphical Models
+F 6/4 Review
+11 F 6/11 Final
+Sat 6/12 Final paper due (5PM)
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

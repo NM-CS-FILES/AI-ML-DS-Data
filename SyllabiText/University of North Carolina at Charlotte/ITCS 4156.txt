@@ -1,0 +1,565 @@
+==================[Syllabus Start]==================
+ITCS 4156 Machine Learning - Summer 2020 ( Sec 080 ) - ONLINE
+Instructor:
+ Dr. Angelina A Tzacheva, Department of Computer Science, College of Computing and Informatics, 
+OfficeHours: Tuesday 4pm to 6pm Skype, Install Skype from 
+Skype.com
+, call the userID  angelina.tzacheva during office hour time -
+for Live Video Conferencing, EMail: aatzache@uncc.edu
+Teaching Assitants:
+1. Akshaya Easwaran, OfficeHours: Monday, Tuesday 10am to 11:30am, by Live Web Conference using Skype, SkypeID:akshuhrsh, 
+Email: aeaswar1@uncc.edu, 
+Webex Link -
+ 
+https://uncc.webex.com/uncc/j.php?MTID=m2fc4b1e4225771f398243de8ee43e5ec
+ Meeting Number: 
+613 789 144
+Prerequisites
+: ITCS 3153 - Introduction to Artificial Intelligence, STAT 2122 - Introduction to Probablity and Statistics
+Textbook
+:
+1. " 
+Introduction to Machine Learning
+ " , Second Edition, Ethem ALPAYDIN, The MIT Press, 2010:  ISBN-10: 0-262-01243-X, ISBN-
+13: 978-0-262-01243-0
+2.  "
+Introduction to Data Mining
+" by Pang-Ning Tan, Michael Steinbauch, and Vipin Kumar. Addison Wesley, 2005. ISBN:
+0321321367
+Course Outline
+:
+- Knowledge discovery process
+- Types of Data, Pre-processing, Distance Measures
+- Association rules discovery methods
+- Discretization algorithms
+- Decision Trees
+- Classification methods 
+- KNearest Neighbor
+- Artificial Neural Networks
+- Regression
+- Clustering Analysis
+- RSES, LERS, WEKA, ORANGE
+- Hadoop, MapReduce, and distributed data mining
+- Application is specific domain (health, financial, education, music)
+Instructional Method:
+  
+This is an Online course which includes Video Lectures, Reading Assignments, Exercises, GroupActivites, and a Group Project. 
+Lectures Notes, Videos, and Reading Assignments are posted in the syllabus table below, as well as on 
+Canvas
+. Please download
+and read each lecture material, and view each Video on the specified day. 
+All material by date is listed, including preparation for the exams with sample questions. The Exams are open-book / open-notes. The
+textbook is necessary, as exam questions are based on lecture notes AND on the text, and Exercises are assigned from the
+textbook.
+Credit Hours:
+ This is a 3 credit hour course. 
+This course is designed to require about 10 hours per week - for readings, exams, exercises, video cases, and group project work.
+The material is technical, and requires dedication of time to comprehend.  To complete course successfully, Please   do not plan on  
+cramming  all lectures the day before the exam. Designate 3 hours every lecture day for reading the given lecture, and book chapter.
+Designate additional 4 hours per week for Exercises, videocase assignments, and Group meetings / activites. You can meet with
+your Group Members ONLINE through video conferencing - via Skype , GoogleHangout , or meet in person if desired. Students are
+expected to communicate and meet with their group members in order to complete the project successfuly. 
+Exercises are assigned after each chapter. The Exercises are due on 
+Canvas
+ on the dates they are assigned. Exercises are *not
+accepted* through e-mail. Late Exercises are not accepted.
+Grading:
+The final course grade is determined on the following weights:
+Exercises   20%
+GroupActivities 15%
+Midterm Exam   20%
+Group Project   25%
+Final Exam   20%
+Gradig scale
+:
+A   90% - 100%
+B   80% - 89%
+C   70% - 79%
+D   60% - 69%
+F   less than 60%
+X   academic dishonesty
+Academic Integrity and Honesty:
+Students are required to read and abide by the 
+Code of Student Academic Integrity
+ availbe from Dean of Students Office. This code
+forbids cheating, fabrication or falsification of information, multiple submissions of academic work, plagiarism (including viewing
+others work without instructor permission), abuse of academic materials, and complicity of academic dishonesty. Violations of the
+Code of Student Academic Integrity, including plagiarism, result in disciplinary action as provided by the Code.
+Civility:
+We are concerned with a positive learning experience. This course strives to create an inclusive academic climate in which the
+dignity of all individuals is respected and maintained. We value diversity that is beneficial to both employers and societey at large.
+Students are encouraged to actively and appropriately share their views in class discussions.
+Inclement Weather:
+University Policy Statement #13 states the University is open unless the Chancellor announces that the University is closed.  The
+inclement weather hotline number to call is 704-687-1900. In the event of inclement weather, check your e-mail, and 
+Canvas
+instructor will post a message on 
+Canvas
+, and through e-mail. The instructor will use their best judgment as to whether class should
+be held.
+Disability:
+UNC Charlotte is committed to access to education. If you have a disability and need academic accommodations, please provide a
+letter of accommodation from Disability Services early in the semester. For more information on accommodations, contact the 
+of Disability Services
+ at 704-687-0040 or visit their office in Fretwell 230.
+Withdrawal:
+The University policy on 
+Course Withdrawal
+ allows students a limited number of opportunities available to withdraw from courses.
+There are financial and academic consequences that may result from course withdrawal. If a student is concerned about his / her
+ability to succeed in this course it is imporant to make an appointment to speak with the instructor as soon as possible.
+Syllabus Revision:
+The instructor may modify the class schedule and syllabus during the course of the semester. For example - additional educational
+vidoes may be posted. Same changed will appear on 
+Canvas
+. Students are responsible for refreshing their syllabus once per week.
+E-Mail Communication:
+Students are responsible for *all* announcements made in class and on the class online resources. Students should check the online
+class resources throughout the semester. The Instructor and Teaching Assistants send occasional e-mails with important information.
+We send this information to the student's UNCCharlotte e-mail address listed on Banner system. If a student is not checking his / her
+UNCCharlotte e-mail address ( ex. userName@uncc.edu ) please be sure to access this e-mail and check it regularly during this
+course.
+Class Expectation:
+By attending class beyond the first week, students agree to follow the framework and rules related to this course as described above.
+Syllabus
+:
+Date
+Material
+Jun 29
+Preview of course syllabus      |     
+Find your Group - members here
+   for the  Group Project
+Group Project Description
+ML_01_Introduction
+Read 
+Chapter 1
+ from the 
+Book 1. 
+- Machine Learning today.
+Overview of Knowledge Discovery in Databases (KDD) - I
+Video: L01_01_OverviewOfKnowledgeDiscoveryInDatabases
+Read 
+Chapter 1
+ from the 
+Book 2.
+ - Data Mining today.
+Exercise:    2.   Chapter 1
+      //to turn in:  save solution in a text file and upload  to 
+Canvas
+  
+Overview of KDD (continued) - II
+video: L01_01KDDDefinition
+video: L01_02DataInformationKnowledge
+video: L01_03KDDProcess
+video: L01_04KDDContributingAreas
+Jun 30
+Data - Types, Quality, Pre-processing, Similarity Measures
+Read 
+Chapter 2
+ from the 
+Book 2.
+ - Data Mining  today.
+Exercises:    2.   and    14.   Chapter 2
+VideoCase_01_Data Preparation
+video: L02_01WhatIsData_TypesOfAttributes
+video: L02_02TypesOfAttributes_Outliers
+video: L02_03PlottingOfObjects_CurseOfDimensionality
+video: L02_04SamplingFeatureSelection_DistanceEculidean
+ML_06_DimensionalityReduction
+Read 
+Chapter 6
+ from the 
+Book 1.
+ - Machine Learning today.
+VideoCase_02_HandlingNoisyData
+ 
+July 1
+Mathematical Background Review - Intro To Set Theory
+Association Rule Mining - Agrawal (Apriori) method (frequent item-sets)
+Read 
+Chapter 6
+ from the Book 2. Data Mining  today.
+Exercise:   2. (a) (b)    Chapter 6
+video: L03_01IntroToSetTheorySetsElementsEmtpySetUniversalSet
+video: L03_02IntroToSetTheoryIntersectionUnionComplementSetDifference
+video: L03_03AssociationRulesIntroAprioriAgrawalMethod
+Argawal (Apriori) method (frequent item-sets) Example
+Exercise:    6.   Chapter 6
+video: L04_01SupportAndConfidence_AssociationRules
+video: L04_02AprioriEample_FrequentItemsets
+video: L04_03AprioriExample_AssociationRules
+July 2
+Decision rules - LERS (certain and possible rules)
+video: L06_01LERSIntroduction
+video: L06_02LERSExampleFirstLoop
+video: L06 03LERSExampleCertainPossibleRules
+video: L06 04LERSExampleSecondLoop
+video: L06 05LERSExampleThirdLoopEnd
+Exercise:     
+download LERS software
+ - calculate rules using data from the lecture above 
+// to turn in:   take a screen shot of your runtime environment showing the rules | upload the screen shot to 
+Canvas
+Exercise8.Chapter6. (ExtraCreditOnly)
+   // this exercise is Optional and it is for ExtraCredit . Submit ONLY if you
+missed one exercise before 
+July 3 
+ Holiday - No Classes
+July 6
+ML_02_SupervisedLearning
+Read 
+Chapter 2
+ from the 
+Book 1.
+ - Machine Learning  today.
+video: L07_01:ML_02_SupervisedLearning
+ML_03_BayesianDecisionTheory
+DM_04_NaiveBayes
+video: L07_02:DM_04_NaiveBayes
+ML_14_BayesianEstimation
+Read 
+Chapter 3
+ from the 
+Book 1.
+ - Machine Learning  today.
+Read 
+Chapter 14
+ from the 
+Book 1.
+ - Machine Learning  today.
+Read 
+Chapter 5.3
+ from the 
+Book 2.
+ - Data Mining today.
+VideoCase03_NaiveBayesModel
+July 7
+ML_04_ParametricMethods
+Read 
+Chapter 4
+ from the 
+Book 1.
+ - Machine Learning  
+today.
+video: L20_01:ML_04_ParametricMethods
+ 
+DM_4.6.1_LinearRegression
+video:L22_01:DM_4_6_1_LinearRegression
+VideoCase04_LinearRegression
+DM_4.6.2_LogisticRegression
+Video:L23_01:DM_4.6.2_LogisticRegression
+July 8
+ML_08_NonparametricMethods
+Read 
+Chapter 8
+ from the 
+Book 1.
+ - Machine Learning  today.
+ML_09_DecisionTrees
+Read 
+Chapter 9
+ from the 
+Book 1.
+ - Machine Learning  today.
+VideoCase05_DecisionTree
+Video_ML_08_NonparametricMethods
+Video_ML_09_DecisionTrees
+July 9
+Decision Trees - Discovery System ID3
+Read 
+Chapter 4.3
+ from the 
+Book 2.
+ - Data Mining  today.
+Exercise:    2.   Chapter 4
+video: L09_01DecisionTreesIntroduction
+video: L09_02DecisionTreesIntroExamples
+video: L09_03DecisionTreesEntropyInformationGain
+System ID3 Example
+          |         
+Mathematical Background Review - Logarithm
+ 
+Exercise:   3.    Chapter 4
+video: L10_01System_ID3_Example_Entropy
+video: L10_02System_ID3_Example_Entropy02
+video: L10_03System_ID3_Example_AtributeSelection
+video: L10_04Mathematical_Background_Review_Logarithm
+Video_Decision_Trees_Discovery_System_ID3
+July 13
+DM_04_4.3_Chap4_K_NearestNeighbor
+video: L18_01DM_04_Chap4_K_NearestNeighbor
+Read 
+Chapter 5.2
+ from the 
+Book 2.
+ - Data Mining  today.
+VideoCase06_K_NearestNeighbor
+Preparing for MidTerm Exam
+        |     
+Sample Questions
+      |     
+Answer Key
+July 14
+Midterm Exam
+- access exam on 
+Canvas
+- may complete exam any time of the day today (finish no later than 11:55pm)
+- allowed time for exam is:       3:00 hours
+July 15
+Discovery System Rosetta
+video: L11_01DiscoverySystemRosetta_Example
+video: L11_02DiscoverySystemRosetta_DiscernibilityMatrix
+video: L11_03DiscoverySystemRosetta_DiscernibilityFunction
+Mining Incomplete Data
+video:L24_01MiningIncompleteData
+GroupActivity_01 :   
+Download RSES Software | Calculate Rules and Classify Data
+ 
+// one group member submits this Exercise for the whole group
+// to turn in : save your .rses project file ( File | Save As in RSES ) and upload the .rses file  to 
+Canvas
+ 
+July 16
+ML_05_MultivariateMethods
+ML_11_MultilayerPerceptrons
+DM_04_4.7_Chap4_ArtificialNeuralNetworks
+Read 
+Chapter 5
+ from the 
+Book 1.
+ - Machine Learning  today.
+Read 
+Chapter 11
+ from the 
+Book 1.
+ - Machine Learning  today.
+Read 
+Chapter 5.4
+ from the 
+Book 2.
+ - Data Mining  today.
+VideoCase_07_NeuralNetworks
+July 20
+DM_04_4.9_Chap4_SupportVectorMachines
+Read 
+Chapter 5.5
+ from the 
+Book 2.
+ - Data Mining  today.
+video: L21_01DM_04_4.9_Chap4_SupportVectorMachines
+VideoCase_08_SupportVectorMachines
+Discretization
+ 
+Discretization Example RSES
+GroupActivity_02 :  using RSES software | open a dataset | discretize the dataset
+// to turn in : save your .rses project file ( File | Save As in RSES ) and upload the .rses file to 
+Canvas
+ 
+// one group member submits this Exercise for the whole group
+video: L13 01DiscretizationIntroduction 
+video: L13 02DiscretizatinonQuantization
+video: L13 03RSESAlgorithmOptimalSetOfCuts
+video: L13 04DiscretizationExampleRSESPart1
+video: L13 05DiscretizationExampleRSESPart2
+video: L13 06DiscretizationExampleRSESPart3 
+video: L13_07Discretization
+Introduction_Example
+July 21
+Project Assignment  - files due
+//to turn in: upload  PowerPoint file , VideoFile , and SourceCode  to  
+Canvas
+July 22
+Cluster Analysis - Basic Concepts and Algorithms
+Read 
+Chapter 8.1 - 8.2
+ from the 
+Book 2.
+ - Data Mining today.
+video: L14_01ClusterAnalysisAlgorithm
+video: L14_02ClusterAnalysisIntroPlottingOfObjects
+video: L14_03ClusterAnalysisPreProcessingCharacteristicsOfData
+video: L14_04ClusterAnalysisTypesOfClusters
+video: L14_05PartitioningClusteringKMeans
+video: L14_06PartitioningClusteringKMeansContinued
+ML_07_Clustering
+Read 
+Chapter 07
+ from the 
+Book 1.
+ - Machine Learning  today.
+Partitioning Clustering - K-Means Example
+video: L15_01KMeansExampleProblemPart1
+video: L15_02KMeansExampleProblemPart2
+video: L15_03KMeansExampleProblemPart3
+VideoCase_09_KMeansClustering
+ 
+July 23
+Clustering Techniques (Continued) Hierarchical Clustering
+Read 
+Chapter 8.3
+ from the 
+Book 2.
+ - Data Mining today.
+video: L16_01HierarchicalCustering
+video: L16_02HierarchicalClusteringAgglomerativeProximityMatrix
+video: L16_03HierarchicalCusteringInterClusterDistances
+Hierarchical Clustering - Single Link Example
+Exercise:   16.    Chapter 8
+video: L17_01HierarchicalClusteringSingleLinkExamplePart1
+video: L17_02HierarchicalClusteringSingleLinkExamplePart2
+video: L17_03HierarchicalClusteringSingleLinkExamplePart3
+video: L17_04HierarchicalClusteringSingleLinkExamplePart4
+VideoCase_10_HierarchicalClustering
+July 27
+ML_19_DesignAnalysisOfMachineLearningExperiments
+Read 
+Chapter 19
+ from the 
+Book 1.
+ - Machine Learning  today.
+Evaluation Methods
+video: L12_01Evaluation_Methods
+Video_ML_19_DesignAnalysisOFMachineLearningExperiments
+Read 
+Chapter 4.5
+ from the 
+Book 2.
+ - Data Mining today.
+GroupActivity_03 : download WEKA software , and ORANGE software - run clustering, association rules discovery,
+and a decision tree
+( use one of the datasets - of your choice  - which are pre-loaded in RSES )
+// to turn in :  save your  WEKA  and  Orange  project files  ( go to File | Save As ) , and upload both your  WEKA  and 
+Orange  project  files to 
+Canvas
+ , also take screen shots and upload the screen shots to 
+Canvas
+// one group member submits this Exercise for the whole group
+VideoCase_11_Evaluation_CrossValidation
+VideoCase_12_Evaluation_BootStrapping
+July 28
+Machine Learning for BigData - Hadoop MapReduce
+Distributed Data Mining - Hadoop , HDFS , MapReduce , HIVE
+   |   
+Cloud Tools Overview
+   |  
+Basic HDFS Commands
+GroupActivity_04 :    
+Example MapReduce program 
+     |     
+Hadoop Environment Setup
+   
+// one group member submits this Exercise for the whole group
+Instructions for logging in to the AWS EMR cluster Simple Commands Task2
+video: AWS-EMR_Cluster_Setup
+GroupActivity_04: Example_MapReduce_program_UsingAWS
+video: ExampleMapReduce_WordCount_using_AWS
+Video_Distributed_Data_Mining_Hadoop_HDFS_MapReduce_HIVE
+video: L02_01_Hadoop_DistributedFileSystem
+video: L02_02_HDFS_NameNode_DataNode
+video: L02_03_HDFS_Pipelining_Rebalancer_UI
+video: L02_04_HDFS_UserInterfaceCommands_BasicFeatures
+video: L02_05_HDFS_FSNamespace_Replication
+video: L02_06_HDFS_Protocol_Failure_Integrity
+video: L02_07_HDFS_Staging_Pipelining_Interface
+video: L19 01 Hadoop DistributedFileSystem
+video: L19 02 HDFS Architecture NameNode DataNode Pipelining
+video: L19 03 HDFS Rebalancer UserInterface BasicCommands
+video: L19 04 MapReduce DataFlow Features
+video: L19 05 MapReduce WordCountCode Partitioners Combiners Compression Counters
+video: L19 06 MapReduce SpeculativeExecution ZeroReducers DistributedFileCache
+Jul 29
+Machine Learning for BigData - Spark Machine Learning Library
+Intro to Spark ,  Programming with RDDs ,  Running on a Cluster ,  Spark SQL and MLib , Spark Streaming
+Intro to Spark ( continued )
+video: L05 01 IntroToSpark LimitationsOfMapReduce
+video: L05 02 SparkComutingEngine ResilientDistributedDatasetsRDDs
+video: L05 03 SparkBenefitsForUser GeneralPlatform
+video: L05 04 Spark MLlib GraphX Streaming SQL
+video: L05 05 Spark SoftwareStack RunTimeArchitecture ProgrammingRDDs
+video: L05 06 Spark Continued RunTimeArchitecture ProgrammingRDDs DataAnalysisExample
+video: IntroductionToSpark
+VideoCase 13. Spark
+Jul 30
+Preparing for FinalExam
+        |     
+Sample Questions
+      |    
+ Answer Key
+Aug 3
+Reading Day - No Class
+Aug 4
+Final Exam
+- access exam on 
+Canvas
+- exam starts from 8:00pm - 11:00pm
+- allowed time for exam is:   3:00 hours 
+Syllabus Copyright 2015-2025 Angelina A Tzacheva.
+No reusage or reproduction without permission.
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

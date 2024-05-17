@@ -1,0 +1,331 @@
+==================[Syllabus Start]==================
+CSE512: Machine Learning
+Spring 2021, Time: Tues & Thurs 9.45am – 11.05am, Zoom Online 
+Instructor: 
+Minh Hoai Nguyen
+, New CS 243. 
+Office hours: Thursdays and Fridays 5.15-6.00pm. Location for in-person sessions: NCS 120. TAs: TBA.
+Click here for Zoom link
+. You will need to sign in with your NetID Google Account to view.
+Special enrollment form
+Homework 1
+. You will need to sign in with your NetID Google Account to view.
+This page provides some information to students who are considering to enroll in the course. Below are tentative grading scheme and
+syllabus, which are subject to change. Once you have enrolled in the course, you should go to Blackboard for updated information
+and futher annoucements. The content of this page will not be updated two weeks after the course has begun.
+This course covers fundamental machine learning concepts for intelligent systems that autonomously learn to perform a task and improve
+with experience, including problem formulations (e.g., selecting input features and outputs) and learning frameworks (e.g., supervised vs.
+unsupervised), standard models, methods, computational tools, algorithms and modern techniques, as well as methodologies to evaluate
+learning ability and to automatically select optimal models. Applications to areas such as computer vision (e.g., image classification,
+object detection) and medical data analysis (e.g., Covid-19 prediction) will motivate the coursework and material.
+This course is intended for graduate students who already have good programming skills and adequate background knowledge in
+mathematics, including probability, statistics, and linear algebra. This course is offered by the Department of Computer Science, and
+students from the department will have priority in registering for this course. 
+If there are still spaces, students from AMS and BMI will be
+given special permission to enroll. Students from other departments won't be able to enroll in this course due to resource constraint. For
+special permission to enroll, attend the few two weeks of lectures (using the Zoom link provided in the Google doc above), and I will tell
+you how to enroll in the course at the end of the second week if: 1) you are still interested in taking the course, and 2) spaces are still
+available.
+Grading
+There will be 5-6 homework assignments, two midterm exams, and several class quizzes.
+Homework assignments: 50%
+Five to six homework assignments
+Exams and Quizzes: 50%
+Class quizzes: 10%
+Midterm 1: 20%
+Midterm 2: 20%
+No final exam. No final project.
+Weights are approximate and subject to change. You are expected to do homework assignments by yourselves. Even if you discuss
+them with your classmates, you should turn in your own code and write-up. You can have one sheet of paper with notes in the exams.
+Tentative Syllabus
+Week
+Date
+Topic
+Assignment/Exam
+In-person Check-in
+1
+2-Feb-21
+Class cancelation due to snow storm
+ 
+ 
+ 
+4-Feb-21
+Introduction, MLE and MAP
+ 
+ 
+2
+9-Feb-21
+Linear Regression
+HW1 out
+ 
+ 
+11-Feb-21
+Bayes Risk and Nearest Neighbor Classifier
+ 
+ 
+3
+16-Feb-21
+Naïve Bayes, Logistic Regression
+ 
+ 
+ 
+18-Feb-21
+Generative versus Descriminative Classifier
+ 
+ 
+4
+23-Feb-21
+Bias-Variance Tradeoff
+HW1 due. HW2 out
+ 
+ 
+25-Feb-21
+Performance evaluation
+ 
+ 
+5
+2-Mar-21
+Regularization, Ridge regression
+ 
+NCS120
+ 
+4-Mar-21
+LASSO regression and sparsity
+ 
+ 
+6
+9-Mar-21
+Max-margin learner and primal SVM
+HW2 due. HW3 out
+ 
+ 
+11-Mar-21
+No lecture - Midterm 1
+Midterm 1
+ 
+7
+16-Mar-21
+Duality and Dual SVM
+ 
+ 
+ 
+18-Mar-21
+Kernel tricks and Kernel SVM
+ 
+ 
+8
+23-Mar-21
+Decision Trees
+HW3 due. HW4 out
+ 
+ 
+25-Mar-21
+Ensemble learning - Bagging
+ 
+ 
+9
+30-Mar-21
+Ensemble learning - Boosting
+ 
+ 
+ 
+1-Apr-21
+Unsupervised learning, K-means and PCA
+ 
+NCS120
+10
+6-Apr-21
+GMM and EM algorithm
+HW4 due. HW5 out
+ 
+ 
+8-Apr-21
+Hidden Markov Models
+ 
+ 
+11
+13-Apr-21
+Hidden Markov Models
+ 
+ 
+ 
+15-Apr-21
+Artificial Neural Networks
+ 
+ 
+12
+20-Apr-21
+Training Deep Networks
+HW5 due. HW6 out
+ 
+ 
+22-Apr-21
+Convolutional Neural Network
+ 
+ 
+13
+27-Apr-21
+Convolutional Neural Network
+ 
+ 
+ 
+29-Apr-21
+No lecture - Midterm 2
+Midterm 2
+ 
+14
+4-May-21
+Recurrent Neural Network
+HW6 due
+NCS120
+ 
+6-May-21
+Final lecture - course review
+ 
+Students who are enrolled in the in-person/hybrid session of this course must attend at least two out of three in-person sessions,
+which are highlighted in the above table. 
+Students who fail to do so will not receive a passing grade. In-person sessions are held
+during the regular class hours, in Room 120 of the New Computer Science building (NCS 120). You must physically be in NCS 120
+during the in-person sessions, but you will be watching synchronous Zoom lectures on your own computers. 
+Bring your own
+computers and headphones.
+Textbooks
+Textbooks are optional.
+Books that I love and recommend:
+Tom Mitchell, 
+Machine Learning
+, McGraw Hill, 1997.
+Excellent book. Concise and well-explained. But it is quite old and does not cover recently developed concepts.
+Some 
+New Chapters
+ are available
+Mohri, Rostamizadeh, Talwalkar, 
+Foundations of Machine Learning
+, MIT Press, 2nd edition, 2018.
+Excellent book. Well-explained. Deep and mathematically rigorous. Suitable for mathematically inclined students.
+Free 
+PDF
+ is available
+Use discount code MTSR20 for 30% discount from 
+MIT press
+Sutton & Barto, 
+Reinforcement Learning: An Introduction
+, MIT Press, 2nd edition, 2018.
+Excellent book on reinforcement learning. Well-explained concepts with lots of examples. This provides a systematic view
+of multiple RL approaches.
+For reinforcement learning, this is the book to read.
+Other textbooks that may be more useful or accessible:
+Trevor Hastie, Robert Tibshirani, Jerome Friedman, 
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction,
+2nd Ed
+, Springer Series in Statistics, 2009.
+Christopher M. Bishop, 
+Pattern Recognition and Machine Learning
+, 
+Springer, 2011.
+Kevin Murphy, 
+Probabilistic Machine Learning: An Introduction
+, MIT Press 2021
+Student Accessibility Support Center Statement
+If you have a physical, psychological, medical, or learning disability that may impact your course work, please contact the Student
+Accessibility Support Center, 128 ECC Building, (631) 632-6748, or via e-mail at: 
+sasc@stonybrook.edu. They will determine with
+you what accommodations are necessary and appropriate. All information and documentation is confidential.
+Academic Integrity Statement
+Each student must pursue his or her academic goals honestly and be personally accountable for all submitted work. Representing
+another person's work as your own is always wrong. Faculty is required to report any suspected instances of academic dishonesty to the
+Academic Judiciary. Faculty in the Health Sciences Center (School of Health Technology & Management, Nursing, Social Welfare,
+Page generated 2021-02-09 15:12:11 EST, by 
+jemdoc
+.
+Dental Medicine) and School of Medicine are required to follow their school-specific procedures. For more comprehensive information
+on academic integrity, including categories of academic dishonesty please refer to the academic judiciary website at
+http://www.stonybrook.edu/commcms/academic_integrity/index.html
+Critical Incident Management
+Stony Brook University expects students to respect the rights, privileges, and property of other people. Faculty are required to report to
+the Office of University Community Standards any disruptive behavior that interrupts their ability to teach, compromises the safety of the
+learning environment, or inhibits students’ ability to learn. Faculty in the HSC Schools and the School of Medicine are required to follow
+their school-specific procedures. Further information about most academic matters can be found in the Undergraduate Bulletin, the
+Undergraduate Class Schedule, and the Faculty-Employee Handbook.
+Attendance and Covid-19
+Students are expected to attend every class, report for examinations and submit major graded coursework as scheduled. If a student is
+unable to attend lecture(s), report for any exams or complete major graded coursework as scheduled due to extenuating circumstances,
+the student must contact the instructor as soon as possible. 
+Students may be requested to provide documentation to support their
+absence and/or may be referred to the Student Support Team for assistance. Students will be provided reasonable accommodations for
+missed exams, assignments or projects due to significant illness, tragedy or other personal emergencies. In the instance of missed lectures
+or labs, the student is responsible for insert course specific information here (examples include: review posted slides, review recorded
+lectures, seek notes from a classmate or identified class note taker, write lab report based on sample data). 
+Please note, all students
+must follow Stony Brook, local, state and Centers for Disease Control and Prevention (CDC) guidelines to reduce the risk of
+transmission of COVID. For questions or more information click 
+here
+.
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

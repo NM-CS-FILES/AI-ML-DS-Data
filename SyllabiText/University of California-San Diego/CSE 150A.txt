@@ -1,0 +1,263 @@
+==================[Syllabus Start]==================
+CSE 150 - Spring 2018
+Introduction to Artificial Intelligence:
+Probabilistic Reasoning and Decision Making
+Prof. Lawrence Saul
+Administrivia
+Syllabus
+Piazza
+GradeSource
+CAPEs
+Subject
+This course will introduce students to the probabilistic and statistical models
+at the heart of modern artificial intelligence. 
+Specific topics to be covered
+include: probabilistic methods for reasoning and decision-making under
+uncertainty; inference and learning in Bayesian networks; 
+prediction and
+planning in Markov decision processes; applications to intelligent systems,
+speech and natural language processing, information retrieval, and robotics.
+Prerequisites
+This course is aimed very broadly at undergraduates in mathematics, science,
+and engineering. 
+Prerequisites are elementary probability, linear algebra, and
+calculus, as well as basic programming ability in some high-level language
+such as C, Java, Matlab, R, or Python. 
+(Programming assignments are
+completed in the language of the student's choice.) 
+Students of all
+backgrounds are welcome.
+Texts
+The course will not closely follow a particular text. 
+The following texts, though
+not required, may be useful as general references:
+1
+. 
+K. Korb and A. Nicholson, 
+Bayesian Artificial Intelligence
+.
+2
+. 
+S. Russell and P. Norvig, 
+Artificial 
+Intelligence: A Modern Approach
+.
+3
+. 
+R. Sutton and A. Barto, 
+Reinforcement Learning: 
+An Introduction
+.
+Instructors
+1
+. 
+Lecturer:
+ 
+Lawrence Saul
+ (saul
+cs.ucsd.edu)
+2
+. 
+Teaching assistants:
+ 
+Sparsh Gupta (spg005
+ucsd.edu) 
+Simran Kapur (sikapur
+ucsd.edu) 
+Harsh Kumar (h1kumar
+ucsd.edu) 
+Aishma Raghu (airaghu
+ucsd.edu) 
+Nitesh Sekhar (snitesh
+ucsd.edu) 
+Nemil Shah (nbshah
+ucsd.edu)
+Meetings
+1
+. 
+Lectures:
+ Tue/Thu 3:30-4:50 pm, Center 109.
+2
+. 
+Instructor office hour:
+ Fri 10-11 am, EBU3B-3214.
+3
+. 
+Discussion sections:
+Mon 3-4 pm, HSS 2154 (Sparsh)
+Mon 5-6 pm, HSS 2154 (Harsh)
+Wed 11-noon, WLH 2206 (Nemil)
+Wed 5-6 pm, WLH 2115 (Nitesh)
+Fri 11-noon, SEQUO 147 (Simran)
+Fri 1-2 pm, HSS 2154 (Aishma)
+4
+. 
+TA office hours:
+Mon 11:30-12:30 pm, CSE B250A (Aishma)
+Tue 11-noon, CSE B250A (Sparsh)
+Wed 1-2 pm, CSE B250A (Nitesh)
+Thu 12-1 pm, CSE B260A (Nemil)
+Thu 2-3 pm, CSE B250A (Harsh)
+Fri 2:30-3:30 pm, CSE B250A (Simran)
+5
+. 
+Final exam:
+ Mon June 11, 3-6 pm
+Grading
+1
+. 
+homework
+ (30%) - best 6 of 7
+2
+. 
+midterm exam
+ (20%)
+3
+. 
+final exam
+ (50%)
+Syllabus
+Tue Apr 03
+Administrivia and course overview.
+ 
+Thu Apr 05
+Modeling uncertainty, review of probability.
+ 
+Tue Apr 10
+Examples of probabilistic reasoning.
+HW 1
+ out.
+Thu Apr 12
+Belief networks: from probabilities to graphs.
+ 
+Tue Apr 17
+Conditional independence, d-separation.
+HW 1 due.
+HW 2
+ out.
+Thu Apr 19
+Inference in polytrees and loopy networks.
+ 
+Tue Apr 24
+Learning, maximum likelihood estimation.
+HW 2 due.
+HW 3
+ out.
+Thu Apr 26
+Naive Bayes and Markov models.
+ 
+Tue May 01
+Latent variable models, EM algorithm.
+HW 3 due.
+HW 4
+ out.
+Thu May 03
+Examples of EM algorithm.
+ 
+Tue May 08
+Hidden Markov models, speech recognition.
+HW 4 due.
+Thu May 10
+Viterbi and forward-backward algorithms.
+Belief updating.
+ 
+Tue May 15
+Midterm exam
+HW 5
+ out.
+Thu May 17
+Reinforcement learning.
+ 
+Tue May 22
+Markov decision processes.
+HW 5 due.
+HW 6
+ out.
+Thu May 24
+Policy evaluation, improvement, and iteration.
+ 
+Tue May 29
+Bellman optimality equation, value iteration.
+HW 6 due.
+HW 7
+ out.
+Thu May 31
+Temporal difference learning, Q-learning.
+ 
+Tue Jun 05
+TBA
+ 
+Thu Jun 07
+TBA
+HW 7 due.
+Mon Jun 11
+Final exam
+ 
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

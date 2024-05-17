@@ -1,0 +1,171 @@
+==================[Syllabus Start]==================
+CSCI 4502/5502: Data Mining 
+Fall 2018 
+1 Course Title, Sections, Time, and Location 
+This course is titled “Data Mining” and is oﬀered in three diﬀerent sections: 
+• CSCI 4502-001: undergraduate 
+• CSCI 5502-001: graduate on-campus 
+• CSCI 5502-001B: graduate distance learning 
+Time & Location: TuTh 9:30am – 10:45am, ECCS 1B12 
+2 Instructor Information 
+• Lecturer: Qin (Christine) Lv, 
+Associate Professor, Associate Chair for Graduate Education, Department of Computer Science 
+– Email: Qin.Lv@Colorado.EDU 
+– Oﬃce Location: ECCR 1B24 
+– Oﬃce Phone: (303) 492 - 8821 
+– Oﬃce Fax: (302) 492 - 2844 
+– Homepage: http://www.cs.colorado.edu/ ~lv 
+– Oﬃce Hours: TBD 
+• Graders: TBD 
+3 Course Overview 
+This course Introduces basic data mining concepts and techniques for discovering interesting patterns hidden 
+in large-scale data sets, focusing on issues relating to eﬀectiveness and eﬃciency. Topics covered include data 
+preprocessing, data warehouse, association, classiﬁcation, clustering, outlier detection, and mining speciﬁc 
+data types such as time-series, social networks, multimedia, and Web data. 
+3.1 Prerequisites 
+• CSCI 4502-001: CSCI 2270 with a minimum grade of C-
+• CSCI 5502-001 and CSCI 5502-001B: graduate status 
+3.2 Textbook 
+Data Mining: Concepts and Techniques by Jiawei Han, Micheline Kamber, and Jian Pei. 3rd edition, 
+Morgan Kaufmann, 2011. ISBN-13: 978-0123814791 
+1 
+3.3 Grading 
+• Problem sets (35%): Work alone; extra questions for students taking CSCI 5502 
+• Midterm exam (25%): Closed book; in class exam; extra questions for students taking CSCI 5502 
+• Course project (40%): Work in groups; a self-deﬁned project that applies data mining to real-world 
+problems; recommended group size is 3-4; group can be a mixture of 4502/5502, on-campus/distance 
+learning students; higher threshold for students taking CSCI 5502; project scope needs to be appropriate 
+for group size and group composition (CSCI 4502 vs. CSCI 5502) 
+• Late policy: At most 2-day delay in submission with 20-point penalty each day 
+3.4 Class Schedule (Tentative) 
+Week 1 (8/28, 8/30) Introduction 
+Week 2 (9/4, 9/6) Data Preprocessing 
+Week 3 (9/11, 9/13) Data Warehouse 
+Week 4 (9/18, 9/20) Frequent Patterns 
+Week 5 (9/25, 9/27) Classiﬁcation 
+Week 6 (10/2, 10/4) Project Proposal 
+Week 7 (10/9, 10/11) Classiﬁcation 
+Week 8 (10/16, 10/18) Clustering 
+Week 9 (10/23, 10/25) Clustering 
+Week 10 (10/30, 11/1) Midterm Exam 
+Week 11 (11/6, 11/8) Outlier Detection 
+Week 12 (11/13, 11/15) Project Checkpoint 
+Week 13(11/20, 11/22) Fall Break, Thanksgiving 
+Week 14 (11/27, 11/29) Data Streams, Time-Series 
+Week 15 (12/4, 12/6) Graphs, Social Networks, Web Data 
+Week 16 (12/11, 12/13) Project Final Report 
+Course Policies 
+Academic Integrity All students of the University of Colorado at Boulder are responsible for knowing 
+and adhering to the academic integrity policy of this institution. Violations of this policy may in-
+clude: cheating, plagiarism, aid of academic dishonesty, fabrication, lying, bribery, and threaten-
+ing behavior. All incidents of academic misconduct shall be reported to the Honor Code Council 
+(honor@colorado.edu ; 303-735-2273). Students who are found to be in violation of the academic in-
+tegrity policy will be subject to both academic sanctions from the faculty member and non-academic 
+sanctions (including but not limited to university probation, suspension, or expulsion). Other infor-
+mation on the Honor Code can be found at http://www.colorado.edu/policies/honor.html and 
+at http://honorcode.colorado.edu 
+Classroom Behavior Students and faculty each have responsibility for maintaining an appropriate learn-
+ing environment. Those who fail to adhere to such behavioral standards may be subject to dis-
+cipline. Professional courtesy and sensitivity are especially important with respect to individuals 
+and topics dealing with diﬀerences of race, color, culture, religion, creed, politics, veterans status, 
+sexual orientation, gender, gender identity and gender expression, age, disability, and nationalities. 
+Class rosters are provided to the instructor with the student’s legal name. I will gladly honor your 
+request to address you by an alternate name or gender pronoun. Please advise me of this prefer-
+ence early in the semester so that I may make appropriate changes to my records. See policies 
+at http://www.colorado.edu/policies/classbehavior.html and at http://www.colorado.edu/ 
+studentaffairs/judicialaffairs/code.html#student_code 
+2 
+Disability If you qualify for accommodations because of a disability, please submit to your professor a letter 
+from Disability Services in a timely manner (for exam accommodations provide your letter at least one 
+week prior to the exam) so that your needs can be addressed. Disability Services determines accommo-
+dations based on documented disabilities. Contact Disability Services at 303-492-8671 or by e-mail at 
+dsinfo@colorado.ed. If you have a temporary medical condition or injury, see Temporary Medical Con-
+ditions: Injuries, Surgeries, and Illnesses guidelines under Quick Links at Disability Services website 
+and discuss your needs with your professor. 
+Discrimination and Harassment The University of Colorado Boulder (CU-Boulder) is committed to 
+maintaining a positive learning, working, and living environment. The University of Colorado does not 
+discriminate on the basis of race, color, national origin, sex, age, disability, creed, religion, sexual orien-
+tation, or veteran status in admission and access to, and treatment and employment in, its educational 
+programs and activities. (Regent Law, Article 10, amended 11/8/2001). CU-Boulder will not tolerate 
+acts of discrimination or harassment based upon Protected Classes or related retaliation against or by 
+any employee or student. For purposes of this CU-Boulder policy, “Protected Classes” refers to race, 
+color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, 
+gender expression, or veteran status. Individuals who believe they have been discriminated against 
+should contact the Oﬃce of Discrimination and Harassment (ODH) at 303-492-2127 or the Oﬃce of 
+Student Conduct (OSC) at 303-492-5550. Information about the ODH, the above referenced policies, 
+and the campus resources available to assist individuals regarding discrimination or harassment can be 
+obtained at http://hr.colorado.edu/dh/ 
+Religious Observance Campus policy regarding religious observances requires that faculty make every 
+eﬀort to deal reasonably and fairly with all students who, because of religious obligations, have conﬂicts 
+with scheduled exams, assignments or required attendance. In this class, students should notify the 
+instructor at least one work before religious obligations that will interfere with required coursework. 
+See full details at http://www.colorado.edu/policies/fac_relig.html 
+3 
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

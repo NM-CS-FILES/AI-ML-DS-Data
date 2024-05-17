@@ -1,0 +1,599 @@
+==================[Syllabus Start]==================
+Syllabus for CS6787
+Advanced Machine Learning Systems — Spring 2024
+Term
+Spring 2024
+Instructor
+Christopher De Sa
+Room
+Phillips Hall 101
+E-mail
+[email hidden]
+Schedule
+MW 7:30pm – 8:45pm
+Office hours
+W 2:30pm – 3:30pm
+Forum
+Ed Discussion
+Office
+Gates 426
+So you've taken a machine learning class. You know the models people use to solve their problems. You know the algorithms they
+use for learning. You know how to evaluate the quality of their solutions.
+But when we look at a large-scale machine learning application that is deployed in practice, it's not always exactly what you
+learned in class. Sure, the basic models, the basic algorithms are all there. But they're modified a bit, in a bunch of different ways,
+to run faster and more efficiently. And these modifications are really important—they often are what make the system tractable to
+run on the data it needs to process.
+CS6787 is a graduate-level introduction to these system-focused aspects of machine learning, covering guiding principles and
+commonly used techniques for scaling up learning to large data sets. Informally, we will cover the techniques that lie between a
+standard machine learning course and an efficient systems implementation: both statistical/optimization techniques based on
+improving the convergence rate of learning algorithms and techniques that improve performance by leveraging the capabilities of
+the underlying hardware. Topics will include stochastic gradient descent, acceleration, variance reduction, methods for choosing
+hyperparameters, parallelization within a chip and across a cluster, popular ML frameworks, and innovations in hardware
+architectures. An open-ended project in which students apply these techniques is a major part of the course.
+Prerequisites: 
+Knowledge of machine learning at the level of CS4780. 
+If you are an undergraduate, you should have taken CS4780
+or an equivalent course, since it is a prerequisite. 
+Knowledge of computer systems and hardware on the level of CS 3410 is
+recommended, but this is not a prerequisite.
+Format: 
+About half of the classes will involve traditionally formatted lectures. For the other half of the classes, we will read and
+discuss two seminal papers relevant to the course topic. These classes will involve presentations by groups of students of the
+paper contents (each student will sign up in a group to present one paper for 15-20 minutes) followed by breakout discussions
+about the material. Historically, the lectures have occurred on Mondays and the discussions have occurred on Wednesdays, but
+due to the non-standard timeline this semester, these course elements will be scheduled irregularly (see schedule below).
+Grading: 
+Students will be evaluated on the following basis.
+20%
+Paper presentation
+10%
+Discussion participation
+20%
+Paper reviews
+10%
+Programming assignments
+40%
+Final project
+Paper review parameters:
+ 
+Paper reviews should be about one page (single-spaced) in length. 
+The review guidelines should mirror
+what an actual conference review would look like (although you needn't assign scores or anything like that). 
+In particular you
+should at least: (1) summarize the paper, (2) discuss the paper's strengths and weaknesses, and (3) discuss the paper's impact.
+For reference, you can read the 
+ICML reviewer guidelines
+. 
+Of course, your review will not be precisely like a real review, in large
+part because we already know the impact of these papers. 
+You can submit any review up to two days late with no penalty.
+Students who presented a paper do not have to submit a review of that paper (although you can if you want).
+Final project parameters 
+(subject to change)
+:
+ 
+The final project can be done in groups of up to three (although more work will be
+expected from groups with more people). 
+The subject of the project is open-ended, but it must include:
+the 
+implementation of a machine learning system
+ for some task,
+exploring one or more of the 
+techniques discussed in the course
+ (or similar techniques subject to instructor approval),
+to 
+empirically evaluate the performance
+ and compare it with some baseline method, in two ways:
+statistical performance (e.g. iterations to converge to some accuracy threshold), and
+hardware performance (e.g. throughput or wall-clock time).
+The project proposal should satisfy the following constraints:
+The main body should be about one page in length.
+It should describe the project you intend to do.
+It should contain at least one citation of a relevant paper that we did not cover in class (but preferably more).
+It should include some preliminary or exploratory work you've already done, that helps to support the idea that your project
+is feasible (this preliminary work can be very minimal, but should indicate that you've got started—or at least have a clear
+idea how to do so).
+In addition to the one-page text proposal, it should contain one short 
+experiment plan
+ per person, which should consist of:
+a hypothesis
+a proxy statement which describes what metric you are going to use to measure the variables you care about
+a short protocol statement describing what you are going to do
+the results you expect to get
+The experiment plan should not be longer than half a page, and may be much shorter.
+The project will culminate in a project report of at least four pages, not including references. 
+The project report should be
+formatted similarly to a workshop paper, and should use the 
+ICML 2019 style
+ or a similar style. The project proposal is due on
+Monday, March 25, 2024
+. A draft of the final abstract is due for presentation and discussion in class on 
+Monday, April 29, 2024
+.
+Per the registrar, the final project report is due on 
+May 15, 2024 at 4:30 PM
+.
+Course Calendar
+Monday, January 22
+In Person
+Jan
+22
+Lecture #1: Overview.
+[Slides]
+ 
+[Demo Notebook]
+Overview
+Course outline and syllabus
+Learning with gradient descent
+Stochastic gradient descent: the workhorse of machine learning
+Theory of SGD for convex objectives: our first look at trade-offs
+Wednesday, January 24
+In Person
+Jan
+24
+Lecture #2: Backpropagation & ML Frameworks.
+[Slides]
+ 
+[Demo Notebook]
+Backpropagation and automatic differentiation
+Machine learning frameworks I: the user interface
+Overfitting
+Generalization error
+Early stopping
+Optional extra reading. Some older papers on SGD and backpropagation!
+Hinton, Geoffrey E. 
+Learning distributed representations of concepts.
+ Proceedings of the eighth annual
+conference of the cognitive science society. Vol. 1. 1986.
+Rumelhart, David E., Geoffrey E. Hinton, and Ronald J. Williams. 
+Learning representations by back-
+propagating errors.
+ Cognitive modeling 5.3 (1988): 1.
+Tong Zheng. 
+Solving large scale linear prediction problems using stochastic gradient descent algorithms.
+Proceedings of the International Conference on Machine Learning (ICML)
+, 2004.
+Monday, January 29
+In Person
+Jan
+29
+Lecture #3: Hyperparameters and Tradeoffs.
+[Slides]
+ 
+[Demo Notebook]
+Our first hyperparameters: step size/learning rate, minibatch size
+Regularization
+Application-specific forms of regularization
+The condition number
+Momentum and acceleration
+Momentum for quadratic optimization
+Momentum for convex optimization
+Released: 
+Programming Assignment 1
+.
+Wednesday, January 31
+In Person
+Jan
+31
+Paper Discussion 1a.
+Attention is all you need
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez,
+Łukasz Kaiser, and Illia Polosukhin.
+In Advances in neural information processing systems (NeurIPS)
+, 2017.
+Paper Discussion 1b.
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift.
+Sergey Ioffe, Christian Szegedy.
+Proceedings of the International Conference on Machine Learning (ICML)
+, 2015.
+Monday, February 
+5
+In Person
+Feb
+5
+Lecture #4: Kernels and Dimensionality Reduction.
+[Slides]
+ 
+[Demo Notebook]
+The kernel trick
+Gram matrix versus feature extraction: systems tradeoffs
+Adaptive/data-dependent feature mappings
+Dimensionality reduction
+
+Wednesday, February 
+7
+In Person
+Feb
+7
+Paper Discussion 2a.
+Palm: Scaling language modeling with pathways.
+Aakanksha Chowdhery 
+et al
+.
+Journal of Machine Learning Research (JMLR)
+, 2023.
+Paper Discussion 2b.
+Language models are few-shot learners.
+Tom Brown 
+et al
+.
+In Advances in neural information processing systems (NeurIPS)
+, 2020.
+Due: Review of paper 1a or 1b.
+Monday, February 12
+In Person
+Feb
+12
+Lecture #5: Adaptive Methods & Non-Convex Optimization.
+[Slides]
+ 
+[Demo Notebook]
+Adaptive methods
+AdaGrad
+Adam
+Non-convex optimization
+Due: 
+Programming Assignment 1
+.
+Wednesday, February 14
+In Person
+Feb
+14
+Paper Discussion 3a.
+Random features for large-scale kernel machines.
+Ali Rahimi and Benjamin Recht.
+In Advances in Neural Information Processing Systems (NeurIPS)
+, 2007.
+Paper Discussion 3b.
+Feature Hashing for Large Scale Multitask Learning.
+Kilian Weinberger, Anirban Dasgupta, Josh Attenberg, John Langford and Alex Smola.
+Proceedings of the International Conference on Machine Learning (ICML)
+, 2009.
+Released: 
+Programming Assignment 2
+.
+Monday, February 19
+Online Only
+Feb
+19
+Lecture #6: Hyperparameter Optimization.
+[Slides]
+ 
+[Demo Notebook]
+Hyperparameter optimization
+Assigning parameters from folklore
+Random search over parameters
+Wednesday, February 21
+In Person
+Feb
+21
+Paper Discussion 4a.
+Random shuffling beats sgd after finite epochs.
+Jeff Haochen and Suvrit Sra.
+Proceedings of the International Conference on Machine Learning (ICML)
+, 2019.
+Paper Discussion 4b.
+Adam: A method for stochastic optimization.
+Diederik Kingma and Jimmy Ba.
+Proceedings of the International Conference on Learning Representations (ICLR)
+, 2015.
+Due: Review of paper 3a or 3b.
+Monday, February 26
+February Break: No classes.
+Wednesday, February 28
+In Person
+Feb
+28
+Paper Discussion 5a.
+Random search for hyper-parameter optimization.
+James Bergstra and Yoshua Bengio.
+Journal of Machine Learning Research (JMLR)
+, 2012.
+Paper Discussion 5b.
+Scaling laws for neural language models.
+Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child,
+Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei.
+arXiv preprint arXiv:2001.08361
+, 2020.
+Monday, March 
+4
+In Person
+Mar
+4
+Lecture #7: Parallelism.
+[Slides]
+ 
+[Demo Notebook]
+Hardware trends that lead to parallelism
+Sources of parallelism in hardware
+Data parallelism
+Extracting parallelism at different places in the computation
+Simple parallelism on multicore
+Due: 
+Programming Assignment 2
+.
+
+Wednesday, March 
+6
+In Person
+Mar
+6
+Paper Discussion 6a.
+Map-reduce for machine learning on multicore.
+Cheng-Tao Chu, Sang K Kim, Yi-An Lin, YuanYuan Yu, Gary Bradski, Andrew Y. Ng, and Kunle
+Olukotun
+In Advances in Neural Information Processing Systems (NeurIPS)
+, 2007.
+Paper Discussion 6b.
+Hogwild: A lock-free approach to parallelizing stochastic gradient descent.
+Feng Niu, Benjamin Recht, Christopher Re, and Stephen Wright.
+In Advances in Neural Information Processing Systems (NeurIPS)
+, 2011.
+Monday, March 11
+In Person
+Mar
+11
+Lecture #8: Distributed Learning.
+[Slides]
+Learning on multiple machines
+SGD with all-reduce
+The parameter server
+Asynchronous parallelism on multiple machines
+Decentralized and local SGD
+Model and pipeline parallelism
+Due: Review of paper 5a or 5b.
+Wednesday, March 13
+In Person
+Mar
+13
+Paper Discussion 7a.
+Flashattention: Fast and memory-efficient exact attention with io-awareness.
+Tri Dao, Dan Fu, Stefano Ermon, Atri Rudra, and Christopher Ré.
+In Advances in Neural Information Processing Systems (NeurIPS)
+, 2022.
+Paper Discussion 7b.
+A System for Massively Parallel Hyperparameter Tuning.
+Liam Li 
+et al
+.
+Proceedings of the 2nd Conference on Machine Learning and Systems (MLSys)
+, 2020.
+Monday, March 18
+In Person
+Mar
+18
+Lecture #9: Low-Precision Arithmetic.
+[Slides]
+Memory
+Low-precision formats
+Floating-point machine epsilon
+Low-precision training
+Scan order
+Due: Review of paper 6a or 6b.
+In-class project feedback activity.
+Wednesday, March 20
+In Person
+Mar
+20
+Paper Discussion 8a.
+Large scale distributed deep networks.
+Jeff Dean 
+et al
+.
+In Advances in Neural Information Processing Systems (NeurIPS)
+, 2012.
+Paper Discussion 8b.
+Towards federated learning at scale: System design.
+Keith Bonawitz 
+et al
+.
+In Proceedings of the 2nd MLSys Conference (MLSys)
+, 2019.
+Monday, March 25
+In Person
+Mar
+25
+Lecture #10: Inference and Compression.
+[Demo Notebook]
+Efficient inference
+Metrics we care about when inferring
+Compression
+Fine-tuning
+Hardware for inference
+Due: Review of paper 7a or 7b.
+Due: Final project proposals.
+Wednesday, March 27
+In Person
+Mar
+27
+Paper Discussion 9a.
+Gpipe: Efficient training of giant neural networks using pipeline parallelism.
+Yanping Huang, Youlong Cheng, Ankur Bapna, Orhan Firat, Dehao Chen, Mia Chen, HyoukJoong
+Lee, Jiquan Ngiam, Quoc V. Le, and Yonghui Wu.
+In Advances in Neural Information Processing Systems (NeurIPS)
+, 2019.
+
+Paper Discussion 9b.
+Efficiently scaling transformer inference.
+Reiner Pope, Sholto Douglas, Aakanksha Chowdhery, Jacob Devlin, James Bradbury, Jonathan
+Heek, Kefan Xiao, Shivani Agrawal, and Jeff Dean.
+In Proceedings of Machine Learning and Systems 
+(MLSys)
+, 2023.
+Monday, April 
+1
+Spring Break: No classes.
+Wednesday, April 
+3
+Spring Break: No classes.
+Monday, April 
+8
+In Person
+Apr
+8
+Lecture #11: Machine Learning Frameworks II.
+Large scale numerical linear algebra
+Eager vs lazy
+ML frameworks in Python
+Due: Review of paper 8a or 8b.
+Wednesday, April 10
+In Person
+Apr
+10
+Paper Discussion 10a.
+Deep learning with limited numerical precision.
+Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, and Pritish Narayanan.
+Proceedings of the International Conference on Machine Learning (ICML)
+, 2015.
+Paper Discussion 10b.
+LoRA: Low-Rank Adaptation of Large Language Models.
+Edward J. Hu, 
+Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu
+Chen.
+Proceedings of the International Conference on Learning Representations (ICLR)
+, 2021.
+Monday, April 15
+In Person
+Apr
+15
+Lecture #12: Hardware for Machine Learning.
+CPUs vs GPUs
+What makes for good ML hardware?
+How can hardware help with ML?
+What does modern ML hardware look like?
+Due: Review of paper 9a or 9b.
+Wednesday, April 17
+In Person
+Apr
+17
+Paper Discussion 11a.
+Deep compression: Compressing deep neural networks with pruning, trained quantization and
+Huffman coding.
+Song Han, Huizi Mao, and William J Dally.
+Proceedings of the International Conference on Learning Representations (ICLR)
+, 2016.
+Paper Discussion 11b.
+GPTQ: Accurate post-training quantization for generative pre-trained transformers.
+Frantar, Elias, Saleh Ashkboos, Torsten Hoefler, and Dan Alistarh. 
+Proceedings of the International Conference on Learning Representations (ICLR)
+, 2023.
+Monday, April 22
+In Person
+Apr
+22
+Lecture #13: Modern Generative AI.
+Scaling for large language models
+Challenges for LLM inference
+What does the future of generative AI look like?
+What are the policy and social implications of this technology?
+Due: Review of paper 10a or 10b.
+Wednesday, April 24
+Online Only
+Apr
+24
+Paper Discussion 12a.
+In-datacenter performance analysis of a tensor processing unit.
+Norman P Jouppi, Cliff Young, Nishant Patil, David Patterson, Gaurav Agrawal, Raminder
+Bajwa, Sarah Bates, Suresh Bhatia, Nan Boden, Al Borchers, et al.
+In Proceedings of the 44th Annual International Symposium on Computer Architecture (ISCA)
+,
+2017.
+Paper Discussion 12b.
+A Configurable Cloud-Scale DNN Processor for Real-Time AI.
+Jeremy Fowers, Kalin Ovtcharov, Michael Papamichael, Todd Massengills, et al.
+In Proceedings of the 45th Annual International Symposium on Computer Architecture (ISCA)
+,
+2018.
+Monday, April 29
+In Person
+Apr
+29
+Lecture #14: Large Scale ML on the Cloud.
+[Slides]
+Challenges of deployment
+Distributed learning at datacenter scale
+
+Due: Review of paper 11a or 11b.
+Due: Final project abstract draft. Can be submitted late until Wednesday afternooon; will
+discuss in class on Wednesday.
+Wednesday, May 
+1
+In Person
+May
+1
+Lecture #15: Final Project Disussion.
+Monday, May 
+6
+In Person
+May
+6
+Lecture #16: Final Project Disussion.
+
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

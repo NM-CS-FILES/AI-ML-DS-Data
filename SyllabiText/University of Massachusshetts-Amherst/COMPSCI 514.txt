@@ -1,0 +1,667 @@
+==================[Syllabus Start]==================
+Course Schedule (Evolving)
+Lecture recordings from Echo360 can be accessed 
+here
+ (https://echo360.org/section/570de0f1-
+4d7a-4a68-a5ce-3cc36ccbce07/public)
+. Handwritten lecture notes courtesy of Stephen Scarano
+can be accessed 
+here
+ (https://drive.google.com/drive/folders/1gTHtuIMz8073YINv-
+iuC72tJ2n9mTrln)
+.
+Lecture     
+Day
+Topic
+Materials/Reading
+1. 9/5
+Tue
+Course overview.
+Probability review.
+Linearity of
+expectation.
+Slides.
+ (./slides/lecture1/lecture1Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture1/lecture1Compressed.pdf)
+ Reading: 
+MIT short videos and exercises on
+probability
+ (https://openlearninglibrary.mit.edu/courses/course-
+v1:OCW+6.042J+2T2019/course/)
+ (go to Unit 4). 
+Khan academy probability lessons
+(https://www.khanacademy.org/math/statistics-probability/probability-library)
+ (a bit more
+basic). Chapters 1-3 of 
+Probability and Computing
+(https://www.cs.purdue.edu/homes/spa/courses/pg17/mu-book.pdf)
+ with content and
+excersises on basic probabiliy, expectation, variance, and concentration bounds.
+Randomized Methods, Sketching & Streaming
+2. 9/7
+Thu
+Estimating set size
+by counting
+duplicates. Markov's
+inequality. Random
+hashing for efficient
+lookup. Collision-
+free hashing.
+Slides.
+ (./slides/lecture2/lecture2Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture2/lecture2Compressed.pdf)
+ Reading: Chapters 1-3 of 
+Probability and
+Computing
+ (https://www.cs.purdue.edu/homes/spa/courses/pg17/mu-book.pdf)
+ with
+content and excersises on basic probabiliy, expectation, variance, and concentration bounds.
+3. 9/12
+Tue
+More random
+hashing: 2-level
+hashing. 2-universal
+and pairwise
+independent
+hashing.
+Slides.
+ (./slides/lecture3/lecture3Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture3/lecture3Compressed.pdf)
+ Reading: 
+Chapter 2.2
+(https://www.cs.cornell.edu/jeh/book.pdf)
+ of 
+Foundations of Data Science
+ with content on
+Markov's inequality and Chebyshev's inequality. Exercises 2.1-2.6. Chapters 1-3 of 
+and Computing
+ (https://www.cs.purdue.edu/homes/spa/courses/pg17/mu-book.pdf)
+content and excersises on basic probabiliy, expectation, variance, and concentration bounds.
+Some notes
+ (https://www.cs.princeton.edu/courses/archive/fall16/cos521/Lectures/lec1.pdf)
+(Arora and Kothari at Princeton) proving that the ax+b mod p hash function described in class
+in 2-universal.
+4. 9/14
+Thu
+Hashing for load
+balancing.
+Chebyshev's
+inequality. The
+union bound.
+Slides.
+ (./slides/lecture4/lecture4Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture4/lecture4Compressed.pdf)
+ Reading: 
+Chapter 2.2
+(https://www.cs.cornell.edu/jeh/book.pdf)
+ of 
+Foundations of Data Science
+ with content on
+Markov's inequality and Chebyshev's inequality. Exercises 2.1-2.6. Chapters 1-3 of 
+and Computing
+ (https://www.cs.purdue.edu/homes/spa/courses/pg17/mu-book.pdf)
+content and excersises on basic probabiliy, expectation, variance, and concentration bounds.
+5. 9/19
+Tue
+Exponential
+concentration
+bounds and the
+central limit
+theorem.
+Slides.
+ (./slides/lecture5/lecture5Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture5/lecture5Compressed.pdf)
+ Reading: Chapter 4 of 
+Probability and Computing
+(https://www.cs.purdue.edu/homes/spa/courses/pg17/mu-book.pdf)
+ on exponential
+concentration bounds. 
+Some notes
+ (http://math.mit.edu/~goemans/18310S15/chernoff-
+notes.pdf)
+ (Goemans at MIT) showing how to prove exponential tail bounds using the moment
+generating function + Markov's inequality approach discussed in class.
+6. 9/21
+Thu
+Finish up
+exponential
+concentration
+bounds. Bloom
+Filters.
+Slides.
+ (./slides/lecture6/lecture6Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture6/lecture6Compressed.pdf)
+ Reading: Chapter 4 of 
+Probability and Computing
+(https://www.cs.purdue.edu/homes/spa/courses/pg17/mu-book.pdf)
+ on exponential
+concentration bounds. 
+Chapter 4
+ (http://infolab.stanford.edu/~ullman/mmds/ch4.pdf)
+Mining of Massive Datasets
+, with content on bloom filters. See 
+here
+(https://cstheory.stackexchange.com/questions/6596/a-probabilistic-set-with-no-false-
+positives/14455#14455)
+ for some explaination of why a version of a Bloom filter with no false
+negatives cannot be achieved without using a lot of space. See 
+Wikipedia
+(https://en.wikipedia.org/wiki/Bloom_filter#Bloomier_filters)
+ for a discussion of the many
+bloom filter variants, including counting Bloom filters, and Bloom filters with deletions. See
+Wikipedia again
+ (https://en.wikipedia.org/wiki/Cuckoo_hashing)
+ and 
+these notes
+(https://web.stanford.edu/class/archive/cs/cs166/cs166.1146/lectures/13/Small13.pdf)
+an explaination of Cuckoo Hashing, a randomized hash table scheme which, like 2-level
+hashing, has O(1) query time, but also has expected O(1) insertion time.
+7. 9/26
+Tue
+Finish up Bloom
+filter analysis.
+Slides.
+ (./slides/lecture7/lecture7Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture7/lecture7Compressed.pdf)
+ Reading: 
+Chapter 4
+(http://infolab.stanford.edu/~ullman/mmds/ch4.pdf)
+ of 
+Mining of Massive Datasets
+, with
+content on bloom filters. 
+See 
+here
+ (http://cglab.ca/~morin/publications/ds/bloom-
+submitted.pdf)
+ for full Bloom filter analysis.
+8. 9/28
+Thu
+Min-Hashing for
+Distinct Elements.
+The median trick.
+Slides.
+ (./slides/lecture8/lecture8Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture8/lecture8Compressed.pdf)
+ Reading: 
+Chapter 4
+(http://infolab.stanford.edu/~ullman/mmds/ch4.pdf)
+ of 
+Mining of Massive Datasets
+, with
+content on distinct elements counting.
+9. 10/3
+Tue
+Distinct elements in
+pratice: Flajolet-
+Martin and
+HyperLogLog. Start
+on Jaccard similarity
+and motivation for
+the fast similarity
+search problem.
+Slides.
+ (./slides/lecture9/lecture9Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture9/lecture9Compressed.pdf)
+ Reading: 
+The 2007 paper
+(http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
+ introducing the popular
+HyperLogLog distinct elements algorithm. 
+Chapter 3
+(http://infolab.stanford.edu/~ullman/mmds/ch3.pdf)
+ of 
+Mining of Massive Datasets
+, with
+content on Jaccard similarity, MinHash, and locality sensitive hashing.
+10. 10/5
+Thu
+Fast similarity
+search via locality
+sensitive hashing.
+MinHashing for
+Jaccard similarity.
+Slides.
+ (./slides/lecture10/lecture10Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture10/lecture10Compressed.pdf)
+ Reading: 
+Chapter 3
+(http://infolab.stanford.edu/~ullman/mmds/ch3.pdf)
+ of 
+Mining of Massive Datasets
+, with
+content on Jaccard similarity, MinHash, and locality sensitive hashing.
+10/10
+Tue
+No Class. Monday
+class schedule
+followed.
+11. 10/12
+Thu
+Frequent elements
+estimation via
+Count-min sketch.
+Slides
+ (./slides/lecture11/lecture11Annotated.pdf)
+. 
+Compressed slides.
+(./slides/lecture11/lecture11Compressed.pdf)
+ Reading: 
+Notes
+(https://www.cs.dartmouth.edu/~ac/Teach/CS49-Fall11/Notes/lecnotes.pdf)
+ (Amit
+Chakrabarti at Dartmouth) on streaming algorithms. See Chapters 2 and 4 for frequent
+elements. 
+Some more notes
+ (https://people.csail.mit.edu/rrw/6.045-2019/encalgs-mg.pdf)
+the frequent elements problem. 
+A website
+ (https://sites.google.com/site/countminsketch/)
+with lots of resources, implementations, and example applications of count-min sketch. 
+Algebra Review: 
+Khan academy
+ (https://www.khanacademy.org/math/linear-algebra)
+12. 10/17
+Tue
+Dimensionality
+reduction, low-
+distortion
+embeddings, and the
+Johnson
+Lindenstrauss
+Lemma.
+Slides.
+ (./slides/lecture12/lecture12Annotated.pdf)
+ 
+Compressed slides.
+(./slides/lecture12/lecture12Compressed.pdf)
+ Reading: 
+Chapter 2.7
+(https://www.cs.cornell.edu/jeh/book.pdf)
+ of 
+Foundations of Data Science
+ on the Johnson-
+Lindenstrauss lemma. 
+Notes on the JL-Lemma
+(https://www.cs.cmu.edu/~avrim/Randalgs11/lectures/lect0314.pdf)
+ (Anupam Gupta (CMU).
+Sparse random projections
+ (https://arxiv.org/pdf/1004.4240.pdf)
+ which can be multiplied by
+more quickly.
+13. 10/19
+Thu
+Midterm Review.
+Slides.
+ (./slides/lecture13/lecture13Annotated.pdf)
+10/24
+Tue
+Midterm (In Class)
+Study guide and review questions.
+ (midtermConcepts.pdf)
+Spectral Methods
+14. 10/26
+Thu
+Finish up the JL
+Slides.
+ (./slides/lecture14/lecture14Annotated.pdf)
+ 
+Compressed slides.
+Lemma proof.
+Example application
+to clustering.
+(./slides/lecture14/lecture14Compressed.pdf)
+ Reading: 
+Chapter 2.7
+(https://www.cs.cornell.edu/jeh/book.pdf)
+ of 
+Foundations of Data Science
+ on the Johnson-
+Lindenstrauss lemma. 
+Notes on the JL-Lemma
+(https://www.cs.cmu.edu/~avrim/Randalgs11/lectures/lect0314.pdf)
+ (Anupam Gupta (CMU).
+15. 10/31
+Tue
+Intro to principal
+component analysis,
+low-rank
+approximation,
+data-dependent
+dimensionality
+reduction.
+Orthogonal bases
+and projection
+matrices.
+Slides
+ (./slides/lecture15/lecture15Annotated.pdf)
+. 
+Compressed slides.
+(./slides/lecture15/lecture15Compressed.pdf)
+ 
+Reading: 
+Chapter 3
+(https://www.cs.cornell.edu/jeh/book.pdf)
+ of 
+Foundations of Data Science
+ and 
+Chapter 11
+(http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
+ of 
+Mining of Massive Datasets
+rank approximation and the SVD. 
+Some good videos for linear algebra review.
+(https://www.3blue1brown.com/topics/linear-algebra)
+ 
+Some other good videos overviewing
+the SVD and related topics
+ (https://www.youtube.com/watch?
+v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&ab_channel=SteveBrunton)
+(like orthogonal projection and low-rank approximation).
+16. 11/02
+Thu
+Dual column/row
+view of low-rank
+approximation. Best
+fit subspaces and
+optimal low-rank
+approximation via
+eigendecomposition.
+Slides
+ (./slides/lecture16/lecture16Annotated.pdf)
+. 
+Compressed slides
+(./slides/lecture16/lecture16Compressed.pdf)
+. Reading: 
+Proof that optimal low-rank
+approximation can be found greedily
+ (https://www.cs.cmu.edu/~venkatg/teaching/CStheory-
+infoage/book-chapter-4.pdf)
+ (see Section 1.1). 
+Chapter 3
+(https://www.cs.cornell.edu/jeh/book.pdf)
+ of 
+Foundations of Data Science
+ and 
+Chapter 11
+(http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
+ of 
+Mining of Massive Datasets
+rank approximation.
+17. 11/07
+Tue
+Finish up optimal
+low-rank
+approximation via
+eigendecomposition.
+Eigenvalues as a
+measure of low-rank
+approximation error.
+Slides
+ (./slides/lecture17/lecture17Annotated.pdf)
+. 
+Compressed slides
+(./slides/lecture17/lecture17Compressed.pdf)
+. 
+Reading: 
+Chapter 3
+(https://www.cs.cornell.edu/jeh/book.pdf)
+ of 
+Foundations of Data Science
+ and 
+Chapter 11
+(http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
+ of 
+Mining of Massive Datasets
+rank approximation.
+18. 11/09
+Thu
+The singular value
+decomposition and
+connections to low-
+rank approximation.
+Applications of low-
+rank approximation
+beyond
+compression. Matrix
+completion and
+entity embeddings.
+Slides
+ (./slides/lecture18/lecture18Annotated.pdf)
+. 
+Compressed slides
+(./slides/lecture18/lecture18Compressed.pdf)
+. 
+Reading: 
+Notes on SVD and its connection to
+eigendecomposition/PCA (Roughgarden and Valiant at Stanford)
+(http://web.stanford.edu/class/cs168/l/l9.pdf)
+. 
+Notes on matrix completion
+(http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec/lec22.pdf)
+, with proof of recovery
+under incoherence assumptions (Jelani Nelson at Harvard). 
+Levy Goldberg paper
+(https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-
+factorization.pdf)
+ on word embeddings as implicit low-rank approximation.
+19. 11/14
+Tue
+Spectral graph
+theory and spectral
+clustering.
+Slides
+ (./slides/lecture19/lecture19Annotated.pdf)
+. 
+Compressed slides
+(./slides/lecture19/lecture19Compressed.pdf)
+. Reading: 
+Chapter 10.4
+(http://infolab.stanford.edu/~ullman/mmds/ch10.pdf)
+ of 
+Mining of Massive Datasets
+spectral graph partitioning. For a lot more interesting material on spectral graph methods see
+Dan Spielman's 
+lecture notes
+ (http://www.cs.yale.edu/homes/spielman/561/)
+. 
+Great notes on
+spectral graph methods
+ (http://web.stanford.edu/class/cs168/l/l11.pdf)
+ (Roughgarden and
+Valiant at Stanford).
+20. 11/16
+Thu
+The stochastic block
+model.
+Slides
+ (./slides/lecture20/lecture20Annotated.pdf)
+. 
+Compressed slides
+(./slides/lecture20/lecture20Compressed.pdf)
+. Reading: 
+Dan Spielman's lecture notes on
+stochastic block model, including matrix concentration + David-Kahan perturbation analysis.
+(https://www.cs.yale.edu/homes/spielman/561/lect21-15.pdf)
+. 
+Further stochastic block
+model notes
+(http://www.stat.cmu.edu/~arinaldo/Teaching/36710/F18/Scribed_Lectures/Nov12.pdf)
+(Alessandro Rinaldo at CMU). 
+A survey
+(http://www.princeton.edu/~eabbe/publications/abbe_FNT_2.pdf)
+ of the vast literature on
+the stochastic block model, beyond the spectral methods discussed in class (Emmanuel Abbe
+at Princeton).
+21. 11/21
+Tue
+Computing the SVD:
+power method.
+Krylov methods.
+Bonus material:
+connection to
+random walks and
+Markov chains.
+Slides
+ (./slides/lecture21/lecture21Annotated.pdf)
+. 
+Compressed slides
+(./slides/lecture21/lecture21Compressed.pdf)
+. Reading: 
+Chapter 3.7
+(https://www.cs.cornell.edu/jeh/book.pdf)
+ of 
+Foundations of Data Science
+ on the power method
+for SVD. 
+Some notes on the power method.
+ (http://web.stanford.edu/class/cs168/l/l8.pdf)
+(Roughgarden and Valiant at Stanford).
+11/23
+Thu
+No Class.
+Thanksgiving recess.
+11/28
+Tue
+No Class. Professor
+traveling.
+Optimization
+22. 11/30
+Thu
+Start on
+optimization and
+gradient descent.
+Slides
+ (./slides/lecture22/lecture22Annotated.pdf)
+. 
+Compressed slides
+(./slides/lecture22/lecture22Compressed.pdf)
+. Reading: Chapters I and III of 
+these notes
+(https://ee227c.github.io/notes/ee227c-notes.pdf)
+ (Hardt at Berkeley). Multivariable calc
+review, e.g., through: 
+Khan academy
+ (https://www.khanacademy.org/math/multivariable-
+calculus/multivariable-derivatives )
+23. 12/05
+Tue
+Gradient descent
+analysis for convex
+Lipschitz functions.
+Slides
+ (./slides/lecture23/lecture23Annotated.pdf)
+. 
+Compressed slides
+(./slides/lecture23/lecture23Compressed.pdf)
+. Reading: Chapters I and III of 
+these notes
+(https://ee227c.github.io/notes/ee227c-notes.pdf)
+ (Hardt at Berkeley).
+24. 12/07
+Thu
+Constrained
+optimization and
+projected gradient
+descent. Course
+conclusion/review.
+Slides
+ (./slides/lecture24/lecture24Annotated.pdf)
+. 
+Compressed slides
+(./slides/lecture24/lecture24Compressed.pdf)
+.
+12/14,
+10:30am -
+12:30pm
+Final Exam.
+Study guide and review questions.
+ (finalConcepts.pdf)
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

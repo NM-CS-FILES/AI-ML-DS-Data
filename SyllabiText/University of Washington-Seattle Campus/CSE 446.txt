@@ -1,0 +1,244 @@
+==================[Syllabus Start]==================
+Machine Learning
+Course Information:
+Course number: CSE 446
+Instructor: 
+Ali Farhadi
+ (ali[at]cs, CSE 652) 
+Class time: Tuesday, Thursday 
+9:00am-10:20am 
+Class location: 
+EEB 125
+TAs:
+Dae Hyun Lee (dhlee4@uw) 
+Office Hours: Tuesdays 13:30-15:00 in 
+CSE 007
+, 
+15:00-15:30 at
+3rd floor breakout
+Jianyang Zhang (jianyz@uw)
+Office Hours: Mondays 9:00-11:00 in 
+CSE 007
+Yue Zhang (yjzhang@uw)
+Office Hours: Thursdays 13:30-14:30 in 
+CSE 007
+Deric Pang (dericp[at]cs)
+Office Hours: Fridays 15:30-16:30 (or by request) CSE 4th Floor
+Breakout
+Qiang (Andrew) Yu (shift90@uw)
+Office Hours: Wednesdays 13:30-15:30 in 
+CSE 007
+Contact: cse446-staff[at]cs[dot]washington
+There will be no quiz sections. 
+Discussion board: 
+CSE 446 Spring 2017
+Exam:
+The final exam is on Wednesday, June 7 2017, 10:30am - 12:20pm.
+ The exam is open, you are welcome
+to bring the book, the lecture slides, and any handwritten notes you have. Laptops/tablets are allowed, but
+internet access is NOT allowed.
+Syllabus Overview:
+3/28
+Introduction
+Readings (Murphy): 1.1-1.4
+3/30
+Introduction (continued)
+Readings (Murphy): Same as 3/28
+4/4
+Decision Trees
+Readings (Murphy): 16.2, 16.4
+4/6
+Point Estimation
+Homework 1: [
+pdf
+][
+tex
+]
+Readings (Murphy): 2.4.1
+4/11
+Linear Regression
+Linear Regression (marked)
+Readings (Murphy):
+Linear Regression Model: 7.1-7.3
+Error metrics, overfitting, bias-var tradeoff: 6.4
+Regularization, ridge regression: 7.5.1
+LASSO: 13.1, 13.3-13.4.1
+4/13
+Linear Regression (continued)
+Linear Regression (marked) (continued)
+Readings (Murphy): Same as 4/11
+4/18
+Naive Bayes
+Readings (Murphy): 3.5
+4/20
+Logistic Regression
+Readings (Murphy): 8.1 - 8.3, 8.5.2
+Homework 1 is due before the class.
+Homework 2: 
+[pdf]
+ 
+[tex]
+4/25
+Logistic Regression
+Readings (Murphy): Same as 4/20
+4/27
+Perceptron
+Readings (Murphy): 8.5.0, 8.5.4
+5/2
+Support Vector Machines
+Support Vector Machines (marked)
+Readings (Murphy): 14.5
+5/4
+Kernels (annotated)
+Readings (Murphy): 14.4
+Homework 2 is due before the class.
+Homework 3: 
+[pdf]
+ 
+[tex]
+5/9
+Boosting
+Readings (Murphy): 16.4
+5/11
+Boosting (continued)
+Readings (Murphy): Same as 5/9
+5/16
+Clustering
+Readings (Murphy):
+Clustering & K-means: 11.4.2.5
+Mixtures of Gaussians: 11.2
+EM: 11.4 - 11.4.2.3
+5/18
+Clustering (annotated)
+Readings (Murphy): Same as 5/16
+Homework 3 is due before the class.
+Homework 4: 
+[.pdf]
+[.tex]
+[country data]
+5/23
+PCA
+Readings (Murphy): 12.1.0, 12.2
+5/25
+PCA
+Readings (Murphy): 12.1.0, 12.2
+5/30
+Non-parametric methods
+6/1
+Neural Networks
+Homework 4 is due 11:59PM.
+Text Books:
+Machine Learning: a Probabilistic Perspective,
+ Kevin Murphy, MIT Press, 2013.
+Optional:
+ Pattern Recognition and Machine Learning,
+ Christopher Bishop, Springer, 2007.
+Optional:
+ Machine Learning,
+ Tom Mitchell, McGraw-Hill, 1997.
+Optional:
+ The Elements of Statistical Learning,
+ Friedman, Tibshirani, Hastie, Springer,
+2001.
+Homeworks:
+We will have 4 homework assignments, which will be listed below as they are assigned. The assignments
+will be given out roughly in weeks 2, 4, 6, and 8, and you will have two weeks to complete each one.
+Privacy policy
+ and 
+terms of use
+Assignment 1: Decision Trees
+Assignment 2: Classifiers: Naive Bayes, Perceptron, Logistic Regression
+Assignment 3: SVMs and Ensembles
+Assignment 4: k-Means and 
+EM.
+Note that there is a deadline for each assignment. Anything uploaded after the deadline will be marked
+late. Please be careful to not overwrite an in time assignment with a late assignment when uploading near
+the deadline.
+Each student has three penalty-free late day for the whole quarter, 
+other than that any 
+late submission will
+be penalized for each day it is late.
+Please let the TA know if you cannot access any of the pages.
+Grading:
+The final grade will consist of homeworks (70%), a final exam (25%), and course participation (5%).
+Course Administration and Policies
+Assignments will be done individually unless otherwise specified. You may discuss the
+subject matter with other students in the class, but all final answers must be your own
+work. You are expected to maintain the utmost level of academic integrity in the course.
+As we sometimes reuse problem set questions from previous years, please do not to
+copy, refer to, or look at any solution keys while preparing your answers. Doing so will
+be regarded as cheating. We expect you to want to learn and not google for answers.
+Each student has three penalty-free late day for the whole quarter. Beyond that, late
+submissions are penalized (10% of the maximum grade per day)
+Comments can be sent to the instructor or TA using this anonymous feedback form
+(coming soon). 
+We take all feedback very seriously and will do whatever we can to
+address any concerns.
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

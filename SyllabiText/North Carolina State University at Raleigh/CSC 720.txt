@@ -1,0 +1,353 @@
+==================[Syllabus Start]==================
+CSC 720: Artiﬁcial Intelligence II
+Spring 2015
+Tentative Syllabus
+Jon Doyle
+Department of Computer Science
+North Carolina State University
+Instructor:
+Professor Jon Doyle
+Ofﬁce: EB II, Room 2298
+Telephone: 919-513-0423
+Email: JonDoyle@ncsu.edu
+Web: http://www.csc.ncsu.edu/faculty/doyle
+Ofﬁce hours: see the instructor’s website or ofﬁce nameplate
+Course time, place, and credits:
+Monday-Wednesday 2:20-3:35 PM
+EB2, Room 1228
+3 credit hours
+URL: http://moodle.wolfware.ncsu.edu/
+Reference texts:
+Primary
+Knowledge Representation and Reasoning
+Ronald Brachman and Hector Levesque
+San Francisco: Morgan Kaufmann, 2004, ISBN 1558609326. $70
+Secondary
+Artiﬁcial Intelligence: A Modern Approach (3rd ed.)
+Stuart J. Russell and Peter Norvig
+New York: Prentice Hall, 2010, ISBN 0-13-604259-7. $80
+Version of November 17, 2014 at 08 : 45 cJon Doyle 2015 1
+Course summary
+The following description from the course catalog is out of date.
+A second course in artiﬁcial intelligence emphasizing advanced concepts of AI
+including logic programming, automatic programming, natural language understand-
+ing, visual perception by machine, learning and inference, intelligent computer-aided
+instruction, knowledge representation, robotics and other topics to be chosen by in-
+structor. Students asked to write programs in AI programming language such as LISP
+and PROLOG.
+The current course can be summarized as follows. Students in this course examine some funda-
+mental concepts of artiﬁcial intelligence, focussing on agents and their interactions with their en-
+vironments, knowledge representation and acquisition; reasoning and decision making; individual
+and collaborative action; and philosophical and mathematical foundations. The course emphasizes
+the pervasive role of rationality in all these areas, and seeks to understand this concept and others in
+terms of the philosophical, mathematical, logical, economic foundations of questions and theories
+about mind. The examination concentrates on developing skill in identifying and precisely formu-
+lating ideas, problems, and solutions. The examination proceeds against a backdrop of assumed
+knowledge of basic computational methods for implementing artiﬁcial agents.
+Course outcomes
+At successful completion of the course, the student will be able to explain foundational and fron-
+tier problems and compare and evaluate approaches toward representation, reasoning, action, and
+learning. Speciﬁc knowledge will include
+Theories of the nature of intelligent agents and their interactions with their environment;
+Theories of ideal individual and group rationality based on logic, economics, and psychol-
+ogy, along with their comparative strengths and weaknesses;
+Theories of limited rationality from game theory and economics, psychology, and artiﬁcial
+intelligence, and their connection to practical techniques for representation, reasoning, and
+action;
+Mathematical formalization and application of these theories to decision analysis and system
+control, organizational design, multi-agent systems, adaptation to changing circumstances,
+and the structure of individual agent psychologies;
+Fundamental issues and hard problems in knowledge representation and natural language
+interpretation;
+Methods for specifying the knowledge, behavior, control, and character of rational agents;
+Theories of approximation in learning and decision making, including what is learnable,
+what decisions are possible, and the prospects for pervasive automation of human activities;
+Version of November 17, 2014 at 08 : 45 cJon Doyle 2015 2
+Methods for inferring the knowledge underlying observed behavior of rational agents;
+Rational methods of deliberation and decision-theoretic planning;
+Theories of personhood, consciousness, emotion, freedom, and morality and their relation to
+theories of rationality and knowledge.
+The successful student will also be able to identify, explain, and initiate investigation of open
+problems in artiﬁcial intelligence and the rational analysis of automated systems.
+Prerequisites
+Enrollment is restricted to students having had CSC 520 (Artiﬁcial Intelligence I). Other students
+must seek the permission of the instructor before taking the course.
+The primary knowledge prerequisite is familiarity with the basic concepts and techniques of
+artiﬁcial intelligence, including concepts of logical and probabilistic knowledge representations,
+automated reasoning, search, planning, and learning methods. The secondary knowledge prereq-
+uisite is a grasp of the relevant mathematical methods, including logic, probability, algebra, and
+multivariate calculus.
+Course organization
+Instruction will involve lectures, readings, discussions, written and oral student presentations of
+readings, and a term project proposal, report, and presentation.
+Lectures, readings, and discussion
+Lectures will introduce and summarize elements of the topics under discussion, illustrating the
+conceptual methods employed in the subject, and providing a starting point for discussions of
+readings.
+Readings will extend acquaintance with the concepts introduced in lecture. Some readings will
+be taken from the textbook, but more from the relevant literatures. Readings beyond the suggested
+ones can form portions of some term projects.
+Discussions of readings will serve to develop understanding of concepts and their limitations
+and to stimulate discussion. Many weeks will contain one meeting devoted to lecture and one meet-
+ing devoted to discussion of readings. Each discussion will begin with presentations by students
+of the readings assigned for the week.
+Readings are grouped into sets by topic. Each reading set constitutes an assignment for every
+student the course. Students are expected to read at least one of the assigned papers or supple-
+mentary papers, and such readings must be in addition to the paper the student is presenting, if the
+student is presenting a paper from that set.
+Version of November 17, 2014 at 08 : 45 cJon Doyle 2015 3
+Class presentations
+In addition to the class readings, each student will be responsible for making one or more presen-
+tations of assigned readings over the course of the semester. The number and format of assigned
+presentations depends on class enrollment and circumstances.
+Students presenting readings should read the assignments carefully enough to have a good
+grasp of the ideas and techniques presented, and to be able to identify and explain the strengths
+and weaknesses of the approaches, including open problems, novel applications, and dubious pre-
+suppositions. Ideally, the presenter should be able to both present the main ideas of the reading
+as the author might present it, as well as present a critique or appreciation of the reading as a
+competing researcher might do.
+Presenting the main ideas does not mean presenting all details. Part of the task in presenting a
+paper is selecting which portions deserve presentation. In general, a presentation should not simply
+recapitulate entire paper, especially if the paper is a long one. One should instead pick and choose
+the most interesting and important bits, presenting illuminating examples, problems, and questions.
+A summary that communicates the main ideas along with a deeper discussion of selected examples
+and problems usually is better than one that gives a broad summary of everything in the paper but
+details about nothing.
+Analytical summaries and critiques
+Each student assigned a paper for class presentation will also prepare a short written analytical
+summary and critique of the paper. The summary should not simply replicate the abstract of the
+assigned paper, but instead clearly state and critique the main ideas of the paper, as in the guidance
+for the class presentation just described. That is, the analytical summary might aim to pick out
+some particular element of the paper and show how it illustrates the strengths and weaknesses of
+the paper, rather than merely giving a high-level overview of the paper.
+One should aim to write analytical summaries and critiques that are two pages long. Writing
+clearly and brieﬂy requires the student to think very carefully about just what are the ideas of the
+paper, and how to express the main points and critiques directly, and one should make every effort
+to avoid substituting additional length for clearer identiﬁcation of these main ideas. Summaries
+under two pages will not be accepted; neither will be summaries over four pages long. Summaries
+can include illustrations when these are absolutely essential, but the text of the summary must
+identify and explain the key points and lessons of the illustrations.
+Term projects
+Individual term projects should exercise the student’s understanding of the material at a level that
+provides a possible basis for future investigation or publication. Projects related to planned or
+ongoing thesis work are acceptable, but should complement rather than duplicate the thesis work.
+The instructor poses no a priori limitation on the topic or scope of term projects, but expects
+topics that permit completion during the semester. Suggestions for term projects include the fol-
+lowing:
+Conducting a research survey that provides a detailed and comprehensive explanation and
+evaluation of the state of knowledge or art on some topic. The works selected might represent
+Version of November 17, 2014 at 08 : 45 cJon Doyle 2015 4
+a question of interest to the student, or perhaps works extending those presented in class by
+the student. The topic should likely be a narrow one to permit completion as a term project
+rather than as a thesis or research career.
+Investigating an open research question of interest to the student. This might involve work to
+identify speciﬁc open questions at the foundations or frontier of some area, and formulating
+problems and algorithms carefully in precise formal (mathematical or logical) terms.
+Implementing and carefully describing a novel application of concepts and techniques under
+discussion to a practical problem.
+The instructor would be happy to discuss any other ideas for projects that students might have in
+mind.
+Term project proposal
+Topics for projects require the approval of the instructor. The student should be able to describe
+the intended topic clearly in a short proposal of no more than two pages.
+Term project report
+Each term project must be described in a written term project report. One should expect project
+reports to run about the length of conference papers, that is, 5-10 pages in double column format or
+10-20 single spaced pages in single-column format. Each term paper should represent an individual
+effort, not a collaboration. The nature of the report will vary with the type of the project. For
+example, reports on implementational projects should clearly describe the problem addressed and
+its motivations, as well as the structure, speciﬁcations, and properties of the implementation.
+Term project presentation
+Each student will make a brief oral presentation of his or her project to the class during the time set
+aside for the ﬁnal exam, or during the last week of classes if necessary. As with class presentations
+of assigned papers, the aim should be to present the central ideas and essential details brieﬂy and
+clearly. The presentations should be aimed at all class members, not just the instructor, and should
+not presume the audience has read the associated term project report.
+Computation
+The course does not require a programming project, but implementation efforts are welcomed ei-
+ther as a part or as the centerpiece of the work in a term paper. Choice of implementation language
+is up to the student. Implementations may make use of standard libraries unrelated to the primary
+aims of the project. Thus if the primary purpose of the implementation is to illustrate ideas devel-
+oped in the report rather than to develop new implementation capabilities, the implementation can
+reuse substantial portions of existing AI programs. If the primary purpose of the implementation
+is to develop new algorithms from scratch or to extend existing implementations with substantial
+new capabilities, there should be a clear distinction between the new portions and the old. In such
+Version of November 17, 2014 at 08 : 45 cJon Doyle 2015 5
+cases the student should ﬁrst obtain the instructor’s approval and then credit the reuse explicitly in
+the report.
+Privacy
+Donotinclude student ID numbers on papers or tests unless speciﬁcally instructed to do so by the
+instructor.
+Grading
+Clarity of writing and organization forms an important factor in grading of written and oral pre-
+sentations. Unclear writing can suggest a lack of understanding of the material. Examples, ﬁgures,
+tables, and analytical results should be accompanied by clear explanations of what lessons the
+reader should take away from them. Students should avoid writing in terms of bullet lists, which
+usually reﬂect a lack of thought about how to express the material. Make sure the paragraphs of
+the writing clearly express the main points, supporting arguments, and connections between the
+main points.
+Assignments must be submitted via Moodle prior to the due date and time announced in ad-
+vance. Late submissions will not be accepted apart from absences excused according to the Univer-
+sity attendance policy. Incomplete grades will not be assigned except in cases of absences excused
+according to the University attendance policy.
+Students should expect to contribute to class discussion with questions, observations, and re-
+sponses to questions posed by the instructor or other students. One need not speak up in every
+discussion, but students should not leave the instructor or other students thinking that they never
+have anything to say.
+Overall grades will be assigned based on a weighted combination of performance on different
+course activities, according to the scheme
+A+ = 97 - 100
+A = 93 - 96.9
+A- = 90 - 92.9
+B+ = 87 - 89.9
+B = 83 - 86.9
+B- = 80 - 82.9C+ = 77 - 79.9
+C = 73 - 76.9
+C- = 70 - 72.9
+D+ = 67 - 69.9
+D = 63 - 66.9
+D- = 60 - 62.9
+F = 59 and below
+with the weighting given by
+In-class presentation 30%
+Analytical summary 10%
+Reading assignments 5%
+Class participation 5%Project proposal 5%
+Project report 40%
+Project presentation 5%
+Version of November 17, 2014 at 08 : 45 cJon Doyle 2015 6
+Attendance
+This course follows the University Attendance Regulation (REG02.20.03) available at
+http://policies.ncsu.edu/regulation/reg-02-20-03 .
+Attendance is mandatory during class sessions in which students are presenting papers.
+The instructor imposes no formal limits on absences from lecture, but attendance in lecture is
+strongly encouraged because the discussions will involve material not in any textbook. Students
+are responsible for all material presented or discussed in lecture.
+Academic integrity
+This course follows the University policy on academic integrity found in the Code of Student
+Conduct (POL11.35.01), available at
+http://policies.ncsu.edu/policy/pol-11-35-01 and the Honor Pledge.
+A student shall be guilty of a violation of academic integrity if he or she:
+Represents the work of others as his or her own;
+Obtains assistance in any academic work from another individual in a situation in which the
+student is expected to perform independently;
+Gives assistance to another individual in a situation in which that individual is expected to
+perform independently;
+Offers false data in support of laboratory or ﬁeld work.
+Violations will be reported to the Ofﬁce of Student Conduct, which may impose penalties beyond
+those recommended by the instructor.
+Students with disabilities
+Reasonable accommodations will be made for students with veriﬁable disabilities. In order to
+take advantage of available accommodations, students must register with Disability Services for
+Students at 1900 Student Health Center, Campus Box 7509, 919-515-7653. For more infor-
+mation on NC State’s policy on working with students with disabilities, please see the Aca-
+demic Accommodations for Students with Disabilities Regulation (REG 02.20.01) available at
+http://policies.ncsu.edu/regulation/reg-02-20-01 .
+Class evaluations
+Online class evaluations will be available for students to complete during the last two
+weeks of the semester. Students will receive an email message directing them to a website
+(classeval.ncsu.edu ) where they can login using their Unity ID and complete evaluations.
+All evaluations are conﬁdential; instructors will never know how any one student responded to
+any question, and students will never know the ratings for any particular instructors. The student
+Version of November 17, 2014 at 08 : 45 cJon Doyle 2015 7
+help desk can be reached at classeval@ncsu.edu . More information about evaluations is
+available at http://www.ncsu.edu/UPA/classeval/ .
+Version of November 17, 2014 at 08 : 45 cJon Doyle 2015 8
+Schedule
+This syllabus assumes a 15-week schedule with two 75 minute meetings per week. The ﬁnal
+presentation period follows the University ﬁnal exam schedule. The order and content of lectures
+is subject to change.
+Week Dates Topic Reading sets and
+other assignments
+INTRODUCTION AND BACKGROUND
+1Jan 7 Course introduction and the big problems RS 1, read syllabus
+RATIONALITY
+2Jan 12–14 Logical rationality RS 2
+Jan 19 Martin King Day, no class
+3Jan 21 Economic rationality RS 3
+4Jan 26–28 Psychological rationality RS 4
+KNOWLEDGE
+5Feb 2–4 Representing knowledge RS 5, proposal due 2/4
+6Feb 9–11 Representing knowledge RS 6
+SELF -GOVERNMENT
+7Feb 16–18 Consciousness and personhood RS 7
+8Feb 23–25 Deliberation and argumentation RS 8
+9Mar 2–4 Decision-model construction RS 9
+Mar 9–11 Spring break, no classes ,
+10 Mar 16-18 Planning RS 10
+11 Mar 23–25 Planning RS 11
+LEARNING
+12 Mar 30–Apr 1 Knowledge acquisition RS 12
+13 Apr 6–8 Learning RS 13
+14 Apr 13-15 Learning RS 14
+15 Apr 20–22 Mind, matter, and computation Report due 4/22
+May 1 Report presentations , 1–4 PM
+Version of November 17, 2014 at 08 : 45 cJon Doyle 2015 9
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

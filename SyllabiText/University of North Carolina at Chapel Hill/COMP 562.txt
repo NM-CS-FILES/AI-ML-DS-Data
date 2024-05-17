@@ -1,0 +1,279 @@
+==================[Syllabus Start]==================
+The Wayback Machine - https://web.archive.org/web/20190910130952/http://comp562fall18.web.unc.edu:80/syllabus/
+Bulletin Description
+Machine learning as applied to speech recognition, tracking, collaborative filtering and recommendation systems.
+Classification, regression, support vector machines, hidden Markov models, principal component analysis, and deep learning.
+General Course Info
+Term:  Fall 2018
+Department:  COMP
+Course Number:  562
+Section Number:  001
+Time:  MW 11:15-12:30 pm
+Location:  SN011
+Website:   
+https://comp562fall18.web.unc.edu/
+Instructor Info
+Name:  Mahmoud Mostapha
+Office:  SN228 (Sitterson)
+Email:  mahmoudm@cs.unc.edu
+Website:  
+https://mahmoudmostapha.web.unc.edu/
+Office hours:  WF 12:30-1:30
+       
+       
+Textbook and Resources
+Kevin P. Murphy, Machine Learning: A Probabilistic Perspective, 1st Edition (August 24, 2012), ISBN 9780262018029
+The course website will be the primary means for distributing information including lecture notes and assignments.  The material
+will be uploaded to Sakai as well and will be also used for reporting scores.  We will use Piazza for questions and
+announcements. You will need to sign up for Piazza and monitor it regularly.
+Course Description
+SYLLABUS
+COMP 562: Introduction to Machine Learning
+This course provides a broad introduction to modern machine learning. Machine learning uses interdisciplinary techniques such
+as statistics, linear algebra, optimization, and computer science in getting computers to make predictions or decisions without
+being explicitly programmed. Machine learning as a field is now incredibly pervasive, with applications spanning from energy
+management in intelligent buildings to autonomous navigation, and from analyzing medical data to book recommendation
+systems, etc. This course will cover casting such problems in a supervised (generative/discriminative learning, parametric/non-
+parametric learning, neural networks) or unsupervised (clustering, dimensionality reduction, kernel methods) learning
+frameworks. This course aims at the middle of the theoretical versus practical spectrum. We will learn the concepts behind
+several machine learning algorithms without going deeply into the mathematics and gain practical experience applying them.
+The course will consist of a combination of lectures, assignments, a midterm exam, and a final project.
+Target Audience
+This course is intended to be an introduction to machine learning and is therefore suitable for all undergraduate students who
+are comfortable with basic math (linear algebra and basic probability) and ready to endeavor into creating and programming
+machine learning algorithms (basic programming skills in either Python or MATLAB).
+Prerequisite
+COMP 410, MATH 233, STOR 435, or permission of instructor.
+Credits
+3 credits: the course has classroom lectures.
+Goals and Key Learning Objectives
+Develop an understanding of basic machine learning algorithms, their efficient implementations and their applicability to
+different tasks. Gain experience in implementing the algorithms and checking their correctness. Apply the algorithms to a real-
+world problem, optimize the models learned and report on the expected accuracy that can be achieved by applying the models.
+Course Requirements
+There will be written assignments that contain questions based on the material covered in the lectures. Some assignments may
+contain questions from the required textbook. Once posted, assignments will typically be due in 1 or 2 weeks as specified in the
+assignment document. There will be 4 assignments during the semester. In addition, each student will also do a course project
+as part of a team. There will also be a midterm and final exams.
+Course Schedule
+An initial schedule for this class is listed below; however, changes to this schedule is might occur depending on the progress
+achieved. All readings are in the Murphy textbook unless otherwise noted.
+Week
+Topics Covered
+Readings
+Key Dates
+1
+Introduction to the Course
+Ch1
+Classes Start
+2
+Probability Review
+Ch2
+Linear Regression – Part 1
+Ch7
+3
+Labor Day
+Linear Regression – Part 2
+Ch7
+4
+Logistic Regression – Part 1
+Ch8
+Project Groups Due
+Logistic Regression – Part 2
+Ch8
+Ass 1 Posted
+5
+Logistic Regression – Part 3
+Ch8
+Naïve Bayes + Model Evaluation
+Ch3
+6
+Bayesian Networks – Part 1
+Ch10
+Ass 1 Due
+Bayesian Networks – Part 2
+Ch10
+7
+Mixture Models – Part 1
+Ch11
+Ass 2 Posted
+Mixture Models – Part 2
+Ch11
+Project Proposals Due
+8
+Latent Linear Models – Part 1
+Ch12
+Mid-Term Review
+Ass 2 Due
+9
+Mid-Term
+Mid-Term
+Latent Linear Models – Part 2
+Ch12
+10
+Latent Linear Models – Part 3
+Ch12
+Sparse Linear Models – Part 1
+Ch13
+Ass 3 Posted
+11
+Sparse Linear Models – Part 2
+Ch13
+Sparse Linear Models – Part 3
+Ch13
+12
+Kernels Methods – Part 1
+Ch14
+Ass 3 Due
+Kernels Methods – Part 2
+Ch14
+13
+Deep Learning – Part 1
+Ch16
+Project Progress Report Due
+Deep Learning – Part 2
+Ch16
+14
+Thanksgiving
+Deep Learning – Part 3
+Ch28
+Ass 4 Posted
+15
+Deep Learning – Part 4
+Ch28
+Deep Learning – Part 5
+Ch28
+Ass 4 Due
+16
+Final Review
+Final Projects Poster Session
+Final Project Report Due
+Note : The final exam will be as per the 
+registrar’s calendar
+ (Dec 11 at 12 PM).
+Grading Criteria
+The final grade will be based on the following:
+Homework:  Maximum of 35% (4 assignments each 10%)
+Midterm Exam:  20%
+Final Exam:  30%
+Final Project:  15%
+The project grade will be broken down further in the Project Description.
+The course final is given in compliance with UNC final exam regulations and according to the UNC Final Exam calendar.
+All graded work will receive a percentage grade between 0% and 100%.  Here are how the percentage grades will map to final
+letter grades; percentages are not rounded:
+Percentage
+Letter grade
+Percentage
+Letter grade
+93% <=
+A
+73% <=
+C
+90% <=
+A-
+70% <=
+C-
+87% <=
+B+
+67% <=
+D+
+83% <=
+B
+60% <=
+D
+80% <=
+B-
+< 60%
+F
+77% <=
+C+
+The instructor reserves the right to adjust the percentage ranges for each letter grade upward in your favor.
+Attendance and Participation
+Students are expected to attend lectures and participate in class discussions of algorithm implementation, performance, and
+suitability to different machine learning problems. Some of the discussions will draw on material in homework problems.
+Participation on Piazza discussion board by posting questions and answers is also encouraged.
+Course Policies
+Late submissions of assignments will be accepted with a late penalty.
+Homework Late Policy:
+  Homework assignments must be submitted in class on the day they are due.  Work that is submitted
+after the end of that class and up to one class late will be assessed a 25% late penalty.  After then, work submitted by the
+beginning of the second class after it was due will be assessed a 50% late penalty.  Work submitted later than that will not be
+graded.
+Exams and are closed-book unless otherwise stated.
+Honor Code
+You are allowed to (actually, encouraged to) discuss basic concepts as well as assigned tasks with other students.  However,
+you are required to write the solutions and code assignments individually:  i.e., what you hand in must be your own work.  The
+instructor reserves the right to allow teaming on assignments and final projects; in that case, what you hand in must be that
+team’s work.  Also, you cannot use solutions from previous offerings of the course.  Not following these rules is a violation of the
+honor code.
+ Disclaimer
+The professor reserves to right to make changes to the syllabus, including due dates.  These changes will be announced as
+early as possible.
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

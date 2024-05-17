@@ -1,0 +1,366 @@
+==================[Syllabus Start]==================
+COMS E6998-1: Advanced Machine Learning
+This graduate course covers current research level topics in machine learning for both 
+generative and discriminative estimation. Material will include exponential family distributions, 
+Bayesian networks, Bayesian inference, maximum likelihood, maximum entropy, mixture 
+models, the EM algorithm, graphical models, hidden Markov models, variational 
+methods, linear classifiers, regression, generalization bounds, support vector machines, 
+kernel methods and transduction. 
+Projects 
+Powerpoint Files 
+Readings 
+Schedule 
+Readings on Variational Methods:
+Jordan's Intro (ps.gz) 
+Jaakkola's Tutorial on Mean Field (ps) 
+Jaakkola on QMR-DT (pdf) 
+Readings on Support Vector Machines:
+Chris Burges' Tutorial (ps.gz) 
+Assignment 1: as 
+Postscript 
+or as 
+PDF 
+Assignment 2: as 
+Postscript 
+or as 
+PDF 
+and data: 
+Dataset1 
+Dataset2 
+Dataset3 
+Dataset4 
+Assignment 3: as 
+Postscript 
+or as 
+PDF 
+and data: 
+Dataset5 
+Dataset6 
+Dataset7 
+and code: 
+sampleNet 
+likeNet 
+learnNet 
+Assignment 4: as 
+Postscript 
+or as 
+PDF 
+Class Project: as 
+Postscript 
+or as 
+PDF 
+Matlab Tutorial and Useful Functions 
+Scanned Class Notes (pdf) pages: 
+(1-5) 
+(6-8) 
+(9-16) 
+(17-25) 
+(26-35) 
+(36-40) 
+(41-46) 
+(47-54) 
+WHAT'S NEW
+April 15, 2002: 
+Assignment 4 (a short one) is online, due April 29th.
+April 15, 2002: 
+Note the link for tutorial on support vector machines.
+April 11, 2002: 
+Note links above on variational methods papers to learn more about details.
+April 1-5, 2002: 
+Regular office hours cancelled. Office hours April 1st 10-11am, 6-7pm, or by appointment.
+March 31, 2002: 
+Class lecture on April 22nd is MOVED to 4pm on April 26th (MUDD 1024).
+March 18-22, 2002: 
+Office hours are by appointment only during the spring break (no regular).
+March 15th, 2002: 
+The class project is now online, due May 6th (abstract due April 1st).
+March 15th, 2002: 
+Problem Set 3 is now online, due April 1st.
+March 5th, 2002: 
+Office hours on Thursdays have been moved to 2:30-3:30.
+February 28th, 2002: 
+By popular request, class notes are available (sorry about low scan quality).
+February 28th, 2002: 
+Due to Matlab being new for many, the deadline for Assignment 2
+is extended to March 12th. Please take a look at the new pdf and 
+ps files which have a few more details to make things clearer.
+February 20th, 2002: 
+Assignment 2 is available above.
+February 14th, 2002: 
+CVN students may also fax the assignment to me at 212-666-0140. 
+Write on the cover sheet ATTN: Tony Jebara, CEPSR 605.
+February 6th, 2002: 
+Please download assignment 1 from the links above. It will be due on 
+February 19th. The reading schedule is above if you want to get a head start for next class.
+February 4th, 2002: 
+My computer crashed so email response time and so forth will be 
+slow for the next few days.
+January 25, 2002: 
+Make sure you include a NEW password with your email so that I can 
+give you access to the class web page for the text book. Your username will be the 
+email address you mail me with (i.e. if your email address is 'joe@columbia.edu',
+then your username will be 'joe'). As usual, please use '6998' as the title of your email. 
+The link to the text book is at the bottom of this web page.
+January 23, 2002: 
+Please email jebaraATcsDOTcolumbiaDOTedu with the subject "6998".
+This email will add you the class mail list and give you permission to download the text. 
+Include a short blurb about your background, previous courses, and your current projects.
+COURSE BENEFITS
+Formal treatment of machine learning with statistics and graphical models
+Classification, modeling and prediction for many applied domains
+Research level exploration of current issues and trends in the field
+PROFESSOR JEBARA
+Assistant Professor of Computer Science
+Various publications and research in machine learning community
+Applications in human-computer interfaces, computer vision
+Lecturer/Manager:
+Tony Jebara
+Office Hours:
+CEPSR 605, Tuesdays 2pm-4pm and Thursdays 2:30pm-3:30pm
+Office Phone:
+212-939-7079
+E-mail Address:
+jebaraATcsDOTcolumbiaDOTedu
+Day & Time of Class:
+Mondays 16:10-18:00
+Class Location:
+1024 MUDD
+Class Homepage:
+http://www.cs.columbia.edu/~jebara/6998-01
+Credits for Course:
+3
+Class Type:
+Lecture
+Prerequisites:
+Linear Algebra, Introductory Machine Learning or Introductory Statistics
+Required Text(s):
+Introduction to Graphical Models by M. Jordan and C. Bishop
+. The authors
+have agreed to let us use the current online draft of the text which is scheduled to
+be published shortly. The files will be made available through a secure web page
+however, they have asked that these do not circulate outside the course. Please
+respect this while you use the online version. 
+You will need to send me an email with a password (make up a NEW password
+just for this class) to see the book (as postscript or pdf files). A couple of days
+after you have mailed me, you should be able to follow this link:
+http://www.cs.columbia.edu/~jebara/6998-01/book 
+. 
+I will setup your user name
+from the first part of your email address which you send me the email with (i.e.
+'joe@columbia.edu' will have a username 'joe'). Include a new made up password
+in the body of your email which will be attributed to your username. Please use
+'6998' as the title of your email.
+Reference Text(s):
+Pattern Classification by Duda, Hart and Stork
+Neural Networks for Pattern Recognition by Chris Bishop
+Papers and handouts will be made available later in the term
+Homework(s):
+Roughly 5 problem sets. These will be assigned and due every 2 weeks.
+Project(s):
+A research project is required that uses course material in an applied setting or
+develops it further
+Paper(s):
+A conference style paper describing the project will be due at the end of the term.
+Grading:
+Problem Sets 50% and Project (paper & presentation) 50%
+Software Requirements:
+Programming (Matlab or C)
+Homework Submission:
+Due in class or email by start of class
+COURSE OUTLINE FOR CURRENT SEMESTER
+Tentative schedule (subject to change)
+Course Outline for COMS E6998-1: Advanced Machine
+Learning
+Original
+ 
+Date
+Class
+ 
+No.
+Semester
+ 
+Date
+Topics/Chapters Covered
+Assigned
+   Due   
+Jan. 28
+ 
+1
+ 
+ 
+Distributions, Bayesian Inference 
+ 
+ 
+Feb. 4
+ 
+2
+ 
+ 
+Exponential Family and ML 
+ 
+ 
+Feb. 11
+ 
+3
+ 
+ 
+Mixture Models and the EM Algorithm 
+ 
+ 
+Feb. 18
+ 
+4
+ 
+ 
+Generative and Discriminative Learning 
+ 
+ 
+Feb. 25
+ 
+5
+ 
+ 
+Graphical Models 
+ 
+ 
+Mar. 4
+ 
+6
+ 
+ 
+Junction Tree Algorithm 
+ 
+ 
+Mar. 11
+ 
+7
+ 
+ 
+Hidden Markov Models 
+ 
+ 
+Mar. 25
+ 
+8
+ 
+ 
+Approximate and Variational Methods 
+ 
+ 
+Apr. 1
+ 
+9
+ 
+ 
+Loopy Propagation 
+ 
+ 
+Apr. 8
+ 
+10
+ 
+ 
+Generalization and Model Selection 
+ 
+ 
+Apr. 15
+ 
+11
+ 
+ 
+Support Vector Machines, Kernels 
+ 
+ 
+Apr. 22
+ 
+12
+ 
+ 
+Transduction, Feature Selection 
+ 
+ 
+Apr. 29
+ 
+13
+ 
+ 
+Maximum Entropy, Duality 
+ 
+ 
+May 6
+ 
+14
+ 
+ 
+Project Presentations 
+ 
+ 
+ 
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

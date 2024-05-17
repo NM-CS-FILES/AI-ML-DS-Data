@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "openai": "^4.47.1",
+    "pdf-text-reader": "^5.1.0",
+    "pdf-to-text": "^0.0.7",
+    "pdfjs-dist": "^4.2.67",
     "url2pdf": "^0.4.7"
   }
 }

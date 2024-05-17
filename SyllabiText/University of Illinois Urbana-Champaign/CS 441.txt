@@ -1,0 +1,186 @@
+==================[Syllabus Start]==================
+Applied Machine Learning  (CS 441) – Spring 2023 
+ 
+Instructor :  Derek Hoiem (dhoiem)  
+TAs:    
+• Vatsal Chheda (vchheda2)  
+• Joshua Levine  (joshua45 ) 
+• Weijie Lyu (wlyu3 )  
+• Kshitij Phulare  (phulare2 )  
+• Yuqun Wu (yuqunwu2 )  
+• Mingtong  Zhang  (mz62 ) 
+• Wentao Zhang  (wentao4 )  
+ 
+Lectures: Tues/Thurs 9:30 -10:45, 1002 ECE Building  
+ 
+Overview  
+Machine learning (ML) algorithms convert raw data into predictive models or insights. ML is used for speech 
+recognition, driving safety, compression, data analytics, ad recommendation,  photo enhancement, robotics, 
+gaming, and more.  Application of ML is changing our lives daily , and masters of ML are the wizards of the 
+information age.  
+ 
+Course Objectives  
+This course teaches how to use machine learning techniques to solve a wide variety of problems. By the end of this course, you should have a strong grasp of the general principles of machine learning, including familiarity with 
+common approaches, assumptio ns, and methodologies. You should be able to asses s the strengths, weaknesses, 
+and use cases of ML algorithms, and to select and apply the right tools for custom classification, regression, and analysis problems.  You should be able to talk intelligently about modern applications to computer vision, 
+language, and audio , including ethical concerns about applications of ML.  These capabilities will be developed 
+through practical exercises and projects, guided by lectures covering a wide range of topics, and r einforced in 
+exams.   
+ 
+Prerequisites  
+You should enter the course with basic programming skills  and a working knowledge of linear algebra, 
+probability /statistics , and calculus.  Previous e xperience with P ython  will be very helpful  but is not required .   
+ 
+Assignments and Grading  
+Grading is based on assignments, midterm, and the final exam : 
+• Homeworks and Final Project: 80%  
+• Exams: 20% 
+o Midterm: 10% 
+o Final: 10% 
+ 
+Assignments (80 %):  There are four  project -based homeworks , each with a “core” worth 100 points.  Each 
+homework  also has “ stretch goals” that give you the opportunity to explore projects of interest at greater depth 
+and earn additional points.  The final project is worth 100 points, which can either be an individ ual or team  project 
+on one of a few challenges, or a custom team project. The number of required points depends on whether you 
+are enrolled in the 3 credit undergraduate or 4 credit graduate version of the course:  
+• 3 credit: 425 points required, max of 15 points extra credit  
+• 4 credit: 525 points required, max of 15 points extra credit  
+In final grade computation, only the total matters.  If you are in the 3 credit course, you could potentially skip the 
+final project by completing more stretch goals, or skip some parts of homework and complete the project. Assignments  that are not submitted within two weeks of the deadline will receive 0 points . You can earn a small 
+amount of extra credit (to make up for lost points on exams) if you earn more total points than required.  
+ 
+Midterm Exam  (10%): The midterm will cover materials up to and including the week 7 lectures . The midterms 
+and final exams are planned to be open book and administered using PrairieLearn , but this is tentative.  
+ Final exam (10%): The final exam will cover the entire semester.  If your final exam grade is higher  than your 
+midterm , it will replace your midterm grade  in the final course grade calculation.  
+ 
+Grade calculation:  
+• 3 credit : min( hw1 + hw2 + hw3 + hw4 + final_proj , 440) / 425 * 80 + max(midterm, final)/100*1 0 + final/100*1 0 
+• 4 credit : min(hw1 + hw2 + hw3 + hw4 + final_proj , 540) / 5 25 * 80 + max(midterm, final)/100*1 0 + final/100*1 0 
+Where hw1 -4 are the assignments, worth 0 to 100+ points, final_proj is the final project grade worth 0 to 100 
+points, and the midterm and final are exams worth 0 to 100 points.   
+ 
+Letter grades  will be assigned based on the following thresholds . Thresholds may be lowered (but not raised) if 
+warranted by t he grade distribution, but large changes are not expected.  
+97 94 90 87 84 80 77 74 70 67 64 60  <60 
+A+ A A- B+ B B- C+ C C- D+ D D- F 
+ 
+Late policy :  Aim to get all projects in on time to stay on track in the course. You have a total of ten free late days 
+for regular projects .  Use them wisely.  Additional late days come at a penalty of five project points per day late. 
+To receive any credit, your project must be submitted within two weeks of the deadline, with no exceptions, regardless of whether you use free late days. The reason for this is to ensure that the class is roughly in sync. You 
+have a short grace period for the submission deadline, e.g. a project submitted less than one hour late will not 
+count as late.  The final project cannot be submitted late.  
+ 
+Absence policy : In-person lecture attendance is encouraged, but we are planning to make lectures and exams 
+available remotely. Please stay home if you are sick to avoid spreading. Contact the instructor by email if you have 
+a serious illness or hospitalization that requires accommodation. See Part 5, 1 -501 of the Student Code  for detail.  
+ 
+Changes from assignment and grading policies in syllabus: While I try to transparent and predictable, this is the 
+first offering of this version of the course. As such, I maintain the right to make any changes that I deem in the best interest of the students as a whole, and will communicate any changes as promptly as possible.   
+ 
+Academic Integrity  
+You are welcome to discuss homework and projects  with your classmates, but do not show or share any code.  
+Also, you may not use any code from the Internet or any other outside sources, unless it is specifically approved 
+by the instructor.  Be sure to acknowledge any help that you do get from other students  or outside works , even if 
+it’s just a small suggestion.   Violations will go on record at the university, and the minimum penalty will be a zero 
+for the entire assignment.  See http://studentcode.illinois.edu/ .  
+ 
+General Information  
+Textbook:  The lectures are not directly based on any textbook, but will point you to relevant readin gs from David 
+Forsyth’s Applied Machine Learning, which is considered our primary text,  or other online resources. The AML 
+book is really quite good and worth reading, even for parts not covered in lectures.  
+• David Forsyth, Applied Machine Learning. Springer International Publishing, 2019. Available at the 
+University of Illinois Library (https://www.library.illinois.edu). Follow the link to “SpringerLink - Full text 
+online” to download the PDF. You can use this proxy link to log in the University of  Illinois Library with 
+your Illinois credentials and download the book: https://link -s pringer -
+com.proxy2.library.illinois.edu/book/10.1007/978 -3-030-18114 -7. 
+ 
+To obtain disability -related academic adjustments  and/or auxiliary aids, students with disabilities must contact 
+the course instructor and the as soon as possible. To ensure that disability -related concerns  are properly 
+addressed from the beginning, students with disabilities who require assistance to participate in this class should 
+contact Disability Resources and Educational Services (DRES) and see the instructor as soon as possible. If you 
+need accommoda tions for any sort of disability, please speak to me after class, or make an appointment to see 
+me or see me during my office hours. DRES provides students with academic accommodations, access, and 
+support services. To contact DRES you may visit 1207 S. Oa k St., Champaign, call 333 -4603 (V/TDD), or  
+e-mail disability@illinois.edu.  http://www.disability.illinois.edu/ . 
+ 
+Mental Health: Significant stress, mood changes, excessive worry, substance/alcohol misuse or interferences in 
+eating or sleep can have an impact on academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis 
+intervention, psychiatric services, and specialized screenings which are covered through the Student Health Fee. If 
+you or someone you know e xperiences any of the above mental health concerns, it is strongly encouraged to 
+contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to 
+do for yourself and for those who care about you.  
+• Counseling Center (217) 333 -3704 
+• McKinley Health Center (217) 333 -2700 
+• National Suicide Prevention Lifeline (800) 273 -8255  
+• Rosecrance Crisis Line (217) 359 -4141 (available 24/7, 365 days a year)  
+If you are in immediate danger, call 911.  
+ 
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

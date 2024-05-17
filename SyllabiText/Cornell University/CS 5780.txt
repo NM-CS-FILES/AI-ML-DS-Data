@@ -1,0 +1,552 @@
+==================[Syllabus Start]==================
+Instructors:
+ 
+Kilian Q. Weinberger
+ and 
+Karthik Sridharan
+Contact:
+ Ed Discussions (most questions),
+ 
+cs4780staff@gmail.com
+ (sensitive or
+discreet inquiries only)
+Course staff office hours:
+ 
+Calendar 
+link
+Office hours:
+ 
+Kilian Weinberger :
+ Mondays 9:00 - 10:00 am (
+Booking 
+Link
+) in 410 Gates
+Hall 
+Karthik Sridharan :
+ Friday 2 - 3 pm (
+Booking Link
+) in 424 Gates Hall
+Lectures:
+ Tuesday and Thursday from 1:25 pm to 2:40 pm in Uris Hall G01.
+Course overview:
+ The course provides an introduction to machine learning,
+focusing on supervised learning 
+and its theoretical foundations. Topics include
+regularized linear models, boosting, kernels, deep networks, 
+generative models,
+online learning, and ethical questions arising in ML applications.
+Prerequisites:
+ probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710,
+ENGRD 2700), linear algebra (e.g. 
+MATH 2940), calculus (e.g. MATH 1920),
+and programming proficiency (e.g. CS 2110).
+Course logistics:
+ For enrolled students the companion 
+Canvas
+ page serves as a
+hub for access to Ed Discussions 
+(the course forum), Vocareum (for course projects), Gradescope (for HWs), and paper comprehension quizzes. If
+you 
+are enrolled in the course you should automatically have access to the site. Please let us know if you are unable 
+to access it.
+Homework, projects, and exams
+Your grade in this course is comprised of three components: homework, exams, and projects. Please also read 
+through the given references in concert
+with the lectures.
+Homework:
+There will be a number of homework assignments throughout the course, typically made available roughly one to 
+two weeks before the due
+date. The homework primarily focuses on theoretical aspects of the material and is 
+intended to provide preparation for the exams. Homework
+may be completed in groups of up to three. The 
+assignments themselves will be made available via Gradescope (through Canvas). You are
+allowed two slip days 
+per homework.
+Projects
+To provide hands on learning with the methods we will discuss in class there are a number of programming 
+projects throughout the course. The
+projects may be completed solo or in a group of two. They are accessed, 
+submitted, and graded using Vocareum. You are allowed two slip
+days per project.
+Paper comprehension
+Students enrolled in this course at the graduate level (i.e., enrolled in 5780) are required to read assigned 
+research papers and complete the
+associated online quiz. Papers will be assigned roughly once every two to 
+three weeks. You are allowed two slip days per quiz.
+Exams:
+There will be two exams for this class, an evening prelim and a final exam. The location and times for both 
+are 
+to be determined.
+Midterm exam: TBD
+Final exam: 
+TBD
+Grading
+Final grades are based on homework assignments, programming projects, and the exams. For the 5780 level version 
+of the course, the research
+comprehension quizzes will also factor in.
+For CS 4780 your final grade consists of:
+Exams: 48%
+Homework: 15%
+Projects: 37%
+CS 4/5780: Intro to Machine Learning
+
+For CS 5780 your final grade consists of:
+Exams: 45%
+Homework: 10%
+Projects: 35%
+Paper comprehension: 10%
+Undergraduates enrolled in 4780 may choose to do the paper comprehension assignments; if completed you will 
+receive the higher of your two
+grades between the above schemes.
+Schedule
+A tentative schedule follows, and includes the topics we will be covering, relevant reference material, and 
+assignment information. It is quite possible
+the specific topics covered on a given day will change slightly. This 
+is particularly true for the lectures in the latter part of the course, and this schedule
+will be updated as 
+necessary. 
+Please note that the due dates here are mostly correct, but may change. Check Canvas for any changes 
+to
+assignment due dates.
+Homework 7 due 4/28 
+-->
+Date
+Topic
+References
+Notes/assignments
+1/23/24
+Introduction
+PML: 1.1; ESL: Ch. 1; and PPA: Ch. 1
+slides
+1/25/24
+ML Basics
+PML: 1.2, and ESL: 2.1 and 2.2.
+html
+ 
+pdf
+handwritten
+1/30/24
+K Nearest Neighbors and the
+curse of dimensionality
+PML: 16.1
+html
+ 
+pdf
+ 
+handwritten
+5780: 
+Cover and Hart 1967
+2/1/24
+The Perceptron
+Wikipedia article
+html
+ 
+pdf
+handwritten
+2/6/24
+Clustering: K-means
+ESL: 14.3.6 and 14.3.7, and PML: 21.3
+html
+ 
+handwritten
+k-means demo
+ 
+DBSCAN demo
+ 
+GMM demo
+DBSCAN Colab Demo
+2/8/24
+Principal Component Analysis
+PML: 20.1, ESL: 14.5.1 and 14.5.2
+Project 0 due; Project 2 out; 
+Quiz 2
+ out
+html
+ 
+handwritten
+PCA Colab demo
+2/13/24
+MLE and MAP
+Nice Youtube video for 
+MLE
+ and 
+MAP
+. 
+Ben Taskar's 
+lecture 
+notes
+. 
+Tom Mitchell's book chapter on MLE and
+MAP
+ESL: 8.2.2-8.3
+html
+ 
+pdf
+handwritten
+Homework 1 due
+2/15/24
+Naive Bayes
+ESL: 6.6.3, and Tom Mitchell's 
+book
+chapter
+Quiz 1 (optional) due; Project 1 due on 2/17
+html
+ 
+pdf
+handwritten
+2/20/24
+Logistic Regression
+PML: 8.1, 8.2, and 8.3
+logistic html
+ 
+logistic pdf
+;
+2/22/24
+Gradient Descent, AdaGrad,
+Newton's method
+PML: 8.1, 8.2, 8.3, and 8.4 (specifically,
+see PML 8.4 for SGD)
+Project 2 due; 
+Eiganfaces 
+Paper
+ Quiz 2 due 
+GD html
+ 
+GD pdf
+handwritten
+Jupyter Notebook demo
+2/27/23
+February break
+no class
+2/29/24
+Linear regression
+PML 11.1, 11.2,11.3 
+and ESL 
+3.2
+Homework 2 due on 3/1
+html
+ 
+pdf
+3/5/24
+Support Vector Machine
+Project 3 due
+html
+ 
+pdf
+3/7/24
+Empirical Risk Minimization
+PML 4.3, 5.4
+Quiz 3 due 
+
+html
+ 
+pdf
+3/12/24
+Midterm Review
+Homework 3 due
+3/14/24
+Midterm Optional Review
+A.K.A.
+Midterm Jeopardy
+Prelim Location
+: Statler Hall 185, 196
+Prelim Time
+: 7:30pm
+3/19/24
+Model Selection
+html
+ 
+pdf
+3/21/24
+Bias and Variance Tradeoff
+html
+ 
+pdf
+handwritten
+3/26/24
+Kernels, part 1
+PML: 17.1
+Project 4 due 
+html
+ 
+pdf
+ 
+handwritten
+3/28/24
+Kernel SVM
+kernel html
+ 
+kernel pdf
+ 
+kernel slides
+ 
+Kernel
+Ridge Regression 
+Demo
+4/2/24
+Spring Break
+Woohooo!!
+4/4/24
+Spring Break
+Woohooo!!
+4/9/24
+Kernel SVM + CART
+PML: 17.3
+kernel html
+ 
+kernel pdf
+ 
+kernel slides
+ 
+Kernel
+Ridge Regression Demo
+4/11/24
+Classification and regression trees
+Project 5 due, Homework 5 deadline with slip
+days 4/12, Quiz 4 due 
+Decision Tree html
+ 
+pdf
+ 
+Classification Tree Demo
+Regression Tree Demo
+4/16/24
+Ensemble Methods: Bagging &
+random forest
+html
+ 
+pdf
+ 
+handwritten
+4/18/24
+Ensemble Methods: Boosting
+Homework 6 due 4/19
+html
+ 
+pdf
+ 
+handwritten
+4/23/24
+Neural Networks
+Project 6 due 4/22
+handwritten
+ 
+pdf
+4/25/24
+Neural Networks Cont.
+Homework 7 due 4/28
+handwritten
+ 
+pdf
+ 
+Link to a cool demo!
+4/30/24
+Convolutional Neural Networks
+PML: 14.1, 14.2, 14.3,15.4, 15.5
+slides
+5/2/24
+Neural networks: Transformers
+Transformer Algorithm
+Transformers explained
+ 
+Project 7 due
+pdf
+ 
+slides
+5/7/24
+AI in Human Society
+Project 8 due, Kaggle due, Quiz 5 due 
+pdf
+5/11/24
+Final Exam
+Location: 
+Barton Hall
+Time:
+ 5/11 7PM
+References
+While this course does not explicitly follow a specific textbook, there are several that are very useful 
+references to supplement the course.
+Books
+We will not be explicitly following any single textbook in this course. Nevertheless, the book by Murphy roughly cover the material for the course and
+is recommended. Most suggested 
+readings are assigned out of these two texts. Three additional texts are provided that complement these texts and
+are useful for further study (or to gain another perspective).
+Probabilistic Machine Learning: An Introduction, by Murphy
+We will provide section numbers to this text 
+alongside many of the lectures (abbreviated as PML in the schedule). This text is available digitally
+through 
+the Cornell University Library and a draft version is available directly from the author. [
+Book website
+]
+The Elements of Statistical Learning by Hastie, Tibshirani, and Friedman
+
+This text provides a 
+comprehensive introduction to statistical learning and provides in-depth discussion of many of the topics in 
+this course
+(abbreviated as ESL in the schedule). The book is available directly from the authors. [
+Book website
+]
+Additional references
+An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani
+This book provides 
+a good overview of some methods in statistical learning, some of which we will discuss. The book is available 
+online through
+the books website and via the Cornell Library. [
+Book 
+website
+]
+Patterns, Predictions, and Actions by Hardt and Recht
+A very nice new book that covers many of the 
+topics we do in this class (abbreviated as PPA in the schedule). The book is available directly
+from the 
+authors. [
+Book website
+]
+Fairness and Machine Learning by Barocas, Hardt, and Narayanan
+While a work in progress, this text 
+provides insight into fairness as a central tenet of machine learning. In particular, it highlights ethical 
+challenges
+that arise in the practice of machine learning. The current version of this book is available 
+directly from the authors. [
+Book website
+]
+Background references
+Linear Algebra by Khan Academy
+Relive the basics of linear Algebra. Everybody loves Khan Academy. 
+[
+Linear Algebra (Khan Academy)
+]
+Linear algebra course by Strang
+Portions of this course will utilize your knowledge of linear 
+algebra. If you feel you need additional preparation, or would like to revisit the topic,
+you may find Gilbert 
+Strangs linear algebra course quite useful. [
+MIT Open Courseware
+]
+Matrix Methods in Data Analysis, Signal Processing, and Machine Learning by Strang
+A subsequent 
+course to the above by Strang covers some of the same topics we will (particularly for the linear algebra part 
+of the course) and
+you may find the videos a useful additional resource. [
+MIT 
+Open Courseware
+]
+Software
+Python
+NumPy
+PyTorch
+Course policies
+Inclusiveness
+You should expect and demand to be treated by your classmates and the course staff with respect. You belong here, 
+and we are here to help you
+learn and enjoy this course. If any incident occurs that challenges this commitment to a 
+supportive and inclusive environment, please let the instructors
+know so that the issue can be addressed. We are 
+personally committed to this, and subscribe to the 
+Computer Science Department’s 
+Values of
+Inclusion
+. [Statement reproduced with permission from Dan Grossman.]
+Mental health resources
+Cornell University provides a comprehensive set of 
+mental health 
+resources
+ and the student group 
+Body Positive 
+Cornell
+ has put together a 
+flyer
+outlined the resources available.
+Participation
+You are encouraged to actively participate in class. This can take the form of asking questions in class, 
+responding to questions to the class, and
+actively asking/answering questions on the online discussion board.
+Collaboration policy
+Students are free to share code and ideas within their stated project/homework group for a given assignment, but 
+should not discuss details about an
+assignment with individuals outside their group. The midterm and final exam 
+are individual assignments and must be completed by yourself.
+Academic integrity
+The Cornell 
+Code of Academic Integrity
+ applies to this course.
+Accommodations
+In compliance with the Cornell University policy and equal access laws, we are available to discuss appropriate 
+academic accommodations that may
+be required for student with disabilities. Requests for academic accommodations 
+are to be made during the first three weeks of the semester, except
+for unusual circumstances, so arrangements can 
+be made. Students are encouraged to register with Student Disability Services to verify their eligibility
+for 
+appropriate accommodations.
+Built using: 
+Bootstrap
+
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

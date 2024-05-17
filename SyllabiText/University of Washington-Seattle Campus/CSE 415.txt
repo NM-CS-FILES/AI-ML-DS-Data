@@ -1,0 +1,675 @@
+==================[Syllabus Start]==================
+CSE 415, 22wi: Introduction to AI
+CSE 415, 22wi: Introduction to AI
+MWF at 1:30 in CSE2 G01. Weeks 1 - 4 
+MWF at 1:30 in CSE2 G01. Weeks 1 - 4 
+here online
+here online
+(/courses/cse415/22wi/uwnetid/zoom.html)
+(/courses/cse415/22wi/uwnetid/zoom.html)
+.
+.
+Recordings in 
+canvas
+ 
+(https://canvas.uw.edu/courses/1515278)
+.
+Schedule
+Schedule
+(
+subject to change
+)
+Wk.
+Wk.
+Dates
+Dates
+Lecture slides (
+Lecture slides (
+optional slides
+optional slides
+)
+)
+Reading (
+Reading (
+optional reading
+optional reading
+)
+)
+1
+1
+1/3, 5,
+7
+Intelligence 
+(/courses/cse415/22wi/uwnetid/slides/lec00_intelligence/)
+; 
+Introduction 
+(/courses/cse415/22wi/uwnetid/slides/lec01_intro.pdf)
+ 
+;
+Agents 
+(/courses/cse415/22wi/uwnetid/slides/lec02_agents.pdf)
+ 
+;
+Search 
+(/courses/cse415/22wi/uwnetid/slides/lec03_search.pdf)
+R&N, 1,2,3.1
+2
+2
+1/10,
+12, 14
+Informed Search
+(/courses/cse415/22wi/uwnetid/slides/lec04_search_informed.pdf)
+R&N 3.2-end, 5.1-5.2; 
+Search tool
+(http://qiao.github.io/PathFinding.js/visual/)
+3
+3
+1/19,
+21
+Adversarial Search
+(/courses/cse415/22wi/uwnetid/slides/lec05_search_adversarial.pdf)
+ 
+;
+Efficient Adversarial Search
+(/courses/cse415/22wi/uwnetid/slides/lec06_search_efficient.pdf)
+R&N 5.3-5.5, (
+4
+)
+4
+4
+1/24,
+26,
+28
+Constraint Satisfaction Problems (CSPs)
+(/courses/cse415/22wi/uwnetid/slides/lec07_csp.pdf)
+ 
+; 
+CSP Solvers
+(/courses/cse415/22wi/uwnetid/slides/lec08_csp_solvers.pdf)
+R&N 6.1-6.4, (
+6.5-end
+); 
+CSP demo
+(/courses/cse415/22wi/uwnetid/csp/csp_demos.html)
+5
+5
+1/31,
+2/2, 4
+Markov Decision Processes (MDPs)
+(/courses/cse415/22wi/uwnetid/slides/lec09_mdp.pdf)
+ 
+; 
+MDP Solvers
+(/courses/cse415/22wi/uwnetid/slides/lec10_mdp_iteration.pdf)
+R&N 17.1-17.3, (
+S&B 4.3-4.4
+)
+6
+6
+2/7, 9,
+11
+Passive Reinforcement Learning (RL)
+(/courses/cse415/22wi/uwnetid/slides/lec11_reinforce_intro.pdf)
+ 
+; 
+Active
+RL 
+(/courses/cse415/22wi/uwnetid/slides/lec12_reinforce_q.pdf)
+R&N 22.1-22.3, (
+S&B 5.1-5.5
+)
+7
+7
+2/14,
+16, 18
+Probability 
+(/courses/cse415/22wi/uwnetid/slides/lec13_prob_intro.pdf)
+; 
+Graphical Models
+(/courses/cse415/22wi/uwnetid/slides/lec14_prob_graphs.pdf)
+R&N 12, 13.1-13.3
+8
+8
+2/23,
+25
+Graphical Models ; 
+Independence
+(/courses/cse415/22wi/uwnetid/slides/lec15_prob_indep.pdf)
+R&N 13.4-end
+9
+9
+2/28,
+3/2, 4
+Exact Inference
+(/courses/cse415/22wi/uwnetid/slides/lec16_prob_exact.pdf)
+ 
+; 
+Markov
+Models 
+(/courses/cse415/22wi/uwnetid/slides/lec17_prob_markov.pdf)
+R&N 14.1-end; (
+S&B 14, 15
+)
+10
+10
+3/7,
+9, 11
+Bayes' Net Sampling
+(/courses/cse415/22wi/uwnetid/slides/lec17_prob_sampling.pdf)
+,
+Dynamic Bayes' Nets and Particle Filters
+(/courses/cse415/22wi/uwnetid/slides/lec18_prob_hmm_complex.pdf)
+Hardt's 
+Note
+(https://data102.org/sp20/assets/notes/notes05.pdf)
+(B&H&N 1,2); R&N 27
+; 
+Fairness and Causality
+(/courses/cse415/22wi/uwnetid/slides/lec19_fairness.pdf)
+ 
+; 
+Wrap-up
+(/courses/cse415/22wi/uwnetid/slides/lec20_review.pdf)
+Communication
+Communication
+For fastest response, contact us on 
+Ed
+ 
+(https://edstem.org/us/courses/16745)
+. Otherwise contact us over email at cse415-
+staff@cs.uw.edu.
+We try to keep asynchronous course communication brief (namely on this page and in our responses on Ed). Please don't interpret
+this as cold. If you have any questions please reach out directly, whether in class, office hours, or in a privately scheduled meeting.
+Staff and Office Hours
+Staff and Office Hours
+We will try to schedule office hours to accommodate students' schedules and will offer at least 20 percent of office hours virtually. If
+you're still not able to make this time, please reach out to us on 
+Ed
+ 
+(https://edstem.org/us/courses/14873/)
+.
+Those of us with a physical location listed will mainly hold our office hours there and generally not in a hybrid fashion.
+We will be enforcing room limits in office hours so for those of you unable to fit we may use a queue.
+All times are Pacific.
+Instructor, Jared, time: 
+Mondays 2:30-3:30pm
+Mondays 2:30-3:30pm
+, location: CSE 204 or 
+online
+ 
+(/courses/cse415/22wi/uwnetid/jared.html)
+.
+Vivek, time: 
+Tuesdays 5:00-6:00pm
+Tuesdays 5:00-6:00pm
+, location: 
+online
+ 
+(/courses/cse415/22wi/uwnetid/vivek.html)
+.
+Will, time: 
+Wednesdays 2:30-3:30pm
+Wednesdays 2:30-3:30pm
+, location: 
+online
+ 
+(/courses/cse415/22wi/uwnetid/will.html)
+.
+Vinitha, time: 
+Wednesdays 3:00-4:00pm
+Wednesdays 3:00-4:00pm
+, location: 
+online
+ 
+(/courses/cse415/22wi/uwnetid/vinitha.html)
+.
+Phuong, time: 
+Thursdays from 2:00-3:00pm
+Thursdays from 2:00-3:00pm
+, location: 
+online
+ 
+(/courses/cse415/22wi/uwnetid/phuong.html)
+.
+Jeffrey, time: 
+Fridays 2:30-3:30pm
+Fridays 2:30-3:30pm
+, location: CSE 153 or 
+online
+ 
+(/courses/cse415/22wi/uwnetid/jeffrey.html)
+.
+In addition to these regular hours, we will offer one additional virtual hour on the due date of each assignment which we will post
+about on Ed and list next to the relevant assignment in the preceding tables.
+Assignments
+Assignments
+Homework (written)
+Homework (written)
+Individual assignments graded on correctness and due by 10pm on the day listed. Worth 50% of grade total. Make sure your
+answers are selected and visible when you submit them.
+You may handwrite and scan the homework if you would like, but the answers must be clearly visible (i.e. pencil may not work).
+Unless the question asks you to justify your answers, please do not add any explanations.
+When a question does ask you to justify your answer, it is enough to just provide justification for just the answer you chose.
+Please make sure to add the corresponding question tag to your solution to make grading easier. This may be cumbersome but
+will allow us to get you your homework grades more quickly.
+Homework (HW)
+Homework (HW)
+Total
+Total
+Points
+Points
+Due
+Due
+Hours spent?
+Hours spent?
+1: 
+Search
+Search
+(/courses/cse415/22wi/uwnetid/homework/hw1.pdf)
+(/courses/cse415/22wi/uwnetid/homework/hw1.pdf)
+27
+1/28
+feedback 
+(https://docs.google.com/forms/d/e/1FAIpQLSc48lx8UCGLid-
+L6G5BPN88BHxwPU4U5FwYpsnk7G_N15EfzQ/viewform?usp=sf_link)
+2: 
+CSPs
+CSPs
+(/courses/cse415/22wi/uwnetid/homework/hw2.pdf)
+(/courses/cse415/22wi/uwnetid/homework/hw2.pdf)
+25
+2/4
+feedback 
+(https://docs.google.com/forms/d/e/1FAIpQLSfr7iVph2GDq59yrxbSxwr5Tz8LzvnVu7GjZmZZSPY0r-
+Voyw/viewform?usp=sf_link)
+3: 
+MDPs
+MDPs
+(/courses/cse415/22wi/uwnetid/homework/hw3.pdf)
+(/courses/cse415/22wi/uwnetid/homework/hw3.pdf)
+25
+2/11
+feedback 
+(https://docs.google.com/forms/d/e/1FAIpQLSfc8OLj8Z9vYjGPflzvuSnPm0ZUZ3rTDy4cRnDmPVeoMbtO-
+A/viewform?usp=sf_link)
+4: 
+Q-Learning
+Q-Learning
+(/courses/cse415/22wi/uwnetid/homework/hw4.pdf)
+(/courses/cse415/22wi/uwnetid/homework/hw4.pdf)
+26
+2/25
+feedback
+(https://docs.google.com/forms/d/e/1FAIpQLSeCscqkcF_nPdrDvFydwJvWJPrh75D4MjoXOvCwEGPHIavkBA/viewform?
+usp=sf_link)
+5: 
+Uncertainty
+Uncertainty
+(/courses/cse415/22wi/uwnetid/homework/hw5.pdf)
+(/courses/cse415/22wi/uwnetid/homework/hw5.pdf)
+26
+3/4
+feedback
+(https://docs.google.com/forms/d/e/1FAIpQLSfwbcxKDyVvakTWQcsl9lfVCRWT5y8OaxD8BwkJ5OOVx2P7Xw/viewform?
+usp=sf_link)
+6: 
+HMMs
+HMMs
+(/courses/cse415/22wi/uwnetid/homework/hw6.pdf)
+(/courses/cse415/22wi/uwnetid/homework/hw6.pdf)
+30
+3/11
+feedback 
+(https://docs.google.com/forms/d/e/1FAIpQLSf_bVoktzjcKWlSH6MEHcpSgLBM_JW53ZA2z279-
+ecMXPHswQ/viewform?usp=sf_link)
+Projects (programming)
+Projects (programming)
+Individual assignments graded on correctness and due by 10pm on the day listed. Worth 50% of grade total.
+Projects (PR)
+Projects (PR)
+Total
+Total
+Points
+Points
+Due
+Due
+Hours spent?
+Hours spent?
+0: 
+Warm-up
+Warm-up
+(/courses/cse415/22wi/uwnetid/project/0/)
+(/courses/cse415/22wi/uwnetid/project/0/)
+3
+1/7
+feedback 
+(https://docs.google.com/forms/d/e/1FAIpQLSdefYqz1vFeRVupy9ewCJr2vdTevphXHILn-
+S2dyIoS0gb3NA/viewform?usp=sf_link)
+1: 
+Search
+Search
+(/courses/cse415/22wi/uwnetid/project/1/)
+(/courses/cse415/22wi/uwnetid/project/1/)
+15
+1/21
+feedback 
+(https://docs.google.com/forms/d/e/1FAIpQLScjXPYJAeb4njYf08JfuuEiYqI12K8emRP89fFac6Jv_RVBBQ/viewform?
+usp=sf_link)
+2: 
+Multi-agent
+Multi-agent
+(/courses/cse415/22wi/uwnetid/project/2/)
+(/courses/cse415/22wi/uwnetid/project/2/)
+19
+1/31
+feedback
+(https://docs.google.com/forms/d/e/1FAIpQLSeqn3W_0ZKVmlnMda7Z4G4G3EoA_YMtkH_W6zTZ0d5nhsRdvQ/viewform?
+usp=sf_link)
+3: 
+Q-learning
+Q-learning
+(/courses/cse415/22wi/uwnetid/project/3/)
+(/courses/cse415/22wi/uwnetid/project/3/)
+18
+2/18
+feedback 
+(https://docs.google.com/forms/d/e/1FAIpQLSc1OU0TLrMKW0MbnXjn3On1oEcXKKBMUXQVdm9P8-
+Nj0vT9gQ/viewform?usp=sf_link)
+Practice Problems
+Practice Problems
+Optional
+Optional
+, graded on completion, open for collaboration, and due at 10pm on the day of the subsequent lecture (no late days
+accepted). (Because we have 30 days of class and only 20 lectures we'll release the due dates as the lectures are completed.)
+Review the correct answers on gradescope or below after the submission date.
+Each completed problem adds: (number of completed practice problems) * (10 / total number of practice problems) to your grade,
+which will then be renormalized. (E.g. completing all of them is worth 10% of grade, in which case written and programming
+assignments are worth 45% each.)
+Links posted on 
+Gradescope
+ 
+(https://www.gradescope.com/courses/345646)
+.
+Practice (PP)
+Practice (PP)
+Lecture 02: Agents [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec02_solutions.pdf)
+]
+Lecture 03: Search [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec03_solutions.pdf)
+]
+Lecture 04: Informed Search [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec04_solutions.pdf)
+]
+Lecture 05: Adversarial Search [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec05_solutions.pdf)
+]
+Lecture 06: Expected Search [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec06_solutions.pdf)
+]
+Lecture 07: Constraint Satisfaction Problems (CSPs) [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec07_solutions.pdf)
+]
+Lecture 08: CSP Solvers [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec08_solutions.pdf)
+]
+Lecture 09: Markov Decision Processes (MDPs) [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec09_solutions.pdf)
+]
+Lecture 10: MDP Solvers [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec10_solutions.pdf)
+]
+Lecture 11: Passive Reinforcement Learning (RL) [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec11_solutions.pdf)
+]
+Lecture 12: Active RL [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec12_solutions.pdf)
+]
+Lecture 13: Uncertainty [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec13_solutions.pdf)
+]
+Lecture 14: Graphical Models [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec14_solutions.pdf)
+]
+Lecture 15: Bayes' Nets [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec15_solutions.pdf)
+]
+Lecture 16: d-separation [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec16_solutions.pdf)
+]
+Lecture 17: Markov Models [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec17_solutions.pdf)
+]
+Lecture 17.2: Markov Models [
+Solutions
+(/courses/cse415/22wi/uwnetid/practice/lec17_2_solutions.pdf)
+]
+Lecture 18: Sampling
+Lecture 18.2: Particle Filtering
+Lecture 19: Fairness and Causality
+Policies
+Policies
+Submitting
+Submitting
+All work will be turned in electronically.
+Assignments should be done individually unless otherwise specified. You may discuss the subject matter with other students in
+the class, but all final answers must be your own work. You are expected to maintain the utmost level of academic integrity in
+the course, pertinent to the 
+Allen School's policy
+ 
+(https://www.cs.washington.edu/academics/misconduct)
+ 
+on academic
+misconduct.
+Each student has six penalty-free late day for the whole quarter. Consecutive days off (weekends or holidays) count as one late
+day. Other than that, any late submission will be penalized at 20 percent of the submitted grade per day (weekends count as
+one day). (This should incentive you to attempt the assignments even if you submit them quite late).
+If seventy percent of you complete the end-of-quarter evaluations everyone will get an additional late day.
+The maximum late days that can be used per assignment is four.
+You must link pages to questions for written assignments submitted to gradescope. You will lose 0.25 point off the assignment
+if you do not do so. (For guidance 
+watch this video
+ 
+(https://youtu.be/u-pK4GzpId0)
+ 
+on how to do this.)
+COVID
+COVID
+Please stay home if you're ill. Lectures are recorded and most office hours are held remotely. If one of the course staff becomes ill
+we will move the appropriate events online. Consult the 
+UW policies
+ 
+(https://www.washington.edu/coronavirus/)
+ 
+for more
+information.
+Grade
+Grade
+Your grade will be the proportion of points you achieve for the projects and the homework, each set weighted by one half.
+Additionally, completing practice problems will decrease the weight of the projects and homework, at a maximum of ten
+percent of the total.
+Practice problems are not extra credit. Your grade will be renormalized (set to the range of \([0, 1]\)) based on how many
+you complete.
+That is, their effect will be exponentially discounted as you approach a perfect score.
+There will be no curve. Rather, your grade will be rounded to the highest decimal point out of four.
+(The one possible exception to this is that no student gets a 4.0 in which case we would then increase every student's
+grade by the difference between the highest scoring student and 4.0. We do not expect this to happen but will alert you if
+there is an assignment for which the max score is greater than the maximum achieved score which would be a proxy for
+such an event.)
+If you're interested in specifics, we will use the following formula to calculate your grade:
+\( total_{hw} = \frac{1}{2 \times \sum_{i \in HW} max_{hw_i}} \sum_{i \in HW} (points_{hw_i} \times \frac{1}{5} late_{hw_i}),
+\)
+\( total_{pr} = \frac{1}{2 \times \sum_{i \in PR} max_{pr_i}} \sum_{i \in PR} (points_{pr_i} \times \frac{1}{5} late_{pr_i}), \)
+\( grade = \bigg \lceil \frac{ total_{hw} + total_{pr} + \frac{\sum_{i=1}^{|PP|} pp_i}{10|PP|}}{1 + \frac{\sum_{i=1}^{|PP|} pp_i}
+{10|PP|}} \times 40 \bigg \rceil / 10.0 ,\)
+where the homework and project scores are \(points_{hw,pr} \in \mathbf{N}\), the maximum achievable scores are \
+(max_{hw,pr} \in \mathbf{N}\), each practice problem is \(pp \in \{0,1\}\), and each day late for an assignment \(late_{hw,pr}
+\in \{0, 1, 2, 3, 4\}\), counting contiguous days off (holidays and weekends) as one and late days only applied to the first
+(and all subsequent) assignments after your total late days number greater than six.
+Textbooks
+Textbooks
+Strongly Recommended
+Strongly Recommended
+: Stuart Russell & Peter Norvig, 
+Artificial Intelligence: A Modern Approach
+ 
+(http://aima.cs.berkeley.edu/)
+,
+Prentice-Hall, 
+Fourth Edition (2020) [R&N].
+(Given how fast the field of AI is moving, the third edition from 2010 will likely suffice, but will not be much of a resource
+for further investigation.)
+Useful:
+Melanie Mitchell, 
+Artificial Intelligence: A Guide for Thinking Humans
+ 
+(https://alliance-
+UW Site Use Agreement
+ 
+(https://www.washington.edu/online/terms/)
+primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71310569700001451)
+, Farrar, Straus, and Giroux. 2019.
+(This is a lay-oriented overview of AI which explains many of the intuitions and implications of the concepts we cover
+in this course.)
+Richard Sutton & Andrew Barto, 
+Reinforcement Learning: An Introduction Second Edition
+(http://incompleteideas.net/book/the-book.html)
+, MIT Press. 2018 (limited chapters freely available online) [S&B]
+Potentially useful:
+Barocas, Hardt, and Narayanan. 
+Fairness and Machine Learning
+ 
+(http://www.fairmlbook.org)
+. 2019. [B&H&N]
+Murphy, Kevin P. 
+Probabilistic Machine Learning: An introduction
+ 
+(https://probml.ai)
+, MIT Press. 2012,2022. [M]
+Mausam, Andrey Kolobov. 
+Planning with Markov Decision Processes: An AI Perspective
+(http://www.morganclaypool.com/doi/pdf/10.2200/S00426ED1V01Y201206AIM017)
+ 
+Synthesis Lectures on Artificial
+Intelligence and Machine Learning. Morgan and Claypool Publishers. June 2012. 
+(free online version if accessed from UW)
+(https://courses.cs.washington.edu/courses/cse573/16wi/uwnetid/mk-text.pdf)
+ 
+[M&K]
+Discussion Board
+Discussion Board
+Please use 
+Ed
+ 
+(https://edstem.org/us/courses/16745)
+ 
+for course related questions.
+Lectures
+Lectures
+Lecture slides will be posted on this site before the relevant day. These are subject to revision of types typographic, syntactic, and
+semantic. We will alert the class if any major changes are made.
+Lecture videos should upload to canvas automatically.
+Inclusion
+Inclusion
+We welcome students from all backgrounds and adhere to the 
+Allen School’s Inclusiveness Statement
+(https://www.cs.washington.edu/diversity)
+. If anything related to the course makes you feel unwelcome in any way, let the instructor
+know.
+Accommodation
+Accommodation
+We are eager to provide necessary accommodations.
+For disability accommodations, please see the 
+UW resources.
+ 
+(http://depts.washington.edu/uwdrs/current-
+students/accommodations/.)
+For religious accommodations, please see the 
+UW resources.
+ 
+(https://registrar.washington.edu/staffandfaculty/religious-
+accommodations-policy/.)
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

@@ -1,0 +1,284 @@
+==================[Syllabus Start]==================
+ ZOOM
+    
+ SLACK
+    
+ MURAL
+    
+
+COMMENTARIES
+    
+
+FINAL PROJECT
+   
+User-Centered Machine Learning
+CS568      SPRING 2023 UIUC      WEDNESDAY AND FRIDAY      2-3.15PM CT      HYBRID SYNCHRONOUS
+OVERVIEW
+Introduces guidelines, processes, and systems for designing eective user experiences powered by machine learning models. Topics include
+design tradeos unique to data-driven products and services such as automation versus control, precision versus recall, and
+personalization versus privacy. Readings from human computer-interaction, product design, cognitive science, machine learning, computer
+vision, and natural language processing frame in-class design exercises. Students work in teams on a multi-week research project creating
+or auditing data-driven experiences.
+This semester, we will be using the following technologies to facilitate the hybrid format:
+ 
+Zoom
+ 
+for online instruction
+ 
+Slack
+ 
+for all written class communications
+ 
+Mural
+ 
+for collaborative design exercises
+Follow the links in this doc to sign up for the course's workspaces.
+STAFF
+
+ Ranjitha Kumar
+ranjitha@illinois.edu
+
+ Ali Zaidi (TA)
+aliz2@illinois.edu
+Email or 
+Slack
+ us to make an appointment
+January 18
+HCI for ML
+HCI for ML
+January 20
+AI vs IA
+AI vs IA
+
+ Augmenting Human Intellect: A Conceptual Framework
+January 25
+NO CLASS
+NO CLASS
+January 27
+Guidelines: Google
+Guidelines: Google
+
+ People + AI Guidebook (6 Chapters)
+Commentaries due starting today
+February 1
+Guidelines: Microsoft
+Guidelines: Microsoft
+
+ Guidelines for Human-AI Interaction
+February 8
+Needfinding
+Needfinding
+
+ The Needfinding Machine
+February 15
+Data Collection
+Data Collection
+
+ VizWiz Grand Challenge: Answering Visual Questions from Blind People
+February 3
+Guidelines: Apple
+Guidelines: Apple
+
+ Human Interface Guidelines > Machine Learning
+February 10
+Needfinding
+Needfinding
+
+ Designing the Future of Personal Fashion
+SYLLABUS
+WEEK 1
+WEEK 2
+WEEK 3
+
+ Rico: A Mobile App Dataset for Building Data-Driven Design Applications (optional)
+February 22
+Co-learning
+Co-learning
+
+ Power to the People: The Role of Humans in Interactive Machine Learning
+
+ Machine learning as meta-instrument: Human-machine partnerships... (optional)
+March 1
+Interpretability and Explanations
+Interpretability and Explanations
+
+ The challenge of crafting intelligible intelligence
+March 8
+Interpretability and Explanations
+Interpretability and Explanations
+
+ ``Why Should I Trust You?'' Explaining the Predictions of Any Classifier
+March 15
+SPRING BREAK
+SPRING BREAK
+March 17
+SPRING BREAK
+SPRING BREAK
+March 22
+Algorithmic Ethics
+Algorithmic Ethics
+
+ Critical Questions for Big Data
+February 17
+Data Collection
+Data Collection
+
+ Labeling images with a computer game
+February 24
+Co-learning
+Co-learning
+
+ Crowd-AI Camera Sensing in the Real World
+
+ Evorus: A Crowd-powered Conversational Assistant Built to Automate Itself Over Time (optional)
+March 3
+Interpretability and Explanations
+Interpretability and Explanations
+
+ The Building Blocks of Interpretability
+March 10
+Interpretability and Explanations
+Interpretability and Explanations
+
+ Interpretability Beyond Feature Attribution Quantitative Testing with Concept Activation Vectors (TCAV)
+Final Project Groups & Abstracts Due
+March 24
+Algorithmic Ethics
+Algorithmic Ethics
+
+ Datasheets for DatasetsWEEK 4
+WEEK 5
+WEEK 6
+WEEK 7
+WEEK 8
+WEEK 9
+March 29
+Algorithmic Ethics
+Algorithmic Ethics
+
+ When the Algorithm Itself Is a Racist: Diagnosing Ethical Harm in the Basic Components of Software
+April 5
+Error Handling and Trust Management
+Error Handling and Trust Management
+
+ Will You Accept an Imperfect AI?: Exploring Designs for Adjusting End-user Expectations of AI Systems
+
+ Understanding the Effect of Accuracy on Trust in Machine Learning Models (optional)
+April 12
+Decision-Making Support
+Decision-Making Support
+
+ Human Decisions and Machine Predictions
+April 19
+Creativity Support
+Creativity Support
+
+ Can Computers Create Art?
+
+ A big data approach to computational creativity: The curious case of Chef Watson
+April 26
+Final Project Presentations
+Final Project Presentations
+April 28
+Final Project Presentations
+Final Project Presentations
+May 3
+Final Project Presentations
+Final Project Presentations
+March 31
+Algorithmic Ethics
+Algorithmic Ethics
+
+ The Moral Machine experiment
+April 7
+Error Handling and Trust Management
+Error Handling and Trust Management
+
+ Ambiguity-aware AI Assistants for Medical Data Analysis
+April 14
+Decision-Making Support
+Decision-Making Support
+
+ Human-Centered Tools for Coping with Imperfect Algorithms During Medical Decision-Making
+April 21
+Creativity Support
+Creativity Support
+
+ CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
+
+ AI as Social Glue: Uncovering the Roles of Deep Generative AI during Social Music Composition (optional)WEEK 9
+WEEK 10
+WEEK 11
+WEEK 12
+WEEK 13
+WEEK 14
+WEEK 15
+WEEK 16
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

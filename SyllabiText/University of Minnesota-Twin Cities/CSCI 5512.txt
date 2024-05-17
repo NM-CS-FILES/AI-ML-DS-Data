@@ -1,0 +1,200 @@
+==================[Syllabus Start]==================
+CSci 5512: Syllabus
+Room:
+Mechanical Engineering Building, Room 212
+Time:
+Tuesday and Thursday, 11:15 -12:30
+Instructor:
+Dr. Maria Gini
+ 
+(
+gini@cs.umn.edu
+) 
+office hours Tu and Th 3:30 -4:30 or by appointment in EE/CSci 5-213, 
+phone (612) 625-5582 
+Address: 4-192 EE/CSci Building, 200 Union 
+St. SE, Minneapolis, MN 55455
+TA:
+Simon Shim (
+shim@cs.umn.edu
+) 
+office hours: Monday 4:00-5:00, Wed 3:00 - 4:00 
+in EE/CSci 2-209, phone (612) 626-7512
+Textbook:
+Stuart Russell and Peter Norvig "Artificial Intelligence. A modern approach" Prentice-Hall, 1995. (Chapters 11-23). 
+For more information about the book and its programs 
+look at 
+the Web page for the textbook.
+Prerequisites:
+Knowledge of Artificial Intelligence I (search, knowledge representation, predicate calculus and resolution.
+Course Objectives:
+To provide in depth 
+study of advanced topics in 
+Artificial Intelligence, such as learning, neural networks, natural language understanding, planning,
+and reasoning with uncertainty. Use of techniques from Artificial Intelligence for intelligent agents.
+Course Requirements:
+four written homeworks (20% of the final grade)
+a project (30% of the final grade). 
+The project is an individual or group 
+project on a topic of your own choice related to the class. 
+The
+project 
+will have an experimental component (write your own program or install 
+some public domain software and use it to solve a problem
+of your interest) 
+and a literature search component. 
+More details and suggestions will 
+be distributed later. Ideas for projects from last year
+can be found 
+here (text)
+one in class midquarter exam (25% of the final grade)
+one take-home final exam (25% of the final grade)
+Policy on Exams and Grading:
+All graded work must represent individual effort. Collaboration on homework or exams is cheating and grounds for failing the course. Grading will
+be done on a relative curve. 
+Exams are open books and notes.
+Policy on Homeworks:
+Homeworks are due in class. 
+Late Homeworks
+ will lose 10% of the maximum total points for every weekday late. 
+Late homeworks must be
+submitted no later than one week after they are due. Keys will be distributed in class the week after the homework is due. 
+Late Projects
+ can be submitted any time before the 
+last day of class. 
+Late projects will lose 10% of the maximum total points for every weekday
+late (up to a maximum of 50%).
+Off-campus Students:
+ Please submit all homework through 
+the UNITE Office, 114 Lind Hall, 207 Church St. S.E., Minneapolis, MN 55455-
+0134. Phone: 612-624-2332. 
+Please write the Course number on all submitted materials.
+Class mailing list, 
+and WWW page:
+Please use the program 
+classmail
+ on the itlabs.umn.edu machines to add your e-mail address to the class mailing list. 
+If you prefer, just send e-
+mail to 
+gini@cs.umn.edu
+ with your e-mail address.
+Week
+Chapters
+Topics
+Assignments due
+Jan 2
+11-12
+Planning.
+Jan 9
+12-13
+Jan 16
+18
+Learning
+Homework 1
+Jan 23
+19
+Neural Networks
+Jan 30
+20-21
+Learning
+Homework 2
+Feb 1
+Midquarter Exam
+Feb 6
+22
+Communication
+Feb 13
+23
+Communication
+First Part of Project
+Feb 20
+14
+Uncertainty
+Homework 3
+Feb 27
+15
+Probabilistic Reasoning
+Second Part of Project
+Mar 5
+16
+Utility Theory
+Homework 4
+Mar 15
+TakeHome Final Exam due
+Class material
+the written homeworks 
+(html)
+the paper D. Weld, "An introduction to least commitment planning", 
+AI Magazine, Winter 1994, pp 27-61 is available here 
+(postscript - 50
+pages) 
+If you prefer, you can borrow a copy of it from me.
+Posted: 2 January 1996
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

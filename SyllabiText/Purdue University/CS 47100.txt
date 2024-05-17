@@ -1,0 +1,356 @@
+==================[Syllabus Start]==================
+Introduction to Artificial Intelligence
+CS47100 • Spring 2022 • Time: Tues/Thurs 3:00 -- 4:15 pm • Location: WTHR 172
+Tentative Schedule
+ • 
+CampusWire
+ • 
+Brightspace
+ • 
+Gradescope
+ 
+• 
+HotSeat
+Instructor
+Professor Yexiang Xue
+ 
+Lawson 2142L • yexiang [at] purdue DOT edu • 
+Office hours: Thursday before the class: 2:00 -- 3:00 pm (last 15 minutes will be on my way to WTHR). Office hours will only be held if
+appointments are made via emails at least 24 hours in prior.
+Teaching assistants
+Jinzhao Li • li4255 [at] purdue DOT edu • Office hours: 10:30 am -- 11:30 am on Wednesdays. 
+Zhuoyan Li • li4178 [at] purdue DOT edu • Office hours: 4:00 pm -- 5:00 pm on Wednesdays. 
+Zachery Berg • bergz [at] purdue DOT edu • Office hours: 10:00 am -- 11:00 am on Thursdays.
+Mehmet Oguz Sakagolu • msakaogl [at] purdue DOT edu • Office hours: 10:30 am -- 11:30 am on Mondays.
+Jiaxin Du • du286 [at] purdue DOT edu •
+Questions: We will use 
+CampusWire
+ for class questions/discussion. The link to join our class on CampusWire is in Brightspace. Instead of sending
+email to the TA list, please post your questions on CampusWire.
+Description
+This course provides an introduction to foundational areas 
+of artificial intelligence and current techniques for 
+building intelligent systems. Topics will
+include: problem solving, 
+state-space representation, heuristic search techniques, game playing, 
+knowledge representation, logical reasoning,
+reasoning under uncertainty, 
+decision making, machine learning, and planning.
+Prerequisites
+Prerequisites: CS25100 Data Structures (grade of C or better)
+Text
+S. Russell and P. Norvig (2010). 
+Artificial Intelligence: A Modern Approach
+. Prentice Hall, 3rd Edition. 
+Assignments and exams
+There will be four homework/programming assignments that will be posted on the schedule. Assignments should be submitted online in gradescope
+or via turnin on data.cs.purdue.edu. Details will be provided in the assignments. Programming projects should be written in Python, unless
+otherwise noted. In general, questions about the details of homeworks/projects should be directed to the TA on CampusWire.
+There will be one essay on the opportunities and challenges that Artificial Intelligence will bring to our society. Details will be discussed in the class.
+The 
+essay should be submitted via gradescope in PDF format.
+There will be several quizzes in class, as well as an evening midterm and a comprehensive final exam. Exams will be closed book and closed notes.
+We will use 
+HotSeat
+ for the quizzes. 
+Each quizz will be made available on HotSeat for 24 hours to accomondate excusable reasons not to show up
+in classes.
+Exam Date and Homework Due Dates
+Mid-term Exam
+: Thu 03/10 8:00 pm -- 10:00 pm, PHYS 112.
+Final Exam
+: Wed 05/04 3:30 pm -- 5:30 pm, PHYS 114.
+Essay
+: Friday, April 15, 5:00 pm, US Eastern Time.
+Homework 1
+: 3 pm, Feb 17, US Eastern Time.
+Homework 2
+: 3 pm, Mar 22, US Eastern Time.
+Homework 3
+:
+Homework 4
+:
+Grading
+Quizzes/participation: 10%
+Essay: 5%
+Homework: 40%
+Midterm: 20%
+Final exam: 25%
+Grades will be posted on 
+Brightspace
+.
+Late Policy
+Assignments are to be submitted by the due date listed. 
+Each person will be allowed 
+three
+ days of extensions 
+which can be applied to any
+combination of assignments 
+(homework/projects/essays only) during the semester without penalty. 
+After that a late penalty of 15% per day will be
+assigned. 
+Use of a partial day will be counted as a full day. 
+Use of extension days must be stated explicitly at the 
+time of the late submission (by
+accompanying email to the TA), 
+otherwise late penalties will apply. Extensions cannot be 
+used after the final day of classes (ie., April 30). Extension
+days cannot be rearranged after they are applied to a submission. 
+Use them wisely!
+Assignments will NOT BE accepted if they are more than five days late. 
+Additional extensions will be granted only due to serious and documented
+medical or family emergencies.
+Academic Honesty
+Please read the departmental 
+academic integrity policy
+. This will be followed unless we provide written documentation of exceptions. We
+encourage you to interact amongst yourselves: you may discuss and obtain help with basic concepts covered in lectures or the textbook,
+homework specification (but not solution), and program implementation (but not design). However, unless otherwise noted, work turned in should
+reflect your own efforts and knowledge. Sharing or copying solutions is unacceptable and could result in failure. We use copy detection software,
+so do not copy code and make changes (either from the Web or from other students). You are expected to take reasonable precautions to prevent
+others from using your work.
+Attendance Policy during COVID-19
+Students are expected to attend all classes unless they are ill 
+or otherwise unable to attend class. 
+We provide both in-class and online ways to
+attend the class. 
+The Zoom information to attend the class online are listed in Brightspace. 
+Either way students are expected to complete in-class
+quizzes in a timely manner via HotSeat. 
+If students feel ill, have any symptoms 
+associated with COVID-19, or suspect they have been exposed to
+the virus, 
+students should stay home and contact the Protect Purdue Health Center (496-INFO).
+Students need to inform the instructor 
+of any conflict that can be anticipated and will affect the timely submission 
+of an assignment or the ability to
+take an exam due to COVID.
+Classroom engagement is extremely important and associated with your overall success 
+in the course. The importance and value of course
+engagement and ways in which you can 
+engage with the course content even if you are in quarantine or isolation, will be discussed 
+at the beginning
+of the semester. Student survey data from Fall 2020 emphasized studentsâ€™ 
+views of in-person course opportunities as critical to their learning,
+engagement with 
+faculty/TAs, and ability to interact with peers.
+Only the instructor can excuse a student from a course requirement or responsibility. 
+When conflicts can be anticipated, such as for many
+University-sponsored activities 
+and religious observations, the student should inform the instructor of the situation 
+as far in advance as possible. For
+unanticipated or emergency conflicts, when advance 
+notification to an instructor is not possible, the student should contact the
+instructor/instructional team as soon as possible by email, through Brightspace, or by phone. 
+In cases of bereavement, quarantine, or isolation, the
+student or the studentâ€™s 
+representative should contact the Office of the Dean of Students via email or phone 
+at 765-494-1747. Our course
+Brightspace includes a link to the Dean of Students under 
+â€˜Campus Resources.â€™
+Academic Guidance in the Event a Student is Quarantined/Isolated
+If you must quarantine or isolate at any point in time during the semester, 
+please reach out to all TAs and me via email so that we can communicate
+about how you can 
+continue to learn remotely. Work with the Protect Purdue Health Center (PPHC) 
+to get documentation and support, including
+access to an Academic Case Manager 
+who can provide you with general guidelines/resources around 
+communicating with your instructors, be
+available for academic support, and offer 
+suggestions for how to be successful when learning remotely. Your Academic Case Manager 
+can be
+reached at acmg@purdue.edu. Importantly, if you find yourself too sick 
+to progress in the course, notify your academic case manager and notify
+me 
+via email or Brightspace. We will make arrangements based on your particular situation.
+We provide a Zoom link to attend the class remotely in case of quarantine/isolation. 
+The link can be accessed via Brightspace. The attendance is
+usually taken via Hotseat, which 
+can be accessed remotely as well.
+Classroom Guidance Regarding Protect Purdue
+The Protect Purdue Plan, which includes the Protect Purdue Pledge, is campus policy 
+and as such all members of the Purdue community must
+comply with the required health 
+and safety guidelines. Required behaviors in this class include: staying home and 
+contacting the Protect Purdue
+Health Center (496-INFO) if you feel ill or know you 
+have been exposed to the virus, properly wearing a mask in classrooms and campus
+building, at all times (e.g., mask covers nose and mouth, no eating/drinking 
+in the classroom), disinfecting desk/workspace before and after use,
+maintaining 
+appropriate social distancing with peers and instructors (including when entering/exiting 
+classrooms), refraining from moving furniture,
+avoiding shared use of personal items, 
+maintaining robust hygiene (e.g., handwashing, disposal of tissues) prior to, during and 
+after class, and
+following all safety directions from the instructor.
+Students who are not engaging in these behaviors (e.g., wearing a mask) will be offered 
+the opportunity to comply. If non-compliance continues,
+possible results include instructors 
+asking the student to leave class and instructors dismissing the whole class. Students 
+who do not comply with the
+required health behaviors are violating the University Code 
+of Conduct and will be reported to the Dean of Students Office with sanctions ranging
+from educational requirements to dismissal from the university.
+Any student who has substantial reason to believe that another person in a campus room 
+(e.g., classroom) is threatening the safety of others by not
+complying (e.g., not properly 
+wearing a mask) may leave the room without consequence. The student is encouraged to report 
+the behavior to and
+discuss the next steps with their instructor. Students also have the 
+option of reporting the behavior to the Office of the Student Rights and
+Responsibilities. 
+See also Purdue University Bill of Student Rights.
+Nondiscrimination Statement
+Purdue University is committed to maintaining a community which recognizes and values 
+the inherent worth and dignity of every person; fosters
+tolerance, sensitivity, understanding, 
+and mutual respect among its members; and encourages each individual to strive to reach 
+his or her potential.
+In pursuit of its goal of academic excellence, the University seeks 
+to develop and nurture diversity. The University believes that diversity among its
+many members 
+strengthens the institution, stimulates creativity, promotes the exchange of ideas, 
+and enriches campus life. A hyperlink to Purdueâ
+€™s full Nondiscrimination Policy Statement is 
+included 
+here
+.
+Accessbility
+Purdue University strives to make learning experiences as accessible as possible. 
+If you anticipate or experience physical or academic barriers
+based on disability, 
+you are welcome to let me know so that we can discuss options. You are also encouraged 
+to contact the Disability Resource
+Center at: drc@purdue.edu or by phone: 765-494-1247.
+Mental Health/Wellness Statement
+If you find yourself beginning to feel some stress, anxiety and/or feeling 
+slightly overwhelmed, try WellTrack. Sign in and find information and tools
+at your fingertips, available to you at any time.
+If you need support and information about options and resources, 
+please contact or see the Office of the Dean of Students. Call 765-494-1747.
+Hours of operation are M-F, 8 am- 5 pm.
+If you find yourself struggling to find a healthy balance between 
+academics, social life, stress, etc. sign up for free one-on-one virtual 
+or in-person
+sessions with a Purdue Wellness Coach at RecWell. 
+Student coaches can help you navigate through barriers and challenges 
+toward your goals
+throughout the semester. Sign up is completely free and 
+can be done on BoilerConnect. If you have any questions, please contact Purdue 
+Wellness
+at evans240@purdue.edu.
+If youâ€™re struggling and need mental health services: Purdue University 
+is committed to advancing the mental health and well-being of its
+students. 
+If you or someone you know is feeling overwhelmed, depressed, and/or in need 
+of mental health support, services are available. For help,
+such individuals 
+should contact Counseling and Psychological Services (CAPS) at 765-494-6995 
+during and after hours, on weekends and
+holidays, or by going to the CAPS office 
+on the second floor of the Purdue University Student Health Center (PUSH) during business hours.
+Emergency Preparation
+In the event of a major campus emergency, course requirements, 
+deadlines and grading percentages are subject to changes that may be
+necessitated 
+by a revised semester calendar or other circumstances beyond the instructorâ€™s control. 
+Relevant changes to this course will be
+posted onto the course website or can be obtained 
+by contacting the instructors or TAs via email or phone. You are expected to 
+read your
+@purdue.edu email on a frequent basis.
+Additional course policies
+Please read the general course policies 
+here
+. 
+Course outline
+Introduction
+ (1 week) 
+What is artificial intelligence? Overview of AI history and associated application areas.
+Search
+ (3 weeks) Problem solving as search, heuristic search, constraint satisfaction, adversarial search.
+Reasoning with logic
+ (2 weeks) 
+Propositional logic and first-order logic, logical reasoning and inference.
+Reasoning with uncertain knowledge
+ (3 weeks) 
+Basic probability and statistical reasoning, Bayesian and Markov networks, exact and approximate inference methods.
+Planning and decision making
+ (2 weeks) 
+Classical planning, decision making under uncertainty, sequential decision making and Markov decision processes.
+Learning
+ (2 weeks) 
+Learning as search, logical formulation of learning, reinforcement learning.
+Additional topics
+ (1 week) 
+Relational learning, multi-agent systems, causality, fairness/bias/ethics. 
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

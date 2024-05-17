@@ -1,0 +1,529 @@
+==================[Syllabus Start]==================
+CSCI 360: Introduction to Articial
+Intelligence (Spring 2024)
+Units: 4
+Instructor: Mohammad Reza Rajati, PhD
+PHE 412
+rajati@usc.edu { Include CSCI 360 in subject
+Oce Hours: After Wednesday class, by appointment
+TA(s): TBD
+tbd@usc.edu { Include CSCI 360 in subject
+Oce Hours: TBD
+TBD
+tbd@usc.edu { Include CSCI 360 in subject
+Oce Hours: TBD
+Lecture: Monday, Wednesday, 12:00 pm {1:50 pm, THH 101
+Webpages: Piazza Class Page for everything except grades
+and USC Blackboard Class Page for grades
+and GitHub for code submission
+{ All HWs, handouts, solutions will be posted in PDF format
+Prerequisite: CSCI 104L, CSCI 170. Prior courses in calculus, linear algebra,
+probability, and statistics will immensely help.
+Other Requirements: Computer programming skills.
+Using Python is mandatory.
+Tentative Grading: Programming Assignments (Labs) 35%
+Problem Sets 5%
+Midterm Exam 1 25%
+Midterm Exam 2 25%
+Project 10%
+Participation on Piazza* 5%
+2 CSCI 360 Syllabus { January 8, 2024
+Letter Grade Distribution:
+93.00 A 73.00 - 76.99 C
+90.00 - 92.99 A- 70.00 - 72.99 C-
+87.00 - 89.99 B+ 67.00 - 69.99 D+
+83.00 - 86.99 B 63.00 - 66.99 D
+80.00 - 82.99 B- 60.00 - 62.99 D-
+77.00 - 79.99 C+ 59.99 F
+Disclaimer: Although the instructor does not expect this syllabus to drastically change, he
+reserves every right to change this syllabus any time in the semester.
+Note on e-mail vs. Piazza: If you have a question about the material or logistics of the class
+and wish to ask it electronically, please post it on the piazza page (not e-mail). You may post it
+anonymously if you wish. Often times, if one student has a question/comment, other also have
+a similar question/comment. Private Piazza posts to the whole instructor team should be used
+to contact the professor, TA, graders only for issues that are specic to you individually (e.g., a
+scheduling issue or grade issue)..
+Catalogue Description: Concepts and algorithms underlying the understanding and construc-
+tion of intelligent systems. Agents, problem solving, search, representation, reasoning, planning,
+machine learning.
+Course Description: Articial Intelligence (AI) seeks to understand the mechanisms underlying
+thought and intelligent behavior, with a particular focus on their embodiment in machines. Core
+topics include the integrating perspective of intelligent agents and how such systems can engage in:
+search and problem solving; symbolic and probabilistic knowledge representation and reasoning;
+planning; and machine learning. The course introduces both basic concepts and algorithms, and
+explores how to apply these in the construction of systems that can interact intelligently with
+complex environments. The course is intended for undergraduate students in computer science or
+closely related disciplines, usually in the junior year. Graduate students should take CSCI 561
+rather than CSCI 360.
+Course Objectives: Upon successful completion of this course a student will
+Broadly understand rationality and intelligence
+Understand problem solving via search
+Understand Uninformed and informed search algorithms
+Understand adversarial search and games
+Understand logical agents, logical inference, and knowledge-based systems
+Understand automated planning
+Understand decision theory
+Understand supervised and unsupervised learning .
+CSCI 360 Syllabus { January 8, 2024 3
+Understand classication and regression problems
+Understand decision trees and interpretable learning.
+Understand fuzzy sets and fuzzy rule mining
+Understand Hebbian learning in neural systems
+Understand feedforward neural networks and deep learning
+Understand Reinforcement Learning
+Exam Dates:
+Midterm 1: Wednesday March 20, 12:00-1:50 PM, In Class.
+Midterm 2: Wednesday April 24, 12:00-1:50 PM, In Class.
+Final Project Due: Friday, May 3, 1:00 PM, as set by the university
+Grace period : The project can be submitted until 11:59 PM of the same day with 20%
+penalty. Any change in the project after the deadline is considered late submission. One
+second late is late. The project is graded based on when it was submitted, not when it was
+nished. Homework late days cannot be used for the project.
+Important Note: Please make absolutely sure that you can make the above dates. No
+make-up exams can be oered for any reason whatsoever. Moreover, no online exams will
+be oered to on-campus students for any reason . If a student misses Midterm 1 due to a
+valid reason (e.g., documented medical or family emergency), the grade of Midterm 2 will be
+considered as the grade of Midterm 1. If a student misses Midterm 2 due to a valid reason,
+they will receive a grade of IN (Incomplete) and they must take the exam in the next semester
+with the students of that semester. Unexcused absence in an exam warrants a grade of zero.
+Textbooks:
+Required Textbook:
+1. Stuart Russell and Peter Norvig, Articial Intelligence: A Modern Approach , 4thEdition,
+Pearson, 2020. (AIMA)
+Recommended Textbooks:
+1. Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani, An Introduction
+to Statistical Learning with Applications in Python , Springer, 2023.
+Available at https://hastie.su.domains/ISLP/ISLP_website.pdf
+2. David L. Poole and Alan K. Mackworth, Articial Intelligence: Foundations of Compu-
+tational Agents , 2ndEdition, Cambridge University Press, 2017.
+Available at https://artint.info/2e/html/ArtInt2e.html
+3.Neural Networks and Learning Machines , 3rdEdition
+Author: Simon Haykin; Pearson; 2008. ISBN-13: 978-0131471399
+4 CSCI 360 Syllabus { January 8, 2024
+Grading Policies:
+The letter grade distribution table guarantees the minimum grade each student will receive
+based on their nal score. When appropriate, relative performance measures will be used to
+assign the nal grade, at the discretion of the instructor.
+{Final grades are non-negotiable and are assigned at the discretion of the instructor. If
+you cannot accept this condition, you should not enroll in this course.
+Your lowest grade in problem sets and your lowest grade in programming assignments (Labs)
+will be dropped from the nal grade.
+*Participation on Piazza has up to 5% extra credit, which is granted on a competetive basis
+at the discretion of the instructor .
+Homework Policy
+{Homework is assigned on an approximately weekly basis. Homework due dates are
+mentioned in the course outline, so mark your calendars. A three-day grace period can
+be used for each homework with 10% penalty per day. Any change in homework after
+the deadline makes it a late submission. Absolutely no late homework will be accepted
+after the grace period. A late assignment results in a zero grade.
+{Late Days: No late homework will be accepted after the three day grace period. One
+second after the deadline is considered late. However, students are allowed to use sixlate
+days for homework for any reason (including sickness, family emergencies, overwhelming
+workload, exams, etc) without incurring the 10% penalty . Beyond that, no individual
+extension will be granted to anyone for any reason whatsoever.
+Suggestion : Try to save your six free late days for Labs, as much as you can. Problem
+Sets are only worth 5% of the total score. Submitting one Problem Set three days late
+will have a really tiny eect on your nal score. Nevertheless, you can use your late days
+for Problem Sets as well. You are encouraged to submit all assignments on time for a
+full learning experience.
+Example : A student can submit six assignments, one day late each, without any penalty.
+Or three assignments, two days late each, without penalty, or two assignments three days
+late each. A student cannot use four late days for one assignment, and two late days for
+another assignment. An assignment submitted four days late will receive a zero grade,
+although its grade will be dropped as the lowest homework grade, according to the above
+grading policies.
+{Use your six late days strategically and only if you absolutely need them. Always
+remember that later in the semester, you might become sick or have heavy workload in
+other courses and might need to use your late days.
+{Assignments are project-style ; therefore, we do not provide solutions to the assignments.
+This is a rm rule.
+{Poor internet connection, failing to upload properly, or similar issues are NOT acceptable
+reasons for late submissions. If you want to make sure that you do not have such
+problems, submit homework eight hours earlier than the deadline. Please do not ask the
+instructor to make individual exceptions.
+CSCI 360 Syllabus { January 8, 2024 5
+{Homework is graded based on when it was submitted, not when it was nished.
+{Homework solutions and simulation results should be typed or scanned using scanners or
+mobile scanner applications like CamScanner and uploaded (photos taken by cell-phone
+cameras and in formats other than pdf will NOT be accepted). Programs and simulation
+results have to be uploaded on GitHub as well.
+{Students are encouraged to discuss homework problems with one another, but each
+student must do their own work and submit individual solutions written/ coded in
+their own hand. Copying the solutions or submitting identical homework sets is written
+evidence of cheating. The penalty ranges from F on the homework or exam, to an F in
+the course, to recommended expulsion.
+{Posting the homework assignments and their solutions to online forums or sharing them
+with other students is strictly prohibited and infringes the copyright of the instructor.
+Instances will be reported to USC ocials as academic dishonesty for disciplinary action.
+Exam Policy
+{ Make-up Exams: No make-up exams will be given. If you cannot make the above
+dates due to a class schedule conict or personal matter, you must drop the class. In
+the case of a required business trip or a medical emergency, a signed letter from your
+manager or physician has to be submitted. This letter must include the contact of your
+physician or manager.
+{An excused absence supported by documents in the rst midterm can be made up by
+using the second midterm's grade in lieu of the rst midterm. An excused absence in
+the second midterm results in an IN (incomplete) grade.
+{Midterm and nal exams will be closed book and notes. Calculators may be allowed
+(this will be announced before the exam) but computers and cell-phones or any devices
+that have internet capability are not allowed. One letter size cheat sheet (back and front)
+is allowed for the midterm. Two letter size cheat sheets (back and front) are allowed for
+the nal.
+{All exams are cumulative, with an emphasis on material presented since the last exam.
+Project
+{The nal project is more like a slightly extended homework that will be assigned in the
+last week of classes as the nal summative experience.
+{The project topic and steps will be provided to students, similar to homework assign-
+ments.
+{Projects must be nished individually .
+{A short grace period of a few hours after the project deadline will be given to students
+for 20% penalty. Late submissions will be graded zero. One second late is late.
+{Project is graded based on when it was submitted, not when it was nished.
+{Homework late days cannot be used for project in any circumstances.
+Attendance:
+{Students are required to attend all the lectures and discussion sessions and actively
+participate in class discussions.
+6 CSCI 360 Syllabus { January 8, 2024
+Important Notes :
+Textbooks are secondary to the lecture notes and homework assignments.
+Handouts and course material will be distributed.
+Please use your USC email to register on Piazza and to contact the instructor and TAs.
+CSCI 360 Syllabus { January 8, 2024 7
+Tentative Course Outline
+Monday Wednesday
+Jan 8th 1
+Introduction and History of AI (AIMA
+Ch. 1)10th 2
+Intelligent Agents (AIMA Ch. 2)
+15th
+Martin Luther King Day17th 3
+Problem Solving via Search (AIMA Ch.
+3.1-3.3)
+Problem Formulation
+Examples
+Search Algorithms
+Best-rst Search
+22nd 4
+Problem Solving via Search (AIMA Ch.
+3.3-3.4)
+Uninformed Search
+Depth-First Search
+Breadth-First Search
+Uniform Cost Search24th 5
+Search in Complex Environments (AIMA
+Ch. 3.5-3.6)
+Informed Search
+Greedy best-rst search
+A* Search
+Heuristic Functions
+29th 6
+Search in Complex Environments (AIMA
+Ch. 4.1-4.2)
+Local Search and Optimization
+Hill Climbing
+Evolutionary Algorithms
+Simulated Annealing*
+Particle Swarm Optimization*31st 7
+Adversarial Search and Games (AIMA
+Ch. 5.1-5.3)
+Game Theory
+Optimal Decisions and Min-Max
+Alpha-Beta Pruning
+Feb 5th 8
+Review of Probability Theory (AIMA
+Ch. 12.1-12.5)
+Quantifying Uncertainty
+Probability Axioms
+Events and Logic
+Probability Distributions
+Independence
+Total Probability and The Bayes' Rule7th 9
+Decision Theory (AIMA Ch. 16.1-16.5)
+Utility Theory
+Rational Preferences
+Utility Functions
+Decision Networks*
+8 CSCI 360 Syllabus { January 8, 2024
+Monday Wednesday
+12th 10
+Agents that Learn from Experience and
+Data (AIMA Ch. 19.1-19.2, 19.4, 19.9)
+What is Machine Learning?
+Supervised, Unsupervised, and Reinforcement
+Learning
+Regression and Classication
+The Bias-Variance Trade-o
+No Free Lunch!14th 11
+Classication (AIMA Ch. 19.7.3)
+Bayes' Optimal Classiers and KNN
+Logistic Regression*
+19th
+President's Day21st 12
+Classication (AIMA Ch. 12.6)
+Bayesian Learning and Na ve Bayes' Learning
+Text Classication
+26th 13
+Regression (AIMA Ch. 19.6.1-19.6.3, 19.7.4)
+Minimum Mean-Squared Error Regression
+KNN Regression
+Linear Regression28th 14
+Decision Trees (AIMA Ch. 19.3)
+Regression and Classication Trees
+Mar 4th 15
+Agents that Think Humanly
+Fuzzy Sets
+Fuzzy Inference
+Interpretable Learning Using Fuzzy
+Rule-Based Systems6th 16
+Supervised Hebbian Learning
+Perceptron Learning Rule
+Hopeld Neural Networks
+11th
+Spring Recess13th
+Spring Recess
+18th 17
+Neural Networks and Deep Learning
+(AIMA Ch. 21)
+Feedforward Neural Networks
+Backpropagation and Gradient Descent
+Overtting
+Regularization20th 18
+Midterm 1
+CSCI 360 Syllabus { January 8, 2024 9
+Monday Wednesday
+25th 19
+Reinforcement Learning * (AIMA Ch.
+22.3.3-22.5)
+Denitions
+Task-Reward-Policy Formulation
+Total Discounted Future Reward
+Optimal Policy
+Value Function
+Q-Function
+The Bellman Equation
+Q-Learning
+Exploration- Exploitation
+Extensions to Stochastic Environments and
+Rewards
+Deep Reinforcement Learning27th 20
+Unsupervised Learning
+K-Means Clustering
+Hierarchical Clustering
+Competitive Learning and Self-Organizing
+Maps*
+Apr 1st 21
+Logical Agents (AIMA Ch. 7.1-7.3)
+Knowledge-Based Agents
+Logic3rd 22
+Propositional Logic (AIMA Ch. 7.4-7.5)
+Aristotelian Logic
+Inference
+Theorem Proving
+Forward and Backward Chaining
+8th 23
+First-Order Logic (AIMA Ch. 8.1-8.4)
+Knowledge Representation via Logic
+Syntax and Semantics
+Existential and Universal Quantication
+Applications
+Knowledge Engineering*10th 24
+Inference in First-Order Logic (AIMA
+Ch. 9.1-9.2)
+Inference
+15th 25
+Knowledge-Based Systems (AIMA Ch.
+9.3-9.4)
+Forward and Backward Chaining17th 26
+Search-Based Planning* (AIMA Ch.
+11.1-11.4)
+Classical Planning Formulation
+Automated Planning Algorithms
+22nd 27
+Search-Based Planning* (AIMA Ch.
+11.1-11.4)
+Heuristics
+Hierarchical Planning24th 28
+Midterm 2
+Items marked by * will be covered only if time permits.
+10 CSCI 360 Syllabus { January 8, 2024
+Homework Due Dates & Exams
+Friday
+Jan 12th 1
+-
+19th 2
+-
+26th 3
+Lab 0 Due (not graded)
+Feb 2nd 4
+Problem Set 1 Due
+9th 5
+Lab 1 Due
+16th 6
+Problem Set 2 Due
+23rd 7
+Lab 2 Due
+Mar 1st 8
+Problem Set 3 Due
+8th 9
+Problem Set 4 Due
+15th 10
+Spring Recess
+22nd 11
+Lab 3 Due
+29th 12
+Problem Set 5 Due
+Apr 5th 13
+Lab 4 Due
+12th 14
+Problem Set 6 Due
+19th 15
+Problem Set 7 Due
+26th 16
+-
+CSCI 360 Syllabus { January 8, 2024 11
+Statement on Academic Conduct and Support Systems
+Academic Conduct:
+Plagiarism { presenting someone else's ideas as your own, either verbatim or recast in your own
+words { is a serious academic oense with serious consequences. Please familiarize yourself with the
+discussion of plagiarism in SCampus in Part B, Section 11, \Behavior Violating University Stan-
+dards" policy.usc.edu/scampus-part-b. Other forms of academic dishonesty are equally unaccept-
+able. See additional information in SCampus and university policies on Research and Scholarship
+Misconduct.
+Using Generative AI and Large Language Models:
+Use of AI and specically Large Language Models (LLMs) is allowed. However, it is only allowed
+as a tool to assist in learning. That is to say, that you may use AI models such as ChatGPT or
+Claude 2 to help understand the assignments, to ask generic questions about programming and to
+generate code samples that could be of use to explain how certain programming constructs work.
+Submitting assignments completely generated by AI is strictly prohibited and when discovered will
+be awarded 0 points for the assignment. We will be utilizing additional software to check for code
+generated by an AI.
+Students and Disability Accommodations:
+USC welcomes students with disabilities into all of the University's educational programs. The
+Oce of Student Accessibility Services (OSAS) is responsible for the determination of appropriate
+accommodations for students who encounter disability-related barriers. Once a student has com-
+pleted the OSAS process (registration, initial appointment, and submitted documentation) and
+accommodations are determined to be reasonable and appropriate, a Letter of Accommodation
+(LOA) will be available to generate for each course. The LOA must be given to each course in-
+structor by the student and followed up with a discussion. This should be done as early in the
+semester as possible as accommodations are not retroactive. More information can be found at
+osas.usc.edu. You may contact OSAS at (213) 740-0776 or via email at osasfrontdesk@usc.edu.
+Support Systems:
+Counseling and Mental Health - (213) 740-9355 { 24/7 on call
+studenthealth.usc.edu/counseling
+Free and condential mental health treatment for students, including short-term psychotherapy,
+group counseling, stress tness workshops, and crisis intervention.
+National Suicide Prevention Lifeline - 1 (800) 273-8255 { 24/7 on call
+suicidepreventionlifeline.org
+Free and condential emotional support to people in suicidal crisis or emotional distress 24 hours
+a day, 7 days a week.
+Relationship and Sexual Violence Prevention Services (RSVP) - (213) 740-9355(WELL), press
+\0" after hours { 24/7 on call
+12 CSCI 360 Syllabus { January 8, 2024
+studenthealth.usc.edu/sexual-assault
+Free and condential therapy services, workshops, and training for situations related to gender-
+based harm.
+Oce for Equity, Equal Opportunity, and Title IX (EEO-TIX) - (213) 740-5086
+eeotix.usc.edu
+Information about how to get help or help someone aected by harassment or discrimination, rights
+of protected classes, reporting options, and additional resources for students, faculty, sta, visitors,
+and applicants.
+Reporting Incidents of Bias or Harassment - (213) 740-5086 or (213) 821-8298
+usc-advocate.symplicity.com/care report
+Avenue to report incidents of bias, hate crimes, and microaggressions to the Oce for Equity, Equal
+Opportunity, and Title for appropriate investigation, supportive measures, and response.
+The Oce of Student Accessibility Services (OSAS) - (213) 740-0776
+osas.usc.edu
+OSAS ensures equal access for students with disabilities through providing academic accommoda-
+tions and auxiliary aids in accordance with federal laws and university policy.
+USC Campus Support and Intervention - (213) 821-4710
+campussupport.usc.edu
+Assists students and families in resolving complex personal, nancial, and academic issues adversely
+aecting their success as a student.
+Diversity, Equity and Inclusion - (213) 740-2101
+diversity.usc.edu
+Information on events, programs and training, the Provost's Diversity and Inclusion Council, Diver-
+sity Liaisons for each academic school, chronology, participation, and various resources for students.
+USC Emergency - UPC: (213) 740-4321, HSC: (323) 442-1000 { 24/7 on call
+dps.usc.edu,emergency.usc.edu
+Emergency assistance and avenue to report a crime. Latest updates regarding safety, including
+ways in which instruction will be continued if an ocially declared emergency makes travel to
+campus infeasible.
+USC Department of Public Safety - UPC: (213) 740-6000, HSC: (323) 442-120 { 24/7 on call
+dps.usc.edu Non-emergency assistance or information.
+Oce of the Ombuds - (213) 821-9556 (UPC) / (323-442-0382 (HSC)
+ombuds.usc.edu
+A safe and condential place to share your USC-related issues with a University Ombuds who will
+work with you to explore options or paths to manage your concern.
+Occupational Therapy Faculty Practice - (323) 442-3340 or otfp@med.usc.edu
+chan.usc.edu/otfp
+CSCI 360 Syllabus { January 8, 2024 13
+Condential Lifestyle Redesign services for USC students to support health promoting habits and
+routines that enhance quality of life and academic performance.
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

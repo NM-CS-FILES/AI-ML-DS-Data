@@ -1,0 +1,596 @@
+==================[Syllabus Start]==================
+(http://snap.stanford.edu/)
+ 
+(http://stanford.edu/)
+CS224W: Machine Learning with Graphs
+Stanford / Fall 2023
+Logistics
+Lectures:
+ are on Tuesday/Thursday 3:00-4:20pm 
+in person
+ in the 
+NVIDIA Auditorium
+ (https://campus-map.stanford.edu/?
+srch=NVIDIA+Auditorium)
+.
+Lecture Videos:
+ are available on 
+Canvas
+ (https://canvas.stanford.edu/courses/179477)
+ for all the enrolled Stanford
+students.
+Public resources
+: The lecture slides and assignments will be posted online as the course progresses. We are happy for
+anyone to use these resources, but we cannot grade the work of any students who are not officially enrolled in 
+the class.
+Contact
+: Students should ask 
+all
+ course-related questions on Ed (accessible from Canvas), where you will also find
+announcements. For external inquiries, personal matters, 
+or in emergencies, you can email us at 
+cs224w-aut2324-
+staff@lists.stanford.edu
+.
+Academic accommodations
+: If you need an academic accommodation based on a disability, you should initiate the request
+with the 
+Office of Accessible Education (OAE)
+ (https://oae.stanford.edu/students/accommodations-services/academic-
+accommodations)
+. 
+The OAE will evaluate the request, recommend accommodations, and prepare a letter for the teaching
+staff. Once you receive the letter, send it to our staff email address. Students should contact the OAE as soon as possible
+since timely 
+notice is needed to coordinate accommodations.
+Instructor
+Jure Leskovec
+(https://profiles.stanford.edu/jure-
+leskovec)
+Guest Instructor
+Joshua Robinson
+(https://joshrobinson.mit.edu/)
+Course Assistants
+Content
+What is this course about?
+Complex data can be represented as a graph of relationships between objects. Such networks are a fundamental tool for
+modeling social, technological, and biological systems. This course focuses on the computational, algorithmic, and
+modeling challenges 
+specific to the analysis of massive graphs. By means of studying the underlying graph structure and
+its features, students are introduced to machine learning techniques and data mining tools apt to reveal insights on a
+(https://xikunzhang.github.io/)
+Xikun Zhang
+(https://xikunzhang.github.io/)
+Head CA
+ 
+(http://hamedn.com/)
+Hamed Nilforoshan
+(http://hamedn.com/)
+ 
+Aditya Agrawal
+(https://www.linkedin.com/in/adityaagrawal001)
+Abhinav Garg
+(https://www.linkedin.com/in/abhinav-
+garg/)
+ 
+Matthew Jin
+(https://profiles.stanford.edu/matthew-
+jin)
+ 
+Yunqi Li
+(https://www.linkedin.com/in/yunqi-
+li-716071183/)
+Tolu Oyeniyi
+(https://www.linkedin.com/in/tolu-
+oyeniyi/)
+ 
+Chenshu (Jupiter) Zhu
+(https://www.linkedin.com/in/chenshu-
+z/)
+ 
+Pratham Soni
+(https://stanford.edu/~prathams/)
+Anirudh Sriram
+(https://www.linkedin.com/in/anirudh-
+sriram-1b136318a)
+variety of networks. 
+Topics include:
+ representation learning and Graph Neural Networks; algorithms for the World Wide Web; reasoning over
+Knowledge Graphs; influence maximization; disease outbreak detection, social network analysis.
+Previous Offerings
+You can access slides and project reports of previous versions of the course on our archived websites: 
+CS224W: Winter
+2023
+ (https://snap.stanford.edu/class/cs224w-2023/)
+ / 
+CS224W: Fall 2021
+ (http://snap.stanford.edu/class/cs224w-2021)
+ /
+CS224W: Winter 2021
+ (http://snap.stanford.edu/class/cs224w-2020)
+ / 
+CS224W: Fall 2019
+(http://snap.stanford.edu/class/cs224w-2019)
+ / 
+CS224W: Fall 2018
+ (http://snap.stanford.edu/class/cs224w-2018)
+ /
+CS224W: Fall 2017
+ (http://snap.stanford.edu/class/cs224w-2017)
+ / 
+CS224W: Fall 2016
+(http://snap.stanford.edu/class/cs224w-2016)
+ / 
+CS224W: Fall 2015
+ (http://snap.stanford.edu/class/cs224w-2015)
+ /
+CS224W: Fall 2014
+ (http://snap.stanford.edu/class/cs224w-2014)
+ / 
+CS224W: Fall 2013
+(http://snap.stanford.edu/class/cs224w-2013)
+ / 
+CS224W: Fall 2012
+ (http://snap.stanford.edu/class/cs224w-2012)
+ /
+CS224W: Fall 2011
+ (http://snap.stanford.edu/class/cs224w-2011)
+ / 
+CS224W: Fall 2010
+(http://snap.stanford.edu/class/cs224w-2010)
+Prerequisites
+Students are expected to have the following background:
+Knowledge of basic computer science principles, sufficient to write a reasonably non-trivial computer program (e.g., CS107
+or CS145 or equivalent are recommended)
+Familiarity with the basic probability theory (CS109 or Stat116 are sufficient but not necessary)
+Familiarity with the basic linear algebra (any one of Math 51, Math 103, Math 113, or CS 205 would be much more than
+necessary)
+The recitation sessions in the first weeks of the class will give an overview of the expected background.
+Course Materials
+Notes and reading assignments will be posted periodically on the course Web site. The following books are recommended
+as optional reading:
+Graph Representation Learning
+ (https://www.cs.mcgill.ca/~wlh/grl_book/)
+ by William L. Hamilton
+Networks, Crowds, and Markets: Reasoning About a Highly Connected World
+(http://www.cs.cornell.edu/home/kleinber/networks-book/)
+ by David Easley and Jon Kleinberg
+Network Science
+ (http://networksciencebook.com)
+ by Albert-László Barabási
+Schedule
+Lecture slides will be posted here shortly before each lecture.
+This schedule is subject to change. All assignment deadlines are at 
+11:59pm PT
+.
+Date:
+Tue, 9/26
+Description:
+1. Introduction 
+[
+slides
+ (slides/01-intro.pdf)
+]
+Events:
+Deadlines:
+Date:
+Thu, 9/28
+Description:
+2. Node embeddings 
+[
+slides
+ (slides/02-nodeemb.pdf)
+]
+DeepWalk: Online Learning of Social Representations 
+(https://arxiv.org/pdf/1403.6652.pdf)
+node2vec: Scalable Feature Learning for Networks 
+(https://arxiv.org/pdf/1607.00653.pdf)
+Network Embedding as Matrix Factorization 
+(https://arxiv.org/pdf/1710.02971.pdf)
+Events:
+ 
+Colab 0
+ (https://colab.research.google.com/drive/10-8W1e_WOX4-YocROm8tHbtmn1frUf2S)
+, 
+Colab 1
+(https://colab.research.google.com/drive/1vvIoEqxGl1naopTZbh4bmCOLEiCxvcQq)
+ 
+out
+Deadlines:
+Date:
+Tue, 10/3
+Description:
+3. Graph neural networks 
+[
+slides
+ (slides/03-GNN1.pdf)
+]
+Geometric Deep Learning: the Erlangen Programme of ML 
+(https://iclr.cc/virtual/2021/invited-talk/3717)
+Semi-Supervised Classification with Graph Convolutional Networks 
+(https://arxiv.org/pdf/1609.02907.pdf)
+Events:
+Deadlines:
+Date:
+Thu, 10/5
+Description:
+4. A general perspective on GNNs
+[
+slides
+ (slides/04-GNN2.pdf)
+]
+Design Space of Graph Neural Networks 
+(https://arxiv.org/pdf/2011.08843.pdf)
+Inductive Representation Learning on Large Graphs 
+(https://arxiv.org/pdf/1706.02216.pdf)
+Graph Attention Networks 
+(https://arxiv.org/pdf/1710.10903.pdf)
+Events:
+ Homework 1 
+(homework/CS_224W_Fall_2023_HW1.pdf)
+ 
+out
+ 
+LaTeX template
+(homework/CS_224W_Fall_2023_HW1-template.zip)
+Deadlines:
+Date:
+Tue, 10/10
+Description:
+5. GNN augmentation and training
+[
+slides
+ (slides/05-GNN3.pdf)
+]
+Hierarchical Graph Representation Learning with Differentiable Pooling 
+(https://arxiv.org/pdf/1806.08804.pdf)
+Events:
+Deadlines:
+Date:
+Thu, 10/12
+Description:
+6. Theory of GNNs 
+[
+slides
+ (slides/06-theory.pdf)
+]
+How Powerful Are Graph Neural Networks? 
+(https://arxiv.org/pdf/1810.00826.pdf)
+Events:
+Colab 2 
+(https://colab.research.google.com/drive/1zunZQaGzLr782y3tkq3492rvw9UyY30I)
+out
+Deadlines:
+Date:
+Tue, 10/17
+Description:
+7. Heterogenous graphs 
+[
+slides
+ (slides/07-hetero.pdf)
+]
+Modeling Relational Data with Graph Convolutional Networks 
+(https://arxiv.org/pdf/1703.06103.pdf)
+Heterogeneous Graph Transformer 
+(https://arxiv.org/pdf/2003.01332.pdf)
+Events:
+Deadlines:
+Colab 1 
+due
+Date:
+Thu, 10/19
+Description:
+8. Knowledge graphs 
+[
+slides
+ (slides/08-kg.pdf)
+]
+Translating Embeddings for Modeling Multi-relational Data
+(https://papers.nips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
+(https://linyankai.github.io/publications/aaai2015_transr.pdf)
+Embedding Entities and Relations for Learning and Inference in Knowledge Bases 
+(https://arxiv.org/pdf/1412.6575.pdf)
+Complex Embeddings for Simple Link Prediction 
+(https://arxiv.org/pdf/1606.06357.pdf)
+RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space 
+(https://arxiv.org/pdf/1902.10197.pdf)
+Events:
+ Homework 2 
+(homework/CS_224W_Fall_2023_HW2.pdf)
+ 
+out
+ 
+LaTeX template
+(homework/CS_224W_Fall_2023_HW2-template.zip)
+Deadlines:
+Homework 1 
+due
+Date:
+Tue, 10/24
+Description:
+9. Reasoning over knowledge graphs
+[
+slides
+ (slides/09-reasoning.pdf)
+]
+Embedding Logical Queries on Knowledge Graphs 
+(https://arxiv.org/pdf/1806.01445.pdf)
+Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings
+(https://arxiv.org/pdf/2002.05969.pdf)
+Traversing Knowledge Graphs in Vector Space 
+(https://arxiv.org/pdf/1506.01094.pdf)
+Events:
+Deadlines:
+Project Proposal 
+due
+Date:
+Thu, 10/26
+Description:
+10. Fast neural subgraph matching 
+[
+slides
+ (slides/10-motifs.pdf)
+]
+Network Motifs: Simple Building Blocks of Complex Networks
+(https://www.science.org/doi/10.1126/science.298.5594.824)
+Neural Subgraph Matching 
+(https://arxiv.org/pdf/2007.03092.pdf)
+SPMiner: Frequent Subgraph Mining by Walking in Order Embedding Space 
+(http://snap.stanford.edu/frequent-subgraph-
+mining/)
+Events:
+Colab 3 
+( https://colab.research.google.com/drive/18PQ-B2wDmomjPtHroLNg_aH3hFniLNKn)
+out
+Deadlines:
+Colab 2 
+due
+Date:
+Tue, 10/31
+Description:
+11. GNNs for recommenders
+[
+slides
+ (slides/11-recsys.pdf)
+]
+Neural Graph Collaborative Filtering 
+(https://arxiv.org/pdf/1905.08108.pdf)
+LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
+(https://arxiv.org/pdf/2002.02126.pdf)
+Graph Convolutional Neural Networks for Web-Scale Recommender Systems 
+(https://arxiv.org/pdf/1806.01973.pdf)
+Events:
+Deadlines:
+Date:
+Thu, 11/2
+Description:
+12. Deep generative models for graphs 
+[
+slides
+ (slides/12-deep-generation.pdf)
+]
+GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models 
+(https://arxiv.org/pdf/1802.08773.pdf)
+Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
+(https://arxiv.org/pdf/1806.02473.pdf)
+Events:
+ Homework 3 
+(homework/CS_224W_Fall_2023_HW3.pdf)
+ 
+out
+ 
+LaTeX template
+(homework/CS_224W_Fall_2023_HW3-template.zip)
+Deadlines:
+Homework 2 
+due
+Date:
+Tue, 11/7
+Description:
+ELECTION DAY - NO CLASS
+Events:
+Deadlines:
+Date:
+Thu, 11/9
+Description:
+ 13. Advanced topics in GNNs 
+[
+slides
+ (slides/13-advanced_gnns.pdf)
+]
+Position-aware Graph Neural Networks 
+(https://arxiv.org/pdf/1906.04817.pdf)
+Identity-aware Graph Neural Networks 
+(https://arxiv.org/pdf/2101.10320.pdf)
+Adversarial Attacks on Neural Networks for Graph Data 
+(https://arxiv.org/pdf/1805.07984.pdf)
+Events:
+Colab 4 
+(https://colab.research.google.com/drive/1DkmZD4kvH3aurw5hnxwotOgB7oV33XsN)
+out
+Deadlines:
+Colab 3 
+due
+ 
+Project Milestone 
+due
+Date:
+Tue, 11/14
+Description:
+14. Graph Transformers
+[
+slides
+ (slides/14-graph-transformer.pdf)
+]
+Do Transformers Really Perform Bad for Graph Representation? 
+(https://arxiv.org/pdf/2106.05234.pdf)
+Sign and Basis Invariant Networks for Spectral Graph Representation Learning 
+(https://arxiv.org/pdf/2202.13013.pdf)
+Attending to Graph Transformers 
+(https://arxiv.org/pdf/2302.04181.pdf)
+Events:
+Deadlines:
+Date:
+Thu, 11/16
+Description:
+15. Scaling to large graphs
+[
+slides
+ (slides/15-scalable.pdf)
+]
+Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
+(https://arxiv.org/pdf/1905.07953.pdf)
+Simplifying Graph Convolutional Networks 
+(https://arxiv.org/pdf/1902.07153.pdf)
+Events:
+Colab 5 
+(https://colab.research.google.com/drive/1iWDTfo8x5vjIImXhizbEKBCGDHgC5YG_)
+out
+Deadlines:
+Homework 3 
+due
+Date:
+Tue, 11/21
+Description:
+ BREAK
+Events:
+Deadlines:
+Date:
+Tue, 11/23
+Description:
+ BREAK
+Events:
+Deadlines:
+Date:
+Tue, 11/28
+Description:
+16. SNAP Lectures 
+[
+slides
+ (slides/16-snap.pdf)
+]
+Events:
+Deadlines:
+Date:
+Wed, 11/29
+Description:
+Exam 
+Events:
+Deadlines:
+11/29 5 PM - 12/1 5 AM
+Date:
+Thu, 11/30
+Description:
+17. Link Prediction and Causality 
+[
+slides
+ (slides/17-linkpred.pdf)
+]
+Intro to Causality for Computer Scientists 
+(notes/Intro_Causality.pdf)
+Events:
+Deadlines:
+Colab 4 
+due
+Date:
+Tue, 12/5
+Description:
+18. Algorithmic reasoning with GNNs
+[
+slides
+ (slides/18-algo-reasoning-gnns.pdf)
+]
+What Can Neural Networks Reason About? 
+(https://arxiv.org/pdf/1905.13211.pdf)
+How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks 
+(https://arxiv.org/pdf/2009.11848.pdf)
+Events:
+Deadlines:
+Colab 5 
+due
+Date:
+Thu, 12/7
+Description:
+19. Conclusion 
+[
+slides
+ (slides/19-conclusion.pdf)
+]
+Events:
+Deadlines:
+Date:
+Thu, 12/14
+Description:
+Events:
+Deadlines:
+Project Report 
+due
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

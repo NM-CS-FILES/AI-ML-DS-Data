@@ -1,0 +1,415 @@
+==================[Syllabus Start]==================
+CS 383: Artificial Intelligence
+Course Info
+Semester: 
+Spring 2023 
+Time: 
+4:00-5:30 Mon / Wed 
+Location: 
+Hasbrouck Lab Add, room 20 
+Website: 
+https://people.cs.umass.edu/~sniekum/classes/383-S23/desc.php
+ 
+Instructor: 
+Scott Niekum
+ 
+Email: 
+sniekum@cs.umass.edu
+ 
+Prof. Office Hours: 
+By appointment (CS 374 or Zoom) 
+TAs: 
+Sylee Dandekar (
+sdandekar@umass.edu
+); Shuwa Miura (
+smiura@umass.edu
+); Aleksandra Burushkina (
+aburushkina@umass.edu
+Matthew Weiner (
+mweiner@umass.edu
+) 
+TA Office Hours: 
+Monday 11-12 (LGRT 220); Tuesday 9:30-10:30 (LGRT 220); Wednesday 2-4 (LGRT 222); Thursday 1-3 (LGRT 220) 
+Piazza: 
+https://piazza.com/class/lcidwzp0i8v2ra
+Course Objectives
+This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will
+be on the statistical and decision-theoretic modeling paradigm. 
+By the end of this course, you will have built autonomous agents that
+efficiently make decisions in fully informed, partially observable and adversarial settings. Your agents will draw inferences in uncertain
+environments and optimize actions for arbitrary reward structures. Your machine learning algorithms will classify handwritten digits and
+photographs. The techniques you learn in this course apply to a wide variety of artificial intelligence problems and will serve as the
+foundation for further study in any application area you choose to pursue.
+Textbook: 
+The course textbook is 
+the 3rd edition 
+of 
+Artificial Intelligence: A Modern Approach
+ by Russell and Norvig. Be sure to get the
+3rd edition, as other editions will not match up to the reading assignments, nor contain all the necessary content.
+Language: 
+Course programming assignments will be in Python. We do not assume that students have previous experience with the
+language, but we do expect you to learn the basics very rapidly. Project 0 is designed to teach you the basics of Python if you are not
+already familiar.
+Coursework
+There are three types of assignments that you will be expected to complete: 
+1. Reading assignments: These will primarily be readings from 
+the textbook
+, but may occasionally come from other provided sources. 
+All
+reading assignments should be completed before the class period for which they are assigned
+. 
+2. Homework exercises: Throughout the semester, problem sets will be assigned and automatically graded through Gradescope. 
+You will
+receive instant feedback from the autograder and can retry each problem as many times as necessary. 
+The goal of these problems is to
+get you comfortable with the material and prepared for the midterm and final. 
+To access these assignments, you must sign up for a
+Gradescope account
+ using the email address that is listed for you in Spire. 
+After creating an account, you'll enroll using a course code that
+will sent to all enrolled students.
+3. Programming projects: There will be a series of Python programming projects in which you will implement various AI algorithms. 
+An
+autograder script will be provided for each project so that you can check your progress along the way and fix errors in your code. 
+The first
+of these projects (P0: Tutorial) must be completed individually. 
+All other projects may be completed in pairs or alone.
+Schedule
+Day
+Topic
+Readings
+Slides
+Assignments
+Mon 2/6
+Introduction
+ 
+PDF
+P0: Tutorial
+ 
+Due: 2/12 11:59
+pm
+Wed 2/8
+AI Basics and Ethics
+Ch. 1.1, 2.1-2.3;
+AI-100 report
+PDF
+ 
+Mon 2/13
+Uninformed Search
+Ch. 3.1-3.4
+PDF
+HW1
+ 
+Due: 2/26 11:59
+pm
+Wed 2/15
+A* Search and Heuristics
+Ch. 3.5-3.6
+PDF
+P1: Search
+ 
+Due: 2/28 11:59
+pm
+Mon 2/20
+President's Day
+ 
+ 
+ 
+Wed 2/22
+Constraint Satisfaction
+Problems
+Ch. 6.1-6.3
+PDF
+HW2
+ 
+Due: 3/7 11:59
+pm
+Mon 2/27
+CSPs II; Local Search
+Ch. 6.4-6.5, 4.1-
+4.2
+PDF
+ 
+Wed 3/1
+Game Trees: Minimax
+Ch. 5.1-5.3
+PDF
+HW3
+ 
+Due: 3/21 11:59
+pm
+Mon 3/6
+Game Trees: Expectimax;
+Utilities
+Ch. 5.4-5.5, 16.1-
+16.3
+PDF
+P2: Multi-Agent
+Pacman
+ 
+Due: 3/26 11:59
+pm 
+Wed 3/8
+Markov Decision Processes
+Ch. 17.1-3
+PDF
+HW4
+ 
+Due: 3/28 11:59
+pm
+Mon 3/13
+Spring Break
+ 
+ 
+ 
+Wed 3/15
+Spring Break
+ 
+ 
+ 
+Mon 3/20
+Markov Decision Processes
+II
+Sutton and Barto
+Ch. 3-4
+PDF
+ 
+Wed 3/22
+Reinforcement Learning
+S&B Ch. 6.1, 6.2,
+6.5
+PDF
+HW5
+ 
+Due: 4/9 11:59
+pm
+Mon 3/27
+Reinforcement Learning II
+Ch. 21
+PDF
+P3:
+Reinforcement
+Learning
+ 
+Due: 4/16 11:59
+pm 
+Practice
+Midterms
+Wed 3/29
+Probability
+Ch. 13.1-13.5
+PDF
+ 
+Mon 4/3
+Midterm Exam
+ 
+ 
+ 
+Wed 4/5
+Intro to ML and Bayes
+Nets: Representation
+Ch. 14.1-14.3
+PDF
+ 
+Mon 4/10
+Bayes Nets: Independence
+Ch. 14.3
+PDF
+Wed 4/12
+Bayes Nets: Inference
+Ch. 14.4
+PDF
+Mon 4/17
+Holiday: No Class
+ 
+ 
+ 
+Wed 4/19
+Bayes Nets: Sampling
+Ch. 14.5
+PDF
+HW6
+ 
+Due: 5/2 11:59
+pm
+Mon 4/24
+Hidden Markov Models
+Ch. 15.1-15.3
+PDF
+Wed 4/26
+Particle Filters and 
+HMM Applications
+Ch. 15.5
+PDF
+P4: Ghostbusters
+Due: 5/9 11:59
+pm
+Mon 5/1
+Decision Diagrams / VPI
+Ch. 16.5-16.6
+PDF
+HW7
+ 
+Due: 5/11 11:59
+pm
+Wed 5/3
+ML: Naive Bayes
+Ch. 18.1-18.2,
+20.1-20.2.2
+PDF
+ 
+Mon 5/8
+ML: Perceptrons
+Ch. 18.6.1, 18.6.3
+PDF
+HW8
+ 
+Due: 5/17 11:59
+pm
+Wed 5/10
+ML: Kernels and Clustering
+Ch. 18.8, 18.9
+PDF
+ 
+Mon 5/15
+ML: Deep Learning
+ 
+PDF
+ 
+Wed 5/17
+Advanced Applications
+ 
+PDF
+Practice Finals
+Final Exam: Wed 5/24 at
+3:30-5:30 pm
+Hasbrouck Add room 20
+ 
+ 
+ 
+Grading
+Attendance:
+ Class attendance is strongly encouraged, but is not a component of grading.   
+Project grading:
+ Projects will by default be graded automatically for correctness, though we will review projects individually as necessary
+to ensure that they receive the credit they deserve if there is an issue.   
+Slip days:
+ Programming projects must be turned in electronically by 11:59pm on the listed due date. You will have 
+10 slip days total
+ to
+use for these projects throughout the semester. They will be applied automatically in the order of assignments. After you've run out of slip
+days, 30% of the total possible points will be deducted from any late assignment (able to be submitted until the final day of classes), so
+reserve them for when they are absolutely necessary. Note that slip days are counted at the granularity of days, rounded up to the nearest
+day, meaning that 1 minute past the deadline counts as a full day. No other extensions will be provided, except under highly exceptional
+circumstances. The Gradescope exercises do not have late days (i.e. you will be given a zero if late), as solutions are automatically
+posted after the due date and may be discussed in the next class.
+Overall grades
+ will be determined from:
+Gradescope Exercises (20%)
+Programming Assignments (30%)
+Midterm Exam (20%)
+Final Exam (30%)
+Grades will be assigned using both plus and minus grades.
+Academic honesty policy
+You are encouraged to discuss the readings and concepts with classmates, but all work must be your own. Programming assignments
+must be your own, except for 2-person teams when teams are authorized. 
+You may 
+NOT
+ look online for existing implementations of
+algorithms related to the programming assignments, even as a reference. 
+Your code will be analyzed by automatic tools that detect
+plagiarism to ensure that it is original.
+Students caught cheating will automatically fail the course and will be reported to the university.
+ 
+If in doubt about the ethics of
+any particular action, look at the 
+university 
+guidelines
+ and/or ask—ignorance of the rules will not shield you from potential consequences.
+Notice about students with disabilities
+The University of Massachusetts Amherst provides upon request appropriate 
+academic accommodations for qualified students with
+disabilities. 
+For more information, contact Disability Services at 
+413-545-0892 (TTY) or 
+disability@umass.edu
+.
+Notice about missed work due to religious holidays
+University policy states that: Students have the right to make up examinations, study, or work requirements that they miss because of
+religious observance without any adverse or prejudicial effects. No fees may be charged to the student for the makeup exercise. The law
+also provides that such makeup work may not create an unreasonable burden upon the University. Therefore, students have an obligation
+to inform their course instructors, in advance, of the days on which they may be absent for religious reasons. Students should inform their
+course instructors in writing of the days they will be absent as early in the semester as possible and always prior to the day(s) on which
+they will be absent for religious reasons. Instructors, if they feel that it is important for course planning, have the right to require students to
+provide a written list of such days within one full calendar week after students' enrollment in the course, provided that the instructors list
+this requirement and deadline on the course outline or other handouts. In the event of a dispute between an instructor and a student in any
+course, either party should contact the Department Head or the Ombuds Office (413-545-0867).
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

@@ -1,0 +1,385 @@
+==================[Syllabus Start]==================
+CS 562: Advanced Topics in Security, Privacy, and
+Machine Learning
+Jan 12, 2024
+Session-VC: Machine Learning for Sys, Networks, and Security
+Home
+ | 
+Campuswire
+ | 
+Paper Signup Sheet
+ | 
+Project
+Instructor
+: 
+Varun Chandrasekaran
+ (
+varunc@illinois.edu
+)
+TA
+: 
+Qilong Wu
+ (
+qilong3@illinois.edu
+)
+Time/Location
+: Wednesday 03:00 - 06:00 PM. Siebel Center for Comp Sci Room 0216
+Office Hour
+: By Appointment
+Announcement
+1/17/2024: [First week of class] Enrolled students will be added/invited to CS 562 Campuswire before the first week of the
+class. If you registered during/after the first week and did not get the Campuswire invitation, please email the instructor
+(
+varunc@illinois.edu
+) for the invitation code.
+Class Description
+Advanced topics in security and privacy problems in machine learning systems, selected from areas of current research such as:
+This section will primarily focus on using machine learning for system, networking, and security applications. Example topics
+include using ML to build novel security defenses (e.g., detecting network intrusions, cybercrime, and disinformation, and performing
+user authentication and vulnerability analysis), launch novel attacks (e.g., privacy attacks, password guessing, deepfake-based
+social engineering), and support system optimizations. We will explore new research directions and seek to understand the
+limitations and potential risks of ML-based approaches. Students will read, present, and discuss research papers, and work on an
+original research project. The goal of the project is to extend machine learning techniques to new problems and produce
+publishable results.
+Expected Work
+Reading
+: students will be reading and reviewing all the required papers, and participating in paper discussions during the
+class and over the online discussion board.
+Participation
+: students are required to attend all the lectures. Please inform the instructor via email if you cannot make it to
+the class due to travel or sickness.
+Team Project
+: 2-3 students will form a team to work on a single research project throughout the semester. The project
+should aim to solve a real problem in the intersection area of machine learning and security/system. Each team will write a
+project proposal, perform literature surveys, give a short talk in the midterm, and give a final presentation at the end of the
+semester. Each team is also expected to write up a final project report.
+Paper Presentation
+: students will present papers during the class to lead the discussion.
+All deadlines are 11:59 PM (CT) of the specific date (not including paper reviews).
+Class Schedule
+Date
+Area
+Week
+Link
+Notes
+Jan
+17
+Introductions +
+Guest Lectures
+1
+Select your project team
+Jan
+24
+Evasion
+2
+- 
+Towards Evaluating the Robustness of Neural Networks
+- 
+Towards Deep Learning Models Resistant to Adversarial Attacks
+- 
+On the Robustness of Domain Constraints
+Jan
+31
+Poisoning
+3
+- 
+Trojaning Attacks on Neural Networks
+- 
+Certified Defenses for Data Poisoning Attacks
+- 
+Poisoning Web-scale Datasets is Practical
+Feb
+7
+Membership
+Inference
+4
+- 
+Membership Inference Attacks From First Principles
+- 
+When is Memorization of Irrelevant Training Data Necessary for High-Accuracy
+Learning?
+- 
+White-box vs Black-box: Bayes Optimal Strategies for Membership Inference
+Feb
+14
+Model Extraction
+5
+- 
+High Accuracy and High Fidelity Extraction of Neural Networks
+- 
+Exploring Connections Between Active Learning and Model Extraction
+- 
+On the Difficulty of Defending Self-Supervised Learning against Model
+Project Proposal: Share <5 slides with
+prescribed format
+Extraction
+Feb
+21
+Explanations
+6
+- 
+“Why Should I Trust You?” Explaining the Predictions of Any Classifier
+- 
+Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers
+- 
+Interpretable Deep Learning under Fire
+Feb
+28
+Privacy Introductions
+7
+- 
+Deep Learning with Differential Privacy
+- 
+Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based
+Analytics
+- 
+Certified Robustness to Adversarial Examples with Differential Privacy
+Mar
+6
+More Privacy
+8
+- 
+Privacy Auditing with One (1) Training Run
+- 
+Learning Differentially Private Recurrent Language Models
+- 
+Manipulation Attacks in Local Differential Privacy
+Mar
+13
+Spring Break
+9
+Break; no class
+Mar
+20
+Mid-Term
+Presentation
+10
+Mid-term check-in: share project report
+Mar
+27
+Foundation Models
+11
+- 
+Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code
+Contributions
+- 
+Data Determines Distributional Robustness in Contrastive Language Image Pre-
+training (CLIP)
+- 
+A Watermark for Large Language Models
+Apr
+3
+Foundation Models:
+Attacks
+12
+- 
+Universal and Transferable Adversarial Attacks on Aligned Language Models
+- 
+Not what you’ve signed up for: Compromising Real-World LLM-Integrated
+Applications with Indirect Prompt Injection
+- 
+Poisoning Language Models During Instruction Tuning
+Apr
+10
+Copyright in ML
+13
+- 
+Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models
+- 
+Unlearnable examples: Making personal data unexploitable
+- 
+On Provable Copyright Protection for Generative Models
+Apr
+17
+Unlearning
+14
+- 
+Machine Unlearning
+- 
+Unlearn What You Want to Forget: Efficient Unlearning for LLMs
+- 
+Graph Unlearning
+Three-quarter check-in: share project
+report
+Apr
+24
+Unlearning:
+Potpourri
+15
+- 
+Adaptive Machine Unlearning
+- 
+Experimenting with Zero-Knowledge Proofs of Training
+- 
+When Machine Unlearning Jeopardizes Privacy
+May
+1
+Crypto + ML
+16
+- 
+SecureML: A System for Scalable Privacy-Preserving Machine Learning
+- 
+Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning
+- 
+GAZELLE: A Low Latency Framework for Secure Neural Network Inference
+May
+8
+Final Presentation
+17
+Final presentation
+Grading
+Class attendance and participation: 
+10%
+In class quiz: 
+5%
+Paper reviews: 
+25%
+Paper presentation in class: 
+10%
+Project: proposal: 
+10%
+Project: midterm presentation: 
+10%
+Project: final presentation: 
+10%
+Project: midterm report + progress update slides: 
+10%
+Project: final report: 
+10%
+To calculate final grades, I simply sum up the points obtained by each student (the points will sum up to some number x out of 100)
+and then use the following scale to determine the letter grade: [0-60] F, [60-62] D-, [63-66] D, [67-69] D+, [70-72] C-, [73-76] C, [77-79]
+C+, [80-82] B-, [83-86] B, [87-89] B+, [90-92] A-, [93-100] A.
+Paper Review
+We read 3 papers before each class meeting. Before each class, students are expected to read both papers and submit a short
+review via Campuswire. The deadline for the review is 11:59 PM (CT) on Tuesday before class.
+The review should contain sufficient content (about 200-500 words; it can be longer if needed). The review can focus on the key
+contributions of the paper, the strengths and weaknesses, or potential issues with the experiment methodologies and results. You
+can also discuss the practical implications of the paper and suggest new ideas. The review should reflect your own thoughts. All the
+students will post the reviews under the given paper’s Campuswire thread. If you are the first to review the paper, you get to
+summarize the paper and comment on the key contributions. Other students who come later should avoid repeating the same
+arguments/comments that the previous reviews have already covered. Each review needs to have some original comments that are
+different from others.
+Policies
+Late Policy
+All the deadlines are hard deadlines. Any late submissions will be subject to point reduction. For paper reviews, and project-related
+assignments: submitting within 3 days (72 hours) after the deadline = 60% of the points. This policy does not apply to the final
+project report, for which a late submission is not allowed.
+Academic Integrity
+Students must follow the university’s guidelines on academic conduct (
+quick link
+). This course will have a zero-tolerance policy
+regarding plagiarism. You (or your team) should complete all the assignments and project tasks on your own. When you use the
+code or tools developed by other people, please acknowledge the source. If an idea or a concept used in your project has been
+proposed by others, please make the proper citations. All electronic work submitted for this course will be archived and subjected to
+automatic plagiarism detection. Whenever in doubt, please seek clarifications from the instructor. Students who violate Academic
+Integrity policies will be immediately reported to the department and the college.
+When presenting research papers in the class, you may NOT use the authors’ slides directly. Please make your own slides.
+Special Accommodations
+If you need special accommodations because of a disability, please contact the instructor in the first week of classes.
+Diminished Mental Health
+Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with
+eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The
+University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric
+services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health
+concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and
+courageous thing to do – for yourself and for those who care about you.
+Counseling Center
+: 217-333-3704, 610 East John Street Champaign, IL 61820
+McKinley Health Center
+: 217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois 61801
+
+
+✉
+✉
+
+
+
+Varun Chandrasekaran
+Varun Chandrasekaran
+Assistant Professor
+✉
+✉
+
+
+© 2024 Me. This work is licensed under 
+CC BY NC ND 4.0
+
+ 
+
+ 
+
+ 
+
+Published with 
+Hugo Blox Builder
+ — the free, 
+open source
+ website builder that empowers creators.
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

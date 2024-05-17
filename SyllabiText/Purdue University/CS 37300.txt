@@ -1,0 +1,557 @@
+==================[Syllabus Start]==================
+CS37300 Data Mining and Machine Learning  
+ 
+Section 1  
+Instructor:  Tianyi Zhang, Assistant Professor of Computer Science  
+Email:  tianyi@purdue.edu  
+Lecture:  Monday, Wednesday, and Friday  9:30-10:20a m @ MATH 175  
+Office Hours:  Monday  and Wednesday  10:30-11:30am @ LWSN 3154H  
+Section 2  
+Instructor:  Rajiv  Khan na, Assistant Professor of Computer Science  
+Email:  rajivak@purdue.edu   
+Lecture:  Monday, Wednesday, and Friday 12:30-1:20pm @ WTHR 172  
+Office Hours:  Monday and Wednesday 1 :30-2:30pm @ Wang 4083  
+ 
+Teaching Assistants :  
+Prerit Gupta  gupta596@purdue.edu   
+Office Hours: Monday  11:30am -12:30 pm @ HAAS G 072 
+ 
+Rucha S. Deshpande  deshpa37@purdue.edu   
+Office Hours : Friday 2-3pm @ HAAS G 072 
+ 
+Bonan Kou  koub@purdue.edu   
+Office Hours: Friday 10: 30-11:30 am @ HAAS 143  
+ 
+Zhi Tu     tu85@purdue.edu   
+Office Hours: Wednesday 1 0:30-11:30am @ HAAS G 072 
+ 
+Chengfei Wu  wu1491@purdue.edu   
+Office Hours: Tuesday  3-4pm @ HAAS 143  
+ 
+Tinghan Yang     yang1683@purdue.edu   
+Office Hours: Thursday 4:30 -5:30pm  @ HAAS G 072 
+ 
+Yucheng Zhang    zhan4332@purdue.edu   
+Office Hours: Wednesday 2 -3pm @ HAAS G 072 
+ 
+Daniel P. de Mello  ddemello@purdue.edu   
+Office Hours: Monday 4 -5pm @ HAAS G 072 
+ 
+Instructional Modality:  Face -to-Face  
+Course Credits:  3.0 
+Prerequisites:  The formal prerequisite s are CS 18200: Foundations of Computer Science , and 
+CS 25100: Data Structures and Algorithms. You also must have either taken or be taking STAT 
+35000: Introduction to Statistics, or STAT 51100: Statistical Methods . If you have comparable 
+courses, such as ECE 36800, please contact the instructor . 
+ 
+ 
+Course Description  
+ 
+This course will introduce students to the field of data mining and machine learning, which sits at 
+the interface between statistics and computer science. Data mining and machine learning focuses 
+on developing algorithms to automatically discover patterns and learn models of large datasets. 
+This course introduces students to the process and main techniques in data mining and machine 
+learning, including exploratory data analysis, predictive modeling, descriptive modeling, and 
+evaluation.  
+ 
+The course will primarily be taught through lectures, supplemented with reading.  The written 
+theory and programming assignments are also a significant component of the learning experience. 
+We will be using Gradescope  to turn in and comment on assignments .  
+ 
+Brightspace  will be used for recording and distributing grades, as well as for any other non -public 
+information about the course.  Lecture slides will also be posted on Brightspace.  
+ 
+We will use Ed Discussion  to make announcements, send reminders,  ask & answer questions , etc. 
+Please join our course on Ed Discussion via this link . You are encouraged to make your question 
+visible to everyone, since other students may have similar questions. You are also encouraged to 
+hold discussions with other students. Please keep the collaboration guidelines in the Intellectual 
+Honesty Policy  in mind. Purdue has paid licenses for WebEx and Zoom, if you wish to meet 
+remotely with other students.  
+ 
+Course Registration Policy  
+ 
+This course is anticipated to be oversubscribed, and as such registration is initially limited to CS 
+students. If you have been unable to register, please see the CS department Course Access & 
+Request Policy . Please do not ask the instructor for an override, we have been told that if the course 
+is shown as full, the registrar will not allow registration even with a form 23 signed by the 
+instructor, so you would just be wasting your time and ours. Please follo w the process above or 
+consult with your advisor.  
+ 
+Learning Outcomes  
+ 
+After successful completion of this course, a student will be able to:  
+• Identify key elements of data mining and machine learning algorithms.  
+• Understand how algorithmic elements interact to impact performance.  
+• Understand how to choose algorithms for different analysis tasks.  
+• Analyze data in both an exploratory and targeted manner.  
+• Implement and apply basic algorithms for supervised and unsupervised learning.  
+• Accurately evaluate the performance of algorithms, as well as formulate and test 
+hypotheses.  
+ 
+ 
+Textbook s, Learning Resources, and Technology  
+ 
+The texts below are recommended but not required. Reading materials will be distributed as 
+necessary  through Ed Discussion.  Please check regularly.  
+• D. Hand, H. Mannila, P. Smyth (2001). Principles of Data Mining . MIT Press. ISBN 
+026208290X.  
+This book is  available for free within the Purdue domain.  
+• Christopher M. Bishop (2006), Pattern Recognition and Machine Learning .  
+This is a very detailed and thorough book on the foundations of machine learning.  
+• Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2018), Foundations of 
+Machine Learning . 
+• Ian Goodfellow , Yoshua Bengio , and Aaron Courville  (2016). Deep Learning . MIT 
+Press.  
+This is a detailed e -book on deep learning.  
+ 
+The following are also useful:  
+• Kevin P. Murphy (2022), Probabilistic Machine Learning: An Introduction . 
+• Hal Daume III, A Course in Machine Learning .  
+This is a good book with important practical guidelines . 
+• Trevor Hastie, Robert Tibshirani, and Jerome Friedman, The Elements of Statistical 
+Learning . 
+This is an excellent reference book.  
+ 
+Grading  
+ 
+Midterm Exam : 20% 
+Final Exam : 30% 
+Theory and programming assignments : 45% (5% for HW0 and 8% for HW1 -5) 
+Take -home Quizzes : 5% 
+This course  follow s the generic letter -based grading scheme on Purdue Brightspace. Depending 
+on the performance of most students in this course, the instructor will decide whether to curve or 
+not. If a student’s final percentage grade is within 0.5% to reach a higher letter grade, the s tudent’ s 
+participation in the class and office hours will be taken into consideration to decide whether to 
+assign a higher grade or not.  
+Percentage Grade (%)  Letter Grade  
+[97, 100]  A+ 
+[93, 97) A 
+[90, 93)  A- 
+[87, 90)  B+ 
+[83, 87)  B 
+[80, 83)  B- 
+[77, 80)  C+ 
+[73, 77)  C 
+[70, 73)  C- 
+[67, 70)  D+ 
+[63, 67)  D 
+[60, 63)  D- 
+[0, 60)  F 
+ 
+ 
+Course  Schedule  
+ 
+ 
+Lecture Topic  Reading  Homework  
+Aug 21 (M)  Course Overview  and Introduction  Principles of Data Mining, 
+Chapter 1  
+Pattern Recognition and  
+Machine Learning, 
+Chapter 1   
+Aug 23 (W)  Introduction to Data Mining and 
+Machine Learning   
+Aug 25 (F)  Python Basics Tutorial by TAs   
+Release HW0  
+Aug 28  (M) Probability basics: Independence, 
+expectation/variance, distributions, 
+MLE  Pattern Recognition and  
+Machine Learning, 
+Chapter 1. 2, 2 
+Principles of Data Mining, 
+Chapter 4 .1-4.5  
+Aug 30 (W)  Linear Algebra Review  Deep Learning, Chapter 2   
+Sep 1 (F)  Hypothesis Testing (Part 1)  
+Principles of Data Mining, 
+Chapter 4 .6  
+Sep 4  (M) Labor Day (No Class)   
+Sep 6 (W)  Hypothesis Testing (Part 2)  HW0 Due 
+Release HW1  
+Sep 8 (F)  Exploratory Data Analysis  and 
+Visualization  Principles of Data Mining, 
+Chapters 3, 10.11   
+Sep 11 (M)  Nearest Neighbor s Principles of Data Mining, 
+Chapter 10.6   
+Sep 13 (W)  Decision Trees  Principles of Data Mining, 
+Chapter 10.5   
+Sep 15 (F)  Naive Bayes  Principles of Data Mining, 
+Chapter 10.8   
+Sep 18 (M)  Linear Classifiers, Perceptron  Pattern Recognition and 
+Machine Learning, 
+Chapter 4  
+Principles of Data Mining, 
+Chapter 10.3   
+Sep 20 (W)  SVM  Pattern Recognition and 
+Machine Learning, 
+Chapter 7  HW1 Theory 
+Due 
+Sep 22 (F)  Kernel Methods  Pattern Recognition and 
+Machine Learning, 
+Chapter 6   
+Sep 25 (M)  Sampling, Gradient Descent  
+Principles of Data Mining, 
+Chapter 8.3  HW1 
+Programming 
+Due 
+HW2 Release  
+Sep 27 (W)  Linear Models for Regression  Principles of Data Mining, 
+Chapter 11.3   
+Sep 29 (F)  Time -Series Modeling  Pattern Recognition and 
+Machine Learning, 
+Chapter 13   
+Oct 2 (M)  Ensemble Methods: Bagging, 
+Boosting  Pattern Recognition and 
+Machine Learning, 
+Chapters 14.2 and 14.3   
+Oct 4 (W)  Overfitting, Bias/Variance, Cross -
+validation , Evaluation for 
+Supervised Learning  Principles of Data Mining, 
+Chapter 10.8  HW2 Theory 
+Due 
+Oct 6 (F)  Interactive Machine Learning  Fails and Olsen, IUI’03   
+Oct 9 (M)  October Break (No classes)    
+Oct 11 (W)  Midterm Review Session   HW2 
+Programming 
+Due 
+Oct 13 (F)  Midterm   
+HW3 Release  
+Oct 16 (M)  Active Learning  Settles, TR’10   
+Oct 18 (W)  Learning Theory  Foundation of Machine 
+Learning, Page 19 and 
+Chapter 3.3   
+Oct 20 (F)  Introduction to NN  
+Pattern Recognition and 
+Machine Learning, 
+Chapter 5   
+Oct 23 (M)  NN Backpropagation  HW3 Theory 
+Due 
+Oct 25 (W)  NN Loss functions, optimization   
+Oct 27 (F)  CNN s, RNNs, Transformers  Deep Learning, Chapters 
+9, 10  
+Transformers for Machine 
+Learning: A Deep Dive, 
+Chapter 2  HW3 
+Programming 
+Due 
+HW4 Release  
+Oct 30 (M)  CNN s, RNNs, Transformers   
+Nov 1 (W)  Pattern Mining, Association Rules  Principles of Data Mining, 
+Chapter 13   
+Nov 3 (F)  Partition -based Clustering  Principles of Data Mining, 
+Chapter 9.4   
+Nov 6 (M)  Mixture Models  Principles of Data Mining, 
+Chapter 9.2, 9.6  HW4 Theory 
+Due 
+Nov 8 (W)  Expectation Maximization  Pattern Recognition and 
+Machine Learning, 
+Chapters 9.2.2, 9.3   
+Nov 10 (F)  Hierarchical Clustering  Principles of Data Mining, 
+Chapter 9.5   
+Nov 13 (M)  Principal Component Analysis  Principles of Data Mining, 
+Chapter 3.6  HW4 
+Programming 
+Due 
+Nov 15 (W)  Density -based Clustering  Methods  DBSCAN (KDD’96)   
+OPTICS (SIGMOD’99)   
+DENCLUE (KDD’98)   
+CLIQUE (SIGMOD’98)  HW5 Release  
+Nov 17 (F)  Evaluation for Unsupervised 
+Learning    
+Nov 20 (M)  Data Mining Process (CRISP -DM) Principles of Data Mining, 
+Chapter 13   
+Nov 22 (W)  Thanksgiving Break (No classes)    
+Nov 24 (F)  Thanksgiving Break (No classes)    
+Nov 27 (M) Large Language Models  A survey of large language 
+models  HW5 Theory 
+Due 
+Nov 29 (W)  Model Interpretability   Interpretable Machine 
+Learning, Christoph 
+Molnar   
+Dec 1 (F)  Model Interpretability   HW5 
+Programming 
+Due 
+Dec 4 (M)  Data Privacy  When Machine Learning 
+Meets Privacy: A Survey  
+and Outlook   
+Dec 6 (W)  Machine Learning Fairness  A Survey on Bias and 
+Fairness in Machine 
+Learning   
+Dec 8 (F)  Final Exam Review    
+ 
+ 
+Theory and Programming Assignments  
+ 
+This course includes six homework assignments, which takes 45% of your final grade. Each 
+homework (except HW0) has theory questions and programming questions.  To help students 
+manage the workload, we set two deadlines for each homework ---one for the theory questions 
+and one for the programming questions. Please check the release date and due date for each 
+homework in the course schedule above.  
+ 
+Homework 0:  
+Programming:  
+o Python Basics using numpy, pandas and matplotlib  
+o Loading & analyzing dataset  
+ 
+Homework 1:  
+Theory:  
+• Probability Review, Bayes Theorem, Probability Distribution  
+• KNN & Decision Trees  
+Programming:  
+• KNN & Decision Trees  
+ 
+Homework 2:  
+Theory:  
+• Naïve Bayes Classifier  
+• Perceptron Algorithm  
+• Logistic Regression  
+Programming:  
+• Naïve Bayes Classification  
+• Logistic Regression  
+ 
+Homework 3:  
+Theory:  
+• Bias-Variance tradeoff & Cross -validation  
+• Ensemble Methods  
+• Support Vector Machines  
+Programming:  
+• Cross -validation  
+• Bagging & Boosting  
+ 
+Homework 4:  
+Theory:  
+• Multi -Layered Perceptron  
+• Activation Functions  
+• Convolutional Neural Network  
+Programming:  
+• Neural Networks  
+• Training & Testing Analysis  
+ 
+Homework 5:  
+Theory:  
+• Clustering (K -Means, Hierarchical)  
+• Mixture Models  
+Programming:  
+• PCA Implementation & Evaluation  
+ 
+Exams  
+ 
+This course includes a midterm exam and a final exam. The midterm takes 20% of your final 
+grade and the final takes 30% of your final grade.  
+ 
+The midterm exam is scheduled to take place during the lecture time on Oct 13, Friday. For 
+Section 1, it will be 9:30 -10:20am at MATH 175. For Section 2, it will be 12:30 -1:20pm @ 
+WTHR 172 . The midterm covers the content from Aug 21 to Oct 6. We will release practice 
+questions and have a review session for the midterm on Oct 11. Since the midterm for Section 2 
+is two hours after the midterm for Section 1, we will design different exam questions with the 
+same level of difficulty  to avoid potential question l eakage . Furthermore, s tudents  from Section 1 
+are not allowed to discuss the exam questions  with students from Section 2 until the midterm of 
+Section 2 is concluded . The violation of this requirement is considered as academic dishonesty.  
+ 
+We will have one single final exam for both sections at the same time and classroom. The time 
+and location of the final exam will be announced in the middle of the semester. The final covers 
+all content taught in this course. We will release practice questions and have a review session for 
+the final on Dec 8.  
+ 
+Take -Home Quizzes  
+ 
+We will have five take -home quizzes , which takes 5% of your final grade.  These quizzes are 
+designed to be lightweight, including only a couple of questions based on some important 
+and/difficult concepts from  the lectures. The main purpose of these quizzes is to strengthen 
+students’ understanding about these concepts . Each quiz is announced at the end of a lecture and 
+students need to submit their solutions on Gradescope before the next lecture. In the next lecture, 
+the instructors will go over the solutions  and have in -class discussions to review the concepts 
+covered by the quiz.   
+ 
+Policies  
+ 
+Attendance  
+ 
+This course follows Purdue’s academic regulations regarding attendance, which states that 
+students are expected to be present for every meeting of the classes in which they are enrolled. 
+While we will not check attendance in each class, we will use other w ays such as  class discussion 
+to check your attendance and participation in the class. Please come to the class continuously and 
+participate in discussions.    
+ 
+If you feel sick, have any symptoms associated with COVID -19, or suspect you have been exposed 
+to the virus, you should stay home and contact the Protect Purdue Health Center . Please also notify 
+the instructor so that the instructor can arrange remote participation for you. If you miss classes 
+because of COVID -related reasons, your final grade will not be affected by your absence of classes. 
+For more guidance on class attendan ce related to COVID -19 are outlined in the  Protect Purdue 
+Pledge for Fall 2021  on the Protect Purdue website.  
+ 
+For other conflicts or absences, such as for many University -sponsored activities and religious 
+observations, the student should inform the instructor of the situation as far in advance as possible. 
+When the student is unable to make direct contact with th e instructor and is unable to leave word 
+with the instructor’s department because of circumstances beyond the student’s control, and in 
+cases falling under excused absence regulations, the student or the student’s representative should 
+contact or go to th e Office of the Dean of Students website  to complete appropriate forms for 
+instructor notification. Under academic regulations, excused absences may be granted for cases of 
+grief/bereavement, military service, jury duty, and parenting leave. For details, see the Academic 
+Regulations & Student Conduct section  of the University Catalog website.  
+ 
+Missed or Late Work  
+ 
+Late work will not be accepted , except as follows. You are allowed five extension days, to be 
+used at your discretion throughout the semester (illness, job interviews, etc.) You may use at most 
+two days on each assignment (so that we can get solution sets out in a timely manner.) Fract ional 
+use is not allowed -- each late day is a 24-hour extension. Late submission will not be accepted 
+more than 48 hours after the due date, or after you have used your late days.  
+ 
+Intellectual Honesty  
+ 
+Please read the departmental academic integrity policy . This will be followed unless we provide 
+written documentation of exceptions. You should also be familiar with the Purdue University Code 
+of Honor  and Academic Integrity Guide for Students . You may also find Professor Spafford's 
+course policy  useful - while we do not apply it verbatim, it contains detail and some good examples 
+that may help to clarify the policies above and those mentioned below.  
+ 
+In particular, we encourage interaction: you should feel free to discuss the course with other 
+students. However, unless otherwise noted work turned in should reflect your own efforts and 
+knowledge.  
+ 
+For example, if you are discussing an assignment with another student, and you feel you know the 
+material better than the other student, think of yourself as a teacher. Your goal is to make sure that 
+after your discussion, the student is capable of doing s imilar work independently; their turned -in 
+assignment should reflect this capability. If you need to work through details, try to work on a 
+related, but different, problem.  
+ 
+If you feel you may have overstepped these bounds, or are not sure, please come talk to us and/or 
+note on what you turn in that it represents collaborative effort (the same holds for information 
+obtained from other sources that provided substantial portion s of the solution.) If we feel you have 
+gone beyond acceptable limits, we will let you know, and if necessary we will find an alternative 
+way of ensuring you know the material. Help you receive in such a borderline case, if cited and 
+not part of a pattern of egregious behavior, is not in our opinion academic dishonesty, and will at 
+most result in a requirement that you demonstrate your knowledge in some alternate manner.  
+ 
+Use of Copyrighted Materials  
+ 
+Students are expected, within the context of the Regulations Governing Student Conduct and other 
+applicable University policies, to act responsibly and ethically by applying the appropriate 
+exception under the Copyright Act to the use of copyrighted works in their activities and studie s. 
+The University does not assume legal responsibility for violations of copyright law by students 
+who are not employees of the University.  
+ 
+A Copyrightable Work created by any person subject to this policy primarily to express and 
+preserve scholarship as evidence of academic advancement or academic accomplishment. Such 
+works may include, but are not limited to, scholarly publications, journal articles, research 
+bulletins, monographs, books, plays, poems, musical compositions and other works of artistic 
+imagination, and works of students created in the course of their education, such as exams, 
+projects, theses or dissertations, papers and articl es. 
+ 
+Grief Absence Policy for Students  
+ 
+Purdue University recognizes that a time of bereavement is very difficult for a student. The 
+University therefore provides the following rights to students facing the loss of a family member 
+through the Grief Absence Policy for Students (GAPS). GAPS Policy : Students will be excused for 
+funeral leave and given the opportunity to earn equivalent credit and to demonstrate evidence of 
+meeting the learning outcomes for misses assignments or assessments in the event of the death of 
+a member of the student’s family.  
+ 
+Violent Behavior Policy  
+ 
+Purdue University is committed to providing a safe and secure campus environment for members 
+of the university community. Purdue strives to create an educational environment for students and 
+a work environment for employees that promote educational and car eer goals. Violent Behavior 
+impedes such goals. Therefore, Violent Behavior is prohibited in or on any University Facility or 
+while participating in any university activity . 
+ 
+Emergencies  
+ 
+In the event of a major campus emergency, course requirements, deadlines and grading 
+percentages are subject to changes that may be necessitated by a revised semester calendar or 
+other circumstances beyond the instructor’s control. Relevant changes to this  course will be posted 
+onto the course website or can be obtained by contacting the instructors or TAs via email or phone.  
+You are expected to read your @purdue.edu email on a frequent basis.  
+ 
+Accessibility and Accommodations   
+Purdue University strives to make learning experiences as accessible as possible.  If you anticipate 
+or experience physical or academic barriers based on disability, you are welcome to let me know 
+so that we can discuss options.  You are also encouraged to  contact the Disability Resource Center 
+at: drc@purdue.edu  or by phone: 765 -494-1247.  
+ 
+Nondiscrimination  
+ 
+Purdue University is committed to maintaining a community which recognizes and values the 
+inherent worth and dignity of every person; fosters tolerance, sensitivity, understanding, and 
+mutual respect among its members; and encourages each individual to str ive to reach his or her 
+own potential. In pursuit of its goal of academic excellence, the University seeks to develop and 
+nurture diversity. The University believes that diversity among its many members strengthens the 
+institution, stimulates creativity, p romotes the exchange of ideas, and enriches campus life.  
+ 
+Purdue University prohibits discrimination against any member of the University community on 
+the basis of  race, religion, color, sex, age, national origin or ancestry, genetic information, marital 
+status, parental status, sexual orientation, gender identity and expression, disability, or status as 
+a veteran. The University will conduct its programs, services and activities consistent with 
+applicable federal, state and local laws, regulations and orders and in conformance with the 
+procedures and limitations as set forth in Executive Memorandum No. D -1, which provides 
+specific contractual rights and remedies. Any student who believes they have been discriminated 
+against may visit University’s website (www.purdue.edu/report -hate) to submit a complaint to the 
+Office of Institutional Equity. Information may be reported anonymously.  
+ 
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

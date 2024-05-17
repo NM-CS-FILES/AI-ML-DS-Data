@@ -1,0 +1,374 @@
+==================[Syllabus Start]==================
+Advanced Topics in Machine Learning: Deep Generative Models
+(https://kuleshov.github.io/cornell-deep-generative-models-course/)
+CS 6784 - Spring 2020
+Detailed Syllabus
+Week
+Date
+Lecture Topics
+Coursework
+Additional Readings
+1
+Jan
+21 &
+23
+Introduction and Background 
+(
+slides 1
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture1_2019.pdf)
+,
+slides 2
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture2.pdf)
+)
+2
+Jan
+28 &
+30
+Autoregressive Models 
+(
+slides 3
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture3.pdf)
+,
+slides 4
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture4.pdf)
+)
+HW 1
+released
+van den Oord et al. (
+2016a
+(https://arxiv.org/abs/1601.06759)
+, 
+2016b
+(https://arxiv.org/abs/1609.03499)
+)
+Kalchbrenner et al. (
+2016
+(https://arxiv.org/abs/1610.10099)
+) 
+Vaswani et
+al. (
+2017
+ (https://arxiv.org/abs/1706.03762)
+)
+3
+Feb
+4 &
+6
+Variational Autoencoders
+(
+slides 5
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture5.pdf)
+,
+slides 6
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture6.pdf)
+)
+Kingma et al. (
+2014
+(https://arxiv.org/abs/1406.5298)
+) 
+Gregor et al.
+(
+2015
+ (https://arxiv.org/abs/1502.04623)
+) 
+Burda
+et al. (
+2016
+ (https://arxiv.org/abs/1509.00519)
+)
+Maddison et al. (
+2017
+(https://arxiv.org/abs/1705.09279)
+)
+4
+Feb
+11 &
+13
+Normalizing Flow Models
+(
+slides 7
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture7.pdf)
+,
+slides 8
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture8.pdf)
+)
+HW1 due
+(02/13),
+HW 2
+released
+Kingma and Dhariwal (
+2018
+(https://papers.nips.cc/paper/8224-glow-
+generative-flow-with-invertible-1x1-
+convolutions.pdf)
+) 
+Chen et al. (
+2018
+(https://arxiv.org/abs/1806.07366)
+) 
+Chen et al.
+(
+2019
+ (https://arxiv.org/abs/1906.02735)
+)
+Kumar et al. (
+2019
+(https://arxiv.org/abs/1903.01434)
+)
+5
+Feb
+18 &
+20
+Generative Adversarial Networks
+(
+slides 9
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture9.pdf)
+,
+Dumoulin et al. (
+2016
+(https://arxiv.org/abs/1606.00704)
+) 
+Arjofsky et
+al. (
+2017
+ (https://arxiv.org/abs/1701.07875)
+)
+Zhu et al. (
+2017
+(https://arxiv.org/abs/1703.10593)
+)
+slides 10
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture10.pdf)
+)
+Project Proposal: Due Thursday, February 20, 2020.
+6
+Feb
+27
+Energy-Based Models
+(
+slides 11
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture11.pdf)
+)
+HW 2 due
+(02/27)
+7
+Mar
+3 &
+4
+Combining Generative Model Variants 
+Evaluating Generative Models
+(
+slides 12
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture12.pdf)
+,
+slides 13
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture13.pdf)
+)
+8
+Mar
+10 &
+12
+Discreteness in Generative Modeling
+(
+slides 14
+(https://kuleshov.github.io/cornell-deep-
+generative-models-
+course/assets/slides/lecture14.pdf)
+)
+March 12: Postponed due to move to
+videoconferencing.
+HW 3
+released
+9
+Mar
+17 &
+19
+Student Presentations
+3/17: Boyi Li and Junwen Bai:
+Uncertainty in DGMs
+3/19: Yixin Shen and Youya Xia:
+Generative Models in RL
+10
+Mar
+24 &
+26
+Student Presentations
+03/24: Evgenii Nikishin and Yicheng Bai:
+Noise Contrastive Estimation
+03/26: Utkarsh Mall and Hubert Lin
+HW 3 due
+(03/26)
+11
+Mar
+31 &
+Apr
+2
+Spring Break
+12
+Apr
+7 &
+9
+Student Presentations
+04/07: Jack Wang and Joseph Kim
+04/09: Dan Adler and Gengmo Qi
+Project Progress Report: Due April 9, 2020.
+13
+Apr
+14 &
+16
+Student Presentations
+04/14: Yong Huang and Yordanos
+Goshu: Combining GANs and variational
+inference
+04/16: Kai Zhang, and Rui Qian
+14
+Apr
+Student Presentations
+21 &
+23
+04/21: Guandao Yang and Wenqi Xian:
+Normalizing Flows
+04/23: Shachi Deshpande, Alex Wang
+and Arman Mielke
+15
+Apr
+28 &
+30
+04/28: Joseph Kim and Zekun Hao:
+Wasserstein GANs
+04/30: Guest Lecture
+16
+May
+5
+Student Presentations
+05/06: Kane Tian and Aaron Lou
+17
+May
+9-16
+Exam Week (no lectures)
+Final Project Reports: Due May 14, 2020.
+Additional Reading: Surveys and Tutorials
+1
+. 
+Tutorial on Deep Generative Models.
+ (https://ermongroup.github.io/generative-models/)
+ Aditya Grover and Stefano
+Ermon. International Joint Conference on Artificial Intelligence, July 2018.
+2
+. 
+Tutorial on Generative Adversarial Networks.
+ (https://sites.google.com/view/cvpr2018tutorialongans/)
+ Computer
+Vision and Pattern Recognition, June 2018.
+3
+. 
+Tutorial on Deep Generative Models.
+ (https://www.youtube.com/watch?v=JrO5fSskISY)
+ Shakir Mohamed and Danilo
+Rezende. Uncertainty in Artificial Intelligence, July 2017.
+4
+. 
+Tutorial on Generative Adversarial Networks.
+ (https://www.youtube.com/watch?v=AJVyzd0rqdc)
+ Ian Goodfellow.
+Neural Information Processing Systems, December 2016.
+5
+. 
+Learning deep generative models.
+ (https://www.cs.cmu.edu/~rsalakhu/papers/annrev.pdf)
+ Ruslan Salakhutdinov.
+Annual Review of Statistics and Its Application, Apr 2015.
+
+===================[Syllabus End]===================
+Please examine the attached course syllabus carefully and provide detailed answers to the research questions (RQ) listed below. Each question focuses on specific aspects of "computing systems" tailored for AI/ML scalability. We are looking for specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, programming model for AI/ML covered in the syllabus. Programming with Python or jupyter does not count as computing system topics.
+
+RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+The topics are 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in likert scale: 
+Frequent (4): At least one dedicated lecture discussed the topics.
+Intermittent (3): The topics are discussed occasionally. 
+Infrequent (2): The topics are rarely mentioned.
+Never mentioned (1): The topics are never mentioned.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+The definition and explanation should include concepts of 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Adequate (3): Provide detailed definition and explanation.
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+Undefined (1): The topics are mostly undefined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as 1) scalable (parallel and distributed) model training, inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer by providing the list of above topics (1 to 9) discussed in the course. Make it short and direct. Limit in 100 words. Do not include topics unrelated to "computing systems" like general ML/AI algorithms.
+
+RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+Topics include 1) Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; 2) Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod 3)  Optimization Techniques such as Efficient Algorithm, Quantization, Prunning 4) Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+Answer in Likert scale: 
+Quantitatively (3): The lectures or assignments provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+Qualitatively (2): The lectures used descriptive terms.
+No guidelines (1): The Lecture provide no guidelines.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+Answer in Likert scale: 
+Equally discussed with other AI/ML topics (3)
+“computing system” requirements is a sub topic (2) 
+“computing system” requirements were never discussed (1) 
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+The factors are 1) scalable (parallel and distributed) model training and inference; 2) testing, debugging, and monitoring of ML applications; 3) ML programming models and abstractions; 4) programming languages for machine learning; 5) ML compilers and runtimes; 6) specialized hardware for machine learning; 7) hardware-efficient ML methods; 8) machine learning benchmarks, and tooling.
+Answer in Likert scale: 
+Holistic (2): The course took into account of many of the above factors.
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+
+RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+Answer in Likert scale: 
+Major (2): Computational performance and capability of the underlying system was the major concerns of the case studies.
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+Answer in Likert scale: 
+Adequate (3): The courses thoroughly cover contributions from AI/ML system engineering communities and best practices in detail by depicting from state of art.
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+Undefined (1): The coverage of this topic in the courses is unclear or not well-defined.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.
+RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+Answer in Likert scale: 
+Adequate (3): The assignments thoroughly cover these areas and provide extensive hands-on experience.
+Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience.
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.
+Could not be evaluated (0): Insufficient information or exposure to the assignments on the syllabus to provide an evaluation.
+Provide the score based on overall discussion of the above topics. Do not rate each topic individually. No explanation needed.

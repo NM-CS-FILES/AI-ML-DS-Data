@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "openai": "^4.47.1",
     "url2pdf": "^0.4.7"
   }
 }

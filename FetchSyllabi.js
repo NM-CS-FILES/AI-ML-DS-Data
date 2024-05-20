@@ -6,8 +6,6 @@ const url2pdf = require("url2pdf");
 const ManifestPath = "Manifests/";
 const SyllabiPath = "Syllabi/"
 
-// "http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_231/stat_231_syllabus.pdf"
-
 //
 //
 

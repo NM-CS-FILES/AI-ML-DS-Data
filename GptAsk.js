@@ -9,7 +9,7 @@ const gptAnswerPath    = "Answers/"
 const gptPromptPath    = "GptPrompt.txt";
 const gptAssistantName = "Syllabus See'r";
 
-const gptApiToken = "";
+const gptApiToken = process.env.OPENAI_API_TOKEN;
 const gptPrompt = fs.readFileSync(gptPromptPath).toString();
 
 const gpt = new openai.OpenAI({ apiKey: gptApiToken });
@@ -47,7 +47,6 @@ async function gptAssistantGet() {
         let assistant = null;
 
         let i = 0;
-
         for (; i != assistantsData.data.length; i++) {
             assistant = assistantsData.data[i];
 
@@ -153,7 +152,6 @@ async function gptFileUpload(filePath) {
 async function gptFileRemove(fileId) {
     try {
         await gpt.files.del(fileId);
-
     } catch(err) {
         fatalError(`Unable to Remove File '${fileId}' from GPT`, err);
     }
@@ -163,22 +161,25 @@ async function gptFileRemove(fileId) {
 //
 
 async function main() {
-    let syllabus = await gptFileUpload("Syllabi/Cornell University/CS 4783.pdf");
-    let assistant = await gptAssistantGet();
-    let thread = await gptThreadMake(syllabus.id);
+    
+}
 
-    console.log(thread)
+async function __main() {
+    // let syllabus = await gptFileUpload("Syllabi/Cornell University/CS 4783.pdf");
+    // let assistant = await gptAssistantGet();
+    // let thread = await gptThreadMake(syllabus.id);
 
-    let resp = await gptThreadResponse(assistant.id, thread.id);
+    // console.log(thread)
 
-    console.log(resp);
+    // let resp = await gptThreadResponse(assistant.id, thread.id);
 
-    await gptThreadDestroy(thread.id)
-    await gptFileRemove(syllabus.id);
+    // console.log(resp);
 
-    let files = await gpt.files.list();
+    // await gptThreadDestroy(thread.id)
+    // await gptFileRemove(syllabus.id);
+
+    // let files = await gpt.files.list();
     //console.log(files);
-
 }
 
 main();

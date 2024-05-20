@@ -1,0 +1,770 @@
+[
+  {
+    "name": "Columbia University",
+    "syllabi": [
+      {
+        "code": "COMS W4701",
+        "path": "Syllabi/Columbia University/COMS W4701.pdf",
+        "gptFileId": "file-r0UpaweLy1Rw147DLKHOX8Dk",
+        "completed": false
+      },
+      {
+        "code": "COMS W4721",
+        "path": "Syllabi/Columbia University/COMS W4721.pdf",
+        "gptFileId": null,
+        "completed": false
+      },
+      {
+        "code": "COMS W4771",
+        "path": "Syllabi/Columbia University/COMS W4771.pdf",
+        "gptFileId": "file-oqwWNVcsOz72PwZPxCfE4pTW",
+        "completed": false
+      },
+      {
+        "code": "COMS W4772",
+        "path": "Syllabi/Columbia University/COMS W4772.pdf",
+        "gptFileId": "file-PnvyTjCIFH7sG7ZiqjFkb2el",
+        "completed": false
+      },
+      {
+        "code": "COMS W4773",
+        "path": "Syllabi/Columbia University/COMS W4773.pdf",
+        "gptFileId": "file-63eW5ywpMhKHQMCgNEmhCfjg",
+        "completed": false
+      },
+      {
+        "code": "COMS E6998",
+        "path": "Syllabi/Columbia University/COMS E6998.pdf",
+        "gptFileId": "file-Yj3kD4wyBA7xhQfklDwfIlec",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Cornell University",
+    "syllabi": [
+      {
+        "code": "CS 4700",
+        "path": "Syllabi/Cornell University/CS 4700.pdf",
+        "gptFileId": "file-I5iP6phnK1e9BMFODVXBERyD",
+        "completed": false
+      },
+      {
+        "code": "CS 4780",
+        "path": "Syllabi/Cornell University/CS 4780.pdf",
+        "gptFileId": "file-95wvYCAIpS0t5tyajx6NjNb1",
+        "completed": false
+      },
+      {
+        "code": "CS 4783",
+        "path": "Syllabi/Cornell University/CS 4783.pdf",
+        "gptFileId": "file-ICqMqVPm2jhJNCekVtDI6qMi",
+        "completed": false
+      },
+      {
+        "code": "CS 4786",
+        "path": "Syllabi/Cornell University/CS 4786.pdf",
+        "gptFileId": "file-GPbvy2yziBOHTgkW1tJjqGKV",
+        "completed": false
+      },
+      {
+        "code": "CS 5700",
+        "path": "Syllabi/Cornell University/CS 5700.pdf",
+        "gptFileId": "file-LijAjinRRphIEXzwyX2Fy9lo",
+        "completed": false
+      },
+      {
+        "code": "CS 5780",
+        "path": "Syllabi/Cornell University/CS 5780.pdf",
+        "gptFileId": "file-trv091UyKueIwuxQyMxI59wj",
+        "completed": false
+      },
+      {
+        "code": "CS 5783",
+        "path": "Syllabi/Cornell University/CS 5783.pdf",
+        "gptFileId": "file-FNJm7zfX61E7hQfQuKoq7liG",
+        "completed": false
+      },
+      {
+        "code": "CS 5785",
+        "path": "Syllabi/Cornell University/CS 5785.pdf",
+        "gptFileId": "file-6RbWO1Lq86jjvSXBNDUEKt78",
+        "completed": false
+      },
+      {
+        "code": "CS 6780",
+        "path": "Syllabi/Cornell University/CS 6780.pdf",
+        "gptFileId": "file-3jM7hxAdSjCYDWi2SWfHeUdJ",
+        "completed": false
+      },
+      {
+        "code": "CS 6784",
+        "path": "Syllabi/Cornell University/CS 6784.pdf",
+        "gptFileId": "file-yPJqttUOcwOuJqZ2VnNNuSMv",
+        "completed": false
+      },
+      {
+        "code": "CS 6787",
+        "path": "Syllabi/Cornell University/CS 6787.pdf",
+        "gptFileId": "file-qkGOXFYGHF1WAcXLmsoWw6Yt",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "syllabi": []
+  },
+  {
+    "name": "North Carolina State University at Raleigh",
+    "syllabi": [
+      {
+        "code": "CSC 520",
+        "path": "Syllabi/North Carolina State University at Raleigh/CSC 520.pdf",
+        "gptFileId": "file-PyV83up0mNDHuZNxo8K51pr1",
+        "completed": false
+      },
+      {
+        "code": "CSC 720",
+        "path": "Syllabi/North Carolina State University at Raleigh/CSC 720.pdf",
+        "gptFileId": "file-ZEOGkciVsgO6JICnNytLRxQJ",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Oregon State University",
+    "syllabi": [
+      {
+        "code": "CS 434",
+        "path": "Syllabi/Oregon State University/CS 434.pdf",
+        "gptFileId": "file-H3UwASXzwgMn26MJY9RNcs5J",
+        "completed": false
+      },
+      {
+        "code": "CS 513",
+        "path": "Syllabi/Oregon State University/CS 513.pdf",
+        "gptFileId": "file-ghTlBhb5uIp0Ize5y2xRO7Je",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Purdue University",
+    "syllabi": [
+      {
+        "code": "CS 37300",
+        "path": "Syllabi/Purdue University/CS 37300.pdf",
+        "gptFileId": "file-YKZP9XekLtKz7RNPieYDMwT4",
+        "completed": false
+      },
+      {
+        "code": "CS 47100",
+        "path": "Syllabi/Purdue University/CS 47100.pdf",
+        "gptFileId": "file-4OZfkKJn5p0OqFnk5fK7LE22",
+        "completed": false
+      },
+      {
+        "code": "CS 57800",
+        "path": "Syllabi/Purdue University/CS 57800.pdf",
+        "gptFileId": "file-sNIzFKF2Zm8zCy9MOX9Ms5wj",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Stanford University",
+    "syllabi": [
+      {
+        "code": "CS 129",
+        "path": "Syllabi/Stanford University/CS 129.pdf",
+        "gptFileId": "file-y3yKlfT2r7Iw1Ag181XxROMZ",
+        "completed": false
+      },
+      {
+        "code": "CS 221",
+        "path": "Syllabi/Stanford University/CS 221.pdf",
+        "gptFileId": "file-1N6a3TrU38E7GOpiSUgivQ2d",
+        "completed": false
+      },
+      {
+        "code": "CS 470",
+        "path": "Syllabi/Stanford University/CS 470.pdf",
+        "gptFileId": "file-PwClVKK1IP3yRAoe9qMDsLtg",
+        "completed": false
+      },
+      {
+        "code": "CS 224W",
+        "path": "Syllabi/Stanford University/CS 224W.pdf",
+        "gptFileId": "file-qE8oWJpsCGnSPubulvDLySWv",
+        "completed": false
+      },
+      {
+        "code": "CS 229",
+        "path": "Syllabi/Stanford University/CS 229.pdf",
+        "gptFileId": "file-iZRLgpTRVwg4eW2DECDB8CB3",
+        "completed": false
+      },
+      {
+        "code": "CS 328",
+        "path": "Syllabi/Stanford University/CS 328.pdf",
+        "gptFileId": "file-r0N5fX7ph7xHspLeR8YiBFxK",
+        "completed": false
+      },
+      {
+        "code": "CS 329H",
+        "path": "Syllabi/Stanford University/CS 329H.pdf",
+        "gptFileId": "file-a6wbNQmpED6RLcWiBGrMXwoF",
+        "completed": false
+      },
+      {
+        "code": "CS 329T",
+        "path": "Syllabi/Stanford University/CS 329T.pdf",
+        "gptFileId": "file-uS4whZIKXEQVKxj1sGDOjdXi",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Stony Brook University",
+    "syllabi": [
+      {
+        "code": "CSE 352",
+        "path": "Syllabi/Stony Brook University/CSE 352.pdf",
+        "gptFileId": "file-gFjtqXW9dYvGo2i0QsJ8OpVa",
+        "completed": false
+      },
+      {
+        "code": "CSE 353",
+        "path": "Syllabi/Stony Brook University/CSE 353.pdf",
+        "gptFileId": "file-rPQu4k7Q41uF24uoOu4SZrHX",
+        "completed": false
+      },
+      {
+        "code": "CSE 351",
+        "path": "Syllabi/Stony Brook University/CSE 351.pdf",
+        "gptFileId": null,
+        "completed": false
+      },
+      {
+        "code": "CSE 357",
+        "path": "Syllabi/Stony Brook University/CSE 357.pdf",
+        "gptFileId": "file-SJBLDEFc1uV9C3Fl7nawqVXi",
+        "completed": false
+      },
+      {
+        "code": "CSE 512",
+        "path": "Syllabi/Stony Brook University/CSE 512.pdf",
+        "gptFileId": "file-h51FcCHq7EAjiJlbnVo1XXvn",
+        "completed": false
+      },
+      {
+        "code": "CSE 521",
+        "path": "Syllabi/Stony Brook University/CSE 521.pdf",
+        "gptFileId": "file-Uiwkc5Z7uVaSo9ZuOnlW7POp",
+        "completed": false
+      },
+      {
+        "code": "CSE 537",
+        "path": "Syllabi/Stony Brook University/CSE 537.pdf",
+        "gptFileId": "file-lo4nPNOQHsTZ4y5crVuFBLfy",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of California-Berkeley",
+    "syllabi": [
+      {
+        "code": "COMPSCI 188",
+        "path": "Syllabi/University of California-Berkeley/COMPSCI 188.pdf",
+        "gptFileId": null,
+        "completed": false
+      },
+      {
+        "code": "COMPSCI 189",
+        "path": "Syllabi/University of California-Berkeley/COMPSCI 189.pdf",
+        "gptFileId": "file-xtnrKHzflGkwssYy6QRswdkE",
+        "completed": false
+      },
+      {
+        "code": "COMPSCI 289",
+        "path": "Syllabi/University of California-Berkeley/COMPSCI 289.pdf",
+        "gptFileId": "file-xll58ZwdykIpwxFDPgy4XauU",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of California-Los Angeles",
+    "syllabi": [
+      {
+        "code": "C145",
+        "path": "Syllabi/University of California-Los Angeles/C145.pdf",
+        "gptFileId": "file-oCw4qiTcIkjsDUP2kHYzsYTk",
+        "completed": false
+      },
+      {
+        "code": "M146",
+        "path": "Syllabi/University of California-Los Angeles/M146.pdf",
+        "gptFileId": "file-IsvqHewzDerYOqeenfWjynjr",
+        "completed": false
+      },
+      {
+        "code": "M148",
+        "path": "Syllabi/University of California-Los Angeles/M148.pdf",
+        "gptFileId": "file-OOxcdrevtgpauOTLp9J7G7Vt",
+        "completed": false
+      },
+      {
+        "code": "course 161",
+        "path": "Syllabi/University of California-Los Angeles/course 161.pdf",
+        "gptFileId": "file-nm1NF5mnEJy6c9aXqkXy3b2a",
+        "completed": false
+      },
+      {
+        "code": "247",
+        "path": "Syllabi/University of California-Los Angeles/247.pdf",
+        "gptFileId": "file-sg6LYEUjpHrwiZ9QytdAanUW",
+        "completed": false
+      },
+      {
+        "code": "260",
+        "path": "Syllabi/University of California-Los Angeles/260.pdf",
+        "gptFileId": "file-4EQieBE1puu5KKSY8zyPS0wl",
+        "completed": false
+      },
+      {
+        "code": "260B",
+        "path": "Syllabi/University of California-Los Angeles/260B.pdf",
+        "gptFileId": null,
+        "completed": false
+      },
+      {
+        "code": "260D",
+        "path": "Syllabi/University of California-Los Angeles/260D.pdf",
+        "gptFileId": "file-AvdFpHJh53oWsTuJjUBAP251",
+        "completed": false
+      },
+      {
+        "code": "265A",
+        "path": "Syllabi/University of California-Los Angeles/265A.pdf",
+        "gptFileId": "file-A504IDD4HpXem8lyrwOUovz6",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of California-San Diego",
+    "syllabi": [
+      {
+        "code": "CSE 150A",
+        "path": "Syllabi/University of California-San Diego/CSE 150A.pdf",
+        "gptFileId": "file-5qGotqiWwhe9GEdawSm7czMX",
+        "completed": false
+      },
+      {
+        "code": "CSE 151A",
+        "path": "Syllabi/University of California-San Diego/CSE 151A.pdf",
+        "gptFileId": "file-p6VG5W9Qc1Nr7CZwcCEQSA6d",
+        "completed": false
+      },
+      {
+        "code": "CSE 151B",
+        "path": "Syllabi/University of California-San Diego/CSE 151B.pdf",
+        "gptFileId": "file-NewpdyjE3IGIRJvqJIt3HNfK",
+        "completed": false
+      },
+      {
+        "code": "CSE 251A",
+        "path": "Syllabi/University of California-San Diego/CSE 251A.pdf",
+        "gptFileId": "file-asDUa2rxLDDyoG32vpS4xAbg",
+        "completed": false
+      },
+      {
+        "code": "CSE 251B",
+        "path": "Syllabi/University of California-San Diego/CSE 251B.pdf",
+        "gptFileId": "file-Evz1I2HvdoewPxOqRHzUliq6",
+        "completed": false
+      },
+      {
+        "code": "CSE 255",
+        "path": "Syllabi/University of California-San Diego/CSE 255.pdf",
+        "gptFileId": "file-RMfg3ta9ttWaiurYN4Wnl8tg",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of California-Los Angeles",
+    "syllabi": []
+  },
+  {
+    "name": "University of Colorado Boulder",
+    "syllabi": [
+      {
+        "code": "CSCI 3202",
+        "path": "Syllabi/University of Colorado Boulder/CSCI 3202.pdf",
+        "gptFileId": "file-Nz81bIjLsMr0vhIETLWE430m",
+        "completed": false
+      },
+      {
+        "code": "CSCI 4502",
+        "path": "Syllabi/University of Colorado Boulder/CSCI 4502.pdf",
+        "gptFileId": "file-WaeCTTtW73LThRZkxwKKDQwg",
+        "completed": false
+      },
+      {
+        "code": "CSCI 4622",
+        "path": "Syllabi/University of Colorado Boulder/CSCI 4622.pdf",
+        "gptFileId": "file-gWC6gEnCDe62UjMkEMie2tCj",
+        "completed": false
+      },
+      {
+        "code": "CSCI 5502",
+        "path": "Syllabi/University of Colorado Boulder/CSCI 5502.pdf",
+        "gptFileId": "file-LEUZoPSUpDebo4UtskYHVdZG",
+        "completed": false
+      },
+      {
+        "code": "CSCI 5622",
+        "path": "Syllabi/University of Colorado Boulder/CSCI 5622.pdf",
+        "gptFileId": "file-iUJwhfIH1K8XTeJtTh9a24S4",
+        "completed": false
+      },
+      {
+        "code": "CSCI 5922",
+        "path": "Syllabi/University of Colorado Boulder/CSCI 5922.pdf",
+        "gptFileId": "file-0TqZzSAa8ywlTjlvEqut3DWG",
+        "completed": false
+      },
+      {
+        "code": "CSCI 6622",
+        "path": "Syllabi/University of Colorado Boulder/CSCI 6622.pdf",
+        "gptFileId": "file-jJt3RGT8u98432VSTttYBkuu",
+        "completed": false
+      },
+      {
+        "code": "CSCI 7222",
+        "path": "Syllabi/University of Colorado Boulder/CSCI 7222.pdf",
+        "gptFileId": "file-IHOEgBm5NMD4IJqssxCXrsWs",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of Illinois Chicago",
+    "syllabi": [
+      {
+        "code": "CS 411",
+        "path": "Syllabi/University of Illinois Chicago/CS 411.pdf",
+        "gptFileId": "file-QP29bNmuyp9R07Y6WQzhXYjc",
+        "completed": false
+      },
+      {
+        "code": "CS 412",
+        "path": "Syllabi/University of Illinois Chicago/CS 412.pdf",
+        "gptFileId": "file-X5PYo2Qt0qRdAvTQzEAgVW7N",
+        "completed": false
+      },
+      {
+        "code": "CS 418",
+        "path": "Syllabi/University of Illinois Chicago/CS 418.pdf",
+        "gptFileId": "file-zCFhT4VGgXPpq9KDjSC3uIG9",
+        "completed": false
+      },
+      {
+        "code": "CS 512",
+        "path": "Syllabi/University of Illinois Chicago/CS 512.pdf",
+        "gptFileId": "file-cZb1fNlRlAfbP4YJeRmZiN8Y",
+        "completed": false
+      },
+      {
+        "code": "CS 518",
+        "path": "Syllabi/University of Illinois Chicago/CS 518.pdf",
+        "gptFileId": "file-jEjhNOFcVNlfUQqpVeEeanOO",
+        "completed": false
+      },
+      {
+        "code": "CS 583",
+        "path": "Syllabi/University of Illinois Chicago/CS 583.pdf",
+        "gptFileId": "file-9VFhl4uR0eXJ8JNx05QhSQgG",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of Illinois Urbana-Champaign",
+    "syllabi": [
+      {
+        "code": "CS 307",
+        "path": "Syllabi/University of Illinois Urbana-Champaign/CS 307.pdf",
+        "gptFileId": "file-0LIuY2skxiyuVPuqB9FbFSWN",
+        "completed": false
+      },
+      {
+        "code": "CS 440",
+        "path": "Syllabi/University of Illinois Urbana-Champaign/CS 440.pdf",
+        "gptFileId": "file-0ioWItVCmkFqa1SDUdiLHJO1",
+        "completed": false
+      },
+      {
+        "code": "CS 441",
+        "path": "Syllabi/University of Illinois Urbana-Champaign/CS 441.pdf",
+        "gptFileId": "file-RRCCc3mSLPk3pGJ5ryqXU17M",
+        "completed": false
+      },
+      {
+        "code": "CS 442",
+        "path": "Syllabi/University of Illinois Urbana-Champaign/CS 442.pdf",
+        "gptFileId": "file-qnt9UU2jb34YTs1oS4CHWcf3",
+        "completed": false
+      },
+      {
+        "code": "CS 446",
+        "path": "Syllabi/University of Illinois Urbana-Champaign/CS 446.pdf",
+        "gptFileId": "file-vJh7376DGP0JfemUFYtigdlT",
+        "completed": false
+      },
+      {
+        "code": "CS 545",
+        "path": "Syllabi/University of Illinois Urbana-Champaign/CS 545.pdf",
+        "gptFileId": "file-DtE0FqBWORm8ljOV53tIkeeP",
+        "completed": false
+      },
+      {
+        "code": "CS 547",
+        "path": "Syllabi/University of Illinois Urbana-Champaign/CS 547.pdf",
+        "gptFileId": "file-oC4IUtETW1q3j6p9oN9eFb7g",
+        "completed": false
+      },
+      {
+        "code": "CS 562",
+        "path": "Syllabi/University of Illinois Urbana-Champaign/CS 562.pdf",
+        "gptFileId": "file-dyD1GozoeAnF3CSVXpcopSDZ",
+        "completed": false
+      },
+      {
+        "code": "CS 568",
+        "path": "Syllabi/University of Illinois Urbana-Champaign/CS 568.pdf",
+        "gptFileId": "file-GuPsfVCWLiU8H8vi1xOc4Gak",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of Maryland",
+    "syllabi": [
+      {
+        "code": "CMSC 422",
+        "path": "Syllabi/University of Maryland/CMSC 422.pdf",
+        "gptFileId": "file-7qCS5ROpIvaqRNvxEjPC3eVj",
+        "completed": false
+      },
+      {
+        "code": "CMSC 472",
+        "path": "Syllabi/University of Maryland/CMSC 472.pdf",
+        "gptFileId": "file-m1ZsjFANNZckyHx0LPhcSlTA",
+        "completed": false
+      },
+      {
+        "code": "CMSC 421",
+        "path": "Syllabi/University of Maryland/CMSC 421.pdf",
+        "gptFileId": "file-A81dpSbet3idePjiTAbSkYw9",
+        "completed": false
+      },
+      {
+        "code": "CMSC 722",
+        "path": "Syllabi/University of Maryland/CMSC 722.pdf",
+        "gptFileId": "file-W1CVnC8AtQhmmIdWFPWH9T2D",
+        "completed": false
+      },
+      {
+        "code": "CMSC 726",
+        "path": "Syllabi/University of Maryland/CMSC 726.pdf",
+        "gptFileId": null,
+        "completed": false
+      },
+      {
+        "code": "CMSC 727",
+        "path": "Syllabi/University of Maryland/CMSC 727.pdf",
+        "gptFileId": "file-4fC3sUkiQaGyqN8wZGyqMmtg",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of Massachusshetts-Amherst",
+    "syllabi": [
+      {
+        "code": "COMPSCI 383",
+        "path": "Syllabi/University of Massachusshetts-Amherst/COMPSCI 383.pdf",
+        "gptFileId": "file-xpMj5Sn7CQs8G1N2ZkRiOm56",
+        "completed": false
+      },
+      {
+        "code": "COMPSCI 514",
+        "path": "Syllabi/University of Massachusshetts-Amherst/COMPSCI 514.pdf",
+        "gptFileId": "file-1ekaxUTjoiRJXwYDfmDSQfpF",
+        "completed": false
+      },
+      {
+        "code": "COMPSCI 532",
+        "path": "Syllabi/University of Massachusshetts-Amherst/COMPSCI 532.pdf",
+        "gptFileId": null,
+        "completed": false
+      },
+      {
+        "code": "COMPSCI 589",
+        "path": "Syllabi/University of Massachusshetts-Amherst/COMPSCI 589.pdf",
+        "gptFileId": "file-ZBVVtgpbbuq2ntyqWH5RfPqI",
+        "completed": false
+      },
+      {
+        "code": "COMPSCI 689",
+        "path": "Syllabi/University of Massachusshetts-Amherst/COMPSCI 689.pdf",
+        "gptFileId": "file-Kz0z9rkplAZdWqyWa2bxe5e9",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of Minnesota-Twin Cities",
+    "syllabi": [
+      {
+        "code": "CS 4232",
+        "path": "Syllabi/University of Minnesota-Twin Cities/CS 4232.pdf",
+        "gptFileId": "file-zn0cvZYTYFYN5XAL9bhpdQbX",
+        "completed": false
+      },
+      {
+        "code": "CSCI 5512",
+        "path": "Syllabi/University of Minnesota-Twin Cities/CSCI 5512.pdf",
+        "gptFileId": "file-j5tRALjqTWVK6O0iNmiChDwz",
+        "completed": false
+      },
+      {
+        "code": "CSCI 5521",
+        "path": "Syllabi/University of Minnesota-Twin Cities/CSCI 5521.pdf",
+        "gptFileId": "file-JYqWB4cyNX1oJH8YxykKYwjs",
+        "completed": false
+      },
+      {
+        "code": "CSCI 5525",
+        "path": "Syllabi/University of Minnesota-Twin Cities/CSCI 5525.pdf",
+        "gptFileId": "file-FcFQDB1Xns8XfjFPCWzVMh7M",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "syllabi": [
+      {
+        "code": "COMP 562",
+        "path": "Syllabi/University of North Carolina at Chapel Hill/COMP 562.pdf",
+        "gptFileId": "file-SVALl4HLTGhD7IcewCkbD4Pt",
+        "completed": false
+      },
+      {
+        "code": "COMP 664",
+        "path": "Syllabi/University of North Carolina at Chapel Hill/COMP 664.pdf",
+        "gptFileId": "file-5EigLv2NDb5Upw3J6qgEslTP",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of North Carolina at Charlotte",
+    "syllabi": [
+      {
+        "code": "ITCS 4156",
+        "path": "Syllabi/University of North Carolina at Charlotte/ITCS 4156.pdf",
+        "gptFileId": "file-sjoMa56IPDSwhonV8sX4q7Xd",
+        "completed": false
+      },
+      {
+        "code": "ITCS 6156",
+        "path": "Syllabi/University of North Carolina at Charlotte/ITCS 6156.pdf",
+        "gptFileId": "file-xln7Sh488TZwmgMtBtjJKxDc",
+        "completed": false
+      },
+      {
+        "code": "ITCS 8156",
+        "path": "Syllabi/University of North Carolina at Charlotte/ITCS 8156.pdf",
+        "gptFileId": "file-W77fiFBvmV1aZZijsvjHpgrm",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of Southern California",
+    "syllabi": [
+      {
+        "code": "CSCI 360 ",
+        "path": "Syllabi/University of Southern California/CSCI 360 .pdf",
+        "gptFileId": "file-nXZP9GHvPbG6GSNuPH6n9l43",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "University of Washington-Seattle Campus",
+    "syllabi": [
+      {
+        "code": "CSE 180",
+        "path": "Syllabi/University of Washington-Seattle Campus/CSE 180.pdf",
+        "gptFileId": "file-fapBm4bwIxzFtYeiGy44K6qE",
+        "completed": false
+      },
+      {
+        "code": "CSE 415",
+        "path": "Syllabi/University of Washington-Seattle Campus/CSE 415.pdf",
+        "gptFileId": "file-hb9KDddDtwDMf1qonznlWxFO",
+        "completed": false
+      },
+      {
+        "code": "CSE 416",
+        "path": "Syllabi/University of Washington-Seattle Campus/CSE 416.pdf",
+        "gptFileId": "file-qVHShOJIcARWGqcyZpe8sIDv",
+        "completed": false
+      },
+      {
+        "code": "CSE 446",
+        "path": "Syllabi/University of Washington-Seattle Campus/CSE 446.pdf",
+        "gptFileId": "file-FOzd7CovmAM7qqKVVr9QUGPy",
+        "completed": false
+      },
+      {
+        "code": "CSE 473",
+        "path": "Syllabi/University of Washington-Seattle Campus/CSE 473.pdf",
+        "gptFileId": "file-He7PVEjEwnnAOxUQ0gTpIsyi",
+        "completed": false
+      },
+      {
+        "code": "CSE 543",
+        "path": "Syllabi/University of Washington-Seattle Campus/CSE 543.pdf",
+        "gptFileId": "file-6Jyu98yi2MVwWCyNe92iRHwW",
+        "completed": false
+      },
+      {
+        "code": "CSE 546",
+        "path": "Syllabi/University of Washington-Seattle Campus/CSE 546.pdf",
+        "gptFileId": "file-aGQc7Cv4UV4lZ7SD97l0TSSC",
+        "completed": false
+      },
+      {
+        "code": "CSE 547",
+        "path": "Syllabi/University of Washington-Seattle Campus/CSE 547.pdf",
+        "gptFileId": "file-QC4M5BdHKO2rSNpQJuBaLYRK",
+        "completed": false
+      },
+      {
+        "code": "CSE 573",
+        "path": "Syllabi/University of Washington-Seattle Campus/CSE 573.pdf",
+        "gptFileId": "file-akgJompuHf8TTompLNlT5FLZ",
+        "completed": false
+      }
+    ]
+  }
+]

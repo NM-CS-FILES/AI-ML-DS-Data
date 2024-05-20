@@ -1,18 +1,30 @@
 const fs       = require("fs");
 const openai   = require("openai");
+const pdftxt   = require('pdf-to-text');
 const { exit } = require("process");
 
 //
 //
 
-const gptAnswerPath    = "Answers/"
-const gptPromptPath    = "GptPrompt.txt";
+const gptAnswerPath = "Answers/"
+const gptPromptPath = "GptPrompt.txt";
+// Still a rough estimate https://platform.openai.com/tokenizer 
+const gptPromptTokenCount = 2000;
+const gptAvgPdfTokenCount = 3500;
 const gptAssistantName = "Syllabus See'r";
 
 const gptApiToken = process.env.OPENAI_API_TOKEN;
+
+if (gptApiToken === undefined) {
+    console.log("No OpenAI Api Token Found in Enviroment, Add It To 'OPENAI_API_TOKEN'");
+    exit(-1);
+}
+
 const gptPrompt = fs.readFileSync(gptPromptPath).toString();
 
 const gpt = new openai.OpenAI({ apiKey: gptApiToken });
+
+const fileMap = JSON.parse(fs.readFileSync("GptFileMap.json"))
 
 //
 //
@@ -20,6 +32,10 @@ const gpt = new openai.OpenAI({ apiKey: gptApiToken });
 function fatalError(msg, err, code = -1) {
     console.error(`Fatal Error ${msg} => ${err}`);
     exit(code);
+}
+
+function updateFileMap() {
+    fs.writeFileSync("GptFileMap.json", JSON.stringify(fileMap, null, 2));
 }
 
 //
@@ -121,8 +137,15 @@ async function gptThreadResponse(assistantId, threadId) {
         console.log(run);
         console.log(messageList);
 
-        const response = messageList.data.pop();
-        return response;
+        const message = messageList.data.pop();
+
+        if (message === undefined) {
+            return undefined;
+        }
+
+        const { text } = message.content[0];
+
+        return text.value;
 
     } catch (err) {
         fatalError(`Failed to Get Thread (${threadId}) Response with Assistant (${assistantId})`, err);
@@ -132,54 +155,32 @@ async function gptThreadResponse(assistantId, threadId) {
 //
 //
 
-async function gptFileUpload(filePath) {
-    try {
-        const file = await gpt.files.create({
-            file: fs.createReadStream(filePath),
-            purpose: "assistants"
-        });
-
-        return file;
-
-    } catch(err) {
-        fatalError(`Unable to Upload File '${filePath}' to GPT`, err);
+async function gptPromptSyllabus(assistantId, uniName, syllabiMapObj) {
+    if (syllabiMapObj.gptFileId === null) {
+        return null;
     }
-}
 
-//
-//
+    let thread = await gptThreadMake(syllabiMapObj.gptFileId);
+    let resp = await gptThreadResponse(assistantId, thread.id);
 
-async function gptFileRemove(fileId) {
-    try {
-        await gpt.files.del(fileId);
-    } catch(err) {
-        fatalError(`Unable to Remove File '${fileId}' from GPT`, err);
+    if (resp !== undefined) {
+        fs.writeFileSync(`GptRawAnswers/${uniName}/${syllabiMapObj.code}.txt`, resp);
+        syllabiMapObj.completed = true;
+        updateFileMap();
     }
+
+    return resp;
 }
 
 //
 //
 
 async function main() {
-    
-}
+    let assistant = await gptAssistantGet();
+    let uni = fileMap[0];
+    let syl = uni.syllabi[2];
 
-async function __main() {
-    // let syllabus = await gptFileUpload("Syllabi/Cornell University/CS 4783.pdf");
-    // let assistant = await gptAssistantGet();
-    // let thread = await gptThreadMake(syllabus.id);
-
-    // console.log(thread)
-
-    // let resp = await gptThreadResponse(assistant.id, thread.id);
-
-    // console.log(resp);
-
-    // await gptThreadDestroy(thread.id)
-    // await gptFileRemove(syllabus.id);
-
-    // let files = await gpt.files.list();
-    //console.log(files);
+    gptPromptSyllabus(assistant.id, uni.name, syl);
 }
 
 main();

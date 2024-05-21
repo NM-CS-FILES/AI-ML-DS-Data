@@ -1,0 +1,48 @@
+### Detailed Answers to Research Questions
+
+#### RQ 1. Course Content and Frequency
+**Score:** Infrequent (2)
+
+The course syllabus for "CS 412: Introduction to Machine Learning" does not frequently discuss computing systems specialized for ML/AI such as scalable model training, ML compilers and runtimes, or specialized hardware. The focus appears to be more on general machine learning techniques, algorithms, and their applications【4:0†source】【4:3†source】. 
+
+#### RQ 2. Definition and Understanding
+**Score for 2.1:** Inadequate (2)
+
+The course provides some definitions and explanations related to machine learning tasks and algorithms. However, it does not extensively cover the impact of computing systems on AI/ML, including scalable model training, compilers, or specialized hardware【4:0†source】【4:3†source】.
+
+**Score for 2.2:** 
+- Scalable (parallel and distributed) model training is not explicitly covered.
+- Testing, debugging, and monitoring of ML applications are not mentioned.
+- ML programming models and abstractions are not discussed.
+- Specialized hardware for machine learning is not mentioned.
+- Hardware-efficient ML methods are not mentioned.
+- Machine learning benchmarks and tooling are not covered.
+
+#### RQ 3. Requirement Specification
+**Score for 3.1:** No guidelines (1)
+
+There are no explicit guidelines or discussions about the computational performance and capability requirements for hardware and software systems running scalable AI/ML within the syllabus【4:0†source】【4:11†source】.
+
+**Score for 3.2:** Computing system requirements were never discussed (1)
+
+The focus of the course is mainly on general ML/AI topics, with no explicit discussion on computing system requirements【4:0†source】【4:11†source】.
+
+#### RQ 4. Influence and Importance
+**Score:** System (1)
+
+The course does not emphasize the importance of various computing system factors in designing and maintaining scalable AI/ML, viewing them instead as low-level system issues【4:0†source】【4:11†source】.
+
+#### RQ 5. Case Studies and Real-World Applications
+**Score:** Minor (1)
+
+The course project involves the application of ML techniques to real-world datasets, but computational performance and capability of the underlying system are not major concerns in the case studies【4:0†source】【4:3†source】.
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+**Score:** Inadequate (2)
+
+The course mentions general technical tools for conducting labs and projects but does not cover the contributions and best practices from AI/ML system engineering communities in sufficient depth【4:0†source】【4:5†source】.
+
+#### RQ 7. Projects and Practical Implementation
+**Score:** None (1)
+
+The assignments and projects in the course do not provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, with a focus on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML【4:3†source】【4:11†source】.

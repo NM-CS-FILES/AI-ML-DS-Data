@@ -1,0 +1,48 @@
+### RQ 1. Course Content and Frequency:
+**Score:** Frequent (4)
+
+The topics explicitly related to the "computing system" specialized for ML/AI are discussed comprehensively in the course. For example, distributed data mining using Hadoop and MapReduce, scalable model training using Spark, and working with HDFS for parallel and distributed data operations are key parts of the course【4:0†source】【4:1†source】.
+
+### RQ 2. Definition and Understanding:
+**Score:** Adequate (3)
+
+The syllabus provides detailed definitions and explanations of the impact of computing systems on AI/ML. Topics such as distributed data mining (Hadoop, HDFS, MapReduce), scalable model training (Spark), and runtime environments are elaborately covered with video lectures and practical exercises【4:0†source】【4:1†source】.
+
+**RQ 2.2. List of Topics:**
+1. Distributed data mining (Hadoop, HDFS, MapReduce)
+2. Scalable model training and inference (Spark)
+3. Testing, debugging, and monitoring ML applications
+4. ML programming models and abstractions
+5. ML compilers and runtimes
+6. Specialized hardware for machine learning
+7. Hardware-efficient ML methods
+8. Machine learning benchmarks and tooling【4:0†source】【4:1†source】【4:2†source】.
+
+### RQ 3. Requirement Specification:
+**Score:** Quantitatively (3)
+
+The course lectures and assignments provide quantitative details on computational performance and capability requirements for hardware and software systems running scalable AI/ML. For instance, working with Hadoop’s distributed file system and running MapReduce jobs on AWS provide concrete metrics of computational performance【4:0†source】【4:1†source】【4:11†source】.
+
+**Score:** Equally discussed with other AI/ML topics (3)
+
+The discussion of “computing system” requirements is equally weighted with other AI/ML topics. There's a balanced treatment of infrastructure concerns alongside algorithmic and modeling techniques【4:0†source】【4:1†source】【4:11†source】.
+
+### RQ 4. Influence and Importance:
+**Score:** Holistic (2)
+
+The course considers many of the factors for designing and maintaining scalable AI/ML systems holistically. It integrates discussions on parallel model training, specialized hardware, and runtime systems in a cohesive manner across lectures and practical exercises【4:0†source】【4:1†source】【4:11†source】.
+
+### RQ 5. Case Studies and Real-World Applications:
+**Score:** Major (2)
+
+Real-world case studies involving both hardware and software systems for AI/ML are major components of the curriculum. Examples include the use of Spark for scalable machine learning libraries and Hadoop for distributed data processing【4:0†source】【4:1†source】.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**Score:** Adequate (3)
+
+The course adequately discusses contributions and best practices from AI/ML system engineering communities, particularly in areas like distributed computing with Hadoop and Spark, as well as hardware acceleration techniques【4:0†source】【4:1†source】【4:11†source】.
+
+### RQ 7. Projects and Practical Implementation:
+**Score:** Adequate (3)
+
+The assignments provide thorough hands-on experience in designing, building, and maintaining both scalable hardware and software systems. In particular, exercises involving Hadoop MapReduce, HDFS, and Spark give students extensive practical exposure to compiler optimization, runtime systems, and hardware acceleration【4:0†source】【4:1†source】【4:11†source】.

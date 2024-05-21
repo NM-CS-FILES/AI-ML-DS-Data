@@ -1,0 +1,42 @@
+Based on the provided syllabus, here are the detailed answers to the research questions (RQ) you need:
+
+### RQ 1. Course Content and Frequency:
+**1.1 Score**: 1 (Never mentioned) 
+The topics related to "computing systems" specialized for AI/ML such as scalable (parallel and distributed) model training, inference, testing, debugging, and monitoring of ML applications, ML programming models and abstractions, programming languages for machine learning, ML compilers and runtimes, specialized hardware for machine learning, hardware-efficient ML methods, machine learning benchmarks, and tooling are never mentioned.
+
+### RQ 2. Definition and Understanding:
+**2.1 Score**: 1 (Undefined)
+The impacts of "computing systems" on AI/ML such as scalable model training, inference, testing, debugging, monitoring, ML programming models and abstractions, programming languages for machine learning, ML compilers and runtimes, specialized hardware, hardware-efficient ML methods, and benchmarks are mostly undefined.
+
+**2.2 Topics Discussed**:
+- Training Deep Networks
+- Convolutional Neural Networks
+- Recurrent Neural Networks
+
+The above topics are mostly focused on the application and development of AI/ML models rather than the underlying computing systems needed for scalability and efficiency   .
+
+### RQ 3. Requirement Specification:
+**3.1 Score**: 1 (No guidelines)
+The course does not provide numerical values for computational performance and capability requirements such as latency, throughput, resource utilization, etc. It focuses more on high-level AI/ML concepts and algorithms rather than hardware and software requirements for running scalable systems.
+
+**3.2 Score**: 2 (“computing system” requirements are a sub-topic)
+The discussion of "computing system" requirements is a sub-topic, involving some aspects like training deep networks and various types of neural networks, but it does not delve deeply into the computational performance and capability requirements of hardware and software systems for scalable AI/ML .
+
+### RQ 4. Influence and Importance:
+**4.1 Score**: 1 (System)
+The course views the factors regarding computing systems for AI/ML scalability as low-level system issues, relegating responsibility to the correct choice of hardware, programming models, and AI/ML frameworks without holistic integration of these elements into the curriculum .
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Score**: 1 (Minor)
+Computational performance and capability of the underlying system were not a major concern of the case studies in the provided curriculum. The focus is primarily on ML techniques and applications rather than the performance and capability of the underlying computing infrastructure .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Score**: 1 (Undefined)
+The coverage of contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization, is unclear or not well-defined in the syllabus .
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Score**: 1 (None)
+The assignments do not cover areas such as compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML or provide relevant hands-on experience related to scalable hardware and software systems for AI/ML  .
+
+### Final Note
+The course syllabus mainly focuses on traditional machine learning topics and applications of neural networks, rather than the detailed aspects of scalable computing systems tailored for AI/ML.

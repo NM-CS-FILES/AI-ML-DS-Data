@@ -1,0 +1,74 @@
+Here are the detailed answers to the research questions (RQ) based on the provided syllabus:
+
+### RQ 1. Course Content and Frequency
+**1.1 Frequency of topics explicitly related to "computing systems" specialized for ML/AI:**
+- Scalable (parallel and distributed) model training, inference
+- Testing, debugging, and monitoring of ML applications
+- ML programming models and abstractions
+- Programming languages for machine learning
+- ML compilers and runtimes
+- Specialized hardware for machine learning
+- Hardware-efficient ML methods
+- Machine learning benchmarks, and tooling
+
+**Score:** Infrequent (2): The topics are rarely mentioned .
+
+### RQ 2. Definition and Understanding
+**2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula?**
+- Scalable (parallel and distributed) model training, inference
+- Testing, debugging, and monitoring of ML applications
+- ML programming models and abstractions
+- Programming languages for machine learning
+- ML compilers and runtimes
+- Specialized hardware for machine learning
+- Hardware-efficient ML methods
+- Machine learning benchmarks, and tooling
+
+**Score:** Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments .
+
+**2.2 Comprehensive and explicit definition of impacts of "computing systems" on AI/ML:**
+- Scalable (parallel and distributed) model training, inference mentioned briefly.
+- Testing, debugging, and monitoring of ML applications not covered.
+- ML programming models and abstractions briefly mentioned in context of frameworks.
+- Programming languages for machine learning not covered.
+- ML compilers and runtimes not explicitly covered.
+- Specialized hardware for machine learning mentioned in the context of using Google Cloud.
+- Hardware-efficient ML methods not covered.
+- Machine learning benchmarks, and tooling briefly mentioned in some lectures  .
+
+### RQ 3. Requirement Specification
+**3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML specified and discussed?**
+- Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable model training, inference
+- Distributed Computing Frameworks such as TensorFlow’s Distributed Strategy, PyTorch’s Distributed Data Parallel (DDP), and Horovod
+- Optimization Techniques such as Efficient Algorithm, Quantization, Pruning
+- Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+
+**Score:** No guidelines (1): The lectures provide no guidelines  .
+
+**3.2 How did the discussion of "computing system" requirements rank against the discussion of general AI/ML topics?**
+- Score: “computing system” requirements is a sub topic (2): These requirements are discussed as a sub-topic under broader AI/ML topics .
+
+### RQ 4. Influence and Importance
+**4.1 Importance of various "computing system" factors of designing and maintaining scalable AI/ML emphasized in the course?**
+- Scalable (parallel and distributed) model training and inference
+- Testing, debugging, and monitoring of ML applications
+- ML programming models and abstractions
+- Programming languages for machine learning
+- ML compilers and runtimes
+- Specialized hardware for machine learning
+- Hardware-efficient ML methods
+- Machine learning benchmarks, and tooling
+
+**Score:** System (1): The course viewed the factors as low-level system issues, relegating responsibility to the correct choice of hardware, programming model, and AI/ML framework .
+
+### RQ 5. Case Studies and Real-World Applications
+**5.1 Real-world case studies involving hardware and software systems for AI/ML explicitly included?**
+- Score: Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies  .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+**6.1 Discussion of contributions and best practices from AI/ML system engineering communities (compilers, runtime systems, hardware acceleration, and code optimization)?**
+- Score: Undefined (1): The coverage of this topic in the courses is unclear or not well-defined .
+
+### RQ 7. Projects and Practical Implementation
+**7.1 Assignments providing hands-on experience with designing, building, and maintaining hardware/software systems for AI/ML (compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization)?**
+- Score: Inadequate (2): The assignments cover these areas minimally and do not provide sufficient hands-on experience  .

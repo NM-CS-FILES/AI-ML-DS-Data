@@ -1,0 +1,44 @@
+### RQ 1: Course Content and Frequency
+
+1.1 Based on the provided syllabus for "COMS W4701: Artificial Intelligence," topics explicitly relating to "computing systems" specialized for ML/AI (such as scalable model training, inference, and specialized hardware for machine learning) are:
+- Never mentioned (1)【4:1†source】.
+
+### RQ 2: Definition and Understanding
+
+2.1) The impacts of "computing systems" on AI/ML are:
+- Undefined (1)【4:2†source】.
+
+2.2) List of topics discussed in the course:
+- Machine learning in a general sense
+- Statistical learning
+- Heuristic search
+- Bayesian networks
+- Probabilistic reasoning 【4:1†source】.
+
+### RQ 3: Requirement Specification
+
+3.1) Computational performance and capability requirements for hardware and software systems running scalable AI/ML are:
+- No guidelines (1) 【4:2†source】.
+
+3.2) The discussion of “computing system” requirements in comparison with general AI/ML topics is:
+- “computing system” requirements were never discussed (1) 【4:2†source】.
+
+### RQ 4: Influence and Importance
+
+4.1 The importance of various “computing system” factors of designing and maintaining scalable AI/ML is:
+- System (1) 【4:2†source】.
+
+### RQ 5: Case Studies and Real-World Applications
+
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included:
+- Minor (1) .
+
+### RQ 6: Awareness and Integration of AI-Specific Engineering Practices
+
+6.1 Contributions and best practices from AI/ML system engineering communities, such as compilers, runtime systems, hardware acceleration, and code optimization are:
+- Undefined (1) 【4:2†source】.
+
+### RQ 7: Projects and Practical Implementation
+
+7.1 The assignments provide hands-on experience with designing, building, and maintaining scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization:
+- None (1) 【4:2†source】.

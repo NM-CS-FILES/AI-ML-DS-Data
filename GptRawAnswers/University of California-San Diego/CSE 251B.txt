@@ -1,0 +1,53 @@
+Based on the given syllabus and the specified research questions (RQs), the detailed answers are as follows:
+
+### RQ 1. Course Content and Frequency:
+1.1 The topics related to "computing systems" specialized for ML/AI are discussed as follows:
+- Scalable model training, inference: Mentioned in the context of deep learning implementation【6:0†source】.
+- Testing, debugging, and monitoring of ML applications: Not explicitly mentioned.
+- ML programming models and abstractions: General machine learning models are discussed, but not specific to programming models or abstractions【6:0†source】.
+- Programming languages for ML: Not explicitly mentioned in the context of computing systems impacts.
+- ML compilers and runtimes: Not explicitly mentioned.
+- Specialized hardware for ML: Not explicitly mentioned.
+- Hardware-efficient ML methods: Not explicitly mentioned.
+- Machine learning benchmarks and tooling: Mentioned indirectly through Kaggle competition and assignment grading【6:1†source】.
+
+Overall score: **2** (Infrequent)
+
+### RQ 2. Definition and Understanding:
+2.1 The impacts of "computing systems" on AI/ML are not comprehensively defined or explained in the syllabus. The detailed explanations for most of the topics are missing, aside from general implementation details of deep learning. 
+
+Overall score: **2** (Inadequate)
+
+2.2 The topics explicitly discussed related to "computing systems" are:
+- Scalable model training and inference
+- General machine learning implementations
+- Kaggle competition for practical benchmarking
+
+### RQ 3. Requirement Specification:
+3.1 The computational performance and capability requirements are not specified in quantitative terms in the syllabuses. There are more qualitative descriptions of implementations and usage.
+
+Overall score: **2** (Qualitatively)
+
+3.2 The discussion of “computing system” requirements as compared to general AI/ML topics is more of a sub-topic.
+
+Overall score: **2** (“computing system” requirements is a sub-topic)
+
+### RQ 4. Influence and Importance:
+4.1 The importance of various “computing system” factors is viewed more as low-level systems issues. Detailed and holistic discussions are not apparent in the syllabus.
+
+Overall score: **1** (System)
+
+### RQ 5. Case Studies and Real-World Applications:
+5.1 Real-world case studies are included mainly through Kaggle competitions, but the computational performance and capability of the underlying systems are not the primary concerns.
+
+Overall score: **1** (Minor)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 The courses mention the importance of implementations and certain practices, but do not cover contributions from AI/ML system engineering communities in sufficient depth.
+
+Overall score: **2** (Inadequate)
+
+### RQ 7. Projects and Practical Implementation:
+7.1 The assignments involve the practical implementation of deep learning models and evaluations primarily through Kaggle. However, hands-on experience with specific areas like compiler optimization, runtime systems, hardware acceleration, or code optimization is minimally addressed.
+
+Overall score: **2** (Inadequate)

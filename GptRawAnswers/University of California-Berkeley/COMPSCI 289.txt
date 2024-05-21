@@ -1,0 +1,51 @@
+Based on the provided syllabus, here are the detailed answers to the research questions (RQs) regarding "computing systems" tailored for AI/ML scalability in the course "Introduction to Machine Learning" (CS 189/289A):
+
+### RQ 1. Course Content and Frequency:
+**1.1** How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course?
+
+**Score: Infrequent (2)**
+
+### RQ 2. Definition and Understanding:
+**2.1** How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula?
+
+**Score: Inadequate (2)**
+
+**2.2** Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+The definition and explanation should include concepts such as scalable (parallel and distributed) model training, inference; testing, debugging, and monitoring of ML applications; ML programming models and abstractions; programming languages for machine learning; ML compilers and runtimes; specialized hardware for machine learning; hardware-efficient ML methods; machine learning benchmarks, and tooling.
+
+The course content mentions few of these topics explicitly. Here are the topics that are covered:
+1. Scalable (parallel and distributed) model training, inference
+2. Testing, debugging, and monitoring of ML applications
+3. ML programming models and abstractions
+4. Specialized hardware for machine learning        
+
+### RQ 3. Requirement Specification:
+**3.1** How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+
+**Score: No guidelines (1)**
+
+**3.2** How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+
+**Score: Computing system requirements were never discussed (1)**   
+
+### RQ 4. Influence and Importance:
+**4.1** How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+
+**Score: Holistic (2)**
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1** Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+
+**Score: Minor (1)**
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1** Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+
+**Score: Undefined (1)**
+
+### RQ 7. Projects and Practical Implementation:
+**7.1** To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+
+**Score: Could not be evaluated (0)**
+
+The provided syllabus mentions various machine learning topics such as classification, regression, data preprocessing, and dimensionality reduction extensively, but it does not provide explicit or comprehensive coverage of computing systems tailored for AI/ML scalability.

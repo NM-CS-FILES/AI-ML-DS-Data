@@ -134,8 +134,8 @@ async function gptThreadResponse(assistantId, threadId) {
         const run = await gptThreadRun(assistantId, threadId);
         const messageList = await gpt.beta.threads.messages.list(threadId, { run_id: run.id });
 
-        console.log(run);
-        console.log(messageList);
+        //console.log(run);
+        //console.log(messageList);
 
         const message = messageList.data.pop();
 
@@ -167,6 +167,7 @@ async function gptPromptSyllabus(assistantId, uniName, syllabiMapObj) {
         fs.writeFileSync(`GptRawAnswers/${uniName}/${syllabiMapObj.code}.txt`, resp);
         syllabiMapObj.completed = true;
         updateFileMap();
+        await gptThreadDestroy(thread.id);
     }
 
     return resp;
@@ -175,12 +176,40 @@ async function gptPromptSyllabus(assistantId, uniName, syllabiMapObj) {
 //
 //
 
+function psleep(ms) {
+    return new Promise((res) => {
+        setTimeout(res, ms);
+    });
+}
+
+//
+//
+
 async function main() {
     let assistant = await gptAssistantGet();
-    let uni = fileMap[0];
-    let syl = uni.syllabi[2];
 
-    gptPromptSyllabus(assistant.id, uni.name, syl);
+    for (let mi = 0; mi !== fileMap.length; mi++) {
+        let uniObj = fileMap[mi];
+
+        console.log(`${uniObj.name}: `);
+
+        for (let ci = 0; ci !== uniObj.syllabi.length; ci++) {
+            let sylObj = uniObj.syllabi[ci];
+
+            if (sylObj.completed === true || !fs.existsSync(sylObj.path) || fs.statSync(sylObj.path).size < 2000 || sylObj.gptFileId === null) {
+                continue;
+            }
+
+            process.stdout.write(`\tPrompting ${sylObj.code} => `);
+
+            let resp = await gptPromptSyllabus(assistant.id, uniObj.name, sylObj);
+
+            process.stdout.write((resp === undefined) ? "Failed" : "Succeeded");
+            console.log(" Sleeping...");
+
+            await psleep(60000);
+        }
+    }
 }
 
 main();

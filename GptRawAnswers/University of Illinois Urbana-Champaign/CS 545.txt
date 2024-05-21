@@ -1,0 +1,28 @@
+### RQ 1. Course Content and Frequency:
+**1.1 Likert Scale:** Infrequent (2)
+
+### RQ 2. Definition and Understanding:
+**2.1 Likert Scale:** Inadequate (2)
+
+**2.2 Topics Discussed:**
+- Specialized hardware for machine learning
+- Hardware-efficient ML methods
+
+### RQ 3. Requirement Specification:
+**3.1 Likert Scale:** No guidelines (1)
+
+**3.2 Likert Scale:** "computing system" requirements is a subtopic (2)
+
+### RQ 4. Influence and Importance:
+**4.1 Likert Scale:** System (1)
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Likert Scale:** Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Likert Scale:** Inadequate (2)
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Likert Scale:** Inadequate (2)
+
+The syllabus of the course emphasizes signal processing and practical machine learning applications but gives limited direct focus to detailed computing systems specifically designed for AI/ML scalability like specialized hardware, compilers, runtime systems, and extensive benchmarking【6:0†source】.

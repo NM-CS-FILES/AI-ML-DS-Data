@@ -1,0 +1,37 @@
+The syllabus reviewed is from CSE 251A. Below are the answers to your research questions based on the syllabus content.
+
+### RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course?
+- Frequency Score: 2 (Infrequent)
+
+### RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula?
+- Definition Score: 2 (Inadequate)
+
+2.2 Do courses provide a comprehensive and explicit definition of the impacts of "computing systems" on AI/ML?
+- Topics Discussed: Supervised learning methods such as k-nearest neighbor classifiers, linear and logistic regression, decision trees, boosting, and neural networks. Unsupervised learning methods such as k-means, singular value decompositions, and hierarchical clustering .
+
+### RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML explicitly specified and discussed in undergraduate courses?
+- Requirement Specification Score: 1 (No guidelines)
+
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+- Ranking Score: 2 (sub topic)
+
+### RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing systems” factors of designing and maintaining scalable AI/ML emphasized in the course?
+- Importance Score: 1 (System)
+
+### RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+- Case Studies Score: 1 (Minor)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+- Engineering Practices Score: 1 (Undefined)
+
+### RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+- Hands-on Experience Score: 1 (None) 
+
+These scores and evaluations are based on the course content available from the provided syllabus .

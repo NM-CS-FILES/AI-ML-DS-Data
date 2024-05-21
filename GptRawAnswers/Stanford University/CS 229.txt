@@ -1,0 +1,55 @@
+### RQ 1. Course Content and Frequency:
+
+**1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course?**
+
+Answer: **Infrequent (2)**
+
+### RQ 2. Definition and Understanding:
+
+**2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula?**
+
+Answer: **Inadequate (2)**
+
+**2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?**
+   
+- Scalable (parallel and distributed) model training, inference
+- ML programming models and abstractions
+- Programming languages for machine learning
+- ML compilers and runtimes
+- Specialized hardware for machine learning
+
+### RQ 3. Requirement Specification:
+
+**3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?**
+
+Answer: **No guidelines (1)**
+
+**3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?**
+
+Answer: **“computing system” requirements is a sub topic (2)**
+
+### RQ 4. Influence and Importance:
+
+**4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?**
+
+Answer: **System (1)**
+
+### RQ 5. Case Studies and Real-World Applications:
+
+**5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?**
+
+Answer: **Minor (1)**
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+
+**6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?**
+
+Answer: **Inadequate (2)**
+
+### RQ 7. Projects and Practical Implementation:
+
+**7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?**
+
+Answer: **None (1)**
+
+The assessment is based on the provided lecture details and course schedules scanned, which did not reveal specific and extensive coverage of "computing system" topics relevant to AI/ML as requested in the research questions    .

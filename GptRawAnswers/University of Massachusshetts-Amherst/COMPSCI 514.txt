@@ -1,0 +1,39 @@
+Based on the content of the uploaded syllabus, here's the detailed analysis of the research questions (RQ) related to "computing systems" for AI/ML scalability:
+
+### RQ 1. Course Content and Frequency
+**Score:** 1 (Never mentioned)
+
+Upon reviewing the syllabus, topics such as scalable model training, ML compilers and runtimes, specialized hardware for machine learning, and other computing system-related topics specialized for ML/AI were not explicitly found in the course descriptions or lecture titles.
+
+### RQ 2. Definition and Understanding
+**Score:** 1 (Undefined)
+
+The syllabus does not provide explicit definitions or detailed explanations regarding the impacts of computing systems on AI/ML, including any mention of scalable model training, debugging, ML programming models, compilers, specialized hardware, or ML benchmarks.
+
+### RQ 3. Requirement Specification
+3.1 **Score:** 1 (No guidelines)
+The syllabus does not specify computational performance and capability requirements for hardware and software systems running scalable AI/ML. No numerical or qualitative guidelines were found.
+
+3.2 **Score:** 1 (Computing system requirements were never discussed)
+The syllabus does not provide discussions on computing system requirements in the context of scalable AI/ML compared to general AI/ML topics.
+
+### RQ 4. Influence and Importance
+**Score:** 1 (System)
+The course appears to consider computing system factors as low-level system issues, without incorporating many of the crucial factors of designing and maintaining scalable AI/ML explicitly.
+
+### RQ 5. Case Studies and Real-World Applications
+**Score:** 1 (Minor)
+There are no explicit case studies included in the curriculum that focus on hardware and software systems for scalable model training, inference, or serving in AI/ML.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+**Score:** 1 (Undefined)
+The courses do not seem to discuss the contributions and best practices from AI/ML system engineering communities, especially in areas like compilers, runtime systems, hardware acceleration, and code optimization.
+
+### RQ 7. Projects and Practical Implementation
+**Score:** 0 (Could not be evaluated)
+Due to insufficient information on assignments within the syllabus, it is challenging to evaluate how well the assignments provide hands-on experience with designing and maintaining scalable hardware and software systems for AI/ML.
+
+### Summary of Course Coverage
+The syllabus focuses on data science fundamentals, algorithms, matrix factorization, spectral graph theory, and optimization techniques without diving into specifics of computing systems tailored for AI/ML. The provided content does not include significant discussions on scalable training, testing and monitoring, ML programming models, compilers, specialized hardware, or hardware-efficient methods   .
+
+The detailed findings indicate a need for integrating more advanced and specialized computing systems topics related to AI/ML scalability into the current curriculum to address the gap.

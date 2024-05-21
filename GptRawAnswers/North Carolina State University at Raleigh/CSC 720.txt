@@ -1,0 +1,55 @@
+### Research Questions Analysis
+
+#### RQ 1. Course Content and Frequency
+**1.1 How frequently are topics explicitly related to "computing systems" specialized for ML/AI discussed in the course?**
+- **Overall score**: Never mentioned (1)
+
+The syllabus does not contain explicit mentions of computing system topics specialized for ML/AI, such as scalable model training, ML compilers, or hardware-efficient ML methods.
+
+#### RQ 2. Definition and Understanding
+**2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula?**
+- **Overall score**: Undefined (1)
+
+There is no detailed definition and explanation related to the computing system's impact on AI/ML within the syllabus.
+
+**2.2 Do courses provide a comprehensive and explicit definition of the impacts of "computing systems" on AI/ML?**
+- **Topics Discussed**: None of the specified topics are covered.
+
+#### RQ 3. Requirement Specification
+**3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML explicitly specified and discussed in undergraduate courses?**
+- **Overall score**: No guidelines (1)
+
+The syllabus does not provide specific computational performance and capability requirements for hardware and software systems used for scalable AI/ML.
+
+**3.2 How did the discussion of "computing system" requirements rank against the discussion of general AI/ML topics?**
+- **Overall score**: "computing system" requirements were never discussed (1)
+
+The syllabus does not mention computational system requirements in the context of AI/ML.
+
+#### RQ 4. Influence and Importance
+**4.1 How is the importance of various "computing system" factors of designing and maintaining scalable AI/ML emphasized in the course?**
+- **Overall score**: System (1)
+
+The course views the factors as low-level system issues, relegating responsibility primarily to the correct choice of techniques for AI/ML rather than focusing on computing systems specifically.
+
+#### RQ 5. Case Studies and Real-World Applications
+**5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?**
+- **Overall score**: Minor (1)
+
+Case studies involving these aspects are not explicitly included as per the syllabus examined。
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+**6.1 Do the courses discuss contributions and best practices from AI/ML systems engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?**
+- **Overall score**: Undefined (1)
+
+The courses do not thoroughly cover contributions from AI/ML system engineering communities or best practices in detailed aspects like compilers, runtime systems, hardware acceleration, or code optimization.
+
+#### RQ 7. Projects and Practical Implementation
+**7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?**
+- **Overall score**: None (1)
+
+Assignments do not cover these areas or provide relevant hands-on experience clearly based on the syllabus details.
+
+### Summary of Findings
+
+The syllabus for CSC 720 does not focus on computing systems topics specialized for ML/AI scalability and efficiency. Courses tend to be centered on general AI/ML theories, philosophical aspects, and fundamental computational methods without delving deeply into system requirements or engineering practices necessary for building scalable AI/ML systems. Consequently, computational performance, system capabilities, and practices such as optimization techniques, scalable model training, hardware acceleration, and code optimization are not emphasized. This leads to a lack of hands-on applications and detailed practical understanding of these critical components in the AI/ML field.

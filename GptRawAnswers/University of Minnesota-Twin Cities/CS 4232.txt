@@ -1,0 +1,37 @@
+Below are the responses to your research questions (RQs) based on the provided syllabus for the Artificial Intelligence course:
+
+### RQ 1. Course Content and Frequency:
+1.1 **Score: 1 (Never Mentioned)**
+No specific mention of topics like scalable model training, ML compilers and runtimes, specialized hardware for ML, or other detailed computing system topics related to ML/AI was found.
+
+### RQ 2. Definition and Understanding:
+2.1 **Score: 1 (Undefined)**
+The syllabus does not provide definitions or explanations for the impacts of computing systems on AI/ML, including the various specific areas listed in RQ 2.1.
+
+2.2 **Mentioned Topics:**
+The course does not cover detailed topics related to scalable model training, ML compilers and runtimes, specialized hardware for ML, or other specific computing system topics for AI/ML significantly.
+
+### RQ 3. Requirement Specification:
+3.1 **Score: 1 (No Guidelines)**
+There are no explicit specifications or discussions on computational performance and capability requirements for hardware and software systems running scalable AI/ML.
+
+3.2 **Score: 1 (Never Discussed)**
+The "computing system" requirements are not discussed against the more general AI/ML topics in the syllabus.
+
+### RQ 4. Influence and Importance:
+4.1 **Score: 1 (System)**
+The importance of computing system factors in designing and maintaining scalable AI/ML appears to be viewed as a lower-level system issue without significant emphasis.
+
+### RQ 5. Case Studies and Real-World Applications:
+5.1 **Score: 1 (Minor)**
+Case studies involving the computational performance and capability of hardware and software for AI/ML are not a major concern or focus in the curriculum.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 **Score: 1 (Undefined)**
+There is no coverage of contributions and best practices from AI/ML system engineering communities, particularly in areas like compilers, runtime systems, hardware acceleration, and code optimization.
+
+### RQ 7. Projects and Practical Implementation:
+7.1 **Score: 0 (Could Not Be Evaluated)**
+The information provided in the syllabus does not give enough detail about assignments to evaluate hands-on experience with designing, building, and maintaining scalable systems for AI/ML.
+
+**Source:** CS 4232 AI Course Syllabus【4:0†source】.

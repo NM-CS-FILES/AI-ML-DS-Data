@@ -1,0 +1,70 @@
+### RQ 1. Course Content and Frequency:
+**1.1 Frequency of Topics Related to "Computing System" Specialized for ML/AI:**
+
+**Likert Scale Rating:** 
+- **Infrequent (2)**
+
+The syllabus emphasizes data mining concepts and techniques, which touches on certain aspects relevant to computing systems, such as efficiency and pattern discovery in large data sets. However, specific issues and topics related to compilers, runtime systems, hardware acceleration, code optimization, specialized hardware for ML, and similar areas were rarely mentioned【6:0†source】【6:0†source】.
+
+### RQ 2. Definition and Understanding:
+**2.1 Definition and Explanation of the Impacts of "Computing Systems" on AI/ML:**
+
+**Likert Scale Rating:**
+- **Inadequate (2)**
+
+Specific mention and detailed explanations of computing systems' impacts on AI/ML in undergraduate curricula are not thoroughly covered in the course syllabus provided. Many essential topics such as scalable model training, ML compilers and runtimes, specialized hardware, and more did not receive comprehensive discussion【6:0†source】.
+
+**2.2 Comprehensive and Explicit Definition of Impacts of "Computing Systems" on AI/ML:**
+
+The topics directly mentioned related to computing systems are:
+- Data preprocessing
+- Efficient pattern discovery in large-scale data sets
+
+The other specific areas like scalable training, ML compilers, specialized hardware for machine learning, etc., were not prominently covered【6:0†source】.
+
+### RQ 3. Requirement Specification:
+**3.1 Computational Performance and Capability Requirements for Hardware and Software Systems Running Scalable AI/ML:**
+
+**Likert Scale Rating:**
+- **No guidelines (1)**
+
+The course material did not include explicit guidelines or numerical values for performance and capability requirements for hardware and software systems running scalable AI/ML. Topics like computational power, distributed frameworks, optimization techniques, and programming models were not thoroughly quantified or referred to qualitatively【6:0†source】.
+
+**3.2 Rank of "Computing System" Requirements Discussion Against General AI/ML Topics:**
+
+**Likert Scale Rating:**
+- **“computing system” requirements is a subtopic (2)**
+
+The content available prioritized general AI/ML algorithms and techniques significantly higher than computing system requirements, making the latter a subtopic in context【6:0†source】.
+
+### RQ 4. Influence and Importance:
+**4.1 Importance of Various “Computing System” Factors in AI/ML Design and Maintenance:**
+
+**Likert Scale Rating:**
+- **System (1)**
+
+The various factors in designing and maintaining scalable AI/ML, such as debugging, ML compilers, specialized hardware, and efficient techniques, were considered more as low-level system issues rather than holistic topics, indicating a system-level view without deep integration into AI/ML design and maintenance discussions【6:0†source】.
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Inclusion of Real-World Case Studies Focusing on Hardware and Software Systems for AI/ML:**
+
+**Likert Scale Rating:**
+- **Minor (1)**
+
+The curriculum did include practical applications and real-world data mining cases, but they did not majorly focus on computational performance and capability in the context of scalable systems【6:0†source】.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Discussion of Contributions and Best Practices from AI/ML System Engineering Communities:**
+
+**Likert Scale Rating:**
+- **Undefined (1)**
+
+The course did not explicitly cover contributions and best practices from AI/ML system engineering communities in detail. The focus remained largely on data mining principles without deep dives into compilers, runtime systems, hardware acceleration, or code optimization specific to AI/ML【6:0†source】.
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Hands-On Experience with Designing, Building, and Maintaining Scalable Hardware and Software Systems for AI/ML:**
+
+**Likert Scale Rating:**
+- **None (1)**
+
+The course assignments did not provide extensive hands-on experience in areas like compiler optimization, runtime systems optimization, hardware acceleration, or code optimization for AI/ML based on the syllabus details provided【6:0†source】.

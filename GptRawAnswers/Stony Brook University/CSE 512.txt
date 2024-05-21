@@ -1,0 +1,33 @@
+Based on the analysis of the syllabus provided in "CSE 512.pdf," here are the detailed answers to the research questions (RQ):
+
+### RQ 1. Course Content and Frequency:
+1.1 The topics explicitly related to "computing systems" specialized for ML/AI are discussed **Infrequent (2)** in the course. Most of the syllabus focuses on general machine learning concepts such as regression, classification, and neural networks without dedicated lectures on computing systems for AI/ML【6:0†source】【6:1†source】【6:2†source】【6:3†source】.
+
+### RQ 2. Definition and Understanding:
+2.1 The impacts of "computing systems" on AI/ML are **Undefined (1)** in the undergraduate curriculum provided. There seems to be no explicit definition or detailed explanation of the impacts of scalable model training, debugging, specialized hardware, or other related topics【6:0†source】【6:1†source】【6:2†source】【6:3†source】.
+
+2.2 The course primarily lists general machine learning topics such as:
+- Linear Regression
+- Logistic Regression
+- Neural Networks 
+There are no explicit topics related to computing systems like "scalable model training," "ML compilers and runtimes," or "specialized hardware for ML" within the syllabus【6:0†source】【6:1†source】【6:2†source】【6:3†source】.
+
+### RQ 3. Requirement Specification:
+3.1 Computational performance and capability requirements for hardware and software systems running scalable AI/ML are discussed **No guidelines (1)**. There are no numerical values, frameworks, or optimization techniques mentioned in the course syllabus【6:0†source】【6:1†source】【6:2†source】【6:3†source】.
+
+3.2 “Computing system” requirements are **never discussed (1)** compared to the discussion of general AI/ML topics, which are the core of the syllabus【6:0†source】【6:1†source】【6:2†source】【6:3†source】.
+
+### RQ 4. Influence and Importance:
+4.1 The importance of various “computing system” factors in designing and maintaining scalable AI/ML is considered **System (1)**. The course appears to focus on general machine learning models and does not cover the lower-level system requirements significantly【6:0†source】【6:1†source】【6:2†source】【6:3†source】.
+
+### RQ 5. Case Studies and Real-World Applications:
+5.1 Real-world case studies involving hardware and software systems for AI/ML are mentioned **Minor (1)** in the course. Case studies focus more on the applications of machine learning rather than emphasizing the computational performance and capability of underlying systems【6:0†source】【6:1†source】【6:2†source】【6:3†source】.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Discussion on contributions and best practices from AI/ML system engineering communities is **Undefined (1)**. There is no clear depiction of compilers, runtime systems, hardware acceleration, or code optimization within the syllabus from what was analyzed【6:0†source】【6:1†source】【6:2†source】【6:3†source】.
+
+### RQ 7. Projects and Practical Implementation:
+7.1 The assignments in the course provide hands-on experience **None (1)** with designing, building, and maintaining scalable hardware and software systems specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML【6:2†source】【6:4†source】.
+
+### Conclusion
+The provided course syllabus for "CSE 512" centers primarily on general AI/ML theories and techniques and does not significantly cover specialized computing system topics essential for scalability or practical implementation in AI/ML engineering practices. This course could benefit by integrating more detailed and specific content related to computing systems.

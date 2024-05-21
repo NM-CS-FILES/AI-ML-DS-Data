@@ -1,0 +1,37 @@
+### RQ 1. Course Content and Frequency:
+**1.1 Likert Scale Score:** 
+Intermittent (3)
+
+### RQ 2. Definition and Understanding:
+**2.1 Likert Scale Score:** 
+Inadequate (2)
+
+**2.2 Topics Discussed in Course:**
+- Machine Learning 2; Neural Networks
+- Markov Decision Processes (MDPs)
+- Reinforcement Learning
+- MultiAgent Pacman
+- Hidden Markov Models (HMMs)【6:0†source】【6:1†source】.
+
+### RQ 3. Requirement Specification:
+**3.1 Likert Scale Score:** 
+No guidelines (1)
+
+**3.2 Likert Scale Score:** 
+“computing system” requirements is a sub topic (2)
+
+### RQ 4. Influence and Importance:
+**4.1 Likert Scale Score:** 
+System (1)
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Likert Scale Score:** 
+Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Likert Scale Score:** 
+Inadequate (2)
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Likert Scale Score:** 
+None (1)

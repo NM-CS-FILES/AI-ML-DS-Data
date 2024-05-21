@@ -1,0 +1,48 @@
+Based on the examination of the syllabus provided for COMPSCI 589 from the College of Information and Computer Sciences at the University of Massachusetts Amherst, here are the detailed answers to the research questions (RQ):
+
+### RQ 1. Course Content and Frequency:
+**1.1 Frequency of topics explicitly related to "computing systems" specialized for ML/AI:**
+- The topics such as scalable model training, runtime systems, compilers, hardware acceleration, and optimization techniques do not appear to be a primary focus in the syllabus provided. The main focus is on core machine learning models, algorithms, their mathematical foundations, and real-world applications.
+- **Rating**: Never mentioned (1)
+
+### RQ 2. Definition and Understanding:
+**2.1 Impacts of "computing systems" on AI/ML explicitly defined and explained:**
+- The syllabus does not provide detailed definitions or explanations of the impacts of computing systems on AI/ML. The focus remains largely on the algorithms and models.
+- **Rating**: Undefined (1)
+
+**2.2 Comprehensive and explicit definition of impacts of "computing systems" on AI/ML:**
+- Among the listed topics, none are primarily focused on the scalability, hardware efficiency, or specialized ML compilers and runtimes.
+- **Topics Discussed in Course**: None
+
+### RQ 3. Requirement Specification:
+**3.1 Computational performance and capability requirements specified and discussed:**
+- The syllabus lacks quantitative or qualitative discussions on the computational performance and capability requirements for running scalable AI/ML.
+- **Rating**: No guidelines (1)
+
+**3.2 Discussion of "computing system" requirements versus general AI/ML topics:**
+- The syllabus prioritizes general AI/ML topics over computing system requirements.
+- **Rating**: “computing system” requirements were never discussed (1)
+
+### RQ 4. Influence and Importance:
+**4.1 Importance of various "computing system" factors of designing and maintaining scalable AI/ML emphasized:**
+- The syllabus does not emphasize the importance of computing system factors extensively; hence, these considerations seem to be relegated to system choices rather than being a core part of the course design.
+- **Rating**: System (1)
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Real-world case studies involving hardware and software systems for AI/ML included:**
+- The focus in the provided syllabus does not sufficiently cover computational performance and capability in real-world case studies.
+- **Rating**: Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Discussion of contributions and best practices from AI/ML system engineering communities:**
+- There is insufficient coverage of engineering practices from AI/ML system engineering communities regarding compilers, runtime systems, and hardware acceleration.
+- **Rating**: Undefined (1)
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Extent of assignments providing hands-on experience with scalable hardware/software systems:**
+- There is no indication from the syllabus that assignments cover hands-on experience in areas like compiler optimization, runtime system optimization, or hardware acceleration.
+- **Rating**: None (1)
+
+**Citations**: UMass Amherst, "COMPSCI 589 - Machine Learning Syllabus"【4:0†source】
+
+These evaluations reflect an assessment of the provided course syllabus and outline the degree to which it addresses specific aspects of computing systems tailored for AI/ML scalability.

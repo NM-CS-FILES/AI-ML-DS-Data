@@ -1,0 +1,49 @@
+**RQ 1. Course Content and Frequency:**
+**1.1 Frequency of Topics Related to Computing System Specialized for AI/ML:**
+
+Intermittent (3): The topics are discussed occasionally.
+
+**RQ 2. Definition and Understanding:**
+**2.1 Impacts of Computing Systems on AI/ML in Undergraduate Curricula:**
+
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+
+**2.2 Courses' Comprehensive and Explicit Definition of Computing Systems' Impacts on AI/ML:**
+
+List of topics discussed:
+1. Neural Networks
+2. CNNs, RNNs, Transformers
+3. Optimization (Backpropagation, Loss Functions)
+4. Ensemble Methods (Bagging, Boosting)
+5. Bias-Variance Tradeoff, Cross-Validation
+
+(Note: No dedicated coverage on testing, debugging, specialized hardware, hardware-efficient methods, or compilers and runtimes)【4:6†source】【4:9†source】【4:10†source】.
+
+**RQ 3. Requirement Specification:**
+**3.1 Specification of Computational performance and Capability Requirements:**
+
+No guidelines (1): The lecture provides no guidelines related to numerical values for computational performance and capability requirements such as latency, throughput, resource utilization etc.
+
+**3.2 Discussion Ranking of Computing System Requirements vs. General AI/ML Topics:**
+
+“computing system” requirements is a sub-topic (2): Computing system requirements are discussed as part of broader AI/ML topics. They don't have dedicated sessions.
+
+**RQ 4. Influence and Importance:**
+**4.1 Importance of Computing System Factors in Designing and Maintaining Scalable AI/ML:**
+
+Holistic (2): The course took into account many factors such as neural network training and cross-validation【4:6†source】【4:10†source】.
+
+**RQ 5. Case Studies and Real-World Applications:**
+**5.1 Inclusion of Real-World Case Studies in the Curriculum:**
+
+Minor (1): Computational performance and capability of the underlying system were not a major concern of the case studies.
+
+**RQ 6. Awareness and Integration of AI-Specific Engineering Practices:**
+**6.1 Discussion of Contributions and Best Practices from AI/ML System Engineering Communities:**
+
+Inadequate (2): The courses mention the topics but do not cover contributions from AI/ML system engineering communities in sufficient depth or detail.
+
+**RQ 7. Projects and Practical Implementation:**
+**7.1 Hands-on Experience Provided by Assignments:**
+
+None (1): The assignments do not cover areas such as compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML【4:6†source】【4:9†source】【4:10†source】.

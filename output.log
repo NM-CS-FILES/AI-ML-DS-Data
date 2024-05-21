@@ -1,0 +1,70 @@
+{
+  id: 'run_7PC3xiiPtsUSFRuQ43D0k9aT',
+  object: 'thread.run',
+  created_at: 1716231477,
+  assistant_id: 'asst_2Wo4wC7tiW1M7gPpUAc28CRf',
+  thread_id: 'thread_hT5PUBnFQQWSyGgbGJFoKTBT',
+  status: 'completed',
+  started_at: 1716231477,
+  expires_at: null,
+  cancelled_at: null,
+  failed_at: null,
+  completed_at: 1716231494,
+  required_action: null,
+  last_error: null,
+  model: 'gpt-4o',
+  instructions: "You're an academically oriented, objective reviewer of syllabuses for machine learning, artificial intelligence, and data mining college courses",
+  tools: [ { type: 'file_search' } ],
+  tool_resources: {},
+  metadata: {},
+  temperature: 1,
+  top_p: 1,
+  max_completion_tokens: null,
+  max_prompt_tokens: null,
+  truncation_strategy: { type: 'auto', last_messages: null },
+  incomplete_details: null,
+  usage: { prompt_tokens: 8387, completion_tokens: 699, total_tokens: 9086 },
+  response_format: 'auto',
+  tool_choice: 'auto'
+}
+MessagesPage {
+  options: {
+    method: 'get',
+    path: '/threads/thread_hT5PUBnFQQWSyGgbGJFoKTBT/messages',
+    query: { run_id: 'run_7PC3xiiPtsUSFRuQ43D0k9aT' },
+    headers: { 'OpenAI-Beta': 'assistants=v2' }
+  },
+  response: Response {
+    size: 0,
+    timeout: 0,
+    [Symbol(Body internals)]: { body: [Gunzip], disturbed: true, error: null },
+    [Symbol(Response internals)]: {
+      url: 'https://api.openai.com/v1/threads/thread_hT5PUBnFQQWSyGgbGJFoKTBT/messages?run_id=run_7PC3xiiPtsUSFRuQ43D0k9aT',
+      status: 200,
+      statusText: 'OK',
+      headers: [Headers],
+      counter: 0
+    }
+  },
+  body: {
+    object: 'list',
+    data: [ [Object] ],
+    first_id: 'msg_r2RI4jGKjxUbAWeXSiaQWrgB',
+    last_id: 'msg_r2RI4jGKjxUbAWeXSiaQWrgB',
+    has_more: false
+  },
+  data: [
+    {
+      id: 'msg_r2RI4jGKjxUbAWeXSiaQWrgB',
+      object: 'thread.message',
+      created_at: 1716231485,
+      assistant_id: 'asst_2Wo4wC7tiW1M7gPpUAc28CRf',
+      thread_id: 'thread_hT5PUBnFQQWSyGgbGJFoKTBT',
+      run_id: 'run_7PC3xiiPtsUSFRuQ43D0k9aT',
+      role: 'assistant',
+      content: [Array],
+      attachments: [],
+      metadata: {}
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+### RQ 1. Course Content and Frequency:
+**Score: Infrequent (2)**
+
+### RQ 2. Definition and Understanding:
+**Score: Inadequate (2)**
+
+### RQ 2.2 Topics Discussed:
+1. Testing, validation and training
+2. Feature importance
+3. Dropout
+4. Batch normalization
+
+### RQ 3. Requirement Specification:
+**Score 3.1: No guidelines (1)**
+
+**Score 3.2: "computing system" requirements is a sub topic (2)**
+
+### RQ 4. Influence and Importance:
+**Score: System (1)**
+
+### RQ 5. Case Studies and Real-World Applications:
+**Score: Minor (1)**
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**Score: Inadequate (2)**
+
+### RQ 7. Projects and Practical Implementation:
+**Score: Could not be evaluated (0)**
+
+**Source:** CS 547 syllabus【6:0†CS 547 syllabus】

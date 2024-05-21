@@ -1,0 +1,35 @@
+### RQ 1. Course Content and Frequency
+
+**Score: 1 (Never mentioned)**
+
+The course syllabus does not provide explicit discussion on computing systems specialized for ML/AI frequently enough to meet the criteria outlined in the research question  . 
+
+### RQ 2. Definition and Understanding
+**2.1 Score: 1 (Undefined)**
+The syllabus does not provide definitions or explanations of computing systems’ impact on AI/ML regarding the specific topics listed   .
+
+**2.2 Topics Mentioned:**
+None of the specific computing systems topics such as scalable model training, ML compilers, runtimes, or specialized hardware for ML are explicitly mentioned in the syllabus   .
+
+### RQ 3. Requirement Specification
+**3.1 Score: 1 (No Guidelines)**
+The syllabus provides no explicit guidelines regarding computational performance and capability requirements for hardware and software systems running scalable AI/ML   .
+
+**3.2 Score: 1 (Never Discussed)**
+The syllabus does not discuss computing system requirements in relation to other general AI/ML topics   .
+
+### RQ 4. Influence and Importance
+**Score: 1 (System)**
+The syllabus does not emphasize the importance of various computing system factors to the extent required. The responsibility is likely relegated to the choice of existing AI/ML frameworks   .
+
+### RQ 5. Case Studies and Real-World Applications
+**Score: 1 (Minor)**
+There is no emphasis on computational performance and capability of underlying systems in the case studies included in the syllabus   .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+**Score: 1 (Undefined)**
+The syllabus lacks clear coverage of contributions and best practices from AI/ML system engineering communities in areas such as compilers, runtime systems, hardware acceleration, and code optimization   .
+
+### RQ 7. Projects and Practical Implementation
+**Score: 0 (Could not be evaluated)**
+The syllabus does not provide sufficient details on assignments to evaluate the extent of hands-on experience provided in designing, building, and maintaining scalable hardware and software systems focused on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML   .

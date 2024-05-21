@@ -1,0 +1,45 @@
+Based on the document "CS 329H: Machine Learning from Human Preferences," here are the answers to the research questions related to the course's focus on computing systems for AI/ML scalability:
+
+### RQ 1: Course Content and Frequency
+**1.1 Frequency of Topics Related to Computing Systems Specialized for AI/ML**:
+- Based on the provided syllabus, the topics explicitly related to "computing systems" specialized for ML/AI appear to be **Infrequent (2)**. The content focuses more heavily on human preference models, reinforcement learning from human feedback, metric elicitation, and human biases. Computing system topics such as scalable model training, ML compilers and runtimes, and specialized hardware are not consistently covered in the syllabus.
+
+### RQ 2: Definition and Understanding
+**2.1 Impact of Computing Systems on AI/ML**:
+- The impacts of computing systems on AI/ML are **Inadequate (2)** based on the syllabus. Significant topics like scalable model training, ML compilers, specialized hardware, etc., are missing from the detailed discussion in lectures or assignments.
+
+**2.2 List of Discussed Topics**:
+- There was minimal discussion on computing system impacts on AI/ML specific to the topics listed. A few tangential mentions can be inferred but not comprehensively covered. The syllabus does not provide an explicit discussion of computing systems topics relevant to the following:
+  - Scalable (parallel and distributed) model training, inference
+  - Testing, debugging, and monitoring of ML applications
+  - ML programming models and abstractions
+  - Programming languages for machine learning
+  - ML compilers and runtimes
+  - Specialized hardware for machine learning
+  - Hardware-efficient ML methods
+  - Machine learning benchmarks, and tooling
+
+### RQ 3: Requirement Specification
+**3.1 Computational Performance and Capability Requirements**:
+- The course **No guidelines (1)** quantifiable or qualitative discussions provided on computational performance and capability requirements such as latency, throughput, resource utilization, or distributed computing frameworks.
+
+**3.2 Discussion of Computing System Requirements**:
+- **“Computing system” requirements is a sub-topic (2)**: This topic does not receive equal attention compared to general AI/ML topics within the course.
+
+### RQ 4: Influence and Importance
+**4.1 Importance of Computing System Factors**:
+- The importance of various "computing system" factors is considered **System (1)**. These are largely viewed as low-level system issues with primary responsibility likely delegated to appropriate hardware and framework choices.
+
+### RQ 5: Case Studies and Real-World Applications
+**5.1 Real-World Case Studies Involving Hardware and Software Systems**:
+- Real-world case studies were assessed as **Minor (1)** regarding the focus on computational performance and capability of the underlying system. The included case studies primarily cover human feedback-related methods rather than hardware and software system evaluations.
+
+### RQ 6: Awareness and Integration of AI-Specific Engineering Practices
+**6.1 Contributions and Best Practices from AI/ML System Engineering Communities**:
+- The course syllabus **Undefined (1)**: The references to compilers, runtime systems, hardware acceleration, and code optimization are either not well-defined or are wholly absent from the syllabus.
+
+### RQ 7: Projects and Practical Implementation
+**7.1 Hands-on Experience with Designing, Building, and Maintaining Systems**:
+- The assignments and projects fail to thoroughly cover areas focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML. Thus, the rating is **None (1)** for providing relevant hands-on experience in these areas     .
+
+These answers reflect a detailed analysis specific to computing systems for AI/ML scalability within the given syllabus.

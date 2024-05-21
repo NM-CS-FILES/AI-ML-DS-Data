@@ -1,0 +1,57 @@
+Based on the provided course syllabus for CMSC 422, here are the detailed answers to the research questions regarding computing systems tailored for AI/ML scalability:
+
+### RQ 1. Course Content and Frequency:
+**1.1 Frequency of "computing system" specialized topics:**
+- Scalable model training, inference
+- Testing, debugging, and monitoring of ML applications
+- ML programming models and abstractions
+- Programming languages for machine learning
+- ML compilers and runtimes
+- Specialized hardware for machine learning
+- Hardware-efficient ML methods
+- Machine learning benchmarks and tooling
+
+**Rating: Infrequent (2)**
+The course predominantly covers general machine learning methods and algorithms, with minimal explicit mention of computing systems specialized for AI/ML   .
+
+### RQ 2. Definition and Understanding:
+**2.1 Definition and understanding of "computing systems" impacts:**
+**Rating: Inadequate (2)**
+Many of the topics concerning computing systems are either missed or not significantly discussed in the course lectures or assignments   .
+
+**2.2 Comprehensive and explicit definitions:**
+**Discussed Topics:**
+- None of the topics explicitly listed are covered comprehensively. The syllabus focuses more on traditional machine learning algorithms and methods rather than the computational systems' impact.
+
+### RQ 3. Requirement Specification:
+**3.1 Specification and discussion of computational performance and capability requirements:**
+**Rating: No guidelines (1)**
+There are no specific guidelines provided regarding computational performance or capability requirements like latency, throughput, or resource utilization for AI/ML systems   .
+
+**3.2 Ranking of "computing system" requirements against general AI/ML topics:**
+**Rating: "computing system" requirements is a sub topic (2)**
+The syllabus treats computing system requirements as a minor sub-topic compared to the general AI/ML topics.
+
+### RQ 4. Influence and Importance:
+**4.1 Emphasis on importance of "computing system" factors:**
+**Rating: System (1)**
+The factors are not viewed holistically and are relegated to low-level system issues, focusing more on general ML algorithms and techniques  .
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Inclusion of real-world case studies on hardware and software systems for AI/ML:**
+**Rating: Minor (1)**
+Computational performance and capability of the underlying system are not major concerns of the case studies mentioned; the focus remains on the machine learning aspects  .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Discussion on contributions and best practices from AI/ML system engineering communities:**
+**Rating: Undefined (1)**
+The coverage of this topic in the courses is unclear or not well-defined. The focus remains heavily on machine learning algorithms rather than system engineering practices  .
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Hands-on experience in assignments with designing, building, and maintaining scalable hardware and software systems:**
+**Rating: None (1)**
+The assignments do not appear to cover the relevant areas of compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML, based on the provided information  .
+
+---
+
+By analyzing the syllabus, it becomes evident that the course `CMSC 422 - Introduction to Machine Learning` mainly targets traditional machine learning methodologies and lacks a significant focus on advanced computing systems tailored for AI/ML.

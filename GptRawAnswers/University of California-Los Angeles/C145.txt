@@ -1,0 +1,52 @@
+Based on the provided syllabus document, here are the detailed answers to your research questions (RQ):
+
+### RQ 1. Course Content and Frequency:
+
+1.1 Frequency of Topics Related to "Computing Systems" Specialized for ML/AI:
+**Overall Likert Scale Score: Infrequent (2)**
+The syllabus heavily focuses on general machine learning algorithms and statistical methods, with limited dedicated content on computing systems specialized for AI/ML scalability.
+
+### RQ 2. Definition and Understanding:
+
+2.1 Definition and Explanation of Computing Systems' Impact on AI/ML:
+**Overall Likert Scale Score: Undefined (1)**
+None of the provided syllabus materials indicate a thorough definition or explanation of how computing systems impact AI/ML, particularly on aspects like parallel and distributed model training, testing, debugging, monitoring, or specialized hardware.
+
+2.2 List of Topics Discussed:
+- None of the specified topics【4:0†source】
+  
+### RQ 3. Requirement Specification:
+
+3.1 Computational Performance and Capability Requirements:
+**Overall Likert Scale Score: No guidelines (1)**
+There is no evidence in the syllabus material indicating discussion on the computational performance and capability requirements for hardware and software systems running scalable AI/ML.
+
+3.2 Discussion Rank of "Computing System" Requirements:
+**Overall Likert Scale Score: “Computing system” requirements were never discussed (1)**
+The discussions are predominantly focused on general AI/ML topics and lack any substantial focus on the requirements of computing systems.
+
+### RQ 4. Influence and Importance:
+
+4.1 Emphasis on Importance of Various "Computing System" Factors:
+**Overall Likert Scale Score: System (1)**
+The syllabus does not appear to cover the designing or maintaining scalable AI/ML systems in a holistic manner, relegating the responsibility of system efficiency largely to the existing AI/ML frameworks used.
+
+### RQ 5. Case Studies and Real-World Applications:
+
+5.1 Inclusion of Real-World Case Studies:
+**Overall Likert Scale Score: Minor (1)**
+There is no mention of case studies focusing on the computational performance and capability of hardware and software systems for scalable AI/ML.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+
+6.1 Discussion of Contributions and Best Practices from AI/ML System Engineering Communities:
+**Overall Likert Scale Score: Undefined (1)**
+The course content does not cover contributions from AI/ML system engineering communities or best practices in compilers, runtime systems, hardware acceleration, and code optimization.
+
+### RQ 7. Projects and Practical Implementation:
+
+7.1 Extent of Hands-On Experience in Assignments:
+**Overall Likert Scale Score: None (1)**
+The assignments and projects mentioned do not appear to involve hands-on experience with design, building, and maintenance of scalable hardware and software systems for AI/ML, focused on compiler optimization, runtime system optimization, or hardware acceleration.
+
+Based on the syllabus provided, the course content does not seem to sufficiently address the computing system aspects of AI/ML scalability, focusing instead on the general machine learning algorithmic and methodological foundations【4:0†source】.

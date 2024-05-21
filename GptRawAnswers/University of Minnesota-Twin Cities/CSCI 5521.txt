@@ -1,0 +1,41 @@
+### RQ 1. Course Content and Frequency:
+
+**Score: Infrequent (2)**
+
+### RQ 2. Definition and Understanding:
+
+#### 2.1 Score: Inadequate (2)
+
+#### 2.2 Topics Discussed:
+- Supervised Learning
+- Multivariate Methods
+- Dimensionality Reduction: feature selection PCA
+- Unsupervised Clustering: K-means EM
+- Support Vector Machines, (Linear and Kernel)
+- Linear Discriminant - the Perceptron
+- Multilayer Perceptrons
+- Decision trees; random forests (bagging)
+
+### RQ 3. Requirement Specification:
+
+#### 3.1 Score: No guidelines (1)
+#### 3.2 Score: "computing system" requirements is a sub-topic (2)
+
+### RQ 4. Influence and Importance:
+
+**Score: System (1)**
+
+### RQ 5. Case Studies and Real-World Applications:
+
+**Score: Minor (1)**
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+
+**Score: Undefined (1)**
+
+### RQ 7. Projects and Practical Implementation:
+
+**Score: None (1)**
+
+### Citations:
+- CSCI 5521 Course documents【4:0†source】.

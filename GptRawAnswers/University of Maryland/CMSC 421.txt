@@ -1,0 +1,42 @@
+### RQ 1. Course Content and Frequency:
+
+#### 1.1 Frequency Score:
+Frequent (4)
+
+### RQ 2. Definition and Understanding:
+
+#### 2.1 Definition and Explanation Score:
+Inadequate (2)
+
+#### 2.2 Overview of Topics Discussed:
+The course touches on intelligent agents, search and game playing, logical systems, planning systems, reasoning about uncertainty, learning, language, perception, and programming projects focused on Lisp. However, detailed discussions about scalable model training, testing and debugging ML applications, ML compilers and runtimes, specialized hardware, or hardware-efficient methods are not apparent  .
+
+### RQ 3. Requirement Specification:
+
+#### 3.1 Specification and Discussion Score:
+No guidelines (1)
+
+#### 3.2 Discussion in Relation to General AI/ML Topics Score:
+“Computing system” requirements were never discussed (1)
+
+### RQ 4. Influence and Importance:
+
+#### 4.1 Importance Score:
+System (1)
+
+### RQ 5. Case Studies and Real-World Applications:
+
+#### 5.1 Case Studies Score:
+Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+
+#### 6.1 Engineering Practices Score:
+Undefined (1)
+
+### RQ 7. Projects and Practical Implementation:
+
+#### 7.1 Hands-On Experience Score:
+None (1)
+
+These answers reveal that the provided course material covers general AI/ML concepts extensively but lacks a focused discussion on computing systems tailored for scalable AI/ML. Key topics such as specialized hardware, ML compilers, parallel model training, and ML benchmarks are addressed rarely, if at all.

@@ -1,0 +1,50 @@
+### RQ 1. Course Content and Frequency
+**Score: 1 (Never mentioned)**
+From the syllabus, topics related to "computing systems" specialized for ML/AI, such as scalable training, ML programming models, ML compilers, specialized hardware, or efficient ML methods, were not explicitly discussed.
+
+### RQ 2. Definition and Understanding
+#### 2.1
+**Score: 1 (Undefined)**
+The course does not provide detailed definitions or explanations on the impacts of "computing systems" on AI/ML, including aspects like scalable training, ML compilers, or specialized hardware.
+#### 2.2
+The course briefly discusses general machine learning topics but does not cover specific "computing systems" concepts. 
+- Scalable (parallel and distributed) model training, inference
+- Testing, debugging, and monitoring of ML applications
+- ML programming models and abstractions
+- Programming languages for machine learning
+- ML compilers and runtimes
+- Specialized hardware for machine learning
+- Hardware-efficient ML methods
+- Machine learning benchmarks, and tooling
+
+### RQ 3. Requirement Specification
+#### 3.1 
+**Score: 1 (No guidelines)**
+The syllabus does not mention computational performance and capability requirements for hardware and software systems in depth.
+
+#### 3.2
+**Score: 1 (Never discussed)**
+“Computing system” requirements were never explicitly discussed.
+
+### RQ 4. Influence and Importance
+#### 4.1
+**Score: 1 (System)**
+The syllabus suggests that the course relegates the responsibility of computing system aspects to other areas like hardware choice or framework, not accounting for multiple computing system factors.
+
+### RQ 5. Case Studies and Real-World Applications
+#### 5.1
+**Score: 1 (Minor)**
+The syllabus does not indicate that computational performance and capability of underlying systems are major concerns of case studies.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+#### 6.1
+**Score: 1 (Undefined)**
+Discussions on AI/ML system engineering communities, specifically regarding compilers, runtime systems, hardware acceleration, and code optimization, are either unclear or not present.
+
+### RQ 7. Projects and Practical Implementation
+#### 7.1
+**Score: 0 (Could not be evaluated)**
+Insufficient information or exposure to the assignments in the syllabus to provide an evaluation on hands-on experience with designing, building, and maintaining scalable hardware and software systems for AI/ML.
+
+**Sources**:
+- CS 4786/5786: Machine Learning for Data Science Spring 2020 Syllabus【8:0†source】

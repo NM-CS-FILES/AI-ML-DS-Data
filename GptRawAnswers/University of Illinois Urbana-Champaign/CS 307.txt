@@ -1,0 +1,37 @@
+### RQ 1. Course Content and Frequency:
+**Score: 1 (Never mentioned)**  
+The syllabus provided does not explicitly discuss "computing system" specialized topics such as scalable (parallel and distributed) model training, inference, testing, debugging, and monitoring of ML applications; ML programming models and abstractions; programming languages for machine learning; ML compilers and runtimes; specialized hardware for machine learning; hardware-efficient ML methods; machine learning benchmarks, and tooling. The focus is more on traditional machine learning models and frameworks like Python's scikit-learn and PyTorch without venturing into the computing systems aspect tailored for scalability【4:0†source】【4:1†source】【4:2†source】【4:4†source】.
+
+### RQ 2. Definition and Understanding:
+**Score: 1 (Undefined)**  
+The syllabus does not cover in detail the impacts of computing systems on AI/ML explicitly. Topics such as scalable model training, inference, testing, debugging, and monitoring of ML applications; ML programming models and abstractions;  programming languages for machine learning; ML compilers and runtimes; specialized hardware for machine learning; hardware-efficient ML methods; machine learning benchmarks, and tooling are mostly not mentioned【4:0†source】【4:1†source】【4:2†source】【4:4†source】.
+
+### RQ 2.2: 
+**Discussion Topics List:**
+- None. The syllabus focuses on machine learning methods and their applications but does not include topics related to computing systems for AI/ML.
+
+### RQ 3. Requirement Specification:
+**Score: 1 (No guidelines)**  
+The syllabus does not provide explicit numerical values or descriptive terms regarding computational performance and capability requirements for hardware and software systems for scalable AI/ML. The discussion on such requirements is missing entirely【4:0†source】【4:1†source】【4:2†source】【4:4†source】.
+
+### RQ 3.2: 
+**Score: 1 (Computing system requirements were never discussed)**  
+The syllabus primarily discusses machine learning models and their applications and does not include a significant discussion on computational performance and capability requirements for hardware and software systems【4:0†source】【4:1†source】【4:2†source】【4:4†source】.
+
+### RQ 4. Influence and Importance:
+**Score: 1 (System)**  
+The syllabus does not emphasize the importance of various computing system factors in designing and maintaining scalable AI/ML. The course is more focused on machine learning models and their practical applications rather than the underlying computing systems required for scalable and efficient AI/ML【4:0†source】【4:1†source】【4:2†source】【4:4†source】.
+
+### RQ 5. Case Studies and Real-World Applications:
+**Score: 1 (Minor)**  
+There is no explicit mention of real-world case studies involving hardware and software systems for AI/ML with a focus on scalable model training, inference, and serving in the syllabus【4:0†source】【4:1†source】【4:2†source】【4:4†source】.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**Score: 1 (Undefined)**  
+The syllabus does not cover contributions and best practices from AI/ML system engineering communities in areas such as compilers, runtime systems, hardware acceleration, and code optimization. The topics are not well-defined in the context of this course【4:0†source】【4:1†source】【4:2†source】【4:4†source】.
+
+### RQ 7. Projects and Practical Implementation:
+**Score: 0 (Could not be evaluated)**  
+The syllabus provided does not offer sufficient information to evaluate the extent to which the assignments provide hands-on experience with designing, building, and maintaining scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML【4:0†source】【4:1†source】【4:2†source】【4:4†source】. 
+
+Based on the syllabus provided, the course seems to focus mainly on traditional machine learning topics without venturing into the computing systems aspects necessary for scalable AI/ML applications.

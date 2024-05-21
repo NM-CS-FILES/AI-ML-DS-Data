@@ -1,0 +1,51 @@
+### RQ 1. Course Content and Frequency:
+
+1.1 Likert Scale Score: **Frequent (4)**  
+The syllabus includes frequent mentions of advanced computing systems topics tailored for AI/ML, including:
+
+- **Assignment 2**: Reimplement CRF using PyTorch and test stochastic optimization with approximate inference based on sampling【4:0†source】.
+- **Assignment 3**: Focuses on adversarial learning with recurrent neural networks, benchmarking several training algorithms【4:0†source】.
+- **Course Project**: Utilizes AWS platform for deep learning projects【4:0†source】.
+- **Midterm and Final Exams**: Cover topics including graphical models, convex optimization, and neural networks【4:1†source】【4:3†source】.
+
+### RQ 2. Definition and Understanding:
+
+2.1 Likert Scale Score: **Adequate (3)**  
+The course provides sufficient discussions on scalable model training, debugging ML applications, specialized hardware, and more through extensive assignments and projects.
+
+2.2 Topics Discussed:
+
+- Scalable (parallel and distributed) model training, inference
+- Testing, debugging, and monitoring of ML applications
+- ML programming models and abstractions
+- Programming languages for machine learning
+- Specialized hardware for machine learning
+- Machine learning benchmarks and tooling
+
+### RQ 3. Requirement Specification:
+
+3.1 Likert Scale Score: **Quantitatively (3)**  
+The syllabus includes numerical and empirical evaluation of various computational performance metrics such as through AWS GPU usage and benchmarking deep learning algorithms.
+
+3.2 Likert Scale Score: **Equally discussed with other AI/ML topics (3)**  
+Computational performance and capability requirements are discussed equitably with general AI/ML topics within assignments and evaluations【4:0†source】【4:3†source】.
+
+### RQ 4. Influence and Importance:
+
+4.1 Likert Scale Score: **Holistic (2)**  
+The course emphasizes the importance of various "computing system" factors, incorporating multiple aspects like distributed training, specialized hardware, and optimization techniques, within its projects and assignments.
+
+### RQ 5. Case Studies and Real-World Applications:
+
+5.1 Likert Scale Score: **Major (2)**  
+The deep learning course project and assignments significantly focus on computational performance using real-world platforms like AWS, indicating major concern for underlying system capabilities【4:0†source】【4:1†source】.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+
+6.1 Likert Scale Score: **Adequate (3)**  
+The course thoroughly integrates advanced and state-of-the-art practices from the AI/ML system engineering community, especially through assignments involving PyTorch, AWS, and discussions on adversarial training and optimization【4:0†source】【4:3†source】.
+
+### RQ 7. Projects and Practical Implementation:
+
+7.1 Likert Scale Score: **Adequate (3)**  
+The syllabus includes extensive hands-on projects and assignments covering diverse aspects such as compiler optimization, optimizing run-time systems, and hardware acceleration, focusing on practical implementation within scalable AI/ML systems【4:0†source】【4:2†source】【4:3†source】.

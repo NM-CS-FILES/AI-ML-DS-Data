@@ -1,0 +1,61 @@
+### RQ 1. Course Content and Frequency
+
+**Answer:** Infrequent (2)
+
+### RQ 2. Definition and Understanding
+
+**2.1 Answer:** Inadequate (2)
+
+**2.2 Topics Discussed in Course:**
+1. Computational Infrastructure
+2. Implementation of Neural Network Basics
+3. Practical Walk-through: Colaboratory, Google Cloud Platform
+4. Introduction to PyTorch
+5. Structuring Neural Network Codebases
+
+### RQ 3. Requirement Specification
+
+**3.1 Answer:** Qualitatively (2)
+
+**3.2 Answer:** “Computing system” requirements is a sub-topic (2)
+
+### RQ 4. Influence and Importance
+
+**Answer:** System (1)
+
+### RQ 5. Case Studies and Real-World Applications
+
+**Answer:** Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+
+**Answer:** Undefined (1)
+
+### RQ 7. Projects and Practical Implementation
+
+**Answer:** None (1)
+
+---
+
+### Detailed Breakdown
+
+**Course Content Related to Computing Systems:**
+- The syllabus mentions topics such as "Computational Infrastructure" and "Introduction to PyTorch," which suggests some discussion on computing systems but not extensively.
+- TA lectures cover implementation basics and computational resources briefly .
+- Practical code structuring and handling of data (images, text) using platforms like Colaboratory and Google Cloud Platform are included but computing system specifics are minimal  .
+
+**Missed or Under-Emphasized Topics:**
+- The syllabus does not cover specialized hardware for machine learning, such as GPUs or TPUs, in detail.
+- There is no deep dive into ML compilers and runtime systems.
+- Discussions on testing, debugging, and monitoring of ML applications are limited.
+- The focus on scalable model training and hardware efficiency is minimal.
+- Best practices from AI/ML system engineering communities, specifically in compilers, runtime systems, hardware acceleration, and code optimization, are not well-defined.
+
+**Hands-On Experience and Assignments:**
+- Assignments are more focused on conceptual understanding and implementation of neural networks rather than on hardware or optimizing computing systems for AI/ML purposes.
+- No explicit projects or assignments listed provide hands-on experience with compiler optimization, runtime systems, or hardware acceleration.
+
+**Real-World Applications and Practical Examples:**
+- Case studies or examples emphasizing the computational performance and capability of the underlying systems for scalable AI/ML were not highlighted.
+
+Based on the content and details presented, this syllabus provides a foundational understanding of deep learning with limited integration of computing system specifics necessary for scalable AI/ML applications. Therefore, the course primarily views computing system factors from a basic implementation perspective.

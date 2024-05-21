@@ -1,0 +1,55 @@
+### Research Questions (RQ) Evaluation
+
+Based on the provided information in the syllabus for CS 6780 - Advanced Machine Learning, here are the evaluations:
+
+#### RQ 1. Course Content and Frequency
+1.1 **Overall Frequency of Computing System Topics Specialized for ML/AI**
+- **Score**: Intermittent (3)
+  - **Topics Evaluated:**
+    - "Supervised Batch Learning"
+    - "Deep Learning"
+    - "Large Language Models"
+    - "Computer Vision"
+
+Although these topics touch on system-related aspects, they do not focus heavily on specialized hardware, ML compilers, or programming languages dedicated to hardware efficiency in ML, implying an intermittent mention .
+
+#### RQ 2. Definition and Understanding
+2.1 **Impacts of Computing Systems on AI/ML Defined in Undergraduate Curricula**
+- **Score**: Inadequate (2)
+  - Majority of the topics likely missed significant coverage in lectures or assignments, particularly those related to highly technical aspects of HPC tailored for AI/ML.
+
+2.2 **Explicit Definition of Impacts Discussed**
+- **Topics Discussed**:
+  - Model Training and Inference (Supervised Batch Learning, Deep Learning)
+  - Hardware Efficiency (implicitly in Deep Learning, Large Language Models with stochastic gradient methods)
+   
+Discussed briefly but not in comprehensive detail, focusing more on general application methodologies rather than deep dives into those specialized for efficient computing systems【6:0†source】.
+
+#### RQ 3. Requirement Specification
+3.1 **Computational Performance and Capability Requirements Detailed**
+- **Score**: No Guidelines (1)
+  - The course material does not quantitatively specify computational performance and system requirements such as latency, throughput, or resource utilization.
+
+3.2 **Discussion of Computing System Requirements vs. General AI/ML Topics**
+- **Score**: Computing system requirements is a sub-topic (2)
+  - Predominant focus on models and theoretical underpinnings of AI/ML with computing system needs usually inferred or assumed, indicating less primary emphasis on hardware requirements or parallel computing setups .
+
+#### RQ 4. Influence and Importance
+4.1 **Importance of Computing System Factors Emphasized**
+- **Score**: System (1)
+  - Course viewed factors as low-level system issues, relegating the responsibility to the correct application of AI/ML models, without delving deeply into systemic computational architecture decisions .
+
+#### RQ 5. Case Studies and Real-World Applications
+5.1 **Real-world Case Studies Included with Focus on Computational Performance**
+- **Score**: Major (2)
+  - While practical projects and open research topics are discussed, the explicit focus on underlying system performance and computational capabilities is not heavily emphasized in the curriculum description .
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+6.1 **Contributions and Best Practices from AI/ML System Engineering Communities Discussed**
+- **Score**: Inadequate (2)
+  - Mentions of advanced methodologies like stochastic gradient, but lacks in-depth coverage of AI-specific engineering best practices, compilers, runtimes or optimizations from current state-of-the-art perspectives .
+
+#### RQ 7. Projects and Practical Implementation
+7.1 **Hands-on Experience with Scalable Hardware and Software Systems**
+- **Score**: Inadequate (2)
+  - Though projects are a significant component, focus appears more on theory and application rather than substantial hands-on work with hardware, compiler optimizations, and runtime systems .

@@ -1,0 +1,46 @@
+### Summary of Findings from the CSE 446 Course Syllabus
+
+#### RQ 1. Course Content and Frequency
+1.1 Likert Scale Score: **1 (Never mentioned)**
+
+None of the topics explicitly related to "computing system" specialized for ML/AI (scalable model training, inference, ML compilers and runtimes, specialized hardware for ML, etc.) were mentioned based on the provided syllabus outline【4:3†source】.
+
+#### RQ 2. Definition and Understanding
+2.1 Likert Scale Score: **1 (Undefined)**
+
+The impacts of "computing systems" on AI/ML including concepts such as scalable model training, ML compilers and runtimes, hardware-efficient ML methods, benchmarks and tooling are mostly undefined in the syllabus【4:3†source】.
+
+2.2 Topics Discussed:
+- None of the specific computing system topics related to AI/ML (scalable model training and inference, testing, debugging, ML programming models, compilers and runtimes, specialized hardware, hardware-efficient methods, ML benchmarks) appear to be discussed in the course outline**【4:3†source】.
+
+#### RQ 3. Requirement Specification
+3.1 Likert Scale Score: **1 (No guidelines)**
+
+The syllabus does not provide computational performance and capability requirements for hardware and software systems for scalable AI/ML【4:1†source】【4:3†source】.
+
+3.2 Likert Scale Score: **1 (not discussed)**
+
+The discussion of “computing system” requirements is not mentioned in comparison to general AI/ML topics, implying the requirements were never discussed**【4:3†source】.
+
+#### RQ 4. Influence and Importance
+4.1 Likert Scale Score: **1 (System)**
+
+The syllabus implies a system-level view of computing systems factors without detailed content on scalable training, inference, or hardware-efficient methods**【4:3†source】.
+
+#### RQ 5. Case Studies and Real-World Applications
+5.1 Likert Scale Score: **1 (Minor)**
+
+The course does not indicate any emphasis on the computational performance and capability of underlying systems in the listed case studies**【4:3†source】.
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+6.1 Likert Scale Score: **1 (Undefined)**
+
+There is no indication of discussions on contributions and best practices from AI/ML system engineering communities regarding compilers, runtime systems, hardware acceleration, and code optimization【4:1†source】【4:3†source】.
+
+#### RQ 7. Projects and Practical Implementation
+7.1 Likert Scale Score: **0 (Could not be evaluated)**
+
+The syllabus does not provide sufficient information on assignments focusing on compiler optimization, runtime systems, hardware acceleration, or code optimization for AI/ML to provide an evaluation【4:1†source】【4:3†source】.
+
+### Conclusion
+Overall, the provided syllabus for CSE 446 focuses primarily on the concepts and algorithms of machine learning and does not cover computing system topics specialized for AI/ML scalability, including hardware and software requirements, optimizations, and models.

@@ -1,0 +1,41 @@
+### RQ 1. Course Content and Frequency:
+**Overall Likert Scale Rating**: 1 - Never mentioned.
+
+The syllabus for CS 5780 predominantly focuses on supervised learning, theoretical foundations, and algorithms related to general machine learning and AI concepts【4:0†source】 . There is no specific mention of topics related to computing systems tailored for ML/AI scalability such as model training, inference, testing, debugging, monitoring of ML applications, and specialized hardware.
+
+### RQ 2. Definition and Understanding:
+**2.1 Overall Likert Scale Rating**: 1 - Undefined.
+
+The syllabus does not provide detailed definitions or explanations of the impact of computing systems on AI/ML, focusing more on general machine learning algorithms and theories【4:0†source】 .
+
+**2.2 List of Discussed Topics Related to "Computing Systems":**
+- None of the mentioned topics (scalable model training/inference, debugging/monitoring, ML programming models, programming languages, ML compilers/runtimes, specialized hardware for ML, hardware-efficient ML methods, benchmarks, and tooling) are explicitly covered in the syllabus.
+
+### RQ 3. Requirement Specification:
+**3.1 Overall Likert Scale Rating**: 1 - No guidelines.
+
+The syllabus does not provide computational performance and capability requirements of hardware and software systems for AI/ML. The focus remains on machine learning algorithms, projects, homework, and exams without specifying computational guidelines【4:0†source】 .
+
+**3.2 Overall Likert Scale Rating**: 1 - "computing system" requirements were never discussed.
+
+From the course outline and schedule, it is clear that the requirement specifications for computing systems are not discussed at all compared to general AI/ML topics【4:0†source】 .
+
+### RQ 4. Influence and Importance:
+**Overall Likert Scale Rating**: 1 - System.
+
+The importance of various computing system factors in designing and maintaining scalable AI/ML seems to be viewed as low-level issues, with minimal emphasis placed on making correct choices of hardware, programming models, and AI/ML frameworks【4:0†source】 .
+
+### RQ 5. Case Studies and Real-World Applications:
+**Overall Likert Scale Rating**: 1 - Minor.
+
+The course syllabus does not list any real-world case studies particularly focusing on computational performance and capability of the underlying system for scalable AI/ML model training, inference, and serving【4:0†source】 .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**Overall Likert Scale Rating**: 1 - Undefined.
+
+The courses do not appear to cover contributions or best practices from AI/ML system engineering communities adequately, specifically in areas of compilers, runtime systems, hardware acceleration, and code optimization【4:0†source】 .
+
+### RQ 7. Projects and Practical Implementation:
+**Overall Likert Scale Rating**: 1 - None.
+
+There is no evidence in the syllabus indicating that assignments provide hands-on experience with designing or optimizing scalable hardware and software systems specifically for AI/ML compiler optimization, runtime systems, or hardware acceleration【4:0†source】 .

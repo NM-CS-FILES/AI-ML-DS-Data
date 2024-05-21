@@ -1,0 +1,33 @@
+**RQ 1. Course Content and Frequency:**
+1.1 Score: **1** (Never Mentioned)
+The syllabus does not explicitly mention any specialized "computing system" topics for ML/AI scalability such as scalable model training, inference, debugging, ML programming models, ML compilers, specialized hardware, hardware-efficient methods, or benchmarks.
+
+**RQ 2. Definition and Understanding:**
+2.1 Score: **1** (Undefined)
+The syllabus does not provide detailed definitions and explanations of the impacts of "computing systems" on AI/ML. It mainly focuses on data science and statistical methods without significant coverage of the specific topics related to computing systems for AI/ML.
+
+2.2 List of Topics Discussed:
+- None of the listed computing system topics (scalable model training, inference, debugging, ML programming models, ML compilers, specialized hardware, hardware-efficient methods, ML benchmarks) are mentioned in the course.
+
+**RQ 3. Requirement Specification:**
+3.1 Score: **1** (No guidelines)
+The syllabus does not specify or discuss computational performance and capability requirements for hardware and software systems running scalable AI/ML.
+
+3.2 Score: **1** (Computing system requirements were never discussed)
+The syllabus does not mention computing system requirements in the context of AI/ML.
+
+**RQ 4. Influence and Importance:**
+4.1 Score: **1** (System)
+The course views the factors of designing and maintaining scalable AI/ML as low-level system issues, with no emphasis on the specific factors listed.
+
+**RQ 5. Case Studies and Real-World Applications:**
+5.1 Score: **1** (Minor)
+Real-world case studies focusing on the computational performance and capability of the underlying systems for AI/ML are not a major concern in the syllabus.
+
+**RQ 6. Awareness and Integration of AI-Specific Engineering Practices:**
+6.1 Score: **1** (Undefined)
+The syllabus does not mention contributions and best practices from AI/ML system engineering communities, nor does it cover topics such as compilers, runtime systems, hardware acceleration, and code optimization.
+
+**RQ 7. Projects and Practical Implementation:**
+7.1 Score: **0** (Could not be evaluated)
+The syllabus does not provide sufficient information to evaluate the extent to which the assignments offer hands-on experience with designing, building, and maintaining scalable hardware and software systems for AI/ML, especially in the areas specified. The assignments and projects listed do not explicitly mention these topics【6:0†source】.

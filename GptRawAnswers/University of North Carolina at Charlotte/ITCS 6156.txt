@@ -1,0 +1,47 @@
+Based on the detailed examination of the syllabus, here are the answers to the research questions (RQ) provided:
+
+### RQ 1. Course Content and Frequency:
+**1.1 Likert Scale:** Frequent (4)
+
+The syllabus indicates that various computing system topics specialized for ML/AI were frequently discussed, including the application of machine learning techniques, data preprocessing, visualization, and analysis of machine learning results. The focus on practical labs and projects suggests these topics are given significant attention  .
+
+### RQ 2. Definition and Understanding:
+**2.1 Likert Scale:** Inadequate (2)
+
+The impacts of "computing systems" on AI/ML are not explicitly defined or explained in extensive detail. The syllabus focuses more on the application of machine learning techniques rather than delving deeply into the underlying computing system topics  .
+
+**2.2 Topics Discussed:**
+- Application of various machine learning techniques
+- Understanding machine learning problems and algorithms
+- Practical programming for handling data and applying ML techniques
+
+### RQ 3. Requirement Specification:
+**3.1 Likert Scale:** No guidelines (1)
+
+The syllabus does not explicitly specify computational performance and capability requirements for hardware and software systems running scalable AI/ML applications  .
+
+**3.2 Likert Scale:** “computing system” requirements is a sub-topic (2)
+
+The syllabus suggests that computing system requirements are considered a part of broader ML/AI topics but are not discussed with equal emphasis  .
+
+### RQ 4. Influence and Importance:
+**4.1 Likert Scale:** System (1)
+
+The course views computing system factors mainly as low-level system issues, with more emphasis on practical programming applications for AI/ML rather than a holistic view of computing systems for scalability  .
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Likert Scale:** Minor (1)
+
+The course mentions practical applications and projects but does not specifically emphasize computational performance and capability of underlying systems in major case studies  .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Likert Scale:** Inadequate (2)
+
+The courses mention topics such as practical programming techniques and the application of machine learning but do not cover AI-specific system engineering practices like compilers, runtime systems, hardware acceleration, and code optimization in sufficient detail  .
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Likert Scale:** Inadequate (2)
+
+The assignments provide hands-on experience mainly with the application of machine learning techniques. However, there is minimal coverage of designing, building, and maintaining scalable hardware and software systems focusing on compiler optimization, runtime systems, or hardware acceleration  .
+
+This analysis is based on the provided syllabus excerpts and does not include unrelated general ML/AI algorithms, instead focusing on computing systems tailored for AI/ML scalability  .

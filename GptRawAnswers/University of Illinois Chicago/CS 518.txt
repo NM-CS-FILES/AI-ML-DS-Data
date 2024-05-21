@@ -1,0 +1,50 @@
+Based on the syllabus provided for CS 518 Deep Learning for Computer Vision (Spring 2023), here are the detailed answers to the research questions focusing on "computing systems" specialized for AI/ML scalability:
+
+### RQ 1: Course Content and Frequency
+**Score: 1 (Never mentioned)**
+
+There is no explicit mention or dedicated lecture focusing on topics related to "computing systems" such as scalable model training, inference, testing, debugging, and monitoring of ML applications, ML compilers and runtimes, specialized hardware for machine learning, hardware-efficient ML methods, or machine learning benchmarks and tooling in the course outline provided【6:0†CS 518.pdf】.
+
+### RQ 2: Definition and Understanding
+**RQ 2.1**: **Score: 1 (Undefined)**
+There is no detailed definition or explanation of the impacts of "computing systems" on AI/ML, including topics like scalable model training, inference, ML programming models, or specialized hardware for ML, etc., in the syllabus.
+
+**RQ 2.2**:
+The course does not cover the following topics in the context of "computing systems":
+1. Scalable (parallel and distributed) model training, inference
+2. Testing, debugging, and monitoring of ML applications
+3. ML programming models and abstractions
+4. Programming languages for machine learning
+5. ML compilers and runtimes
+6. Specialized hardware for machine learning
+7. Hardware-efficient ML methods
+8. Machine learning benchmarks, and tooling
+
+### RQ 3: Requirement Specification
+**RQ 3.1**: **Score: 1 (No guidelines)**
+
+The syllabus does not include numerical values or even qualitative descriptions of computational performance and capability requirements for hardware and software systems running scalable AI/ML【6:0†CS 518.pdf】.
+
+**RQ 3.2**: **Score: 1 (“computing system” requirements were never discussed)**
+
+The syllabus does not show any discussion of “computing system” requirements in comparison to general AI/ML topics【6:0†CS 518.pdf】.
+
+### RQ 4: Influence and Importance
+**Score: 1 (System)**
+
+The course does not emphasize the importance of various “computing system” factors in designing and maintaining scalable AI/ML. Instead, it focuses more on applications and implementation of neural networks and their variants【6:0†CS 518.pdf】.
+
+### RQ 5: Case Studies and Real-World Applications
+**Score: 1 (Minor)**
+
+The syllabus mentions applications of CNNs, GANs, and RNNs/LSTMs but does not highlight computational performance and capability of the underlying system as major concerns in the case studies【6:0†CS 518.pdf】.
+
+### RQ 6: Awareness and Integration of AI-Specific Engineering Practices
+**Score: 1 (Undefined)**
+
+There is no mention of contributions and best practices from AI/ML system engineering communities regarding compilers, runtime systems, hardware acceleration, and code optimization in the syllabus【6:0†CS 518.pdf】.
+
+### RQ 7: Projects and Practical Implementation
+**Score: 0 (Could not be evaluated)**
+
+Based on the provided syllabus, there is insufficient information regarding assignments that focus on hands-on experience with designing, building, and maintaining scalable hardware and software systems for AI/ML, including compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization【6:0†CS 518.pdf】.

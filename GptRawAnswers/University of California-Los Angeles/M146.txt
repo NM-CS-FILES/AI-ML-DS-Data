@@ -1,0 +1,35 @@
+Based on the analysis of the attached course syllabus, here are the detailed answers to the research questions:
+
+#### RQ 1. Course Content and Frequency (1.1)
+**Frequency**: Infrequent (2)
+- The topics such as scalable (parallel and distributed) model training, inference; testing, debugging, and monitoring of ML applications; ML programming models and abstractions; programming languages for machine learning; ML compilers and runtimes; specialized hardware for machine learning; hardware-efficient ML methods; machine learning benchmarks, and tooling are rarely mentioned【4:0†source】【4:3†source】【4:5†source】.
+
+#### RQ 2. Definition and Understanding (2.1, 2.2)
+**Impact Definition and Explanation**: Undefined (1)
+- The syllabus does not provide a clear and detailed definition and explanation of the impact of computing systems on AI/ML【4:1†source】.
+**Topics Discussed**:
+- There is minimal mention, if any, of the relevant topics: 1) scalable (parallel and distributed) model training, inference, 2) testing, debugging, and monitoring of ML applications, 3) ML programming models and abstractions, 4) programming languages for machine learning, 5) ML compilers and runtimes, 6) specialized hardware for machine learning, 7) hardware-efficient ML methods, 8) machine learning benchmarks, and tooling【4:1†source】【4:3†source】【4:5†source】.
+
+#### RQ 3. Requirement Specification (3.1, 3.2)
+**Performance and Capability Requirements**: No guidelines (1)
+- The syllabus does not explicitly specify or discuss the computational performance and capability requirements for hardware and software systems running scalable AI/ML【4:1†source】【4:2†source】【4:3†source】.
+**Discussion Ranking**: “computing system” requirements were never discussed (1)
+- The discussion of computing system requirements is not present against the discussion of general AI/ML topics【4:0†source】【4:3†source】.
+
+#### RQ 4. Influence and Importance (4.1)
+**Computing System Factors Emphasis**: System (1)
+- The importance of various computing system factors for designing and maintaining scalable AI/ML is viewed as low-level system issues, relegating responsibility to the correct choice of hardware, programming model, and AI/ML framework【4:1†source】【4:3†source】.
+
+#### RQ 5. Case Studies and Real-World Applications (5.1)
+**Inclusion of Real-World Case Studies**: Minor (1)
+- Real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving are not a major concern of the case studies included in the syllabus【4:0†source】【4:3†source】.
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices (6.1)
+**Engineering Practices Coverage**: Undefined (1)
+- The courses do not thoroughly cover contributions and best practices from AI/ML system engineering communities in areas such as compilers, runtime systems, hardware acceleration, and code optimization in detail【4:0†source】【4:3†source】【4:5†source】.
+
+#### RQ 7. Projects and Practical Implementation (7.1)
+**Hands-On Experience in Assignments**: None (1)
+- The assignments do not cover areas like compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML, nor do they provide relevant hands-on experience【4:0†source】【4:2†source】【4:4†source】.
+
+These results provide a detailed evaluation of the course syllabus, highlighting the areas where it covers computing systems topics relevant to AI/ML and where it does not meet the criteria.

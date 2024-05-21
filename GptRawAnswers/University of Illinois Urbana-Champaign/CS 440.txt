@@ -1,0 +1,45 @@
+### RQ 1. Course Content and Frequency:
+
+1.1 Frequency of topics related to "computing systems":
+- Score: **Frequent (4)**
+
+### RQ 2. Definition and Understanding:
+
+2.1 Explanation of impacts of "computing systems":
+- Score: **Undefined (1)**
+
+2.2 Topics discussed in the course:
+- Specialized hardware for machine learning
+- ML programming models and abstractions
+- Programming languages for machine learning
+
+### RQ 3. Requirement Specification:
+
+3.1 Specification and discussion of computational performance and capability requirements:
+- Score: **No guidelines (1)**
+
+3.2 Ranking of “computing system” requirements against general AI/ML topics:
+- Score: **“computing system” requirements were never discussed (1)**
+
+### RQ 4. Influence and Importance:
+
+4.1 Emphasis on computing system factors:
+- Score: **System (1)**
+
+### RQ 5. Case Studies and Real-World Applications:
+
+5.1 Inclusion of real-world case studies involving hardware and software for AI/ML:
+- Score: **Minor (1)**
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+
+6.1 Discussion of contributions and best practices from AI/ML system engineering communities:
+- Score: **Undefined (1)**
+
+### RQ 7. Projects and Practical Implementation:
+
+7.1 Assignments providing hands-on experience with scalable systems:
+- Score: **None (1)**
+
+Citations: 
+- Source document: CS 440.pdf  

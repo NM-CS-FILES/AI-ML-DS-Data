@@ -1,0 +1,60 @@
+Based on examining the provided course syllabus for CS 562: Advanced Topics in Security, Privacy, and Machine Learning, here are the detailed answers to the research questions:
+
+### RQ 1. Course Content and Frequency:
+**1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course?** 
+- The topics are: scalable (parallel and distributed) model training, inference; testing, debugging, and monitoring of ML applications; ML programming models and abstractions; programming languages for machine learning; ML compilers and runtimes; specialized hardware for machine learning; hardware-efficient ML methods; machine learning benchmarks, and tooling.
+
+**Answer:**
+- Intermittent (3): The topics are discussed occasionally .
+
+### RQ 2. Definition and Understanding:
+**2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula?**
+- The definition and explanation should include concepts of: scalable (parallel and distributed) model training, inference; testing, debugging, and monitoring of ML applications; ML programming models and abstractions; programming languages for machine learning; ML compilers and runtimes; specialized hardware for machine learning; hardware-efficient ML methods; machine learning benchmarks, and tooling.
+
+**Answer:**
+- Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments .
+
+**2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?**
+
+**Concepts Discussed:**
+- Model extraction which touches on scalable model training
+- Privacy attacks and defenses which is generally applicable to testing, debugging, and monitoring
+- Some discussions on foundations models which can include hardware efficient methods
+- No specific mentions of ML programming models and abstractions, ML compilers and runtimes, or detailed hardware discussions .
+
+### RQ 3. Requirement Specification:
+**3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?**
+- Topics include: Computational Power (CPU, GPU, TPU, Edge AI chips), Memory and Storage, Network for scalable (parallel and distributed) model training, inference; Distributed Computing Frameworks such as TensorFlow's Distributed Strategy, PyTorch's Distributed Data Parallel (DDP), and Horovod; Optimization Techniques such as Efficient Algorithm, Quantization, Prunning; Programming Models and Abstractions such as High-Level Libraries (Tensorflow, PyTorch, Keras)
+
+**Answer:**
+- No guidelines (1): The lectures provide no guidelines .
+
+**3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?**
+
+**Answer:**
+- “computing system” requirements is a sub topic (2) .
+
+### RQ 4. Influence and Importance:
+**4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?**
+- The factors are: scalable (parallel and distributed) model training and inference; testing, debugging, and monitoring of ML applications; ML programming models and abstractions; programming languages for machine learning; ML compilers and runtimes; specialized hardware for machine learning; hardware-efficient ML methods; machine learning benchmarks, and tooling.
+
+**Answer:**
+- System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework .
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?**
+
+**Answer:**
+- Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?**
+
+**Answer:**
+- Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail .
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?**
+
+**Answer:**
+- None (1): The assignments do not cover these areas or provide relevant hands-on experience .

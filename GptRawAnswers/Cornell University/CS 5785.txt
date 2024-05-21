@@ -1,0 +1,57 @@
+Given the details from the attached course syllabus "CS 5785 Applied Machine Learning," I’ll provide answers to your research questions (RQ):
+
+### RQ 1. Course Content and Frequency:
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course?
+
+**Answer:**
+Likert scale rating: **Infrequent (2)**.
+ 
+### RQ 2. Definition and Understanding:
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula?
+
+**Answer:**
+Likert scale rating: **Inadequate (2)**.
+  
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+
+**Answer:**
+Discussed topics: 
+- Specialized hardware for machine learning
+- Machine learning benchmarks and tooling【6:0†source】【6:1†source】.
+
+### RQ 3. Requirement Specification:
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+
+**Answer:**
+Likert scale rating: **No guidelines (1)**.
+
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+
+**Answer:**
+Likert scale rating: **“computing system” requirements were never discussed (1)**.
+  
+### RQ 4. Influence and Importance:
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+
+**Answer:**
+Likert scale rating: **System (1)**.
+  
+### RQ 5. Case Studies and Real-World Applications:
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+
+**Answer:**
+Likert scale rating: **Minor (1)**.
+  
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?
+
+**Answer:**
+Likert scale rating: **Inadequate (2)**.
+
+### RQ 7. Projects and Practical Implementation:
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?
+
+**Answer:**
+Likert scale rating: **Inadequate (2)**. 
+
+For more detailed assignments and syllabus framework, refer to the provided syllabus document【6:0†source】【6:1†source】.

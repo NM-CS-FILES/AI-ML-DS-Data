@@ -1,0 +1,82 @@
+### Answers based on the provided syllabus:
+
+#### RQ 1. Course Content and Frequency:
+
+**Frequency of topics related to "computing systems" specialized for ML/AI:**
+- Scalable (parallel and distributed) model training, inference
+- Testing, debugging, and monitoring of ML applications
+- ML programming models and abstractions
+- Programming languages for machine learning
+- ML compilers and runtimes
+- Specialized hardware for machine learning
+- Hardware-efficient ML methods
+- Machine learning benchmarks, and tooling
+
+**Score:**
+Intermittent (3)
+
+Despite some coverage of specific aspects like scalable model training or specialized hardware, the explicit discussion on all the listed specialized computing systems appears occasionally in the course materials.
+
+#### RQ 2. Definition and Understanding:
+**2.1 Impact of "computing systems" on AI/ML in undergraduate curricula:**
+
+**Score:**
+Inadequate (2)
+
+The detailed definition and explanation of the impacts of computing systems on AI/ML are often missed or not comprehensively covered.
+
+**2.2 Comprehensive and explicit definition of impacts of "computing systems" on AI/ML:**
+
+**Topics Discussed:**
+- Scalable model training, inference (e.g., Gradient Descent, Neural Networks)【4:3†source】
+- Specialized hardware for machine learning (possibly implied in Convolutional Neural Networks)【6:1†source】
+- ML programming models and abstractions, ML compilers and runtimes, and testing, debugging, monitoring do not seem explicitly discussed.
+
+#### RQ 3. Requirement Specification:
+**3.1 Computational performance and capability requirements for hardware and software systems:**
+
+**Score:**
+No guidelines (1)
+
+There is no evidence of numerical values for computational performance and capability requirements being provided in the lectures or assignments.
+
+**3.2 Discussion of “computing system” requirements in comparison to general AI/ML topics:**
+
+**Score:**
+“Computing system” requirements is a sub topic (2)
+
+Discussions on computing system requirements appear to be supplementary and less emphasized compared to general AI/ML topics.
+
+#### RQ 4. Influence and Importance:
+**4.1 Importance of various “computing system” factors in designing and maintaining scalable AI/ML:**
+
+**Score:**
+Holistic (2)
+
+Several key factors like scalable model training and possible mentions of specialized hardware imply a holistic approach.
+
+#### RQ 5. Case Studies and Real-World Applications:
+**5.1 Inclusion of real-world case studies involving hardware and software systems for AI/ML:**
+
+**Score:**
+Minor (1)
+
+Case studies with a major concern on computational performance and capability do not explicitly appear.
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Discussion of contributions and best practices from AI/ML system engineering communities:**
+
+**Score:**
+Undefined (1)
+
+There is no clear indication of thorough coverage of AI/ML system engineering communities' contributions or best practices.
+
+#### RQ 7. Projects and Practical Implementation:
+**7.1 Extent of hands-on experience assignments in designing scalable hardware/software systems for AI/ML:**
+
+**Score:**
+Inadequate (2)
+
+The assignments cover related areas minimally and do not seem to provide extensive hands-on experience.
+
+These evaluations reflect an overall intermittent discussion and inadequacy in defining and understanding the impacts and specifications of computing systems tailored for AI/ML scalability in the course.

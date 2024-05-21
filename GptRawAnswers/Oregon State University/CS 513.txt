@@ -1,0 +1,52 @@
+### RQ 1. Course Content and Frequency:
+**1.1 Overall Score**: Never mentioned (1)
+
+The attached syllabus does not cover topics explicitly related to "computing system" specialized for ML/AI, such as scalable model training, programming models, ML compilers, specialized hardware, and other similar topics.
+
+### RQ 2. Definition and Understanding:
+**2.1 Overall Score**: Undefined (1)
+
+There are no detailed definitions or explanations regarding how computing systems impact AI/ML, including the specified topics such as scalable model training, ML programming models, hardware-efficient ML methods, etc.
+
+**2.2 List of topics discussed**:
+The syllabus primarily focuses on general machine learning algorithms and their practical applications. It does not explicitly discuss:
+1. Scalable (parallel and distributed) model training and inference
+2. Testing, debugging, and monitoring of ML applications
+3. ML programming models and abstractions
+4. Programming languages for machine learning
+5. ML compilers and runtimes
+6. Specialized hardware for machine learning
+7. Hardware-efficient ML methods
+8. Machine learning benchmarks and tooling
+
+### RQ 3. Requirement Specification:
+**3.1 Overall Score**: No guidelines (1)
+
+There is no mention of computational performance and capability requirements for hardware and software systems running scalable AI/ML.
+
+**3.2 Overall Score**: “computing system” requirements were never discussed (1)
+
+The discussion on "computing system" requirements is absent in the provided syllabus.
+
+### RQ 4. Influence and Importance:
+**4.1 Overall Score**: System (1)
+
+The importance of computing systems in designing and maintaining scalable AI/ML is not emphasized in the syllabus. It focuses more on general ML concepts and implementations using basic programming tools.
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Overall Score**: Minor (1)
+
+The real-world applications mentioned focus on general ML task implementations such as sentiment analysis and housing price prediction, without a focus on the computational performance and capabilities of the underlying systems used.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Overall Score**: Undefined (1)
+
+There is no coverage of contributions and best practices from AI/ML system engineering communities, especially in compilers, runtime systems, hardware acceleration, and code optimization.
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Overall Score**: None (1)
+
+Assignments in the syllabus lack coverage on designing, building, and maintaining scalable hardware and software systems for AI/ML, focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization.
+
+**References**:
+- The original syllabus document .

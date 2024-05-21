@@ -1,0 +1,37 @@
+Based on the syllabus file provided, here are the answers to each research question:
+
+### RQ 1. Course Content and Frequency
+**1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course?**
+- Score: 2 (Infrequent)
+
+### RQ 2. Definition and Understanding
+**2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula?**
+- Score: 2 (Inadequate)
+
+**2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?**
+- Discussed Topics: `scalable (parallel and distributed) model training, inference; testing, debugging, and monitoring of ML applications; ML programming models and abstractions; specialized hardware for machine learning; machine learning benchmarks`.
+
+### RQ 3. Requirement Specification
+**3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?**
+- Score: 2 (Qualitatively)
+
+**3.2 How did the discussion of "computing system" requirements rank against the discussion of general AI/ML topics?**
+- Score: 2 (“computing system” requirements is a sub-topic)
+
+### RQ 4. Influence and Importance
+**4.1 How is the importance of various "computing system" factors of designing and maintaining scalable AI/ML emphasized in the course?**
+- Score: 1 (System)
+
+### RQ 5. Case Studies and Real-World Applications
+**5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?**
+- Score: 1 (Minor)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+**6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?**
+- Score: 2 (Inadequate)
+
+### RQ 7. Projects and Practical Implementation
+**7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?**
+- Score: 0 (Could not be evaluated) 
+
+These ratings and summaries are based on the contents displayed from the syllabus document "CSCI 6622.pdf" which outlines the content, frequency of certain topics, project work, and reading assignments    .

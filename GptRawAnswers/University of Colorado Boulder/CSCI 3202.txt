@@ -1,0 +1,49 @@
+### RQ 1. Course Content and Frequency:
+**1.1 Frequency of computing systems topics specialized for ML/AI:**
+- Based on the syllabus provided for "CSCI 3202 Artificial Intelligence", topics specifically related to "computing system" specialized for ML/AI such as scalable (parallel and distributed) model training and inference, testing and debugging ML applications, ML programming models and abstractions, etc. are mentioned occasionally, though not extensively covered. 
+- **Rating**: Intermittent (3)
+
+### RQ 2. Definition and Understanding:
+**2.1 Impacts of computing systems on AI/ML defined and explained:**
+- The course does not extensively focus on these topics as central themes in its lectures or assignments based on the syllabus information.
+- **Rating**: Inadequate (2)
+
+**2.2 Comprehensive definition and explanation of computing systems' impacts on AI/ML:**
+- Topics like scalable model training, testing/debugging of ML applications, specialized hardware for ML, and ML compilers and runtimes are discussed, though they are not the primary focus.
+- **List of Topics Discussed**: 
+  - Scalable model training (implicitly through neural networks and ensemble methods discussions)
+  - ML programming models and abstractions 
+  - Specialized hardware for ML (mention of implementing techniques on various programming languages)
+
+### RQ 3. Requirement Specification:
+**3.1 Computational performance and capability requirements for hardware and software systems:**
+- The syllabus does not provide quantitative guidelines for computational performance and capability requirements.
+- **Rating**: No guidelines (1)
+
+**3.2 Discussion ranking against general AI/ML topics:**
+- Computing system requirements are acknowledged but generally regarded as a sub-topic within the broader AI/ML discussion.
+- **Rating**: “computing system” requirements is a sub topic (2)
+
+### RQ 4. Influence and Importance:
+**4.1 Importance of computing system factors in scalable AI/ML:**
+- The course primarily views these factors through the lens of programming assignments and system design but does not emphasize them as central themes.
+- **Rating**: System (1)
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Inclusion of real-world case studies for AI/ML systems:**
+- The syllabus includes real-world applications and case studies, although the main concern is not the computational performance of underlying systems.
+- **Rating**: Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Discussion on contributions and best practices from AI/ML system engineering communities:**
+- The course barely delves into contributions from AI/ML system engineering communities, with more of an emphasis on applied AI techniques and theories.
+- **Rating**: Inadequate (2)
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Hands-on experience with scalable hardware and software systems for AI/ML:**
+- The assignments provide hands-on experience with AI techniques but not explicitly on compiler optimization, runtime systems, or hardware acceleration for AI/ML.
+- **Rating**: Inadequate (2)
+
+---
+
+To summarize the evaluation based on the syllabus, while "CSCI 3202 Artificial Intelligence" provides a comprehensive overview of AI techniques and their applications, it does not delve deeply into the specialized computing systems aspects that are crucial for scalable AI/ML. The course gives intermittent attention to these topics but does not provide the extensive, detailed treatment that would be necessary to rate higher on the scales provided.

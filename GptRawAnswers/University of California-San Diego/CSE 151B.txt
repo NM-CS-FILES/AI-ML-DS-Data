@@ -1,0 +1,33 @@
+### RQ 1. Course Content and Frequency:
+**1.1 Frequency of "computing system" specialized topics for ML/AI:**
+- **Score: Infrequent (2)**: The syllabus primarily focuses on core machine learning topics such as prediction problems, generative models, linear prediction, trees, forests, ensembles, representation learning, and deep learning【6:0†CSE 151B.pdf】. There is no particular emphasis on computing systems, specialized hardware, or optimized runtime systems tailored for ML/AI from the provided information.
+
+### RQ 2. Definition and Understanding:
+**2.1 Impacts of "computing systems" on AI/ML explained:**
+- **Score: Undefined (1)**: Based on the syllabus, the impacts of computing systems on AI/ML such as scalable model training, debugging, and specialized hardware are not defined or explained in detail.
+
+**2.2 List of discussed computing system impact topics:**
+- None. The syllabus does not cover topics like scalable model training, ML programming models, compilers, runtimes, specialized hardware, or other similar systems aspects.
+
+### RQ 3. Requirement Specification:
+**3.1 Computational performance and capability requirements:**
+- **Score: No guidelines (1)**: Computational performance and capability requirements for hardware and software systems running scalable AI/ML are not explicitly specified or discussed in the syllabus.
+
+**3.2 Discussion of “computing system” requirements vs. general AI/ML topics:**
+- **Score: “computing system” requirements were never discussed (1)**: Discussions of computing system requirements do not feature prominently or at all.
+
+### RQ 4. Influence and Importance:
+**4.1 Importance of "computing system" factors:**
+- **Score: System (1)**: The course appears to view computing system factors as low-level issues, relegating responsibility to correct choice of hardware, programming model, and AI/ML frameworks【6:0†CSE 151B.pdf】.
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Inclusion of real-world case studies:**
+- **Score: Minor (1)**: The syllabus does not indicate a major focus on real-world case studies involving hardware and software systems for scalable AI/ML.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Contributions and best practices from AI/ML system engineering communities:**
+- **Score: Undefined (1)**: There is no indication that the syllabus covers contributions and best practices from AI/ML system engineering communities, especially in areas such as compilers, runtime systems, hardware acceleration, and code optimization.
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Hands-on experience with designing and maintaining scalable AI/ML systems:**
+- **Score: None (1)**: The assignments seem to focus on core ML problems without specific emphasis on hands-on experience with designing, building, and maintaining scalable hardware and software systems for AI/ML【6:0†CSE 151B.pdf】.

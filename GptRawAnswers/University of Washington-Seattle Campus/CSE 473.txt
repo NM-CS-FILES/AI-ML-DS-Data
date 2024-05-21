@@ -1,0 +1,78 @@
+Let's proceed by answering each of the research questions (RQ) based on the information extracted from the syllabus.
+
+### RQ 1. Course Content and Frequency
+**1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course?**
+
+Based on the course syllabus information:
+
+**Answer:**
+Likert scale rating: 1 (Never mentioned) 
+
+### RQ 2. Definition and Understanding
+**2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in the undergraduate curricula?**
+
+Based on the course syllabus information:
+
+**Answer:**
+Likert scale rating: 1 (Undefined)
+
+**2.2 Do courses provide a comprehensive and explicit definition of the impacts of "computing systems" on AI/ML?**
+
+Based on the course syllabus information:
+
+**Answer:**
+The topics discussed in the course related to "computing systems" are as follows: None
+
+
+### RQ 3. Requirement Specification
+**3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?**
+
+Based on the course syllabus information:
+
+**Answer:**
+Likert scale rating: 1 (No guidelines)
+
+**3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?**
+
+Based on the course syllabus information:
+
+**Answer:**
+Likert scale rating: 1 ("computing system” requirements were never discussed)
+
+
+### RQ 4. Influence and Importance
+**4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?**
+
+Based on the course syllabus information:
+
+**Answer:**
+Likert scale rating: 1 (System)
+
+
+### RQ 5. Case Studies and Real-World Applications
+**5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?**
+
+Based on the course syllabus information:
+
+**Answer:**
+Likert scale rating: 1 (Minor)
+
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+**6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities, specifically in areas such as compilers, runtime systems, hardware acceleration, and code optimization?**
+
+Based on the course syllabus information:
+
+**Answer:**
+Likert scale rating: 1 (Undefined)
+
+
+### RQ 7. Projects and Practical Implementation
+**7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML, specifically focusing on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML?**
+
+Based on the course syllabus information:
+
+**Answer:**
+Likert scale rating: 0 (Could not be evaluated)
+
+Each rating is based on the absence of specific discussions or explicit mention of the topics related to "computing systems" specialized for AI/ML within the provided syllabus document【6:0†source】.

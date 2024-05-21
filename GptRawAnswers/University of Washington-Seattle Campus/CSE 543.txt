@@ -1,0 +1,26 @@
+### RQ 1. Course Content and Frequency:
+**Score**: Frequent (4)
+
+### RQ 2. Definition and Understanding:
+**2.1 Score**: Inadequate (2)
+**2.2 Comprehensive definition topics discussed**:
+- Scalable (parallel and distributed) model training, inference
+- Testing, debugging, and monitoring of ML applications
+- ML programming models and abstractions
+- Programming languages for machine learning .
+
+### RQ 3. Requirement Specification:
+**3.1 Score**: Qualitatively (2)
+**3.2 Score**: "computing system” requirements is a sub topic (2)
+
+### RQ 4. Influence and Importance:
+**Score**: System (1)
+
+### RQ 5. Case Studies and Real-World Applications:
+**Score**: Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**Score**: Inadequate (2)
+
+### RQ 7. Projects and Practical Implementation:
+**Score**: Inadequate (2) .

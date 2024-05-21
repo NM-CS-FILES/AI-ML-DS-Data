@@ -1,0 +1,45 @@
+**RQ 1. Course Content and Frequency:**
+
+**Score:** Infrequent (2)  
+Based on the content of the syllabus, topics explicitly related to "computing systems" specialized for ML/AI are rarely mentioned.
+
+**RQ 2. Definition and Understanding:**
+
+**Score:** Undefined (1)  
+The impacts of "computing systems" on AI/ML are mostly undefined, lacking detailed definitions or explanations of the specific topics.
+
+**RQ 2.2 Definition of impacts of "computing systems" on AI/ML:**
+
+**Discussion Topics:** None of the specific topics relating to scalable model training, testing, debugging, monitoring, ML programming models, specialized hardware, hardware-efficient ML methods, or benchmarks were discussed in the syllabus.
+
+**RQ 3. Requirement Specification:**
+
+**Score:** No guidelines (1)  
+There are no guidelines provided regarding computational performance and capability requirements for hardware and software systems running scalable AI/ML.
+
+**RQ 3.2 Computing system requirements vs. general AI/ML topics:**
+
+**Score:** Computing system requirements were never discussed (1)  
+There is no mention or specific discussion on computing system requirements in contrast with general AI/ML topics.
+
+**RQ 4. Influence and Importance:**
+
+**Score:** System (1)  
+The syllabus does not view the factors of computing systems for designing and maintaining scalable AI/ML as important and relegates responsibility to just making correct hardware, programming model, and AI/ML framework choices.
+
+**RQ 5. Case Studies and Real-World Applications:**
+
+**Score:** Minor (1)  
+The computational performance and capability of the underlying system are not major concerns of the case studies, as per the syllabus.
+
+**RQ 6. Awareness and Integration of AI-Specific Engineering Practices:**
+
+**Score:** Undefined (1)  
+The coverage of AI/ML system engineering communities and best practices is unclear or not well-defined in the syllabus.
+
+**RQ 7. Projects and Practical Implementation:**
+
+**Score:** None (1)  
+The assignments do not cover areas related to compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML, nor do they provide relevant hands-on experience.
+
+If you require any further information or insights from the document, please let me know!

@@ -1,0 +1,45 @@
+Based on a detailed examination of the provided course syllabus, I have summarized answers to your research questions (RQ) related to "computing systems" tailored for AI/ML scalability.
+
+### RQ 1. Course Content and Frequency:
+**1.1 Frequency of Topics Explicitly Related to "Computing Systems" Specialized for ML/AI:**
+Overall Score: **Infrequent (2)**
+The syllabus mentions topics related to AI foundational areas such as problem solving, knowledge representation, logical reasoning, and machine learning, but discussion on computing systems specialized for ML/AI such as specialized hardware, compilers, and runtime systems for ML is minimal. The course includes basic coverage but lacks depth in specialized computing systems for ML/AI【4:0†source】.
+
+### RQ 2. Definition and Understanding:
+**2.1 Impacts of "Computing Systems" on AI/ML Defined and Explained:**
+Overall Score: **Undefined (1)**
+The syllabus provides a fundamental overview of AI principles but does not explicitly define or explain the impacts of computing systems on AI/ML with regard to the listed specialized topics【4:0†source】【4:1†source】.
+
+**2.2 Comprehensive and Explicit Definition of Impacts of "Computing Systems":**
+- Topics Discussed: Basic problem-solving methods, search algorithms, heuristic approaches, reasoning with logic and uncertainty, planning and decision-making, and fundamental machine learning concepts. There is no comprehensive coverage of specialized computing systems for AI/ML such as parallel model training, hardware acceleration, specialized hardware, ML programming models, compilers, or runtime systems【4:0†source】【4:1†source】.
+
+### RQ 3. Requirement Specification:
+**3.1 Computational Performance and Capability Requirements for Hardware and Software Systems:**
+Overall Score: **No guidelines (1)**
+The syllabus does not provide detailed computational performance and capability requirements for hardware and software systems running scalable AI/ML. It mainly focuses on theoretical and basic algorithmic concepts in AI【4:0†source】【4:1†source】.
+
+**3.2 Discussion of "Computing System" Requirements Against General AI/ML Topics:**
+Overall Score: **“computing system” requirements is a sub topic (2)**
+Discussion of computing system requirements is minimal and not given equal weight compared to general AI/ML topics, making it a sub-topic within the overall course framework【4:0†source】【4:1†source】.
+
+### RQ 4. Influence and Importance:
+**4.1 Importance of Various "Computing System" Factors in Scalable AI/ML:**
+Overall Score: **System (1)**
+The course views computing system-related issues as low-level system components and does not holistically address the critical factors for designing and maintaining scalable AI/ML systems. Major course focus remains on AI algorithms and fundamentals【4:0†source】【4:1†source】.
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Real-World Case Studies Involving Hardware and Software Systems for AI/ML:**
+Overall Score: **Minor (1)**
+While the course includes various theoretical elements, it does not prioritize case studies that focus on computational performance and system capabilities for scalable AI/ML model training and inference【4:0†source】【4:1†source】.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Discussion of AI/ML System Engineering Community Contributions and Best Practices:**
+Overall Score: **Undefined (1)**
+The syllabus does not provide clear coverage of AI/ML system engineering contributions and best practices, particularly in areas like compilers, runtime systems, hardware acceleration, and code optimization【4:0†source】【4:1†source】.
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Assignments Providing Hands-On Experience with Designing, Building, and Maintaining Scalable Systems:**
+Overall Score: **None (1)**
+Assignments and projects primarily seem to focus on general AI/ML concepts and foundational programming exercises. There is no explicit mention of hands-on experience with compiler optimization, runtime systems, or hardware acceleration【4:0†source】【4:1†source】.
+
+Overall, the course syllabus indicates a significant focus on fundamental AI principles and lacks depth in addressing specialized computing system aspects essential for advanced AI/ML scalability.

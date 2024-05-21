@@ -1,0 +1,58 @@
+Based on the reviewed syllabus, here are the responses to your research questions:
+
+### RQ 1. Course Content and Frequency
+
+- **Score**: Intermittent (3)
+
+The course syllabus discussed computing system topics specialized for ML/AI occasionally, but it does not explicitly focus on them frequently as a main topic. Most of the content appears to be more concentrated on general machine learning concepts and methodologies rather than the specific computing systems for scalability and performance .
+
+### RQ 2. Definition and Understanding
+
+2.1 **Score**: Inadequate (2)
+
+The syllabus provided an overview of various machine learning models and algorithms; however, significant areas like ML compilers, runtimes, specialized hardware, and hardware-efficient methods did not appear to have detailed explanations or definitions in the course material .
+
+2.2 **List of Topics Discussed**:
+- Bayesian Linear Regression
+- Feed-forward Network Training
+- Probabilistic Generative and Discriminative Models
+- Error Backpropagation
+- Clustering Methods and Mixture Models
+- Nonnegative Matrix Factorization
+- Graphical Models
+
+These topics are discussed, but the specific computing system impacts on AI/ML such as hardware acceleration, compilers, runtime systems, and hardware-efficient methods are missing .
+
+### RQ 3. Requirement Specification
+
+3.1 **Score**: Qualitatively (2)
+
+The course provides a qualitative discussion about network training, graphical models, and error backpropagation but does not delve into specific computational performance or capability requirements, quantitative metrics like latency, throughput, or the distributed computing frameworks in detail .
+
+3.2 **Score**: "computing system" requirements is a sub-topic (2)
+
+The requirements related to "computing system" were secondary to the general AI/ML discussion, indicated as supplementary rather than primary topics within the syllabus .
+
+### RQ 4. Influence and Importance
+
+4.1 **Score**: System (1)
+
+The curriculum views many of these factors as low-level system issues, leaving the responsibility of managing these requirements to the choice of machine learning frameworks and hardware configurations externally rather than integrating them holistically in the course's main content .
+
+### RQ 5. Case Studies and Real-World Applications
+
+5.1 **Score**: Minor (1)
+
+While the course involved projects with real-world data sets (e.g., from UCI Machine Learning Repository or Kaggle), the focus was more oriented towards the application of machine learning methodologies rather than addressing the computational performance and capability of the underlying systems explicitly .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+
+6.1 **Score**: Undefined (1)
+
+The syllabus mentions certain aspects of neural network training and clustering methods but does not extensively cover contributions or best practices from AI/ML system engineering communities regarding compilers, runtime systems, hardware acceleration, or code optimization .
+
+### RQ 7. Projects and Practical Implementation
+
+7.1 **Score**: None (1)
+
+The course assignments focus on deploying machine learning algorithms and models using Jupyter notebooks and Python, but there is no indication of assignments providing hands-on experience with designing or optimizing compiler, runtime systems, hardware acceleration, or code optimization for AI/ML specifically .

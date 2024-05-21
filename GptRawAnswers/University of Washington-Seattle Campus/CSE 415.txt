@@ -1,0 +1,50 @@
+Here's a detailed examination of the course syllabus based on the provided research questions (RQs):
+
+### RQ 1. Course Content and Frequency
+**Score: Infrequent (2)**  
+ML/AI computing system topics are briefly touched upon, but not extensively covered. The syllabus does not show many dedicated lectures focusing primarily on:
+- Scalable model training and inference
+- Testing, debugging, and monitoring ML applications
+- ML compilers and runtimes, etc.
+
+### RQ 2. Definition and Understanding
+**Score: Inadequate (2)**  
+The syllabus lacks specific detailed discussions on the impacts of computing systems on AI/ML. There are mentions of topics that brush upon computing systems but they certainly miss out on deep dives into said topics, particularly those mentioned.
+
+### RQ 2.2 Detailed List
+- Markov Decision Processes
+- Reinforcement Learning
+- Probabilistic Graphical Models
+- Constraint Satisfaction Problems
+- Adversarial Search    
+
+### RQ 3. Requirement Specification
+**Score: No guidelines (1)**  
+Explicit specifications of computational performance and capability requirements are not comprehensively included. There are no instances in the syllabus that point to numerical or even qualitative discussion on computational performance requirements for AI/ML related hardware/software systems.
+
+**Score: "computing system" requirements is a sub-topic (2)**  
+Discussions about computing system requirements appear to be embedded within more general AI/ML topic discussions rather than being standalone, focal points.
+
+### RQ 4. Influence and Importance
+**Score: System (1)**  
+The course views computing system factors as lower-level system issues and relegates much of the responsibility to correct choices in hardware, programming models, and AI/ML frameworks  .
+
+### RQ 5. Case Studies and Real-World Applications
+**Score: Minor (1)**  
+There are project-based assignments but they do not specifically focus on looking into computational performance and capability concerning hardware and software systems meant for AI/ML  .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+**Score: Inadequate (2)**  
+Topics regarding contributions and best practices from AI/ML system engineering communities such as hardware acceleration and code optimization are mentioned but not in great depth  .
+
+### RQ 7. Projects and Practical Implementation
+**Score: Inadequate (2)**  
+Assignments touch on relevant AI/ML topics but do not specifically provide hands-on experience with scalable hardware/software systems, compilers optimizations, or hardware acceleration  .
+
+Note: The syllabus does contain useful hyperlinks, for example, to resources such as:
+- Stuart Russell & Peter Norvig's "Artificial Intelligence: A Modern Approach"
+- Melanie Mitchell's "Artificial Intelligence: A Guide for Thinking Humans"
+- Richard Sutton & Andrew Barto's "Reinforcement Learning: An Introduction"
+These resources can provide deeper external context if students explore them.
+
+In summary, while the syllabus provides a well-rounded introduction to AI concepts, it lacks detailed coverage on computing systems principles specifically tailored for scalable AI/ML systems. For the areas of inquiry in the research questions, the course would benefit from more focused and dedicated content around computing systems' role and impact in AI/ML scalability.

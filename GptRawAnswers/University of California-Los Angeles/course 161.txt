@@ -1,0 +1,56 @@
+### Research Questions (RQ) on Computing Systems for AI/ML Scalability
+
+#### RQ 1. Course Content and Frequency:
+1.1 Likert Scale: **Infrequent (2)**
+
+The syllabus topics primarily focus on fundamental AI concepts such as problem-solving, heuristic search, logic representation, reasoning under uncertainty, game playing, and Bayesian networks without explicit sessions dedicated to computing systems specialized for AI/ML scalability (e.g., parallel and distributed model training, specialized hardware, ML compilers, etc.)  .
+
+#### RQ 2. Definition and Understanding:
+2.1 Likert Scale: **Undefined (1)**
+
+The syllabus does not define or explain the impacts of computing systems (focused aspects such as parallel training, ML compilers, specialized hardware, etc.) on AI/ML  .
+
+2.2 List of Topics Discussed:
+
+The topics explicitly discussed in the course include:
+- Game playing
+- Problem solving as search
+- Propositional logic: Representation and inference
+- Reasoning under uncertainty
+- Bayesian Networks
+- Machine Learning Basics
+
+There are no explicit mentions related to computing systems like ML compilers, runtimes, or specialized hardware  .
+
+#### RQ 3. Requirement Specification:
+3.1 Likert Scale: **No guidelines (1)**
+
+There are no clear specifications or discussions on computational performance and capability requirements relating to hardware and software for scalable AI/ML within the course content .
+
+3.2 Likert Scale: **“computing system” requirements were never discussed (1)**
+
+The focus on computing system requirements does not exist as the topics center around general AI/ML principles and algorithms rather than computing infrastructure or system requirements  .
+
+#### RQ 4. Influence and Importance:
+4.1 Likert Scale: **System (1)**
+
+The course appears to regard computing system factors (e.g., parallel training, specialized hardware, ML compilers) as low-level issues with the emphasis predominantly on general AI/ML algorithmic and theoretical concepts instead  .
+
+#### RQ 5. Case Studies and Real-World Applications:
+5.1 Likert Scale: **Minor (1)**
+
+There are no specific case studies involving hardware and software systems for AI/ML focusing on computational performance and capabilities mentioned in the syllabus  .
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Likert Scale: **Undefined (1)**
+
+The coverage of contributions and best practices from AI/ML system engineering communities (areas like compilers, runtime systems, hardware acceleration, and optimization) is not clearly defined within the provided syllabus content  .
+
+#### RQ 7. Projects and Practical Implementation:
+7.1 Likert Scale: **Could not be evaluated (0)**
+
+The syllabus does not provide sufficient information or detailed content of the assignments to evaluate the extent of hands-on experience with designing, building, and maintaining scalable hardware and software systems for AI/ML  .
+
+### Conclusion
+
+The provided syllabus indicates a traditional AI/ML curriculum at UCLA with a focus on theoretical foundations, fundamental problem-solving methods, and algorithmic strategies without substantial emphasis on computing systems tailored for AI/ML scalability. The course contents lack explicit discussions on specialized hardware, scalable model training, system requirements, and the integration of system engineering best practices in AI/ML.

@@ -1,0 +1,51 @@
+### RQ 1. Course Content and Frequency:
+**1.1 Frequency of topics related to "computing systems" specialized for ML/AI:**
+Based on the syllabus, the course frequently discusses topics directly related to "computing systems" specialized for ML/AI, including lectures on distributed learning, hardware trends leading to parallelism, and specialized hardware for ML, among others   .
+- **Score: Frequent (4)**
+
+### RQ 2. Definition and Understanding:
+**2.1 Impacts of "computing systems" on AI/ML in the undergraduate curriculum:**
+Many of the listed topics, including distributed learning, parallelism, specialized hardware (e.g., CPUs vs GPUs), and efficient inference, are covered in the course syllabus, providing an adequate definition and understanding of the impacts of computing systems on AI/ML   .
+- **Score: Adequate (3)**
+
+**2.2 Comprehensive and explicit definition list:**
+- Scalable model training and inference
+- Testing and debugging of ML applications
+- ML programming models and abstractions
+- Programming languages for ML
+- ML compilers and runtimes
+- Specialized hardware for ML
+- Hardware-efficient ML methods
+- Machine learning benchmarks and tooling
+The course addresses these through specific lectures and paper discussions on these topics   .
+
+### RQ 3. Requirement Specification:
+**3.1 Specifications and discussions on computational performance and capability requirements:**
+This aspect is discussed quantitatively, with lectures that include overall guidelines on metrics such as iterations to accuracy threshold and hardware performance, which are part of programming assignment evaluations  .
+- **Score: Quantitatively (3)**
+
+**3.2 Ranking of “computing system” requirements against general AI/ML topics:**
+Computing system requirements are discussed as sub-topics within broader lectures on AI/ML frameworks and specialized hardware, making them significant yet integrated within the general AI/ML topics   .
+- **Score: “computing system” requirements is a sub topic (2)**
+
+### RQ 4. Influence and Importance:
+**4.1 Emphasis on the importance of various “computing system” factors:**
+The course takes a holistic view, considering multiple factors like model training, specialized hardware, and programming models, making these aspects central to several lectures and discussions   .
+- **Score: Holistic (2)**
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Inclusion of real-world case studies involving hardware and software systems for AI/ML:**
+The course includes significant discussion on real-world applications and case studies, especially through paper discussions like Map-Reduce for ML and Hogwild for parallelizing SGD   .
+- **Score: Major (2)**
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Discussion of contributions and best practices from AI/ML system engineering communities:**
+The course provides adequate coverage of contributions from AI/ML system engineering communities, including detailed discussions on state-of-the-art techniques like large-scale distributed deep networks and efficient inference mechanics   .
+- **Score: Adequate (3)**
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Assignments providing hands-on experience in designing scalable hardware/software systems:**
+The course's final project and programming assignments cover these areas reasonably well, with students required to implement and evaluate ML systems focusing on performance metrics and hardware considerations   .
+- **Score: Adequate (3)**
+
+This summarization provides detailed, well-cited responses to each of the research questions based on the provided syllabus.

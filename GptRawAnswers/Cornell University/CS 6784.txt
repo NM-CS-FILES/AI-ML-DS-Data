@@ -1,0 +1,45 @@
+Based on the provided document and the search results, here's the evaluation of the syllabus of CS 6784 regarding the specific research questions:
+
+### RQ 1. Course Content and Frequency
+**Score: 1 (Never mentioned)**  
+The syllabus and lecture topics do not explicitly mention the specialized "computing system" topics, such as scalable model training, inference, testing, debugging, monitoring of ML applications, ML programming models and abstractions, compilers and runtimes, specialized hardware for ML, hardware-efficient ML methods, ML benchmarks, and tooling.
+
+### RQ 2. Definition and Understanding
+**2.1 Score: 1 (Undefined)**  
+The impacts of "computing systems" on AI/ML that involve parallel and distributed training, testing, debugging, programming models, compilers, and specialized hardware are mostly undefined in the provided course material.
+
+**2.2 Defined Concepts**  
+The course does not discuss the listed topics directly related to "computing systems" such as:
+1. Scalable (parallel and distributed) model training, inference
+2. Testing, debugging, and monitoring of ML applications
+3. ML programming models and abstractions
+4. Programming languages for machine learning
+5. ML compilers and runtimes
+6. Specialized hardware for machine learning
+7. Hardware-efficient ML methods
+8. Machine learning benchmarks, and tooling【4:0†source】【4:1†source】【4:2†source】【4:3†source】.
+
+### RQ 3. Requirement Specification
+**3.1 Score: 1 (No guidelines)**  
+The course syllabus does not provide specific numerical values or qualitative discussion on computational performance and capability requirements (such as CPU, GPU, TPU, Edge AI chips, distributed frameworks, optimization techniques, and programming models).
+
+**3.2 Score: 1 (“computing system” requirements were never discussed)**  
+The discussions of “computing system” requirements do not appear to be a part of the course content, as evidenced by the lack of mention in the lecture topics and assignments.
+
+### RQ 4. Influence and Importance
+**Score: 1 (System)**  
+The course view on the factors affecting scalable AI/ML appears to be low-level system issues. There is no emphasis on holistic consideration of system factors such as scalable model training, debugging, monitoring, programming models, compilers, specialized hardware, hardware-efficient methods, and ML benchmarks【4:0†source】【4:1†source】【4:2†source】【4:3†source】.
+
+### RQ 5. Case Studies and Real-World Applications
+**Score: 1 (Minor)**  
+The detailed syllabus and reading materials found do not suggest that computational performance and capability of the underlying systems are major concerns in the case studies of this course.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+**Score: 1 (Undefined)**  
+The course does not cover AI/ML system engineering communities' contributions and best practices specifically in compilers, runtime systems, hardware acceleration, and code optimization.
+
+### RQ 7. Projects and Practical Implementation
+**Score: 1 (None)**  
+Assignments and projects in the course do not cover areas related to compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML. Moreover, there was insufficient information on assignments to evaluate them comprehensively【4:0†source】.
+
+In summary, the course "CS 6784 - Advanced Topics in Machine Learning: Deep Generative Models" mainly emphasizes theoretical and algorithmic aspects of generative models in machine learning without detailed coverage of computing system specifics necessary for AI/ML scalability.

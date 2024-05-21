@@ -1,0 +1,42 @@
+### RQ 1. Course Content and Frequency
+
+**Score:** Intermittent (3)
+
+### RQ 2. Definition and Understanding
+
+**Score for 2.1:** Inadequate (2)
+
+**Topics discussed in the course related to 2.2:**
+1. Neural Networks
+2. Bayesian methods
+3. Hyperparameter tuning
+4. Gradient descent
+
+There was no explicit mention of scalable model training, specialized hardware, compilers, or programming models directly related to ML/AI computing systems.
+
+### RQ 3. Requirement Specification
+
+**Score for 3.1:** No guidelines (1)
+
+**Score for 3.2:** “computing system” requirements is a sub topic (2)
+
+### RQ 4. Influence and Importance
+
+**Score:** System (1)
+
+### RQ 5. Case Studies and Real-World Applications
+
+**Score:** Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+
+**Score:** Undefined (1)
+
+### RQ 7. Projects and Practical Implementation
+
+**Score:** Inadequate (2)
+
+### Citations
+The evaluations are based on the review of the course syllabus, notably the lecture outlines and assignment descriptions which do not explicitly cover topics such as scalable model training, specialized hardware, ML compilers and runtimes, and other computing systems-specific subjects related to AI/ML scalability.
+
+- Source: CSE 546 Course Syllabus【4:1†source】【4:2†source】【4:3†source】【4:4†source】【4:5†source】【4:6†source】【4:7†source】【4:8†source】【4:9†source】【4:10†source】【4:11†source】【4:12†source】【4:13†source】【4:14†source】【4:15†source】【4:16†source】

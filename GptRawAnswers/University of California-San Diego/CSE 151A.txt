@@ -1,0 +1,41 @@
+### Analysis of Course Syllabus for Computing Systems in AI/ML
+
+#### RQ 1. Course Content and Frequency:
+**Score:** 
+Intermittent (3): The topics are discussed occasionally.
+
+#### RQ 2. Definition and Understanding:
+**RQ 2.1 Score:** 
+Inadequate (2): Many of the topics missed significant discussion in lectures or in assignments.
+
+**RQ 2.2 Topics Discussed:**
+1. Scalable (parallel and distributed) model training, inference
+2. ML programming models and abstractions
+3. Specialized hardware for machine learning
+4. Machine learning benchmarks, and tooling
+5. Programming languages for machine learning
+6. ML compilers and runtimes
+7. Hardware-efficient ML methods【8:0†source】
+
+#### RQ 3. Requirement Specification:
+**RQ 3.1 Score:** 
+No guidelines (1): The lectures provide no guidelines.
+
+**RQ 3.2 Score:** 
+“computing system” requirements is a sub topic (2)
+
+#### RQ 4. Influence and Importance:
+**Score:**
+System (1): The course viewed the factors as low level system issue, relegating responsibility to correct choice of hardware, programming model and AI/ML framework.
+
+#### RQ 5. Case Studies and Real-World Applications:
+**Score:**
+Minor (1): Computational performance and capability of the underlying system was not a major concern of the case studies.
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**Score:**
+Inadequate (2): The courses mention the topic but do not cover it in sufficient depth or detail.
+
+#### RQ 7. Projects and Practical Implementation:
+**Score:**
+None (1): The assignments do not cover these areas or provide relevant hands-on experience.

@@ -1,0 +1,44 @@
+### Research Question (RQ) Responses:
+
+#### RQ 1. Course Content and Frequency:
+**Score**: 1 (Never mentioned)
+
+The syllabus for CSCI 5622 does not explicitly mention topics regarding computing systems specialized for ML/AI like scalable model training, ML compilers, runtimes, hardware-efficient ML methods, or machine learning benchmarks【6:0†source】.
+
+#### RQ 2. Definition and Understanding:
+**Score for 2.1**: 1 (Undefined)
+
+The syllabus lacks a detailed definition and explanation of the impacts of computing systems on AI/ML encompassing the specified concepts.
+
+**Score for 2.2**: None
+
+None of the listed topics (scalable model training, testing, ML programming models, etc.) are explicitly discussed in the syllabus【6:0†source】.
+
+#### RQ 3. Requirement Specification:
+**Score for 3.1**: 1 (No guidelines)
+
+The course does not provide quantitative or qualitative discussions on the computational performance and capability requirements for hardware and software systems running scalable AI/ML【6:0†source】.
+
+**Score for 3.2**: 1 (Never discussed)
+
+Computing system requirements are not discussed compared to general AI/ML topics in the course【6:0†source】.
+
+#### RQ 4. Influence and Importance:
+**Score**: 1 (System)
+
+The syllabus relegates the responsibility of computing system factors to the correct choice of hardware, programming model, and AI/ML framework but without detailed discussion【6:0†source】.
+
+#### RQ 5. Case Studies and Real-World Applications:
+**Score**: 1 (Minor)
+
+The syllabus does not emphasize computational performance and capability of underlying systems in any case studies【6:0†source】.
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**Score**: 1 (Undefined)
+
+The courses do not appear to cover contributions and best practices from AI/ML system engineering communities in areas like compilers, runtime systems, hardware acceleration, or code optimization【6:0†source】.
+
+#### RQ 7. Projects and Practical Implementation:
+**Score**: 1 (None)
+
+Hands-on assignments related to designing, building, and maintaining scalable hardware and software systems for AI/ML, focusing on compiler optimization, runtime systems optimization, hardware acceleration, or code optimization, are not evident in the syllabus【6:0†source】.

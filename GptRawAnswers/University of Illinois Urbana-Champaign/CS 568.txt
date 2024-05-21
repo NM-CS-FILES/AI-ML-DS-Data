@@ -1,0 +1,36 @@
+### RQ 1. Course Content and Frequency:
+**RQ 1.1:** Never mentioned (1)【6:0†CS 568.pdf】【6:1†CS 568.pdf】【6:2†CS 568.pdf】【6:3†CS 568.pdf】【6:4†CS 568.pdf】【6:5†CS 568.pdf】
+
+---
+
+### RQ 2. Definition and Understanding:
+**RQ 2.1:** Undefined (1)【6:0†CS 568.pdf】【6:1†CS 568.pdf】【6:2†CS 568.pdf】【6:3†CS 568.pdf】【6:4†CS 568.pdf】【6:5†CS 568.pdf】
+
+**RQ 2.2:** None of the specified topics related to "computing systems" were discussed in the course【6:0†CS 568.pdf】【6:1†CS 568.pdf】【6:2†CS 568.pdf】【6:3†CS 568.pdf】【6:4†CS 568.pdf】【6:5†CS 568.pdf】
+
+---
+
+### RQ 3. Requirement Specification:
+**RQ 3.1:** No guidelines (1)【6:0†CS 568.pdf】【6:1†CS 568.pdf】【6:2†CS 568.pdf】【6:3†CS 568.pdf】【6:4†CS 568.pdf】【6:5†CS 568.pdf】
+
+**RQ 3.2:** “computing system” requirements were never discussed (1)【6:0†CS 568.pdf】【6:1†CS 568.pdf】【6:2†CS 568.pdf】【6:3†CS 568.pdf】【6:4†CS 568.pdf】【6:5†CS 568.pdf】
+
+---
+
+### RQ 4. Influence and Importance:
+**RQ 4.1:** System (1)【6:0†CS 568.pdf】【6:1†CS 568.pdf】【6:2†CS 568.pdf】【6:3†CS 568.pdf】【6:4†CS 568.pdf】【6:5†CS 568.pdf】
+
+---
+
+### RQ 5. Case Studies and Real-World Applications:
+**RQ 5.1:** Minor (1)【6:0†CS 568.pdf】【6:1†CS 568.pdf】【6:2†CS 568.pdf】【6:3†CS 568.pdf】【6:4†CS 568.pdf】【6:5†CS 568.pdf】
+
+---
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**RQ 6.1:** Undefined (1)【6:0†CS 568.pdf】【6:1†CS 568.pdf】【6:2†CS 568.pdf】【6:3†CS 568.pdf】【6:4†CS 568.pdf】【6:5†CS 568.pdf】
+
+---
+
+### RQ 7. Projects and Practical Implementation:
+**RQ 7.1:** None (1)【6:0†CS 568.pdf】【6:1†CS 568.pdf】【6:2†CS 568.pdf】【6:3†CS 568.pdf】【6:4†CS 568.pdf】【6:5†CS 568.pdf】

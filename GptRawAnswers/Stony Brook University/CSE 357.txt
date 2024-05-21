@@ -1,0 +1,69 @@
+Let's address each research question (RQ) based on the provided CSE 357 syllabus.
+
+**RQ 1: Course Content and Frequency**
+
+1.1 How frequently are topics explicitly related to "computing system" specialized for ML/AI discussed in the course? 
+
+Based on the syllabus content, the course does not explicitly cover topics directly related to computing systems specialized for ML/AI such as scalable (parallel and distributed) model training and inference, ML compilers and runtimes, specialized hardware, and other advanced computing systems topics. Therefore, the rating would be:
+
+**Never mentioned (1)**
+
+**RQ 2: Definition and Understanding**
+
+2.1 How are the impacts of "computing systems" on AI/ML explicitly defined and explained in undergraduate curricula? 
+
+Based on the syllabus content, there is no detailed definition or explanation provided for the impacts of computing systems on AI/ML specialized topics. Therefore, the rating would be:
+
+**Undefined (1)**
+
+2.2 Do courses provide a comprehensive and explicit definition of impacts of "computing systems" on AI/ML?
+
+No topics from the defined list (scalable model training, debugging, ML programming models, etc.) are discussed in this course. 
+
+**RQ 3: Requirement Specification**
+
+3.1 How are computational performance and capability requirements for hardware and software systems running scalable AI/ML, explicitly specified and discussed in undergraduate courses?
+
+There is no discussion on computational performance and capability requirements for hardware and software systems in the syllabus. Therefore, the rating would be:
+
+**No guidelines (1)**
+
+3.2 How did the discussion of “computing system” requirements rank against the discussion of general AI/ML topics?
+
+The syllabus primarily focuses on statistical methods and data science topics without discussing computing system requirements relevant to AI/ML. Therefore, the rating would be:
+
+**“computing system” requirements were never discussed (1)**
+
+**RQ 4: Influence and Importance**
+
+4.1 How is the importance of various “computing system” factors of designing and maintaining scalable AI/ML emphasized in the course?
+
+None of the specified factors related to computing systems (e.g., scalable model training, ML compilers, specialized hardware) are emphasized in the course. Therefore, the rating would be:
+
+**System (1)**
+
+**RQ 5: Case Studies and Real-World Applications**
+
+5.1 Are real-world case studies involving hardware and software systems for AI/ML, with a focus on scalable model training, inference, and serving explicitly included in the curriculum?
+
+The syllabus does not include real-world case studies involving hardware and software systems for scalable AI/ML. Therefore, the rating would be:
+
+**Minor (1)**
+
+**RQ 6: Awareness and Integration of AI-Specific Engineering Practices**
+
+6.1 Do the courses discuss contributions and best practices from AI/ML system engineering communities?
+
+The syllabus does not mention contributions and best practices from AI/ML system engineering communities related to advanced computing system topics. Therefore, the rating would be:
+
+**Undefined (1)**
+
+**RQ 7: Projects and Practical Implementation**
+
+7.1 To what extent do the assignments in the course provide hands-on experience with designing, building, and maintaining both scalable hardware and software systems for AI/ML?
+
+The assignments do not cover hands-on experience with scalable hardware and software systems specifically for AI/ML topics such as compiler optimization, optimizing runtime systems, and hardware acceleration. Therefore, the rating would be:
+
+**None (1)**
+
+Based on the syllabus content for CSE 357: Statistical Methods for Data Science, the course does not cover topics explicitly related to computing systems specialized for ML/AI. This includes scalable model training, ML compilers, specialized hardware, and other advanced computing systems topics.

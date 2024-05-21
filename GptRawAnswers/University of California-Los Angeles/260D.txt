@@ -1,0 +1,66 @@
+### RQ 1. Course Content and Frequency:
+
+1.1 **Discussion Frequency**
+
+- **Scoring**: **Frequent (4)**
+  The course includes multiple dedicated lectures on topics such as distributed training, federated learning, neural network pruning, neural architecture search, and quantization【4:0†source】【4:1†source】.
+
+### RQ 2. Definition and Understanding:
+
+2.1 **Definition and Explanation**
+
+- **Scoring**: **Adequate (3)**
+  The syllabus offers detailed definitions and discussions on advanced topics such as distributed learning methods, federated learning, model compression methods, and improved optimization techniques【4:0†source】【4:1†source】.
+
+2.2 **Comprehensive Definition**
+
+- **Discussion Topics**:
+  - Distributed training methods
+  - Federated learning
+  - Neural network pruning
+  - Neural architecture search
+  - Quantization
+  - Advanced optimization techniques
+  - Variance Reduction
+  - Data Compression and Compression Algorithms
+  - Hogwild and Submodularity
+
+### RQ 3. Requirement Specification:
+
+3.1 **Computational Performance and Capability Requirements**
+
+- **Scoring**: **Quantitatively (3)**
+  The lectures and homework assignments include detailed discussions and evaluations involving computational performance and quantified metrics for model training and inference【4:0†source】【4:1†source】.
+
+3.2 **Ranking against General AI/ML Topics**
+
+- **Scoring**: **Equally discussed with other AI/ML topics (3)**
+  The course incorporates an equal discussion of “computing system” requirements alongside other AI/ML topics. For instance, distributed learning methods and federated learning are given particular emphasis, with multiple lectures dedicated to these areas【4:0†source】【4:1†source】.
+
+### RQ 4. Influence and Importance:
+
+4.1 **Importance in Course**
+
+- **Scoring**: **Holistic (2)**
+  Many topics like distributed training, model compression, and federated learning highlight the importance of various computing system factors in scalable AI/ML, indicating a holistic approach within the course【4:0†source】【4:1†source】.
+
+### RQ 5. Case Studies and Real-World Applications:
+
+5.1 **Inclusion of Real-World Case Studies**
+
+- **Scoring**: **Major (2)**
+  The final project presentations and discussions about real-world examples of distributed and federated learning methods underscore the major focus on computational performance and system capabilities【4:0†source】【4:1†source】.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+
+6.1 **Discussion of Contributions and Best Practices**
+
+- **Scoring**: **Adequate (3)**
+  The course thoroughly covers contributions from AI/ML system engineering communities, including advanced topics like neural architecture search, neural network pruning, and distributed SGD【4:0†source】【4:1†source】.
+
+### RQ 7. Projects and Practical Implementation:
+
+7.1 **Hands-on Experience**
+
+- **Scoring**: **Adequate (3)**
+  The assignments and the final project offer extensive hands-on experience in designing and optimizing scalable hardware and software systems for AI/ML, with a particular focus on compiler optimization, runtime systems, and code optimization【4:0†source】【4:1†source】.

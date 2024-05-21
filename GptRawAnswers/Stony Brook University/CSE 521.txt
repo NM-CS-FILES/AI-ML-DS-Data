@@ -1,0 +1,44 @@
+### RQ 1. Course Content and Frequency
+
+**1.1 Score:**  
+Frequent (4)
+
+### RQ 2. Definition and Understanding
+
+**2.1 Score:**  
+Inadequate (2)
+
+**2.2 Topics Discussed:**
+- Data preprocessing
+- Classification (including Neural Networks)
+- Clustering
+- Association Analysis
+- Foundations of Data Mining  
+
+### RQ 3. Requirement Specification
+
+**3.1 Score:**  
+No guidelines (1)
+
+**3.2 Score:**  
+“computing system” requirements is a sub topic (2)
+
+### RQ 4. Influence and Importance
+
+**4.1 Score:**  
+System (1)
+
+### RQ 5. Case Studies and Real-World Applications
+
+**5.1 Score:**  
+Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+
+**6.1 Score:**  
+Undefined (1)
+
+### RQ 7. Projects and Practical Implementation
+
+**7.1 Score:**  
+Could not be evaluated (0)  

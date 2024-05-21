@@ -1,0 +1,26 @@
+Based on the provided course syllabus for "COMP 562: Introduction to Machine Learning," here are the answers to the research questions:
+
+### RQ 1. Course Content and Frequency:
+**1.1 Likert Scale Rating:** Never mentioned (1)
+
+### RQ 2. Definition and Understanding:
+**2.1 Likert Scale Rating:** Undefined (1)  
+**2.2 Topics Discussed:** No topics related to "computing systems" for AI/ML such as scalable model training, ML programming models, ML compilers, or hardware methods are explicitly discussed in the syllabus .
+
+### RQ 3. Requirement Specification:
+**3.1 Likert Scale Rating:** No guidelines (1)  
+**3.2 Likert Scale Rating:** “Computing system” requirements were never discussed (1)
+
+### RQ 4. Influence and Importance:
+**4.1 Likert Scale Rating:** System (1)
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Likert Scale Rating:** Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Likert Scale Rating:** Undefined (1)
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Likert Scale Rating:** None (1)
+
+The provided syllabus primarily focuses on general machine learning algorithms and their applications, without delving into the specifics of computing systems, hardware acceleration, or performance optimization in the context of AI/ML scalability .

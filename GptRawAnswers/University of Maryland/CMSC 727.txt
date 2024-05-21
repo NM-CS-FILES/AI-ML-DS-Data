@@ -1,0 +1,52 @@
+### RQ 1. Course Content and Frequency
+
+**1.1** Likert Scale: **Infrequent (2)**
+
+The focus of the course is primarily on neural computation, neural network architectures, and related applications. While there is mention of hardware implementations and large-scale networks, explicit and frequent discussion of computing systems specialized for ML/AI (e.g., scalable model training, ML compilers and runtimes) appears to be rare  . 
+
+### RQ 2. Definition and Understanding
+
+**2.1** Likert Scale: **Inadequate (2)**
+
+The course covers related concepts like large-scale networks and hardware implementations, but many of the detailed topics related to computing systems are not covered comprehensively .
+
+**2.2** Discussed Topics:
+- Scalable (parallel and distributed) model training and inference
+- Hardware implementations
+- Large-scale networks
+
+The course briefly touches on these topics, usually in the context of hardware implementations and large-scale networks, without extensive detail  .
+
+### RQ 3. Requirement Specification
+
+**3.1** Likert Scale: **No guidelines (1)**
+
+There are no explicit computational performance and capability requirements specified within the syllabus content. Any discussion on computational requirements appears to be largely qualitative and implicit rather than quantitative and detailed  .
+
+**3.2** Likert Scale: **“computing system” requirements is a sub topic (2)**
+
+The course provides some discussion on computing system requirements but predominantly within the larger context of neural networks, making it a sub-topic rather than a primary focus  .
+
+### RQ 4. Influence and Importance
+
+**4.1** Likert Scale: **System (1)**
+
+The course content suggests that computing system factors (like hardware, programming models) are often viewed as underlying issues rather than primary areas of focus, relegated to discussions on hardware implementations and specific methods without an overarching emphasis .
+
+### RQ 5. Case Studies and Real-World Applications
+
+**5.1** Likert Scale: **Minor (1)**
+
+The inclusion of real-world case studies focusing on computational performance and underlying system capabilities for ML/AI is minimal. The course primarily centers on theoretical and methodological aspects without deeply engaging with practical system performance issues  .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+
+**6.1** Likert Scale: **Undefined (1)**
+
+The coverage of contributions and best practices from AI/ML system engineering communities, especially in areas such as compilers, runtime systems, and hardware acceleration, is largely absent or unclear from the provided course syllabus .
+
+### RQ 7. Projects and Practical Implementation
+
+**7.1** Likert Scale: **None (1)**
+
+The assignments mentioned in the syllabus do not explicitly cover hands-on experience with scalable hardware and software systems for AI/ML nor do they focus on compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization .

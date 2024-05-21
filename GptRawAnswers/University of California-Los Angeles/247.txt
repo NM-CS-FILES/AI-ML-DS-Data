@@ -1,0 +1,32 @@
+### RQ 1. Course Content and Frequency:
+**Score: Intermittent (3)**
+
+### RQ 2. Definition and Understanding:
+**Score: Undefined (1)**
+
+### RQ 2.2 Detailed List:
+1. Specialized hardware for machine learning
+2. Programming languages for machine learning
+3. Testing, debugging, and monitoring of ML applications
+
+### RQ 3. Requirement Specification:
+**Score for 3.1: No guidelines (1)**
+**Score for 3.2: “computing system” requirements is a sub topic (2)**
+
+### RQ 4. Influence and Importance:
+**Score: System (1)**
+
+### RQ 5. Case Studies and Real-World Applications:
+**Score: Major (2)**
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**Score: Inadequate (2)**
+
+### RQ 7. Projects and Practical Implementation:
+**Score: Inadequate (2)**
+
+### References:
+1. **[6:1†Course Syllabus]**
+2. **[8:0†Course Projects and Topics]**
+
+The course syllabus primarily covers machine learning algorithms and theoretical topics. The interpretation of scalable computing systems in the context of AI/ML, particularly in the sense of hardware acceleration, compilers, and optimization, appears to be minimal or implied rather than explicitly detailed.

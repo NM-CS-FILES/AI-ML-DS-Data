@@ -1,0 +1,46 @@
+Based on the analysis of the uploaded syllabus, here are the detailed answers to the research questions:
+
+### RQ 1. Course Content and Frequency
+#### 1.1 Frequency of Topics Related to "Computing System" Specialized for ML/AI
+**Likert Scale Score:**
+- Infrequent (2)
+
+### RQ 2. Definition and Understanding
+#### 2.1 Definition and Explanation of Impacts of "Computing Systems" on AI/ML
+**Likert Scale Score:**
+- Undefined (1)
+
+#### 2.2 Comprehensive Definition of Impacts of "Computing Systems" on AI/ML
+**List of Topics Discussed:**
+- No relevant topics explicitly discussed. The syllabus focuses on general ML concepts such as supervised learning, unsupervised learning, and reinforcement learning, without in-depth coverage of computing systems specialized for ML/AI【8:0†CS 434.pdf】.
+
+### RQ 3. Requirement Specification
+#### 3.1 Specification and Discussion of Computational Performance for AI/ML Systems
+**Likert Scale Score:**
+- No guidelines (1)
+
+#### 3.2 Ranking of "Computing System" Requirements Against General AI/ML Topics
+**Likert Scale Score:**
+- “Computing system” requirements were never discussed (1)
+
+### RQ 4. Influence and Importance
+#### 4.1 Importance of Various "Computing System" Factors in Designing and Maintaining Scalable AI/ML
+**Likert Scale Score:**
+- System (1)
+
+### RQ 5. Case Studies and Real-World Applications
+#### 5.1 Inclusion of Real-World Case Studies Focusing on Hardware and Software Systems for AI/ML
+**Likert Scale Score:**
+- Minor (1)
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+#### 6.1 Discussion of Contributions and Best Practices from AI/ML System Engineering Communities
+**Likert Scale Score:**
+- Undefined (1)
+
+### RQ 7. Projects and Practical Implementation
+#### 7.1 Hands-on Experience with Designing, Building, and Maintaining Scalable AI/ML Systems
+**Likert Scale Score:**
+- Could not be evaluated (0) due to insufficient information or exposure to the assignments on the syllabus.
+
+The syllabus reviewed predominantly emphasizes traditional ML topics rather than computing systems specialized for ML/AI. The provided course topics focus more on the theoretical and algorithmic aspects of ML, with minimal to no emphasis on systems-level issues such as hardware acceleration, distributed computing, or performance optimization related to AI/ML.

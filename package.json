@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "csv": "^6.3.9",
     "openai": "^4.47.1",
     "pdf-text-reader": "^5.1.0",
     "pdf-to-text": "^0.0.7",

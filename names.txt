@@ -1,0 +1,230 @@
+Introduction to Machine Learning
+--> Columbia University
+COMS W4701
+COMS W4771
+COMS W4772
+COMS W4773
+COMS E6998
+Artificial Intelligence
+Introduction to Machine Learning
+Advanced Machine Learning
+Machine Learning Theory
+Advanced Machine Learning
+--> Cornell University
+CS 4700
+CS 4780
+CS 4783
+CS 4786
+CS 5700
+CS 5780
+CS 5783
+CS 5785
+CS 6780
+CS 6784
+CS 6787
+Foundations of Artificial Intelligence
+Intro to Machine Learning
+Mathematical Foundations of Machine Learning
+Machine Learning for Data Science
+Foundations of Artificial Intelligence
+Intro to Machine Learning
+Mathematical Foundations of Machine Learning
+Applied Machine Learning
+Advanced Machine Learning
+Advanced Topics in Machine Learning: Deep Generative Models
+Advanced Machine Learning Systems
+--> Massachusetts Institute of Technology
+--> North Carolina State University at Raleigh
+CSC 520
+CSC 720
+Artificial Intelligence
+Artificial Intelligence II
+--> Oregon State University
+CS 434
+CS 513
+Machine Learning and Data Mining
+Applied Machine Learning
+--> Purdue University
+CS 37300
+CS 47100
+CS 57800
+Data Mining and Machine Learning
+Introduction to Artificial Intelligence
+Statistical Machine Learning
+--> Stanford University
+CS 129
+CS 221
+CS 470
+CS 224W
+CS 229
+CS 328
+CS 329H
+CS 329T
+Applied Machine Learning
+Artificial Intelligence: Principles and Techniques
+Music and AI
+Machine Learning with Graphs
+Machine Learning
+Foundations of Casual Machine Learning
+Machine Learning from Human Preferences
+Trustworthy Machine Learning
+--> Stony Brook University
+CSE 352
+CSE 353
+CSE 357
+CSE 512
+CSE 521
+CSE 537
+Artificial Intelligence
+Machine Learning
+Statistical Methods For Data Science
+Machine Learning
+Data Mining
+Artificial Intelligence
+--> University of California-Berkeley
+COMPSCI 189
+COMPSCI 289
+Introduction to Machine Learning
+Introduction to Machine Learning
+--> University of California-Los Angeles
+C145
+M146
+M148
+course 161
+247
+260
+260D
+265A
+Introduction to Data Mining
+Introduction to Machine Learning
+Data Science Fundementals
+Fundementals of Artificial Intelligence
+Advanced Data Mining
+Machine Learning Algorithms
+Large Scale Machine Learning
+Machine Learning
+--> University of California-San Diego
+CSE 150A
+CSE 151A
+CSE 151B
+CSE 251A
+CSE 251B
+CSE 255
+Introduction to Artificial Intelligence: Probabilistic Reasoning and Decision-Making
+Machine Learning: Learning Algorithms
+Deep Learning
+Principles of Machine Learning: Learning Algorithms
+Principles of Machine Learning: Neural Networks for Pattern Recognition 
+Data Mining and Predictive Analytics
+--> University of Colorado Boulder
+CSCI 3202
+CSCI 4502
+CSCI 4622
+CSCI 5502
+CSCI 5622
+CSCI 5922
+CSCI 6622
+CSCI 7222
+Artificial Intelligence
+Data Mining
+Machine Learning
+Data Mining
+Machine Learning
+Neural Networks and Deep Learning
+Advanced Machine Learning
+Neural Networks and Deep Learning
+--> University of Illinois Chicago
+CS 411
+CS 412
+CS 418
+CS 512
+CS 518
+CS 583
+Artificial Intelligence I
+Introduction to Machine Learning
+Introduction to Data Science
+Advanced Machine Learning
+Deep Learning for Computer Vision
+Data Mining and Text Mining
+--> University of Illinois Urbana-Champaign
+CS 307
+CS 440
+CS 441
+CS 442
+CS 446
+CS 545
+CS 547
+CS 562
+CS 568
+Modeling and Learning in Data Science
+Artificial Intelligence
+Applied Machine Learning
+Trustworthy Machine Learning
+Machine Learning
+Machine Learning for Signal Processing
+Deep Learning
+Advanced Topics in Security, Privacy, and Machine Learning
+User-Centered Machine Learning
+--> University of Maryland
+CMSC 422
+CMSC 472
+CMSC 421
+CMSC 722
+CMSC 727
+Introduction to Machine Learning
+Introduction to Deep Learning
+Introduction to Aritifical Intelligence
+AI Planning
+Neural Computation
+--> University of Massachusshetts-Amherst
+COMPSCI 383
+COMPSCI 514
+COMPSCI 589
+COMPSCI 689
+Artificial Intelligence
+Algorithms for Data Science
+Machine Learning
+Machine Learning
+--> University of Minnesota-Twin Cities
+CS 4232
+CSCI 5512
+CSCI 5521
+CSCI 5525
+Introduction to Artificial Intelligence
+Artificial Intelligence II
+Machine Learning Fundamentals
+Machine Learning: Analysis and Methods
+--> University of North Carolina at Chapel Hill
+COMP 562
+COMP 664
+Introduction to Machine Learning
+Deep Learning
+--> University of North Carolina at Charlotte
+ITCS 4156
+ITCS 6156
+ITCS 8156
+Machine Learning
+Applied Machine Learning
+Applied Machine Learning
+--> University of Southern California
+CSCI 360 
+Introduction to Artificial Intelligence
+--> University of Washington-Seattle Campus
+CSE 180
+CSE 415
+CSE 416
+CSE 446
+CSE 473
+CSE 543
+CSE 546
+CSE 547
+CSE 573
+Introduction to Data Science
+Introduction to AI
+Introduction to Machine Learning
+Machine Learning
+Artificial Intelligence I
+Deep Learning
+Machine Learning
+Machine Learning for Big Data
+Artificial Intelligence I

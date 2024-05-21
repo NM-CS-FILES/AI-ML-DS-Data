@@ -1,0 +1,1646 @@
+[
+  {
+    "name": "Columbia University",
+    "courses": [
+      {
+        "code": "COMS W4701",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "COMS W4721",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "COMS W4771",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "2"
+        }
+      },
+      {
+        "code": "COMS W4772",
+        "answers": {
+          "rq1": "3",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "0"
+        }
+      },
+      {
+        "code": "COMS W4773",
+        "answers": {
+          "rq1": null,
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "COMS E6998",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "2"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cornell University",
+    "courses": [
+      {
+        "code": "CS 4700",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "0"
+        }
+      },
+      {
+        "code": "CS 4780",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "0"
+        }
+      },
+      {
+        "code": "CS 4783",
+        "answers": {
+          "rq1": null,
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 4786",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 5700",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 5780",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 5783",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 5785",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "2"
+        }
+      },
+      {
+        "code": "CS 6780",
+        "answers": {
+          "rq1": "3",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "2",
+          "rq6": "2",
+          "rq7": "2"
+        }
+      },
+      {
+        "code": "CS 6784",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 6787",
+        "answers": {
+          "rq1": "4",
+          "rq21": "3",
+          "rq22": null,
+          "rq31": "3",
+          "rq32": "2",
+          "rq4": "2",
+          "rq5": "2",
+          "rq6": "3",
+          "rq7": "3"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "courses": []
+  },
+  {
+    "name": "North Carolina State University at Raleigh",
+    "courses": [
+      {
+        "code": "CSC 520",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CSC 720",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Oregon State University",
+    "courses": [
+      {
+        "code": "CS 434",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "0"
+        }
+      },
+      {
+        "code": "CS 513",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Purdue University",
+    "courses": [
+      {
+        "code": "CS 37300",
+        "answers": {
+          "rq1": "3",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 47100",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 57800",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "0"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Stanford University",
+    "courses": [
+      {
+        "code": "CS 129",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 221",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 470",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 224W",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 229",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 328",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "0"
+        }
+      },
+      {
+        "code": "CS 329H",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 329T",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      }
+    ]
+  },
+  {
+    "name": "Stony Brook University",
+    "courses": [
+      {
+        "code": "CSE 352",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "2",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CSE 353",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 351",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 357",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CSE 512",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CSE 521",
+        "answers": {
+          "rq1": "4",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "0"
+        }
+      },
+      {
+        "code": "CSE 537",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of California-Berkeley",
+    "courses": [
+      {
+        "code": "COMPSCI 188",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "COMPSCI 189",
+        "answers": {
+          "rq1": null,
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "2",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "2"
+        }
+      },
+      {
+        "code": "COMPSCI 289",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "2",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "0"
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of California-Los Angeles",
+    "courses": [
+      {
+        "code": "C145",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "M146",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "M148",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "course 161",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "0"
+        }
+      },
+      {
+        "code": "247",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "260",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "260B",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "260D",
+        "answers": {
+          "rq1": "4",
+          "rq21": "3",
+          "rq22": null,
+          "rq31": "3",
+          "rq32": "3",
+          "rq4": "3",
+          "rq5": "2",
+          "rq6": "3",
+          "rq7": "3"
+        }
+      },
+      {
+        "code": "265A",
+        "answers": {
+          "rq1": null,
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "2",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of California-San Diego",
+    "courses": [
+      {
+        "code": "CSE 150A",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 151A",
+        "answers": {
+          "rq1": null,
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 151B",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CSE 251A",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 251B",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 255",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": "1",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of Colorado Boulder",
+    "courses": [
+      {
+        "code": "CSCI 3202",
+        "answers": {
+          "rq1": "3",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "2"
+        }
+      },
+      {
+        "code": "CSCI 4502",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CSCI 4622",
+        "answers": {
+          "rq1": "3",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "2",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "2"
+        }
+      },
+      {
+        "code": "CSCI 5502",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSCI 5622",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSCI 5922",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CSCI 6622",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSCI 7222",
+        "answers": {
+          "rq1": "4",
+          "rq21": "3",
+          "rq22": null,
+          "rq31": "3",
+          "rq32": "2",
+          "rq4": "2",
+          "rq5": "2",
+          "rq6": "3",
+          "rq7": "3"
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of Illinois Chicago",
+    "courses": [
+      {
+        "code": "CS 411",
+        "answers": {
+          "rq1": "3",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "3",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 412",
+        "answers": {
+          "rq1": null,
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 418",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "2"
+        }
+      },
+      {
+        "code": "CS 512",
+        "answers": {
+          "rq1": "4",
+          "rq21": "3",
+          "rq22": null,
+          "rq31": "3",
+          "rq32": "3",
+          "rq4": "3",
+          "rq5": "2",
+          "rq6": "3",
+          "rq7": "3"
+        }
+      },
+      {
+        "code": "CS 518",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 583",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of Illinois Urbana-Champaign",
+    "courses": [
+      {
+        "code": "CS 307",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 440",
+        "answers": {
+          "rq1": "4",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 441",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 442",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 446",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "0"
+        }
+      },
+      {
+        "code": "CS 545",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "2"
+        }
+      },
+      {
+        "code": "CS 547",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CS 562",
+        "answers": {
+          "rq1": "3",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CS 568",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of Maryland",
+    "courses": [
+      {
+        "code": "CMSC 422",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CMSC 472",
+        "answers": {
+          "rq1": null,
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "2",
+          "rq32": "2",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CMSC 421",
+        "answers": {
+          "rq1": "4",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CMSC 722",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CMSC 726",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CMSC 727",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of Massachusshetts-Amherst",
+    "courses": [
+      {
+        "code": "COMPSCI 383",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "COMPSCI 514",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "COMPSCI 532",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "COMPSCI 589",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "COMPSCI 689",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of Minnesota-Twin Cities",
+    "courses": [
+      {
+        "code": "CS 4232",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSCI 5512",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSCI 5521",
+        "answers": {
+          "rq1": null,
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSCI 5525",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "0"
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "courses": [
+      {
+        "code": "COMP 562",
+        "answers": {
+          "rq1": "1",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "COMP 664",
+        "answers": {
+          "rq1": "2",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of North Carolina at Charlotte",
+    "courses": [
+      {
+        "code": "ITCS 4156",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": "3",
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "ITCS 6156",
+        "answers": {
+          "rq1": "4",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "2",
+          "rq7": "2"
+        }
+      },
+      {
+        "code": "ITCS 8156",
+        "answers": {
+          "rq1": null,
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of Southern California",
+    "courses": [
+      {
+        "code": "CSCI 360 ",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of Washington-Seattle Campus",
+    "courses": [
+      {
+        "code": "CSE 180",
+        "answers": {
+          "rq1": "2",
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "1",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "0"
+        }
+      },
+      {
+        "code": "CSE 415",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 416",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 446",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 473",
+        "answers": {
+          "rq1": null,
+          "rq21": null,
+          "rq22": null,
+          "rq31": null,
+          "rq32": null,
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 543",
+        "answers": {
+          "rq1": null,
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "2",
+          "rq32": "2",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 546",
+        "answers": {
+          "rq1": null,
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": null,
+          "rq5": null,
+          "rq6": null,
+          "rq7": null
+        }
+      },
+      {
+        "code": "CSE 547",
+        "answers": {
+          "rq1": null,
+          "rq21": "1",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      },
+      {
+        "code": "CSE 573",
+        "answers": {
+          "rq1": "3",
+          "rq21": "2",
+          "rq22": null,
+          "rq31": "1",
+          "rq32": "2",
+          "rq4": "1",
+          "rq5": "1",
+          "rq6": "1",
+          "rq7": "1"
+        }
+      }
+    ]
+  }
+]

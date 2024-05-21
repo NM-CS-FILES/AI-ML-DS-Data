@@ -1,0 +1,46 @@
+### Research Questions Analysis for Course Syllabus
+
+#### RQ 1. Course Content and Frequency:
+1.1 Based on the discussion of topics explicitly related to "computing systems" specialized for ML/AI:
+- Scalable model training, inference, testing, debugging, monitoring of ML applications, ML programming models and abstractions, programming languages for ML, ML compilers and runtimes, specialized hardware for ML, hardware-efficient ML methods, machine learning benchmarks, and tooling are **not frequently covered**.
+- Score: **Infrequent (2)**.
+
+#### RQ 2. Definition and Understanding:
+2.1 Evaluation of how the impacts of "computing systems" on AI/ML are defined and explained:
+- The syllabus does not **adequately define** and explain many of these topics.
+- Score: **Undefined (1)**.
+
+2.2 List of topics discussed:
+- None of the critical components related to computing systems such as ML compilers, runtimes, specialized hardware, or scalable model training have been explicitly mentioned.
+
+#### RQ 3. Requirement Specification:
+3.1 Discussion of computational performance and capability requirements:
+- This course does not provide **quantitative specifications** or detailed numeric guidelines for computational performance and capability requirements.
+- Score: **No guidelines (1)**.
+
+3.2 Rank of "computing system" requirement discussions:
+- The "computing system" requirements appear to be **sub-topics that do not receive equal discussion** compared to general AI/ML topics.
+- Score: **Sub-topic (2)**.
+
+#### RQ 4. Influence and Importance:
+4.1 Emphasis on importance of "computing system" factors:
+- The course appears to adopt a **system view**, understanding computing system factors as low-level system issues.
+- Score: **System (1)**.
+
+#### RQ 5. Case Studies and Real-World Applications:
+5.1 Inclusion of real-world case studies:
+- There is no significant mention of **case studies focusing on hardware/software systems for scalable AI/ML**.
+- Score: **Minor (1)**.
+
+#### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+6.1 Coverage of contributions from AI/ML system engineering communities:
+- The course does not provide **adequate coverage** of contributions and best practices from AI/ML system engineering communities.
+- Score: **Undefined (1)**.
+
+#### RQ 7. Projects and Practical Implementation:
+7.1 Hands-on experience with designing scalable AI/ML systems:
+- The syllabus does not provide enough information to ascertain the **practical implementation focus** on hardware/software system design for AI/ML.
+- Score: **Could not be evaluated (0)**.
+
+### Citation
+Based on the document attached【4:0†source】.

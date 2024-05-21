@@ -2,6 +2,7 @@ const fs = require("fs");
 const https = require('https');
 const http = require('http');
 const url2pdf = require("url2pdf");
+const { exit } = require("process");
 
 const ManifestPath = "Manifests/";
 const SyllabiPath = "Syllabi/"
@@ -91,6 +92,12 @@ function manifestFromFile(manifestPath) {
 
 //
 //
+
+let m = manifestFromFile("Manifests/UniversityofCaliforniaSantaCruz.json");
+manifestFetchCourseSyllabus(m, m.undergrad[0]);
+manifestFetchCourseSyllabus(m, m.grad[1]);
+
+exit(-1);
 
 const manifests = fs.readdirSync(ManifestPath)
 

@@ -1,0 +1,40 @@
+Based on the syllabus provided for "Statistical Machine Learning" (CSE 575), here are the detailed answers to your research questions:
+
+### RQ1. Course Content and Frequency
+**Score**: Intermittent (3)
+The topics related to computing systems specialized for ML/AI, such as scalable model training and inference, as well as neural networks and deep learning which involve hardware and Software optimizations, are mentioned and discussed occasionally throughout the course. However, they are not the primary focus of the curriculum【4:0†CSE 575.pdf】【4:1†CSE 575.pdf】.
+
+### RQ2. Definition and Understanding
+**Score**: Inadequate (2)
+The course descriptions and the listed outcomes indicate that while various fundamental concepts of machine learning are covered, the detailed definition and explanation of the impacts of computing systems on AI/ML are lacking in some areas, including testing, debugging, monitoring, ML compilers, runtimes, and specialized hardware【4:1†CSE 575.pdf】【4:2†CSE 575.pdf】.
+
+### RQ2.2. Comprehensive and Explicit Definition of Impacts
+**Discussion Topics**: 
+1. Neural networks and deep learning
+2. Convolutional neural networks【4:0†CSE 575.pdf】【4:1†CSE 575.pdf】.
+
+### RQ 3. Requirement Specification
+**Score**: Qualitatively (2)
+The syllabus indicates the discussion is largely qualitative. While fundamental machine learning algorithms are covered, there isn’t an explicit emphasis on quantitative metrics for computational performance and capability requirements such as latency or throughput【4:1†CSE 575.pdf】【4:3†CSE 575.pdf】.
+
+### RQ3.2. Discussion Rank of “Computing System” Requirements
+**Score**: “computing system” requirements is a subtopic (2)
+The syllabus predominantly focuses on general AI/ML topics, relegating computing system requirements to a secondary role【4:1†CSE 575.pdf】【4:3†CSE 575.pdf】.
+
+### RQ4. Influence and Importance
+**Score**: System (1)
+The course views many factors of computing systems for scalable AI/ML as low-level system issues, with more attention given to AI/ML algorithms rather than the underlying computing systems【4:1†CSE 575.pdf】【4:3†CSE 575.pdf】.
+
+### RQ5. Case Studies and Real-World Applications
+**Score**: Minor (1)
+The focus of the course does not significantly emphasize the computational performance and capabilities of hardware and software systems in case studies or real-world applications【4:1†CSE 575.pdf】【4:2†CSE 575.pdf】.
+
+### RQ6. Awareness and Integration of AI-Specific Engineering Practices
+**Score**: Undefined (1)
+The course does not clearly define or substantially cover the contributions and best practices from AI/ML system engineering communities in aspects such as compilers, runtime systems, hardware acceleration, and code optimization【4:1†CSE 575.pdf】【4:2†CSE 575.pdf】.
+
+### RQ7. Projects and Practical Implementation
+**Score**: Inadequate (2)
+While there are projects and assignments, they minimally cover areas like compiler optimization, optimizing runtime systems, hardware acceleration, and code optimizations for AI/ML without offering extensive hands-on experience in these specific areas【4:1†CSE 575.pdf】【4:2†CSE 575.pdf】.
+
+These evaluations are based on the provided syllabus and highlight that while foundational AI/ML topics are well-covered, there is less emphasis on in-depth discussion and hands-on experience specifically related to computing systems tailored for AI/ML scalability.

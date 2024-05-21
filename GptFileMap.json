@@ -1,5 +1,62 @@
 [
   {
+    "name": "University of California-Irvine",
+    "syllabi": [
+      {
+        "code": "COMPSCI 171",
+        "path": "Syllabi/University of California-Irvine/COMPSCI 171.pdf",
+        "gptFileId": "file-Y9AHFmY6Lf36XjsOHSXvkNB8",
+        "completed": true
+      },
+      {
+        "code": "COMPSCI 184",
+        "path": "Syllabi/University of California-Irvine/COMPSCI 184.pdf",
+        "gptFileId": "file-E9cVABRkI15chfR2sQz5ODSs",
+        "completed": true
+      }
+    ]
+  },
+  {
+    "name": "Arizona State University Campus Immersion",
+    "syllabi": [
+      {
+        "code": "CSE 571",
+        "path": "Syllabi/Arizona State University Campus Immersion/CSE 571.pdf",
+        "gptFileId": "file-SOz0WIOW3SQwLwKywJoLBlCT",
+        "completed": true
+      },
+      {
+        "code": "CSE 572",
+        "path": "Syllabi/Arizona State University Campus Immersion/CSE 572.pdf",
+        "gptFileId": "file-GpQGSf7AnD1ZZTO3DGguYcfd",
+        "completed": true
+      },
+      {
+        "code": "CSE 575",
+        "path": "Syllabi/Arizona State University Campus Immersion/CSE 575.pdf",
+        "gptFileId": "file-PVmEACfLAs7MB0Y4OhbRtr1n",
+        "completed": true
+      }
+    ]
+  },
+  {
+    "name": "University of California-Santa Cruz",
+    "syllabi": [
+      {
+        "code": "CSE 140",
+        "path": "Syllabi/University of California-Santa Cruz/CSE 140.pdf",
+        "gptFileId": "file-iBbZ6xYINWJjWGka0FKS8Xbk",
+        "completed": true
+      },
+      {
+        "code": "CSE 242",
+        "path": "Syllabi/University of California-Santa Cruz/CSE 242.pdf",
+        "gptFileId": "file-foNGlTbVM2YcRcvmFCR9AnnR",
+        "completed": true
+      }
+    ]
+  },
+  {
     "name": "Columbia University",
     "syllabi": [
       {

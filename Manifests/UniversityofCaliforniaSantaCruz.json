@@ -1,11 +1,11 @@
 {
-    "name": "University of California-Los Angeles",
+    "name": "University of California-Santa Cruz",
     "undergrad": [
         {
             "code": "CSE 140",
             "name": "Artificial Intelligence",
             "type": "AI",
-            "syllabus": null
+            "syllabus": "https://cseweb.ucsd.edu/classes/sp18/cse140-a/syllabus.html"
         },
         {
             "code": "CSE 142",
@@ -37,7 +37,7 @@
             "code": "CSE 242",
             "name": "Machine Learning",
             "type": "ML",
-            "syllabus": null
+            "syllabus": "https://cse242-fall19-01.courses.soe.ucsc.edu/system/files/attachments/syllabus2019.pdf"
         },
         {
             "code": "CSE 243",

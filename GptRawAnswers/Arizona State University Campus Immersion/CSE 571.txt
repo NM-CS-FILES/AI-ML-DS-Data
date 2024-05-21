@@ -1,0 +1,61 @@
+Based on the provided course syllabus from CSE 571, here are detailed responses to the research questions concerning the "computing systems" tailored for AI/ML scalability:
+
+### RQ 1. Course Content and Frequency
+
+**Score: Infrequent (2)**
+
+The topics explicitly related to "computing systems" specialized for ML/AI are rarely mentioned in the syllabus. The focus appears to be more on general AI and machine learning concepts rather than in-depth discussions on computing systems, compilers, runtimes, hardware acceleration, and other system-level optimizations  .
+
+### RQ 2. Definition and Understanding
+
+#### 2.1 Definition and Explanation
+
+**Score: Undefined (1)**
+
+The syllabus provides mostly general AI concepts and does not focus on defining or explaining the impact of "computing systems" on AI/ML, such as ML compilers, runtimes, or specialized hardware  .
+
+#### 2.2 Explicit Definitions
+
+**The discussed topics:**
+
+- **None fully covered**: The syllabus does not provide comprehensive and explicit definitions or discussions on the impact of computing systems on AI/ML. The focus is primarily on general AI concepts, problem-solving, probabilistic modeling, and decision-making under uncertainty .
+
+### RQ 3. Requirement Specification
+
+#### 3.1 Specification and Discussion
+
+**Score: No guidelines (1)**
+
+There is no evidence in the syllabus that computational performance and capability requirements for hardware and software systems running scalable AI/ML are explicitly specified or discussed  .
+
+#### 3.2 Discussion Rank
+
+**Score: "computing system" requirements were never discussed (1)**
+
+The computing system requirements are not discussed when compared to general AI/ML topics in this syllabus  .
+
+### RQ 4. Influence and Importance
+
+**Score: System (1)**
+
+The course views the importance of various “computing system” factors as low-level system issues, relegating the responsibility to the correct choice of hardware, programming model, and AI/ML framework. There is no emphasis on understanding these factors within the course description and objectives  .
+
+### RQ 5. Case Studies and Real-World Applications
+
+**Score: Minor (1)**
+
+The course does not explicitly include real-world case studies involving hardware and software systems for AI/ML with a focus on scalable model training, inference, and serving  .
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices
+
+**Score: Inadequate (2)**
+
+The syllabus mentions general AI/ML concepts but lacks depth in covering contributions and best practices from the AI/ML system engineering communities specifically in compilers, runtime systems, hardware acceleration, and code optimization  .
+
+### RQ 7. Projects and Practical Implementation
+
+**Score: Could not be evaluated (0)**
+
+Insufficient information or exposure to the assignments on the syllabus prevents an evaluation of the hands-on experience provided concerning compiler optimization, optimizing runtime systems, hardware acceleration, or code optimization for AI/ML  .
+
+In summary, the syllabus for CSE 571 primarily focuses on general AI and machine learning approaches, with little emphasis on the computing systems required for AI/ML scalability. Key system-level topics are underrepresented, and the course does not seem to offer a deep dive into the necessary computational frameworks, hardware, and optimization techniques critical for scalable AI/ML.

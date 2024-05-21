@@ -1,0 +1,47 @@
+Based on the provided syllabus for the "CS171: Introduction to Artificial Intelligence" course, here are the detailed answers to your research questions (RQ):
+
+### RQ 1. Course Content and Frequency:
+**1.1 Likert scale rating:** 1 (Never mentioned)
+
+The topics specifically related to "computing systems" specialized for ML/AI, such as scalable model training and specialized hardware, are not explicitly covered in the syllabus for this course.
+
+### RQ 2. Definition and Understanding:
+**2.1 Likert scale rating:** 1 (Undefined)
+
+The syllabus does not provide any detailed definitions or explanations of the impacts of "computing systems" on AI/ML in the context of this undergraduate course. 
+
+**2.2 List of topics discussed:**
+None of the specific topics mentioned (scalable model training, ML compilers and runtimes, specialized hardware, etc.) are discussed.
+
+### RQ 3. Requirement Specification:
+**3.1 Likert scale rating:** 1 (No guidelines)
+
+There is no explicit specification or discussion about the computational performance and capability requirements for hardware and software systems running scalable AI/ML in the syllabus.
+
+**3.2 Likert scale rating:** 1 (computing system requirements were never discussed)
+
+"Computing system" requirements are not discussed in regard to general AI/ML topics.
+
+### RQ 4. Influence and Importance:
+**4.1 Likert scale rating:** 1 (System)
+
+The factors of designing and maintaining scalable AI/ML systems are not emphasized in the course. The syllabus approaches these factors as low-level system issues.
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Likert scale rating:** 1 (Minor)
+
+Computational performance and capability of the underlying system is not a major concern of the case studies included in the curriculum.
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Likert scale rating:** 1 (Undefined)
+
+The course does not cover contributions and best practices from AI/ML system engineering communities in detail.
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Likert scale rating:** 1 (None)
+
+The assignments do not cover areas like compiler optimization, runtime system optimization, hardware acceleration, or code optimization for AI/ML nor do they provide hands-on experience related to these topics.
+
+---
+
+These evaluations are based on the details available from the syllabus of the "CS171: Introduction to Artificial Intelligence" course【4:0†source】【4:1†source】【4:2†source】【4:3†source】【4:4†source】.

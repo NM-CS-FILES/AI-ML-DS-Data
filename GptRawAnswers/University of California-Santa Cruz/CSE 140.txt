@@ -1,0 +1,48 @@
+### RQ 1: Course Content and Frequency
+
+#### Score: 1 (Never mentioned)
+
+Based on the reviewed syllabus, the topics related to computing systems specialized for ML/AI (such as scalable model training, ML compilers, specialized hardware, etc.) are not explicitly mentioned or covered. The course content primarily focuses on foundational digital design and computer architecture topics rather than specific computing systems for ML/AI scalability   .
+
+### RQ 2: Definition and Understanding
+
+#### Score: 1 (Undefined)
+
+The impacts of computing systems on AI/ML, including key areas like scalable model training, ML compilers and runtimes, hardware-efficient methods, and benchmarks, are not explicitly defined or explained within the syllabus. The curriculum content sticks mainly to digital design and logic circuits   .
+
+#### Discussed Topics:
+None of the relevant topics (1 to 9) related to computing systems for AI/ML are discussed in this course. The syllabus focuses mainly on digital logic and system designs and does not touch upon specialized topics for ML/AI   .
+
+### RQ 3: Requirement Specification
+
+#### Score: 1 (No guidelines)
+
+The syllabus indicates that there are no guidelines or discussions around computational performance and capability requirements for hardware and software systems running scalable AI/ML. The focus is strongly on digital design principles without addressing scalable AI/ML needs   .
+
+#### Score: 1 (Computing system requirements were never discussed)
+
+The discussion of computing system requirements regarding AI/ML is absent compared to the primary content of the course, which deals with combinational circuits, sequential networks, and system designs unrelated to AI/ML scalability   .
+
+### RQ 4: Influence and Importance
+
+#### Score: 1 (System)
+
+The course views factors such as scalable model training, compilers, hardware acceleration, etc., primarily as low-level system issues. The responsibility for these factors is relegated to the correct choice of hardware, programming model, and AI/ML framework, which are not covered in the syllabus   .
+
+### RQ 5: Case Studies and Real-World Applications
+
+#### Score: 1 (Minor)
+
+Real-world case studies focusing on computational performance and capabilities for AI/ML systems, particularly for scalable model training and inference, are not a major concern of the case studies included in this course. The curriculum is centered around traditional digital systems and design exercises   .
+
+### RQ 6: Awareness and Integration of AI-Specific Engineering Practices
+
+#### Score: 1 (Undefined)
+
+The courses do not discuss contributions and best practices from AI/ML system engineering communities, especially in areas like compilers, runtime systems, hardware acceleration, and code optimization. The syllabus lacks coverage of these modern AI/ML engineering practices   .
+
+### RQ 7: Projects and Practical Implementation
+
+#### Score: 0 (Could not be evaluated)
+
+The assignments and projects outlined in the syllabus provide hands-on experience with designing digital systems and hardware but do not specifically focus on compiler optimization, runtime systems, hardware acceleration, or code optimization for AI/ML. There is insufficient information in the syllabus to evaluate hands-on experience specific to AI/ML system scalability   .

@@ -1,0 +1,51 @@
+Based on the document “CSE 572: Data Mining Syllabus,” here are the detailed answers to your research questions (RQs) related to "computing systems" tailored for AI/ML scalability:
+
+### RQ 1. Course Content and Frequency:
+**1.1 Frequency of Computing System Topics:**
+The syllabus barely touches on many of the required computing systems topics specialized for ML/AI.
+**Score:** Infrequent (2)   
+
+### RQ 2. Definition and Understanding:
+**2.1 Impacts of Computing Systems on AI/ML:**
+Topics such as scalable model training and inference, testing, debugging and monitoring, ML compilers and runtimes, specialized hardware, hardware-efficient methods, and ML benchmarking are inadequately defined and explained.
+**Score:** Inadequate (2) 
+
+**2.2 Comprehensive Definition of Impacts on AI/ML:**
+The course touches on:
+1. Scalable model training and inference
+2. Testing, debugging, and monitoring ML applications
+3. ML Programming models and abstractions
+4. Programming languages for machine learning
+5. Specialized hardware for machine learning
+6. Machine learning benchmarks, and tooling   
+
+### RQ 3. Requirement Specification:
+**3.1 Computational Performance and Capability Requirements:**
+The syllabus does not specifically discuss quantitative metrics for performance and capabilities requirements of computing systems for AI/ML.
+**Score:** No guidelines (1)  
+
+**3.2 Ranking Against General AI/ML Topics:**
+Discussions of computing system requirements are minimal compared to the focus on general AI/ML topics.
+**Score:** Computing system requirements are sub-topic (2)  
+
+### RQ 4. Influence and Importance:
+**4.1 Importance of Computing System Factors:**
+The importance of various computing system factors is not holistically emphasized in the course. They are regarded mostly as low-level system issues.
+**Score:** System (1)  
+
+### RQ 5. Case Studies and Real-World Applications:
+**5.1 Real-World Case Studies on Hardware and Software Systems for AI/ML:**
+The inclusion of real-world case studies focusing on hardware and software systems for scalable AI/ML is minor.
+**Score:** Minor (1) 
+
+### RQ 6. Awareness and Integration of AI-Specific Engineering Practices:
+**6.1 Discussion on Contributions and Best Practices from AI/ML System Engineering Communities:**
+The course inadequately covers contributions and best practices from AI/ML system engineering communities.
+**Score:** Inadequate (2)  
+
+### RQ 7. Projects and Practical Implementation:
+**7.1 Hands-On Experience with Designing and Maintaining Hardware and Software Systems for AI/ML:**
+The assignments involve some implementation but do not cover hands-on experiences with designing and maintaining scalable systems for AI/ML in-depth.
+**Score:** Inadequate (2) 
+
+These scores derive from the course's focus and content as outlined in the syllabus  .
